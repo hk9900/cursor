@@ -33,6 +33,8 @@ See also: Cursor skill `.cursor/skills/food-log/SKILL.md` for meal photo → est
 Format:
 ```
 Food Log | {dish name} | {kcal} | {protein} | {carbs} | {fat}
+{low}–{high}% sure
 ```
-Log path: tappable `shortcuts://run-shortcut?name=Food%20Log&input=text&text=...`
-SMS backup number: +351926194305
+Then tappable `shortcuts://run-shortcut?name=Food%20Log&input=text&text=...`
+SMS backup: +351926194305
+Learned dishes: Paltay salan = besan (chickpea flour)
