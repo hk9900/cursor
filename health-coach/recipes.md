@@ -3,10 +3,11 @@
 Source: family notes (Roman Urdu), trained 24 Sep 2026.  
 Household defaults: pot often feeds **2 adults + toddler** with **50–100% leftovers**.
 
-**Oil (locked):** usually **~2 dish spoons per recipe**.  
+**Oil (locked until user says it changed):** usually **~2 dish spoons per recipe**.  
 1 dish spoon ≈ **2.5–3.5 tbsp** → 2 dish spoons ≈ **5–7 tbsp** oil/pot  
 ≈ **600–840 kcal oil per pot** (~120 kcal/tbsp), shared across servings + leftovers.  
-His typical share of pot oil often ~**200–350 kcal** depending on how much gravy/salan he takes (not counting starch).
+His typical share of pot oil often ~**200–350 kcal** depending on how much gravy/salan he takes (not counting starch).  
+Use midpoint **~3 tbsp per dish spoon** (6 tbsp/pot ≈ **720 kcal oil**) unless photo looks unusually dry/oily.
 
 **Units:** 1 pao ≈ 250 g. Pao chamach ≈ ¼ tsp/tbsp in context.
 
