@@ -20,6 +20,7 @@ User sends a **meal photo**, describes a plate, or asks to **log / estimate** fo
 2. Read recipe / profile notes under `health-coach/` in the repo — especially `health-coach/recipes.md`.
 3. Use prior meal history in the thread (e.g. **Paltay salan = chickpea flour / besan**, not fish).
 4. Prefer **his kitchen defaults** and **named recipes in recipes.md** over generic restaurant DB entries.
+   - Oil default: **~2 dish spoons/recipe**; 1 dish spoon ≈ **2.5–3.5 tbsp** → ~**5–7 tbsp oil/pot**.
 5. Optionally web-search unfamiliar dishes — still adjust to **his portion and oil**.
 
 ## Workflow

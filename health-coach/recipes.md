@@ -1,7 +1,12 @@
 # Household recipe book (cheat sheet)
 
 Source: family notes (Roman Urdu), trained 24 Sep 2026.  
-Household defaults: pot often feeds **2 adults + toddler** with **50–100% leftovers**; oil often **~2 dish spoons/pot** when not stated. Ask plate vs pot on photos.
+Household defaults: pot often feeds **2 adults + toddler** with **50–100% leftovers**.
+
+**Oil (locked):** usually **~2 dish spoons per recipe**.  
+1 dish spoon ≈ **2.5–3.5 tbsp** → 2 dish spoons ≈ **5–7 tbsp** oil/pot  
+≈ **600–840 kcal oil per pot** (~120 kcal/tbsp), shared across servings + leftovers.  
+His typical share of pot oil often ~**200–350 kcal** depending on how much gravy/salan he takes (not counting starch).
 
 **Units:** 1 pao ≈ 250 g. Pao chamach ≈ ¼ tsp/tbsp in context.
 
@@ -85,7 +90,7 @@ Household defaults: pot often feeds **2 adults + toddler** with **50–100% left
 ---
 
 ## Logging priorities (from these recipes)
-1. **Oil / baghaar / shallow-fry** — biggest silent cal (esp. no-water dishes + brown onion).
+1. **Oil / baghaar / shallow-fry** — #1 lever. Default **2 dish spoons/pot** (= ~5–7 tbsp). Dry dishes (qatliyan, bhindi, khara qeema) hold more of that oil on the plate.
 2. **Starch** — chawal dishes, roti on side, haleem density.
 3. **Batch fraction** — haleem, dahi baray, chicken sticks, karhi pot.
 

@@ -25,7 +25,8 @@ See also: Cursor skill `.cursor/skills/food-log/SKILL.md` for meal photo → est
 - ~90% Pakistani household food · 3 meals · rare snacks
 - Roti 2–2.5 (sometimes 3); no rice same meal; big ~2-ball rotis common
 - Rice meals can be large — aim 1 medium plate when logging/cutting
-- Salan ~2 dish spoons oil/pot shared (2 adults + toddler + leftovers)
+- Salan ~**2 dish spoons oil/pot**; 1 dish spoon ≈ **2.5–3.5 tbsp** → ~**5–7 tbsp/pot** (~600–840 kcal oil shared)
+- Pot: him + wife + 2yo toddler; leftovers cover 50–100% next meal
 - Chai 1×/day 2–2.5 tbsp sugar — keep
 - Creep order: starch volume > oil > chai sugar
 
