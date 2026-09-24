@@ -37,4 +37,5 @@ Food Log | {dish name} | {kcal} | {protein} | {carbs} | {fat}
 ```
 Then tappable `shortcuts://run-shortcut?name=Food%20Log&input=text&text=...`
 SMS backup: +351926194305
-Learned dishes: Paltay salan = besan (chickpea flour)
+Recipe book: `health-coach/recipes.md`
+Learned: Paltay salan = besan (chickpea flour)
