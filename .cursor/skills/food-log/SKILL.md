@@ -41,7 +41,10 @@ If the user already answered in-thread, **do not re-ask**.
 ### 3. Estimate
 - Produce **kcal, protein g, carbs g, fat g** for **what he ate**.
 - Weight toward recipe book + household oil/starch rules when available.
-- State an **accuracy band** (e.g. ±15–25% with recipe+answers; ±30–40% photo-only).
+- State confidence as a **percentage out of 100**, e.g. `85–90% sure` (not ±kcal bands).
+  - Recipe book + clear answers: often **85–95% sure**
+  - Photo + answers, no recipe: often **75–85% sure**
+  - Photo only / ambiguous: often **60–75% sure**
 
 ### 4. Agree, then deliver (required output shape)
 
@@ -52,7 +55,7 @@ Keep the final reply **short**. After numbers are settled:
 Food Log | {Dish name} | {kcal} | {protein} | {carbs} | {fat}
 ```
 
-**Accuracy** on the next line, e.g. `Accuracy: ~±20%`
+**Confidence** on the next line, e.g. `75–80% sure`
 
 **Tappable link** (markdown) — Shortcut name must be exactly `Food Log`:
 ```
@@ -64,7 +67,7 @@ URL-encode the one-liner for `text=` (` ` → `%20`, `|` → `%7C`).
 Example final block:
 ```
 Food Log | Chicken biryani | 820 | 35 | 80 | 35
-Accuracy: ~±20%
+75–80% sure
 
 [Log to Health](shortcuts://run-shortcut?name=Food%20Log&input=text&text=Food%20Log%20%7C%20Chicken%20biryani%20%7C%20820%20%7C%2035%20%7C%2080%20%7C%2035)
 ```
