@@ -28,7 +28,7 @@ See also: Cursor skill `.cursor/skills/food-log/SKILL.md` for meal photo → est
 - Salan ~**2 dish spoons oil/pot**; 1 dish spoon ≈ **2.5–3.5 tbsp** → ~**5–7 tbsp/pot** (~600–840 kcal oil shared)
 - Pot: him + wife + 2yo toddler; leftovers cover 50–100% next meal
 - Chai 1×/day 2–2.5 tbsp sugar — keep
-- Creep order: starch volume > oil > chai sugar
+- Creep order: **oil (2 dish spoons ≈ 5–7 tbsp/pot)** > starch volume > chai sugar
 
 ## Food Log (locked)
 Format:
