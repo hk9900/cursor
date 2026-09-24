@@ -42,11 +42,14 @@ Do **not** re-ask what was already answered.
 ### 3. Estimate
 - Output **kcal, protein g, carbs g, fat g** for **what he ate**.
 - Weight toward recipe book + household rules when available.
-- Confidence must be **out of 100**, as a short range + “sure”:
-  - Recipe book + clear answers → often **85–95% sure**
-  - Photo + answers, no recipe → often **75–85% sure**
-  - Photo only / ambiguous → often **60–75% sure**
+- Confidence must be **calibrated and honest**, not inflated to please the user.
+  State as a short range + “sure” (out of 100). Prefer a *true* 75–80 over a flattering 90.
+  Rough guide (not a ceiling to push toward):
+  - Recipe book + clear answers + simple plate → often **85–92% sure**
+  - Photo + answers, oil known, some portion ambiguity → often **78–88% sure**
+  - Photo only / ambiguous / heavy oil-soak uncertainty → often **65–80% sure**
 - Never use ±kcal bands in the final line.
+- Do **not** raise % just because the user asks “why not 90?” — explain the uncertainty instead; only change % if your evidence actually improved.
 
 ### 4. Deliver (required final shape)
 
