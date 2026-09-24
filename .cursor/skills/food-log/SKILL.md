@@ -2,10 +2,10 @@
 name: food-log
 description: >
   Estimate calories/macros from Hassan’s meal photos using his recipe book,
-  household history, and food knowledge; then output a one-liner plus a
-  tappable shortcuts:// Food Log link for Apple Health. Use whenever the
-  user shares a food photo, asks to log a meal, estimate calories/macros,
-  or run the Food Log / Health Coach meal workflow.
+  household history, and food knowledge; then output a one-liner, a confidence
+  band like 85–90% sure, and a tappable shortcuts:// Food Log link for Apple
+  Health. Use whenever the user shares a food photo, asks to log a meal,
+  estimate calories/macros, or run the Food Log / Health Coach meal workflow.
 ---
 
 # Food Log (Health Coach)
