@@ -99,6 +99,8 @@ Use midpoint **~3 tbsp per dish spoon** (6 tbsp/pot ≈ **720 kcal oil**) unless
 - Serving / slice **31.5 g**: **80 kcal · P 2.9 · C 14.2 · F 1.0** (fiber 1.2, salt 0.30)
 - Per 100 g: 254 kcal · P 9.1 · C 45 · F 3.3
 - **Log notes:** Use **80 kcal/slice** when user says slice count. Prefer this over generic bread estimates.
+
+## Packaged: Fulya Merguez (hot dog / sausage)
 - Pack **400 g / 8 pieces** → **~50 g/piece**
 - Label per 100 g: **236 kcal · P 11 · C 6.3 · F 19**
 - Per piece (raw/as labeled): **~118 kcal · P 5.5 · C 3 · F 9.5**
