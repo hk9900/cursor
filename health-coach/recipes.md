@@ -105,3 +105,9 @@ Use midpoint **~3 tbsp per dish spoon** (6 tbsp/pot ≈ **720 kcal oil**) unless
 - Label per 100 g: **236 kcal · P 11 · C 6.3 · F 19**
 - Per piece (raw/as labeled): **~118 kcal · P 5.5 · C 3 · F 9.5**
 - **Log notes:** Multiply by piece count. If shallow/deep fried, add extra oil (~40–80 kcal/piece depending on fry). Ask cook method.
+
+## Packaged: Tostas (crisp toast / rusk, 750 g pack)
+- Serving **15 g = 2 tostas**: **60 kcal · P 1.8 · C 10.0 · F 1.2** (fiber 1.0, salt 0.14)
+- Per tosta / piece: **30 kcal · P 0.9 · C 5.0 · F 0.6**
+- Per 100 g: **405 kcal · P 12 · C 67 · F 8.0**
+- Pack ≈ 50 servings (100 tostas). **Log notes:** Use **30 kcal/piece** × count.
