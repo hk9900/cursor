@@ -100,6 +100,12 @@ Use midpoint **~3 tbsp per dish spoon** (6 tbsp/pot ≈ **720 kcal oil**) unless
 - Per 100 g: 254 kcal · P 9.1 · C 45 · F 3.3
 - **Log notes:** Use **80 kcal/slice** when user says slice count. Prefer this over generic bread estimates.
 
+## Packaged: Bimbo pan semillas + pea protein
+- Per slice **~33.9 g**: **81 kcal · P 6.8 · C 8.5 · F 1.8** (fiber 2.1, sugars 1.2, salt 0.28)
+- Per 100 g: **240 kcal · P 20 · C 25 · F 5.3** (fiber 6.3)
+- ~14 slices/pack. Wheat + seeds (4.2%) + pea protein (3.8%).
+- **Log notes:** Use **81 kcal/slice**. Higher protein / lower carbs than Continente white — better for IR/prediabetes toast meals.
+
 ## Packaged: Fulya Merguez (hot dog / sausage)
 - Pack **400 g / 8 pieces** → **~50 g/piece**
 - Label per 100 g: **236 kcal · P 11 · C 6.3 · F 19**
