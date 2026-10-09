@@ -29,6 +29,9 @@ See also: Cursor skill `.cursor/skills/food-log/SKILL.md` for meal photo → est
 
 Skip D3/magnesium unless labs/sleep say otherwise.
 
+## Weekly check (graph)
+See `health-coach/weekly-metrics.md`. Every week log: **weight avg, waist, chest, thigh, bicep, steps, walk kcal** + hunger/energy notes. Send numbers in chat for graphing.
+
 ## Diet defaults
 - ~90% Pakistani household food · 3 meals · rare snacks
 - Roti 2–2.5 (sometimes 3); no rice same meal; big ~2-ball rotis common
