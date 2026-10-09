@@ -19,7 +19,15 @@ See also: Cursor skill `.cursor/skills/food-log/SKILL.md` for meal photo → est
 - Total 219 · LDL 149 · HDL 30 · TG 198 · Glucose 94
 
 ## Energy
-- BMR ~2,160 · TDEE ~2,590 · cut ~2,000–2,100
+- BMR ~2,160 · TDEE ~2,590 · cut target **1,550–1,800** (aggressive → sustainable)
+- Protein target **150–170 g/day** · Walk ~350–400 active kcal
+
+## Supplements (top 3 — started Oct 2026)
+1. **Whey protein** (Halal-certified if possible) — 1 scoop (~25–30 g protein) when food protein is short; log the kcal (~110–130)
+2. **Creatine monohydrate** — **5 g daily** every day (with whey or water; no loading)
+3. **Omega-3** — **Halal algae** (e.g. Vegágeno): **2 caps/day** with a meal (up to 4 if label allows, for stronger TG dose). Prefer algae over fish oil for Halal gelatin.
+
+Skip D3/magnesium unless labs/sleep say otherwise.
 
 ## Diet defaults
 - ~90% Pakistani household food · 3 meals · rare snacks
