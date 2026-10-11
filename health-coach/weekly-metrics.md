@@ -1,31 +1,26 @@
 # Weekly body metrics (Hassan)
 
-Weigh-in ritual: **same morning**, after toilet, before food, light clothes.  
-Tape: relaxed (don’t flex). Photos: front + side, same mirror/light.
+Weigh-in: **Sunday morning**, after toilet, before food.  
+Tape: inches, relaxed. Burn = Google Fit **total** calories.  
+**Deficit = burned − intake** (positive = cutting).
 
-**Targets:** weight ↓ · waist ↓ · WHtR → &lt;0.5 · chest ↓ · thigh/bicep steady or slow ↓
-
-Height: **180 cm (5′11″)** · Start weight ~**116 kg** · Start waist ~**44–46 in**
+Height: **180 cm** · Week 0 weight **115.9 kg** (27 Sep 2026)
 
 ---
 
-## Log (one row per week)
+## Log
 
-| Week of | Weight avg (kg) | Waist (in/cm) | Chest (in/cm) | R thigh | R bicep | Steps/day avg | Walk active kcal avg | Notes (hunger 1–5, energy 1–5, max roti) |
-|---------|-----------------|---------------|---------------|---------|---------|---------------|----------------------|------------------------------------------|
-| 2026-10-06 | 116 | | | | | | | baseline week — start tape next Sunday |
-| | | | | | | | | |
+| Week | Date | Weight | Waist | Chest | Bicep R | Thigh R | Steps (TILSD) | Intake (note) | Burn (note) | Deficit (note) | Motiv 1–10 |
+|------|------|--------|-------|-------|---------|---------|---------------|---------------|-------------|----------------|------------|
+| 0 | 27/Sep/2026 | 115.9 | — | — | — | — | — | — | — | — | — |
+| 1 | 11/Oct/2026 | 113.5 | 48 | 49.5 | 15 | 23 | 21593 | 9558 / 5d → **avg 1912** | 15690 / 5d → **avg 3138** | 6132 / 5d → **avg 1226** | 8 |
 
-### How to fill
-1. **Weight avg** = average of daily weigh-ins that week (or 3+ mornings)
-2. **WHtR** = waist_cm ÷ 180 (or waist_in ÷ 70.9)
-3. Send numbers here each week → we plot the graph
-4. Optional: attach that week’s front/side photo
+### Week 1 derived (for graphs)
+- Weight change vs W0: **−2.4 kg** (part water/glycogen likely)
+- Steps/day if 7-day total: **~3,085**/day
+- WHtR: 48 ÷ 70.9 ≈ **0.68** (aim &lt; 0.5 long-term)
+- Intake avg above cut target band (1550–1800)
 
-### Graph series we’ll track
-- Weight (kg)
-- Waist
-- Chest
-- Thigh
-- Bicep
-- Steps / active walk kcal
+### How to fill next weeks
+- Put **daily averages** in Intake / Burn / Deficit columns (or keep totals but label “5d total” like W1)
+- Prefer same # of days each week (7d ideal)
