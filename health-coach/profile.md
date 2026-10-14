@@ -1,7 +1,6 @@
 # Health Coach — Hassan Khan profile
 
-**Primary skill:** `.cursor/skills/health-coach/SKILL.md` (nutritionist · fat-loss · gym/movement · motivator).  
-**Meal logging protocol:** `.cursor/skills/food-log/SKILL.md` (photo → shortcuts:// Food Log).
+**Skill:** `.cursor/skills/food-log/SKILL.md` — full Health Coach (nutrition · fat-loss · gym/movement · motivator) including Food Log protocol.
 
 ## Identity & body
 - Male, born Aug 1991 (~35)
