@@ -85,15 +85,28 @@ Homemade pots stay in `recipes.md`. Packaged labels live **here**.
 - Quick log: `1 scoop Biotech` → 115 / 24 / 2 / 0.9  
 - Prefer **Applied Nutrition Critical Whey** numbers while those jars are in use.
 
+## Continente — Iogurte batido natural 2% M.G. (1 kg tub)
+- Saved: 2026-10-14 · source: label photo
+- Product: stirred natural yogurt, **2% fat** · lower fat than Continente Greek-style natural
+- Log unit: **per 100 g** (or 125 g portion on pack)
+- Per **100 g**: **55 kcal · P 5.3 · C 3.9 · F 2.0** (sugars 3.9, salt 0.14)
+- Per **125 g** pack portion: **69 kcal · P 6.6 · C 4.9 · F 2.5**
+- Quick log examples:
+  - `100 g Continente yogurt 2%` → **55 / 5 / 4 / 2**
+  - `200 g Continente yogurt 2%` → **110 / 11 / 8 / 4**
+  - `250 g Continente yogurt 2%` → **138 / 13 / 10 / 5**
+- Solid cut yogurt: leaner than full-fat Greek; protein moderate — pair with whey/eggs if the meal needs more P
+
 ---
 
 ## Pending (photo the label next time)
 Add when a clear label photo arrives:
 - Mimosa protein coffee (often logged ~135 kcal / ~20 g P per 250 ml — **confirm on pack**)
-- Greek yogurt brand you buy most
+- Continente / other **Greek-style** yogurt if he switches tubs
 - FUEL / house granola
 - Buondi (or café sachet) + sugar separate
 - Peanut butter brand
+- Canderel erythritol pouch (optional — ~1 kcal / 2 g; usually skip logging)
 - Any new bread, crackers, protein bars, omega-3 gels (kcal usually 0–10; optional)
 
 ---
