@@ -50,4 +50,6 @@ Then tappable `shortcuts://run-shortcut?name=Food%20Log&input=text&text=...`
 SMS backup: +351926194305  
 Recipe book: `health-coach/recipes.md`  
 Nutrition labels: `health-coach/labels.md`  
-Learned: Paltay salan = besan (chickpea flour)
+Learned:
+- Paltay salan = besan (chickpea flour)
+- **Chicken = without skin by default** (breast, botis, salan, biryani). Only add skin fat/kcal if he **explicitly** says skin / with skin.
