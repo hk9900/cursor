@@ -17,9 +17,9 @@ User sends a **meal photo**, describes a plate, or asks to **log / estimate** fo
 ## Context to load first
 
 1. Read `/cursor/stores/self/artifacts/health-coach-profile.md` if present.
-2. Read recipe / profile notes under `health-coach/` in the repo — especially `health-coach/recipes.md`.
+2. Read recipe / profile notes under `health-coach/` in the repo — especially `health-coach/recipes.md` (homemade) and **`health-coach/labels.md`** (packaged nutrition labels).
 3. Use prior meal history in the thread (e.g. **Paltay salan = chickpea flour / besan**, not fish).
-4. Prefer **his kitchen defaults** and **named recipes in recipes.md** over generic restaurant DB entries.
+4. Prefer **his kitchen defaults**, **named recipes in recipes.md**, and **saved pack macros in labels.md** over generic restaurant DB entries.
    - Oil default (**locked until user says changed**): **~2 dish spoons/recipe**; 1 dish spoon ≈ **2.5–3.5 tbsp** → ~**5–7 tbsp oil/pot**. Use ~6 tbsp/pot midpoint for estimates.
 5. Optionally web-search unfamiliar dishes — still adjust to **his portion and oil**.
 
@@ -98,6 +98,10 @@ Food Log | Paltay salan (besan) + 2 roti | 800 | 25 | 100 | 30
 
 If shortcuts:// fails: send the plain one-liner to **+351926194305**. Prefer shortcuts://.
 
-## Recipe training
+## Recipe + label training
 
 When user shares a recipe book, update `health-coach/recipes.md` + store profile so confidence can rise into the **85–95% sure** band.
+
+When user shares a **nutrition label photo** (or pack facts) for a store product:
+1. Add/update a section in **`health-coach/labels.md`** (per log unit: slice / piece / scoop / 100 g).
+2. Later logs like `3 tostas` or `1 scoop whey` must use those saved numbers — do not re-estimate from memory if the file has the item.
