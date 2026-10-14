@@ -5,10 +5,17 @@ See also: Cursor skill `.cursor/skills/food-log/SKILL.md` for meal photo → est
 ## Identity & body
 - Male, born Aug 1991 (~35)
 - 120 kg, 5′11″ (~180 cm), BMI ~36.9
-- Waist 44–46 in · WHtR ~0.63 (aim <0.5)
-- Stable 116–120 kg ~3 years
+- Waist 44–46 in · WHtR ~0.63 (aim <0.5) · Week 1 tape (11 Oct 2026): waist **48"** · weight **113.5**
+- Stable 116–120 kg ~3 years before current cut
 - Past low 88–92 kg after ~6 mo crash; regained in ~1 year
 - Phased targets: 105–108 → hold 92–95 → later 70–80 aspirational
+
+### Google Takeout history (Xiaomi scale, Sep 2019–Jan 2020)
+- **107.3 → 93.2 kg** in ~4 months (~**1.0–1.2 kg/week** early; faster end-Jan)
+- Path: 107.3 (28 Sep) → 106 → 103.8 → 102.2 → 98.6 (22 Dec) → bounce 100.8 → 98.3 → **93.2** (23 Jan)
+- Google-derived BMR then: **~1908 → ~1767** as weight fell (from height+weight, not Fitbit HR)
+- Expended file in that export was mostly **BMR-only** (`from_bmr`), not full activity TDEE
+- **Note:** This Takeout is **not** current Fitbit Air (2026) data — need a fresh export for live burn/steps
 
 ## Activity & lifestyle
 - ~1,500 steps/day · Google Health (iPhone) · Bevel available
