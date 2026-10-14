@@ -14,14 +14,20 @@ See also: Cursor skill `.cursor/skills/food-log/SKILL.md` for meal photo → est
 - **107.3 → 93.2 kg** in ~4 months (~0.8–0.9 kg/week avg)
 - Path: 107.3 → 106 → 103.8 → 102.2 → 98.6 → bounce 100.8 → **93.2**
 
-### Fitbit Air Takeout (member since 23 Sep 2026)
-- Profile: male, DOB 1991-08-08, height **180.3 cm**, timezone Europe/Lisbon
+### Fitbit Air / Google Takeout (member since 23 Sep 2026)
+- Profile: male, DOB 1991-08-08, height **180.3 cm**, timezone Europe/Lisbon, blood type **A+**
 - Weight log: **120.0** (23 Sep) → **115.9** (27 Sep) → **113.5** (11 Oct)
 - **Total burn** (minute calories sum): ~**2,800**/day since device start; **~3,030**/day Oct 5–11
 - **Active burn**: ~**380**/day since start; **~495**/day Oct 5–11 (good walk days)
 - **Steps**: ~**5,200**/day since start; **~7,100**/day Oct 5–11 (peak days 10–11k)
 - Sleep scores sampled: **73–86**; RHR trending ~**86 → ~77–79**
 - Fitbit “total − active” ≠ true BMR (NEAT folded into baseline). Use **Mifflin ~2,090 at 113.5 kg** for BMR; use Fitbit **total burn** for TDEE trend.
+
+### Apple Health export (14 Oct 2026) — monthly updates planned
+- **Use Apple for:** Food Log intake/macros (Shortcut → Health), steps cross-check, weight if synced
+- **Use Fitbit/Google for:** total + active calories burned (Watch basal/active in AH is stale; last Watch active ~Nov 2025)
+- Logged food days Oct 6–13 avg intake **~1,945 kcal · P ~140 g** (Oct 11 spike ~2,895 pulled average up; without it ~**1,810 / P 129**)
+- Monthly: user sends **Apple export.zip** + **Fitbit/Google With Data** → update weekly graph + targets
 
 ## Activity & lifestyle
 - Fitbit Air + Google Health (iPhone) · Bevel available
