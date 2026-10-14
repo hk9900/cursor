@@ -1,14 +1,16 @@
 ---
 name: food-log
 description: >
-  Estimate calories/macros from Hassan’s meal photos using his recipe book,
-  household history, and food knowledge; then output a one-liner, confidence
-  like 85–90% sure, and a tappable shortcuts:// Food Log link for Apple Health.
-  Use whenever the user shares a food photo, asks to log a meal, estimate
-  calories/macros, or run the Food Log / Health Coach meal workflow.
+  Meal-photo → kcal/macros → shortcuts:// Food Log for Hassan’s Apple Health.
+  Use when he shares food photos, asks to log/estimate a meal, or needs the
+  Food Log one-liner. Broader nutrition, fat-loss, gym, and motivation coaching
+  is the health-coach skill — this file is only the logging protocol.
 ---
 
-# Food Log (Health Coach)
+# Food Log protocol (under Health Coach)
+
+This is the **meal logging** sub-workflow for Hassan.  
+For full coaching (targets, gym, motivation, weekly review, supplements), follow **`.cursor/skills/health-coach/SKILL.md`**.
 
 ## When this skill applies
 
@@ -16,11 +18,11 @@ User sends a **meal photo**, describes a plate, or asks to **log / estimate** fo
 
 ## Context to load first
 
-1. Read `/cursor/stores/self/artifacts/health-coach-profile.md` if present.
-2. Read recipe / profile notes under `health-coach/` in the repo — especially `health-coach/recipes.md` (homemade) and **`health-coach/labels.md`** (packaged nutrition labels).
+1. Read `/cursor/stores/self/knowledge/health-coach-profile.md` if present.
+2. Read `health-coach/profile.md`, `health-coach/recipes.md` (homemade), and **`health-coach/labels.md`** (packaged labels).
 3. Use prior meal history in the thread (e.g. **Paltay salan = chickpea flour / besan**, not fish).
-4. Prefer **his kitchen defaults**, **named recipes in recipes.md**, and **saved pack macros in labels.md** over generic restaurant DB entries.
-   - Oil default (**locked until user says changed**): **~2 dish spoons/recipe**; 1 dish spoon ≈ **2.5–3.5 tbsp** → ~**5–7 tbsp oil/pot**. Use ~6 tbsp/pot midpoint for estimates.
+4. Prefer **kitchen defaults**, **recipes.md**, and **labels.md** over generic DB entries.
+   - Oil default: **~1–1.5 tbsp oil per whole pot** (~120–180 kcal shared) unless he says oil went back up. Midpoint ~1.25 tbsp/pot.
 5. Optionally web-search unfamiliar dishes — still adjust to **his portion and oil**.
 
 ## Workflow
@@ -41,15 +43,15 @@ Do **not** re-ask what was already answered.
 
 ### 3. Estimate
 - Output **kcal, protein g, carbs g, fat g** for **what he ate**.
-- Weight toward recipe book + household rules when available.
+- Weight toward recipe book + labels shelf + household rules.
 - Confidence must be **calibrated and honest**, not inflated to please the user.
   State as a short range + “sure” (out of 100). Prefer a *true* 75–80 over a flattering 90.
-  Rough guide (not a ceiling to push toward):
-  - Recipe book + clear answers + simple plate → often **85–92% sure**
-  - Photo + answers, oil known, some portion ambiguity → often **78–88% sure**
-  - Photo only / ambiguous / heavy oil-soak uncertainty → often **65–80% sure**
+  Rough guide:
+  - Labels/recipes + clear answers + simple plate → often **85–92% sure**
+  - Photo + answers, some portion ambiguity → often **78–88% sure**
+  - Photo only / ambiguous / oil-soak uncertainty → often **65–80% sure**
 - Never use ±kcal bands in the final line.
-- Do **not** raise % just because the user asks “why not 90?” — explain the uncertainty instead; only change % if your evidence actually improved.
+- Do **not** raise % just because the user asks “why not 90?” — explain uncertainty; only change % if evidence improved.
 
 ### 4. Deliver (required final shape)
 
@@ -61,6 +63,8 @@ Food Log | {Dish name} | {kcal} | {protein} | {carbs} | {fat}
 
 [Log to Health](shortcuts://run-shortcut?name=Food%20Log&input=text&text={URL_ENCODED_ONE_LINER})
 ```
+
+Optional **one short coach line** after the link if useful (protein short, starch high) — no essays in the log reply.
 
 Rules:
 - One-liner pipes/spaces exact: `Food Log | name | kcal | P | C | F`
@@ -82,6 +86,7 @@ Food Log | Paltay salan (besan) + 2 roti | 800 | 25 | 100 | 30
 - Prefer `sms:` compose links (user rejected that UX).
 - Override numbers if user pastes a Health/Bevel log — **accept as-is** unless they ask.
 - Pad the final message with long tables.
+- Ignore the broader health-coach role when the same message also asks for advice — log first (tight), then brief coaching.
 
 ## Shortcut contract (user phone)
 
