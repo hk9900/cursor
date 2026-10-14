@@ -54,28 +54,37 @@ Homemade pots stay in `recipes.md`. Packaged labels live **here**.
 - Quick log: `N Merguez` → N × 118 / 5.5 / 3 / 9.5  
 - If fried: add ~40–80 kcal oil/piece (ask cook method).
 
-## Applied Nutrition — Critical Whey (**current jar**)
-- Saved: 2026-10-14 · source: common pack label (confirm with jar photo)
-- Log unit: **1 serving = 2 scoops (~30 g)** — check your tub; some tubs say **33 g / 2 scoops**
-- Default (30 g serving, common label): **111 kcal · P 21 · C 2.2 · F 1.5**
-- If jar shows reformulated **33 g** serving: use **~122 kcal · P ~24 · C ~4 · F ~1.1** instead
-- Mix with **water** (not milk) on cut days to keep lean
-- Quick log: `1 whey` / `Critical Whey` → **111 / 21 / 2 / 1.5** until jar photo updates this
-- Always Food Log when drunk — counts toward daily kcal + protein
-- Use when food protein is short of **150–170 g** (common gap on your Oct days ~130–140)
+## Applied Nutrition — Critical Whey (**both jars locked**)
+- Saved: 2026-10-14 · source: jar label photos
+- Mix with **water** on cut days · always Food Log when drunk
+- Say flavour when logging (`whey chocolate` / `whey vanilla`) — macros differ
+
+### Chocolate (cocoa on label)
+- Serving: **2 level scoops = 33 g** · ~61 servings/tub
+- Per serving: **122 kcal · P 23.6 · C 4.1 · F 1.2**
+- Quick log: `1 whey chocolate` → 122 / 24 / 4 / 1
+
+### Vanilla Ice Cream
+- Serving: **2 scoops = 30 g** · ~67 servings/tub · Informed-Sport
+- Per serving: **110 kcal · P 21.0 · C 2.0 · F 1.5** (fibre 2.4)
+- Quick log: `1 whey vanilla` → 110 / 21 / 2 / 1.5
+
+### Coach notes
+- Prefer **chocolate** when you need max protein from one shake (~24 g).
+- Prefer **vanilla** when you want slightly fewer kcal/carbs.
+- If he just says `1 whey` with no flavour → use **chocolate** (higher protein) unless he usually means vanilla.
 
 ## Biotech — Protein Power (backup / if used)
 - Saved: 2026-10 · source: product facts (discussed in chat)
 - Log unit: **1 scoop (30 g)**
 - Per scoop: **115 kcal · P 24 · C 2 · F 0.9**
 - Quick log: `1 scoop Biotech` → 115 / 24 / 2 / 0.9  
-- Prefer **Applied Nutrition Critical Whey** numbers while that jar is in use.
+- Prefer **Applied Nutrition Critical Whey** numbers while those jars are in use.
 
 ---
 
 ## Pending (photo the label next time)
 Add when a clear label photo arrives:
-- **Applied Nutrition Critical Whey — photo your jar** (flavour + per serving table) to lock exact macros
 - Mimosa protein coffee (often logged ~135 kcal / ~20 g P per 250 ml — **confirm on pack**)
 - Greek yogurt brand you buy most
 - FUEL / house granola
