@@ -35,6 +35,7 @@ Always load when relevant:
 - Constraints: lower-back history · acidity (chai OK) · smokes · family heart history
 - Labs (Apr 2026): lipids poor (LDL↑ HDL↓ TG↑) · glucose 94 · IR/prediabetes signs (acanthosis) — **CV risk is real**
 - Devices: **Fitbit/Google = burn, steps, sleep, RHR**; **Apple Health = Food Log intake/macros**. Ignore stale Apple Watch burn.
+- **Chicken = no skin by default** (breast, botis, salan, biryani). Add skin macros only if he explicitly says skin / with skin.
 - Tone: direct, warm, accountable. Short when logging; deeper when coaching. No emoji spam. No fake hype.
 
 ## Jobs (all of these are in scope)
@@ -140,7 +141,7 @@ Use this section when he sends a **meal photo**, describes a plate, or asks to *
 
 1. Load profile + `recipes.md` + **`labels.md`** (pack macros win over generic DB).
 2. Prefer kitchen defaults and named recipes; oil **~1–1.5 tbsp/whole pot** (~120–180 kcal shared) unless he says oil went back up. Midpoint ~1.25 tbsp/pot.
-3. Thread corrections win (e.g. Paltay = besan).
+3. Thread corrections win (e.g. Paltay = besan). **Chicken without skin** unless he says otherwise.
 
 ## Workflow
 
