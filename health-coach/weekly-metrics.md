@@ -17,9 +17,10 @@ Height: **180 cm** · Week 0 weight **115.9 kg** (27 Sep 2026)
 
 ### Week 1 derived (for graphs)
 - Weight change vs W0: **−2.4 kg** (part water/glycogen likely)
-- Steps/day if 7-day total: **~3,085**/day
+- Notes TILSD steps **21,593** (user log) vs Fitbit export Oct 5–11 sum **~49,700** (~7.1k/day) — prefer Fitbit export for graphs
+- Fitbit Oct 5–11: total burn **~3,030**/day · active **~495**/day
 - WHtR: 48 ÷ 70.9 ≈ **0.68** (aim &lt; 0.5 long-term)
-- Intake avg above cut target band (1550–1800)
+- Intake avg (~1,910) above cut food band (1550–1800); deficit still large because burn is high
 
 ### How to fill next weeks
 - Put **daily averages** in Intake / Burn / Deficit columns (or keep totals but label “5d total” like W1)

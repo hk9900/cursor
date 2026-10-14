@@ -10,15 +10,21 @@ See also: Cursor skill `.cursor/skills/food-log/SKILL.md` for meal photo → est
 - Past low 88–92 kg after ~6 mo crash; regained in ~1 year
 - Phased targets: 105–108 → hold 92–95 → later 70–80 aspirational
 
-### Google Takeout history (Xiaomi scale, Sep 2019–Jan 2020)
-- **107.3 → 93.2 kg** in ~4 months (~**1.0–1.2 kg/week** early; faster end-Jan)
-- Path: 107.3 (28 Sep) → 106 → 103.8 → 102.2 → 98.6 (22 Dec) → bounce 100.8 → 98.3 → **93.2** (23 Jan)
-- Google-derived BMR then: **~1908 → ~1767** as weight fell (from height+weight, not Fitbit HR)
-- Expended file in that export was mostly **BMR-only** (`from_bmr`), not full activity TDEE
-- **Note:** This Takeout is **not** current Fitbit Air (2026) data — need a fresh export for live burn/steps
+### Past cut (Xiaomi scale Takeout, Sep 2019–Jan 2020)
+- **107.3 → 93.2 kg** in ~4 months (~0.8–0.9 kg/week avg)
+- Path: 107.3 → 106 → 103.8 → 102.2 → 98.6 → bounce 100.8 → **93.2**
+
+### Fitbit Air Takeout (member since 23 Sep 2026)
+- Profile: male, DOB 1991-08-08, height **180.3 cm**, timezone Europe/Lisbon
+- Weight log: **120.0** (23 Sep) → **115.9** (27 Sep) → **113.5** (11 Oct)
+- **Total burn** (minute calories sum): ~**2,800**/day since device start; **~3,030**/day Oct 5–11
+- **Active burn**: ~**380**/day since start; **~495**/day Oct 5–11 (good walk days)
+- **Steps**: ~**5,200**/day since start; **~7,100**/day Oct 5–11 (peak days 10–11k)
+- Sleep scores sampled: **73–86**; RHR trending ~**86 → ~77–79**
+- Fitbit “total − active” ≠ true BMR (NEAT folded into baseline). Use **Mifflin ~2,090 at 113.5 kg** for BMR; use Fitbit **total burn** for TDEE trend.
 
 ## Activity & lifestyle
-- ~1,500 steps/day · Google Health (iPhone) · Bevel available
+- Fitbit Air + Google Health (iPhone) · Bevel available
 - Sleep 6–8 h · lower back pain history · acidity (chai OK)
 - Smokes · family heart-attack history · Coke Zero · fruit for sweet tooth
 
@@ -26,8 +32,9 @@ See also: Cursor skill `.cursor/skills/food-log/SKILL.md` for meal photo → est
 - Total 219 · LDL 149 · HDL 30 · TG 198 · Glucose 94
 
 ## Energy
-- BMR ~2,160 · TDEE ~2,590 · cut target **1,550–1,800** (aggressive → sustainable)
-- Protein target **150–170 g/day** · Walk ~350–400 active kcal
+- BMR (Mifflin @ 113.5 kg) **~2,090** · Fitbit TDEE lately **~2,800–3,100**
+- Cut target **1,550–1,800** food · Protein **150–170 g/day**
+- Active burn goal: keep **~400–500+**/day (walks); don’t eat Fitbit burn back
 
 ## Supplements (top 3 — started Oct 2026)
 1. **Whey protein** (Halal-certified if possible) — 1 scoop (~25–30 g protein) when food protein is short; log the kcal (~110–130)
