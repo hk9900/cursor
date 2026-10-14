@@ -54,25 +54,29 @@ Homemade pots stay in `recipes.md`. Packaged labels live **here**.
 - Quick log: `N Merguez` → N × 118 / 5.5 / 3 / 9.5  
 - If fried: add ~40–80 kcal oil/piece (ask cook method).
 
-## Applied Nutrition — Critical Whey (**both jars locked**)
-- Saved: 2026-10-14 · source: jar label photos
+## Applied Nutrition — Critical Whey (**Chocolate Milkshake + Frappuccino**)
+- Saved: 2026-10-14 · jar photo + official retailer/brand labels
 - Mix with **water** on cut days · always Food Log when drunk
-- Say flavour when logging (`whey chocolate` / `whey vanilla`) — macros differ
+- Say flavour when logging (`whey chocolate` / `whey frappuccino`)
 
-### Chocolate (cocoa on label)
+### Chocolate Milkshake
+- Source: his nutrition-panel photo (= H&B / Applied Nutrition Chocolate Milkshake, 33 g formula)
 - Serving: **2 level scoops = 33 g** · ~61 servings/tub
-- Per serving: **122 kcal · P 23.6 · C 4.1 · F 1.2**
-- Quick log: `1 whey chocolate` → 122 / 24 / 4 / 1
+- Per serving: **122 kcal · P 23.6 · C 4.1 · F 1.2** (sugars 3.4)
+- Ingredients include **cocoa powder**
+- Quick log: `1 whey chocolate` / `Critical Whey chocolate milkshake` → **122 / 24 / 4 / 1**
 
-### Vanilla Ice Cream
-- Serving: **2 scoops = 30 g** · ~67 servings/tub · Informed-Sport
-- Per serving: **110 kcal · P 21.0 · C 2.0 · F 1.5** (fibre 2.4)
-- Quick log: `1 whey vanilla` → 110 / 21 / 2 / 1.5
+### Frappuccino (coffee)
+- Source: Applied Nutrition / retailer label for Frappuccino (current 33 g formula)
+- Serving: **2 level scoops = 33 g**
+- Per serving: **130 kcal · P 24 · C 3.8 · F 2.0** (sugars 2.3, salt 0.2)
+- Contains **freeze-dried coffee + ~100 mg caffeine** per serving — don’t stack late at night with extra coffee
+- Quick log: `1 whey frappuccino` → **130 / 24 / 4 / 2**
 
 ### Coach notes
-- Prefer **chocolate** when you need max protein from one shake (~24 g).
-- Prefer **vanilla** when you want slightly fewer kcal/carbs.
-- If he just says `1 whey` with no flavour → use **chocolate** (higher protein) unless he usually means vanilla.
+- Both are fine on the cut; **Chocolate Milkshake** is slightly lower kcal for similar protein.
+- If he says `1 whey` with no flavour → default **Chocolate Milkshake** (122 / 24).
+- Older 30 g Critical Whey tubs (some labels ~110 kcal / P 21) — only use if a tub still lists **30 g** serving; his Chocolate panel is the **33 g** line.
 
 ## Biotech — Protein Power (backup / if used)
 - Saved: 2026-10 · source: product facts (discussed in chat)
