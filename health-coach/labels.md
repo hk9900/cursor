@@ -85,6 +85,17 @@ Homemade pots stay in `recipes.md`. Packaged labels live **here**.
 - Quick log: `1 scoop Biotech` → 115 / 24 / 2 / 0.9  
 - Prefer **Applied Nutrition Critical Whey** numbers while those jars are in use.
 
+## Continente — Morangos inteiros congelados (frozen whole strawberries)
+- Saved: 2026-10-15 · source: label photo
+- Log unit: **per 100 g** (pack portion 150 g ≈ 5 portions/bag)
+- Per **100 g**: **40 kcal · P 0.7 · C 7.0 · F 0.5** (sugars 7.0, fiber 2.2, salt 0.01)
+- Per **150 g** pack portion: **60 kcal · P 1.1 · C 10.5 · F 0.8** (fiber 3.3)
+- Quick log examples:
+  - `100 g frozen strawberries` → **40 / 1 / 7 / 0.5**
+  - `150 g frozen strawberries` → **60 / 1 / 11 / 1**
+  - `200 g frozen strawberries` → **80 / 1 / 14 / 1**
+- Great cut fruit: low kcal, pairs well with Continente 2% yogurt + Canderel
+
 ## Continente — Iogurte batido natural 2% M.G. (1 kg tub)
 - Saved: 2026-10-14 · source: label photo
 - Product: stirred natural yogurt, **2% fat** · lower fat than Continente Greek-style natural
