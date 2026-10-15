@@ -85,6 +85,18 @@ Homemade pots stay in `recipes.md`. Packaged labels live **here**.
 - Quick log: `1 scoop Biotech` → 115 / 24 / 2 / 0.9  
 - Prefer **Applied Nutrition Critical Whey** numbers while those jars are in use.
 
+## Protein granola — flocos crocantes aveia/trigo + fruta (0.4 kg)
+- Saved: 2026-10-15 · source: label photo
+- Product: crunchy oat & wheat flakes with fruit pieces, enriched with vitamins (wheat protein / “protein granola”)
+- Origin: Germany · net 0.4 kg
+- Log unit: **per 100 g** (tbsp varies by how heaped — prefer weigh)
+- Per **100 g**: **431 kcal · P 16 · C 62 · F 12** (sugars 18, fiber 6.4, salt 0.05)
+- Quick log (approx volumes if unweighed):
+  - `1 tbsp (~10 g)` → **43 / 1.6 / 6 / 1.2**
+  - `2 tbsp (~20 g)` → **86 / 3 / 12 / 2**
+  - `30 g` → **129 / 5 / 19 / 4**
+- Prefer weighing; 2 tbsp heaped can run 25 g+
+
 ## Continente — Morangos inteiros congelados (frozen whole strawberries)
 - Saved: 2026-10-15 · source: label photo
 - Log unit: **per 100 g** (pack portion 150 g ≈ 5 portions/bag)
@@ -114,7 +126,6 @@ Homemade pots stay in `recipes.md`. Packaged labels live **here**.
 Add when a clear label photo arrives:
 - Mimosa protein coffee (often logged ~135 kcal / ~20 g P per 250 ml — **confirm on pack**)
 - Continente / other **Greek-style** yogurt if he switches tubs
-- FUEL / house granola
 - Buondi (or café sachet) + sugar separate
 - Peanut butter brand
 - Canderel erythritol pouch (optional — ~1 kcal / 2 g; usually skip logging)
