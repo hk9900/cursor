@@ -123,13 +123,21 @@ Homemade pots stay in `recipes.md`. Packaged labels live **here**.
 
 ---
 
+## Canderel — Erythritol & Sucralose (granulated pouch)
+- Saved: 2026-10-14 · source: label photo
+- Product: sugar substitute · **0 sugar** · erythritol (~99.8%) + sucralose (~0.22%)
+- Sweetness: **2 g (½ tsp) ≈ 4 g (1 tsp) sugar**
+- Per **2 g** portion: **1 kcal · P 0 · C 2 (polyols) · F 0** · sugars **0**
+- Per **100 g**: 28 kcal · C 99 g (all polyols) · sugars 0
+- Quick log: usually **skip** (≈1 kcal); if logging: `Canderel erythritol ½ tsp` → **1 / 0 / 2 / 0**
+- Prefer this over agave / dextrose sticks · excess erythritol may loosen stool
+
 ## Pending (photo the label next time)
 Add when a clear label photo arrives:
 - Mimosa protein coffee (often logged ~135 kcal / ~20 g P per 250 ml — **confirm on pack**)
 - Other Greek yogurts (Mimosa / Oikos 0%) if he switches tubs — macros differ
 - Buondi (or café sachet) + sugar separate
 - Peanut butter brand
-- Canderel erythritol pouch (optional — ~1 kcal / 2 g; usually skip logging)
 - Any new bread, crackers, protein bars, omega-3 gels (kcal usually 0–10; optional)
 
 ---
