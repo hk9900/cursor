@@ -108,24 +108,25 @@ Homemade pots stay in `recipes.md`. Packaged labels live **here**.
   - `200 g frozen strawberries` → **80 / 1 / 14 / 1**
 - Great cut fruit: low kcal, pairs well with Continente 2% yogurt + Canderel
 
-## Continente — Iogurte batido natural 2% M.G. (1 kg tub)
-- Saved: 2026-10-14 · source: label photo
-- Product: stirred natural yogurt, **2% fat** · lower fat than Continente Greek-style natural
-- Log unit: **per 100 g** (or 125 g portion on pack)
+## Continente Equilíbrio — Mythos Grego Ligeiro Natural 2% (1 kg)
+- Saved: 2026-10-14/15 · source: label + Continente product page
+- Product: **Greek-style yogurt** (`iogurte estilo grego`), light/natural, **2% fat**
+- Log unit: **per 100 g**
 - Per **100 g**: **55 kcal · P 5.3 · C 3.9 · F 2.0** (sugars 3.9, salt 0.14)
-- Per **125 g** pack portion: **69 kcal · P 6.6 · C 4.9 · F 2.5**
+- Per **125 g**: **69 kcal · P 6.6 · C 4.9 · F 2.5**
 - Quick log examples:
-  - `100 g Continente yogurt 2%` → **55 / 5 / 4 / 2**
-  - `200 g Continente yogurt 2%` → **110 / 11 / 8 / 4**
-  - `250 g Continente yogurt 2%` → **138 / 13 / 10 / 5**
-- Solid cut yogurt: leaner than full-fat Greek; protein moderate — pair with whey/eggs if the meal needs more P
+  - `100 g Mythos / Continente Greek 2%` → **55 / 5 / 4 / 2**
+  - `150 g` → **83 / 8 / 6 / 3**
+  - `200 g` → **110 / 11 / 8 / 4**
+  - `250 g` → **138 / 13 / 10 / 5**
+- Note: “Greek-style” here is thick/light branding — protein is **moderate** (~5.3 g/100 g), not like 0% high-protein GY (~9–10 g/100 g). Pair with whey when the meal needs more P.
 
 ---
 
 ## Pending (photo the label next time)
 Add when a clear label photo arrives:
 - Mimosa protein coffee (often logged ~135 kcal / ~20 g P per 250 ml — **confirm on pack**)
-- Continente / other **Greek-style** yogurt if he switches tubs
+- Other Greek yogurts (Mimosa / Oikos 0%) if he switches tubs — macros differ
 - Buondi (or café sachet) + sugar separate
 - Peanut butter brand
 - Canderel erythritol pouch (optional — ~1 kcal / 2 g; usually skip logging)
