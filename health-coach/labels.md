@@ -28,14 +28,14 @@ Homemade pots stay in `recipes.md`. Packaged labels live **here**.
 - Per 100 g: 254 kcal · P 9.1 · C 45 · F 3.3
 - Quick log: `N Continente` → N × 80 / 2.9 / 14.2 / 1.0
 
-## Bimbo — pan semillas + pea protein
-- Saved: 2026-10 · source: pack label
+## Bimbo — protein bread (pan semillas + pea protein)
+- Saved: 2026-10 · refreshed 2026-10-16 · source: pack label photo
+- Product: special wheat bread with seeds (4.2%) + pea protein (3.8%) · **14 slices / ~475 g**
 - Log unit: **1 slice (~33.9 g)**
 - Per slice: **81 kcal · P 6.8 · C 8.5 · F 1.8** (fiber 2.1, sugars 1.2, salt 0.28)
-- Per 100 g: **240 kcal · P 20 · C 25 · F 5.3** (fiber 6.3)
-- Pack: ~14 slices · wheat + seeds (4.2%) + pea protein (3.8%)
-- Quick log: `N Bimbo` → N × 81 / 6.8 / 8.5 / 1.8  
-- Prefer over Continente white when logging toast/omelette breakfasts (higher protein, lower carbs).
+- Per 100 g: **239 kcal · P 20 · C 25 · F 5.2** (fiber 6.1, salt 0.84)
+- Quick log: `N Bimbo` / `N protein bread` → N × **81 / 7 / 8.5 / 1.8**
+- Prefer over Continente white for toast/omelette breakfasts (higher protein, lower carbs).
 
 ## Tostas — crisp toast / rusk (750 g pack)
 - Saved: 2026-10 · source: pack label
