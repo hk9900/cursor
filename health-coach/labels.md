@@ -123,6 +123,18 @@ Homemade pots stay in `recipes.md`. Packaged labels live **here**.
 
 ---
 
+## Mimosa — Reduzido de matéria gorda com sal (spread, 250 g)
+- Saved: 2026-10-16 · source: lid label photo
+- Product: reduced-fat salted butter-style spread · gluten-free
+- Log unit: **per 5 g (1 tsp on pack)** or weigh
+- Per **5 g (1 tsp)**: **28 kcal · P 0 · C 0.1 · F 3.1** (sat 2.0, salt 0.06)
+- Per **100 g**: **561 kcal · P 0.4 · C 2.7 · F 61** (sat 40, salt 1.2)
+- Quick log:
+  - `1 tsp Mimosa light` → **28 / 0 / 0 / 3**
+  - `½ tbsp (~7.5 g)` → **42 / 0 / 0 / 5**
+  - `1 tbsp (~15 g)` → **84 / 0 / 0 / 9**
+- Still calorie-dense — measure on bread; prefer thin smear on cut days
+
 ## Continente — Clara de ovo pasteurizada (liquid egg whites, 1 kg)
 - Saved: 2026-10-16 · source: label photo
 - Product: pasteurized chicken egg white · ~35 whites / ~10×100 g portions
