@@ -123,6 +123,18 @@ Homemade pots stay in `recipes.md`. Packaged labels live **here**.
 
 ---
 
+## Continente — Clara de ovo pasteurizada (liquid egg whites, 1 kg)
+- Saved: 2026-10-16 · source: label photo
+- Product: pasteurized chicken egg white · ~35 whites / ~10×100 g portions
+- Log unit: **per 100 g**
+- Per **100 g**: **47 kcal · P 11 · C 0.7 · F 0.2** (sugars 0.4, salt 0.40)
+- Quick log examples:
+  - `100 g egg whites` → **47 / 11 / 1 / 0**
+  - `150 g egg whites` → **71 / 17 / 1 / 0**
+  - `200 g egg whites` → **94 / 22 / 1 / 0**
+  - `2 egg whites (~66 g)` → **31 / 7 / 0.5 / 0** (approx if poured like 2 whites)
+- Excellent lean protein add-on for sauces/omelettes/shakes
+
 ## Canderel — Erythritol & Sucralose (granulated pouch)
 - Saved: 2026-10-14 · source: label photo
 - Product: sugar substitute · **0 sugar** · erythritol (~99.8%) + sucralose (~0.22%)
