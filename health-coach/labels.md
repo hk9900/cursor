@@ -108,6 +108,15 @@ Homemade pots stay in `recipes.md`. Packaged labels live **here**.
   - `200 g frozen strawberries` → **80 / 1 / 14 / 1**
 - Great cut fruit: low kcal, pairs well with Continente 2% yogurt + Canderel
 
+## Continente — Light Café (protein coffee, 250 ml)
+- Saved: 2026-10-17 · source: carton label photo
+- Product: filtered skim milk, reinforced protein, lactose-free, chicory + coffee · no added sugar · sweeteners · UHT
+- Log unit: **per 100 ml** or whole **250 ml** carton
+- Per **100 ml**: **54 kcal · P 8.0 · C 5.0 · F 0.2** (sugars 4.9, fiber 0.6, salt 0.10, caffeine ~6 mg)
+- Per **250 ml** carton: **135 kcal · P 20 · C 12.5 · F 0.5** (caffeine ~15 mg)
+- Quick log: `1 Continente Light Café` / `protein coffee 250ml` → **135 / 20 / 13 / 0.5**
+- Strong lean protein drink for breakfast; replaces old Mimosa coffee estimate
+
 ## Continente Equilíbrio — Mythos Grego Ligeiro Natural 2% (1 kg)
 - Saved: 2026-10-14/15 · source: label + Continente product page
 - Product: **Greek-style yogurt** (`iogurte estilo grego`), light/natural, **2% fat**
