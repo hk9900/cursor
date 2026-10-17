@@ -167,7 +167,7 @@ Homemade pots stay in `recipes.md`. Packaged labels live **here**.
 
 ## Pending (photo the label next time)
 Add when a clear label photo arrives:
-- Mimosa protein coffee (often logged ~135 kcal / ~20 g P per 250 ml — **confirm on pack**)
+- FUEL brand granola (if different from saved protein granola pack)
 - Other Greek yogurts (Mimosa / Oikos 0%) if he switches tubs — macros differ
 - Buondi (or café sachet) + sugar separate
 - Peanut butter brand
