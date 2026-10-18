@@ -5,8 +5,9 @@
 ## Identity & body
 - Male, born Aug 1991 (~35)
 - Height **180.3 cm** (5′11″) · Lisbon · blood type A+
-- Recent cut weights: **120** (23 Sep 2026) → **115.9** (27 Sep) → **113.5** (11 Oct)
-- Waist Week 1 tape: **48″** · WHtR ~0.68 (aim <0.5) · earlier estimate 44–46″
+- Recent cut weights: **120** (23 Sep 2026) → **115.9** (27 Sep) → **113.5** (11 Oct) → **112.9** (18 Oct)
+- Waist: Week 1 **48″** (11 Oct) → Week 2 **46.5″** (18 Oct) · WHtR ~0.66 (aim <0.5)
+- Week 2 tape: chest **48.5″** · bicep R **15″** · thigh R **22″**
 - Stable 116–120 kg ~3 years before this cut
 - Past low 88–92 kg after ~6 mo crash; regained in ~1 year
 - Phased targets: **105–108** → hold **92–95** → later **70–80** aspirational
@@ -21,10 +22,11 @@
 - IR / prediabetes context (acanthosis) — CV risk priority; GP for BP/statin/cessation
 
 ## Energy & cut targets
-- BMR (Mifflin @ 113.5 kg) **~2,090** · Fitbit TDEE with walks **~2,800–3,100**
+- BMR (Mifflin @ 112.9 kg) **~2,086** · Fitbit TDEE with walks **~2,800–3,100**
 - **Food:** **1,550–1,800 kcal/day** · **Protein 150–170 g**
 - Active burn goal: **~400–500+**/day (walks) — **don’t eat Fitbit burn back**
 - Fitbit = burn/steps/sleep/RHR · Apple = dietary intake/macros
+- Week 2 (18 Oct): intake avg **~1,648** · burn avg **~3,030** · deficit avg **~1,383** · motiv **7**
 
 ## Supplements (top 3)
 1. Whey (Halal if possible) — when protein short; log kcal  
