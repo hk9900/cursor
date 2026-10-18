@@ -165,10 +165,10 @@ Homemade pots stay in `recipes.md`. Packaged labels live **here**.
   - `100 ml milk` → **47 / 3 / 5 / 2**
   - `150 ml milk` → **71 / 5 / 7 / 2**
   - `200 ml milk` → **94 / 7 / 10 / 3**
-- **Chai default (this milk + Canderel, no sugar):**
-  - Light cup (~100 ml milk) → **~47 / 3 / 5 / 2** (+ Canderel ≈ 0–2 kcal)
-  - Normal cup (~150 ml milk) → **~71 / 5 / 7 / 2**
-  - Say milk ml when logging if different
+- **Chai default = 200 ml this milk + Canderel (no sugar):**
+  - `1 chai` / `1 cup chai` → **94 / 7 / 10 / 3** (+ Canderel ≈ 0–2 kcal — skip)
+  - Exact label math: 200 ml → **94 kcal · P 6.6 · C 9.8 · F 3.2**
+  - Override only if he says a different milk volume
 
 ## Canderel — Erythritol & Sucralose (granulated pouch)
 - Saved: 2026-10-14 · source: label photo
