@@ -156,6 +156,20 @@ Homemade pots stay in `recipes.md`. Packaged labels live **here**.
   - `2 egg whites (~66 g)` → **31 / 7 / 0.5 / 0** (approx if poured like 2 whites)
 - Excellent lean protein add-on for sauces/omelettes/shakes
 
+## Household milk — meio-gordo / semi-skimmed (1.6% fat)
+- Saved: 2026-10-18 · source: carton nutrition table photo (green pack; Too Good To Go sticker)
+- Product: cow’s milk · **1.6 g fat / 100 ml** (Portuguese meio-gordo class)
+- Log unit: **100 ml** (≈ 100 g)
+- Per **100 ml**: **47 kcal · P 3.3 · C 4.9 · F 1.6** (sugars 4.9, sat fat 0.9, salt 0.10, Ca 110 mg / 15% NRV)
+- Quick log:
+  - `100 ml milk` → **47 / 3 / 5 / 2**
+  - `150 ml milk` → **71 / 5 / 7 / 2**
+  - `200 ml milk` → **94 / 7 / 10 / 3**
+- **Chai default (this milk + Canderel, no sugar):**
+  - Light cup (~100 ml milk) → **~47 / 3 / 5 / 2** (+ Canderel ≈ 0–2 kcal)
+  - Normal cup (~150 ml milk) → **~71 / 5 / 7 / 2**
+  - Say milk ml when logging if different
+
 ## Canderel — Erythritol & Sucralose (granulated pouch)
 - Saved: 2026-10-14 · source: label photo
 - Product: sugar substitute · **0 sugar** · erythritol (~99.8%) + sucralose (~0.22%)
@@ -171,6 +185,7 @@ Add when a clear label photo arrives:
 - Other Greek yogurts (Mimosa / Oikos 0%) if he switches tubs — macros differ
 - Buondi (or café sachet) + sugar separate
 - Peanut butter brand
+- Brand name on this milk carton if you want it titled by brand (macros already saved)
 - Any new bread, crackers, protein bars, omega-3 gels (kcal usually 0–10; optional)
 
 ---
