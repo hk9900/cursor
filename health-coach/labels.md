@@ -179,6 +179,18 @@ Homemade pots stay in `recipes.md`. Packaged labels live **here**.
   - Exact label math: 200 ml → **94 kcal · P 6.6 · C 9.8 · F 3.2**
   - Override only if he says a different milk volume
 
+## Continente / Seleção — Pão de Queijo (Receita Brasileira)
+- Saved: 2026-10-20 · source: pack front nutrition photo (+ full table matched to Continente Seleção same energy/fat line)
+- Product: Brazilian cheese bread (tapioca/cheese) · frozen/bake bag · green “Receita Brasileira” pack
+- Log unit: **25 g portion** (≈ 1 small ball on pack) or **100 g** / weigh pieces
+- Per **25 g**: **68 kcal · P 1.5 · C 8.8 · F 2.9** (sugars 0.4, sat 1.1, salt 0.33) — energy/fat/sugar/salt from his pack photo
+- Per **100 g**: **271 kcal · P 5.8 · C 35 · F 11.7** (sugars 1.6, fiber 1.1, sat 4.4, salt 1.3)
+- Quick log:
+  - `1 pão de queijo` / `1 pao do queijo` (25 g) → **68 / 1.5 / 9 / 3**
+  - `2 pão de queijo` (50 g) → **136 / 3 / 18 / 6**
+  - `100 g pão de queijo` → **271 / 6 / 35 / 12**
+- Note: front panel omits P/C — protein/carbs filled from Continente Seleção declaration that matches **271 kcal / 11.7 g fat / 100 g**. Photo the back table once if you want pack-only confirmation.
+
 ## Canderel — Erythritol & Sucralose (granulated pouch)
 - Saved: 2026-10-14 · source: label photo
 - Product: sugar substitute · **0 sugar** · erythritol (~99.8%) + sucralose (~0.22%)
@@ -195,6 +207,7 @@ Add when a clear label photo arrives:
 - Buondi (or café sachet) + sugar separate
 - Peanut butter brand
 - Brand name on this milk carton if you want it titled by brand (macros already saved)
+- Pão de queijo **back** nutrition table (front already saved; P/C from matching Continente Seleção line)
 - Any new bread, crackers, protein bars, omega-3 gels (kcal usually 0–10; optional)
 
 ---
