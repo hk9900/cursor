@@ -50,3 +50,14 @@ Locked one-liner still goes to Health via `shortcuts://`.
 **Confidence:** 78–85% sure · pão from label; matar chawal estimated from recipe book oil baseline.
 
 **Notes:** Protein OK from salmon; starch is the big share (matar chawal + cheese bread). Fine if day intake still in band.
+
+---
+
+## 2026-10-20 — Evening
+
+**Dish:** Critical Whey Chocolate Milkshake (1 serving = 2 scoops / 33 g).
+
+**Macros:** **122 kcal · P 24 · C 4 · F 1**
+
+**Shortcut line:** `Food Log | Critical Whey Chocolate Milkshake | 122 | 24 | 4 | 1`  
+**Confidence:** 92–95% sure · pack label.
