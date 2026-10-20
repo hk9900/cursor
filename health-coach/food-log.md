@@ -34,3 +34,19 @@ Locked one-liner still goes to Health via `shortcuts://`.
 **Confidence:** 80–88% sure · size estimate only.
 
 **Notes:** Easy cut-friendly fruit; keeps sweet tooth covered without sugar creep.
+
+---
+
+## 2026-10-20 — Dinner
+
+**Dish:** Pão de queijo + salmon + matar chawal.
+
+**Portions:** pão de queijo **51 g** · salmon **100 g** · matar chawal **200 g**.
+
+**Macros:** **666 kcal · P 37 · C 74 · F 26**  
+(Pão 138/3/18/6 · salmon 208/25/0/13 · matar chawal ~320/9/56/7 at ~160 kcal/100 g, low-oil pot.)
+
+**Shortcut line:** `Food Log | Pao de queijo salmon matar chawal | 666 | 37 | 74 | 26`  
+**Confidence:** 78–85% sure · pão from label; matar chawal estimated from recipe book oil baseline.
+
+**Notes:** Protein OK from salmon; starch is the big share (matar chawal + cheese bread). Fine if day intake still in band.
