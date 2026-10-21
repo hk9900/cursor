@@ -125,3 +125,14 @@ With earlier eggs/whites/chai/Bimbo → **day breakfast total ~483 / 41 / 36 / 2
 **Confidence:** 75–82% sure · Bahu Rani not in recipe book; no-oil baingan+yogurt estimate.
 
 **Notes:** Protein low for the plate — whey after helps close the gap.
+
+---
+
+## 2026-10-21 — Evening
+
+**Dish:** Critical Whey Chocolate Milkshake (1 serving).
+
+**Macros:** **122 kcal · P 24 · C 4 · F 1**
+
+**Shortcut line:** `Food Log | Critical Whey Chocolate Milkshake | 122 | 24 | 4 | 1`  
+**Confidence:** 92–95% sure.
