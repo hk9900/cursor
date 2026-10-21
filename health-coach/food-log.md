@@ -85,3 +85,16 @@ With earlier eggs/whites/chai/Bimbo → **day breakfast total ~483 / 41 / 36 / 2
 
 **Shortcut line:** `Food Log | 3 tostas Mimosa light | 118 | 3 | 15 | 5`  
 **Confidence:** 88–92% sure.
+
+---
+
+## 2026-10-21 — Lunch
+
+**Dish:** Salmon + matar chawal.
+
+**Portions:** salmon **73 g** · matar chawal **124 g**.
+
+**Macros:** **350 kcal · P 24 · C 35 · F 13**
+
+**Shortcut line:** `Food Log | Salmon matar chawal | 350 | 24 | 35 | 13`  
+**Confidence:** 80–88% sure.
