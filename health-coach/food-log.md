@@ -61,3 +61,15 @@ Locked one-liner still goes to Health via `shortcuts://`.
 
 **Shortcut line:** `Food Log | Critical Whey Chocolate Milkshake | 122 | 24 | 4 | 1`  
 **Confidence:** 92–95% sure · pack label.
+
+---
+
+## 2026-10-21 — Breakfast
+
+**Dish:** 2 whole eggs + 100 g egg whites + 1 chai (Canderel) + 1 Bimbo protein bread.
+
+**Macros:** **365 kcal · P 38 · C 21 · F 15**  
+(Eggs 143/13/1/10 · whites 47/11/1/0 · chai 200 ml milk 94/7/10/3 · Bimbo 81/7/9/2.)
+
+**Shortcut line:** `Food Log | Eggs whites chai Bimbo | 365 | 38 | 21 | 15`  
+**Confidence:** 88–92% sure · labels for whites/bread/milk; eggs standard.
