@@ -109,3 +109,19 @@ With earlier eggs/whites/chai/Bimbo → **day breakfast total ~483 / 41 / 36 / 2
 
 **Shortcut line:** `Food Log | 2 medium keenu | 100 | 2 | 24 | 0`  
 **Confidence:** 80–88% sure.
+
+---
+
+## 2026-10-21 — Dinner
+
+**Dish:** White rice + Bahu Rani (baingan + yogurt).
+
+**Portions:** white rice **312 g** · Bahu Rani **249 g**.
+
+**Macros:** **605 kcal · P 17 · C 104 · F 10**  
+(Rice ~406/8/87/1 · Bahu Rani ~199/9/17/9 at ~80 kcal/100 g, low-oil pot.)
+
+**Shortcut line:** `Food Log | White rice Bahu Rani baingan | 605 | 17 | 104 | 10`  
+**Confidence:** 72–80% sure · Bahu Rani not in recipe book; baingan+yogurt+oil baseline estimate.
+
+**Notes:** Protein low for the plate — whey after helps close the gap.
