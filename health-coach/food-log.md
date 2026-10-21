@@ -73,3 +73,15 @@ Locked one-liner still goes to Health via `shortcuts://`.
 
 **Shortcut line:** `Food Log | Eggs whites chai Bimbo | 365 | 38 | 21 | 15`  
 **Confidence:** 88–92% sure · labels for whites/bread/milk; eggs standard.
+
+---
+
+## 2026-10-21 — Breakfast add-on
+
+**Dish:** 3 tostas + light Mimosa spread (~1 tsp / 5 g total).
+
+**Macros:** **118 kcal · P 3 · C 15 · F 5**  
+With earlier eggs/whites/chai/Bimbo → **day breakfast total ~483 / 41 / 36 / 20**.
+
+**Shortcut line:** `Food Log | 3 tostas Mimosa light | 118 | 3 | 15 | 5`  
+**Confidence:** 88–92% sure.
