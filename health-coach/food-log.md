@@ -98,3 +98,14 @@ With earlier eggs/whites/chai/Bimbo → **day breakfast total ~483 / 41 / 36 / 2
 
 **Shortcut line:** `Food Log | Salmon matar chawal | 350 | 24 | 35 | 13`  
 **Confidence:** 80–88% sure.
+
+---
+
+## 2026-10-21 — Snack
+
+**Dish:** 2 medium keenu.
+
+**Macros:** **100 kcal · P 2 · C 24 · F 0**
+
+**Shortcut line:** `Food Log | 2 medium keenu | 100 | 2 | 24 | 0`  
+**Confidence:** 80–88% sure.
