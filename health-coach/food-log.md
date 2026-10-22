@@ -148,3 +148,16 @@ With earlier eggs/whites/chai/Bimbo → **day breakfast total ~483 / 41 / 36 / 2
 
 **Shortcut line:** `Food Log | GY mix chai | 254 | 23 | 24 | 7`  
 **Confidence:** 78–85% sure · mix ratio assumed same as prior GY+granola+berries+whey bowl.
+
+---
+
+## 2026-10-22 — Lunch
+
+**Dish:** White rice + Bahu Rani (no oil) + 2 medium keenu.
+
+**Portions:** rice **150 g** · Bahu Rani **150 g** · 2 medium keenu.
+
+**Macros:** **373 kcal · P 11 · C 76 · F 3**
+
+**Shortcut line:** `Food Log | Rice Bahu Rani 2 keenu | 373 | 11 | 76 | 3`  
+**Confidence:** 75–82% sure · Bahu Rani no-oil estimate.
