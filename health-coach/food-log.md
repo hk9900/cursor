@@ -161,3 +161,17 @@ With earlier eggs/whites/chai/Bimbo → **day breakfast total ~483 / 41 / 36 / 2
 
 **Shortcut line:** `Food Log | Rice Bahu Rani 2 keenu | 373 | 11 | 76 | 2`  
 **Confidence:** 75–82% sure · Bahu Rani no-oil estimate. · Protein light — whey later helps.
+
+---
+
+## 2026-10-22 — Dinner
+
+**Dish:** Air-fryer chicken popcorn (breast, 1 spray) + bhindi bhujia + 2 roti.
+
+**Portions:** popcorn **150 g** · bhindi **150 g** · **2** medium house roti.
+
+**Macros:** **593 kcal · P 53 · C 59 · F 19**  
+(Popcorn ~265/44/8/7 light coat+spray · bhindi ~128/3/11/8 low-oil pot · roti ~200/6/40/4.)
+
+**Shortcut line:** `Food Log | Chicken popcorn bhindi 2 roti | 593 | 53 | 59 | 19`  
+**Confidence:** 72–80% sure · coating on popcorn + bhindi oil + roti size estimated.
