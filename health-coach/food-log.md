@@ -136,3 +136,15 @@ With earlier eggs/whites/chai/Bimbo → **day breakfast total ~483 / 41 / 36 / 2
 
 **Shortcut line:** `Food Log | Critical Whey Chocolate Milkshake | 122 | 24 | 4 | 1`  
 **Confidence:** 92–95% sure.
+
+---
+
+## 2026-10-22 — Breakfast
+
+**Dish:** 200 g GY mix + 1 chai (Canderel, 200 ml milk).
+
+**Macros:** **254 kcal · P 23 · C 24 · F 7**  
+(Mix ~160/16/14/4 at prior mix density · chai 94/7/10/3.)
+
+**Shortcut line:** `Food Log | GY mix chai | 254 | 23 | 24 | 7`  
+**Confidence:** 78–85% sure · mix ratio assumed same as prior GY+granola+berries+whey bowl.
