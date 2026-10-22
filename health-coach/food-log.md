@@ -157,7 +157,7 @@ With earlier eggs/whites/chai/Bimbo → **day breakfast total ~483 / 41 / 36 / 2
 
 **Portions:** rice **150 g** · Bahu Rani **150 g** · 2 medium keenu.
 
-**Macros:** **373 kcal · P 11 · C 76 · F 3**
+**Macros:** **373 kcal · P 11 · C 76 · F 2**
 
-**Shortcut line:** `Food Log | Rice Bahu Rani 2 keenu | 373 | 11 | 76 | 3`  
-**Confidence:** 75–82% sure · Bahu Rani no-oil estimate.
+**Shortcut line:** `Food Log | Rice Bahu Rani 2 keenu | 373 | 11 | 76 | 2`  
+**Confidence:** 75–82% sure · Bahu Rani no-oil estimate. · Protein light — whey later helps.
