@@ -175,3 +175,14 @@ With earlier eggs/whites/chai/Bimbo → **day breakfast total ~483 / 41 / 36 / 2
 
 **Shortcut line:** `Food Log | Chicken popcorn bhindi 2 roti | 533 | 53 | 59 | 13`  
 **Confidence:** 75–82% sure · popcorn coating + roti size estimated; bhindi spray-only.
+
+---
+
+## 2026-10-22 — Evening
+
+**Dish:** Critical Whey Frappuccino (1 serving).
+
+**Macros:** **130 kcal · P 24 · C 4 · F 2**
+
+**Shortcut line:** `Food Log | Critical Whey Frappuccino | 130 | 24 | 4 | 2`  
+**Confidence:** 92–95% sure.
