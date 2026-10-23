@@ -210,3 +210,17 @@ With earlier eggs/whites/chai/Bimbo → **day breakfast total ~483 / 41 / 36 / 2
 
 **Shortcut line:** `Food Log | Chicken popcorn corn fries | 357 | 47 | 24 | 9`  
 **Confidence:** 75–82% sure · popcorn light coat; combo corn/fries mix estimated.
+
+---
+
+## 2026-10-23 — Snack / meal
+
+**Dish:** Leftover haleem (last week, lean, no oil/tarka) + 1 Crown tandoori roti.
+
+**Portions:** haleem **100 g** · tandoori roti **~100 g** (unweighed — pack label density).
+
+**Macros:** **528 kcal · P 24 · C 73 · F 16**  
+(Haleem ~150/13/16/4 · roti 378/11/57/12 per 100 g.)
+
+**Shortcut line:** `Food Log | Haleem tandoori roti | 528 | 24 | 73 | 16`  
+**Confidence:** 72–80% sure · roti grams assumed ~100 g; weigh next time.
