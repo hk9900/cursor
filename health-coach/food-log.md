@@ -186,3 +186,14 @@ With earlier eggs/whites/chai/Bimbo → **day breakfast total ~483 / 41 / 36 / 2
 
 **Shortcut line:** `Food Log | Critical Whey Frappuccino | 130 | 24 | 4 | 2`  
 **Confidence:** 92–95% sure.
+
+---
+
+## 2026-10-23 — Breakfast
+
+**Dish:** 2 whole eggs + 100 ml egg whites (1 spray) + 1 chai + 3 tostas thin Mimosa.
+
+**Macros:** **407 kcal · P 34 · C 27 · F 19**
+
+**Shortcut line:** `Food Log | Eggs whites chai 3 tostas Mimosa | 407 | 34 | 27 | 19`  
+**Confidence:** 88–92% sure.
