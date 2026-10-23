@@ -46,13 +46,14 @@ Homemade pots stay in `recipes.md`. Packaged labels live **here**.
 - Pack ≈ 50 servings (100 tostas)
 - Quick log: `N tostas` → N × 30 / 0.9 / 5.0 / 0.6
 
-## Fulya Merguez — hot dog / sausage
-- Saved: 2026-10 · source: pack label
+## Fulya Merguez — hot dog / sausage (Merguez Soslu Sade)
+- Saved: 2026-10 · refreshed **2026-10-23** · source: pack back nutrition photo
+- Product: smoked chicken + beef/lamb merguez-style · net **400 g**
 - Log unit: **1 piece (~50 g)** · pack **400 g / 8 pieces**
-- Per piece (as labeled): **~118 kcal · P 5.5 · C 3 · F 9.5**
-- Per 100 g: **236 kcal · P 11 · C 6.3 · F 19**
-- Quick log: `N Merguez` → N × 118 / 5.5 / 3 / 9.5  
-- If fried: add ~40–80 kcal oil/piece (ask cook method).
+- Per **100 g**: **236 kcal · P 11 · C 6.3 · F 19** (sat 5.7, sugars 0.7, fiber 0.7, salt **3.3**)
+- Per **1 piece (~50 g)**: **118 kcal · P 5.5 · C 3.2 · F 9.5** (salt ~1.7 g)
+- Quick log: `N Merguez` / `N hotdog` → N × **118 / 5.5 / 3 / 9.5**
+- Air fry / grill / boil preferred; if shallow-fried ask oil. High salt — don’t stack many on one day.
 
 ## Applied Nutrition — Critical Whey (**Chocolate Milkshake + Frappuccino**)
 - Saved: 2026-10-14 · jar photo + official retailer/brand labels
