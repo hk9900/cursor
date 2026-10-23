@@ -206,7 +206,7 @@ With earlier eggs/whites/chai/Bimbo → **day breakfast total ~483 / 41 / 36 / 2
 
 **Portions:** popcorn **154 g** · corn+fries **62 g**.
 
-**Macros:** **356 kcal · P 47 · C 24 · F 10**
+**Macros:** **357 kcal · P 47 · C 24 · F 9**
 
-**Shortcut line:** `Food Log | Chicken popcorn corn fries | 356 | 47 | 24 | 10`  
+**Shortcut line:** `Food Log | Chicken popcorn corn fries | 357 | 47 | 24 | 9`  
 **Confidence:** 75–82% sure · popcorn light coat; combo corn/fries mix estimated.
