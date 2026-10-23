@@ -46,6 +46,18 @@ Homemade pots stay in `recipes.md`. Packaged labels live **here**.
 - Pack ≈ 50 servings (100 tostas)
 - Quick log: `N tostas` → N × 30 / 0.9 / 5.0 / 0.6
 
+## Crown — Tandoori roti (frozen flatbread, 460 g)
+- Saved: 2026-10-23 · source: pack nutrition photo
+- Product: frozen tandoori-style roti · **CROWN Frozen Foods / Tiefkühlkost** · net **460 g**
+- Ingredients: wheat flour, water, sunflower oil, sugar, salt, yeast & baking powder
+- Log unit: **per 100 g** (prefer weigh 1 roti — piece count not on front panel)
+- Per **100 g**: **378 kcal · P 10.6 · C 56.8 · F 12.1** (sat 1.4, sugars 2.6, salt 0.5)
+- Quick log examples:
+  - `100 g tandoori roti` → **378 / 11 / 57 / 12**
+  - `1 roti ~90 g` (if ~5 / pack) → **340 / 10 / 51 / 11**
+  - `1 roti ~115 g` (if ~4 / pack) → **435 / 12 / 65 / 14**
+- Heavier than house roti (oil in dough) — weigh when possible; don’t use house-roti ~100 kcal default for this pack.
+
 ## Fulya Merguez — hot dog / sausage (Merguez Soslu Sade)
 - Saved: 2026-10 · refreshed **2026-10-23** · source: pack back nutrition photo
 - Product: smoked chicken + beef/lamb merguez-style · net **400 g**
