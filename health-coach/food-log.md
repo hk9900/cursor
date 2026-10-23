@@ -224,3 +224,17 @@ With earlier eggs/whites/chai/Bimbo → **day breakfast total ~483 / 41 / 36 / 2
 
 **Shortcut line:** `Food Log | Haleem tandoori roti | 528 | 24 | 73 | 16`  
 **Confidence:** 72–80% sure · roti grams assumed ~100 g; weigh next time.
+
+---
+
+## 2026-10-23 — Haleem add-on
+
+**Dish:** 1 big niwala haleem + tandoori roti · + 1 more niwala haleem.
+
+**Estimate:** ~35 g roti + ~40 g haleem · + ~35 g haleem.
+
+**Macros:** **226 kcal · P 12 · C 29 · F 7**  
+Combined with prior haleem+roti plate → **~754 / 36 / 102 / 23**.
+
+**Shortcut line:** `Food Log | Extra haleem roti niwalas | 226 | 12 | 29 | 7`  
+**Confidence:** 65–75% sure · niwala sizes unweighed.
