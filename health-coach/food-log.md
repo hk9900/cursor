@@ -197,3 +197,16 @@ With earlier eggs/whites/chai/Bimbo → **day breakfast total ~483 / 41 / 36 / 2
 
 **Shortcut line:** `Food Log | Eggs whites chai 3 tostas Mimosa | 407 | 34 | 27 | 19`  
 **Confidence:** 88–92% sure.
+
+---
+
+## 2026-10-23 — Lunch
+
+**Dish:** Air-fryer chicken popcorn + corn & fries combo.
+
+**Portions:** popcorn **154 g** · corn+fries **62 g**.
+
+**Macros:** **356 kcal · P 47 · C 24 · F 10**
+
+**Shortcut line:** `Food Log | Chicken popcorn corn fries | 356 | 47 | 24 | 10`  
+**Confidence:** 75–82% sure · popcorn light coat; combo corn/fries mix estimated.
