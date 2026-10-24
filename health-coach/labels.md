@@ -67,6 +67,17 @@ Homemade pots stay in `recipes.md`. Packaged labels live **here**.
 - Quick log: `N Merguez` / `N hotdog` → N × **118 / 5.5 / 3 / 9.5**
 - Air fry / grill / boil preferred; if shallow-fried ask oil. High salt — don’t stack many on one day.
 
+## Chicken salami / cooked sausage (yellow pack — “salami”)
+- Saved: 2026-10-24 · source: pack nutrition photo
+- Product: boiled cooked chicken sausage (`salchicha cocida`) · chicken meat ~48% · chicken fat ~24% · wheat starch · soy flour
+- Log unit: **per 100 g** (weigh slices / stick)
+- Per **100 g**: **240 kcal · P 11 · C 4 · F 20** (sat 7, sugars 0.2, salt **2.5**)
+- Quick log:
+  - `50 g salami` → **120 / 6 / 2 / 10**
+  - `100 g salami` → **240 / 11 / 4 / 20**
+  - `150 g salami` → **360 / 17 / 6 / 30**
+- Fat-heavy / moderate protein — fine as a small add-on, not a main cut protein. High salt.
+
 ## Applied Nutrition — Critical Whey (**Chocolate Milkshake + Frappuccino**)
 - Saved: 2026-10-14 · jar photo + official retailer/brand labels
 - Mix with **water** on cut days · always Food Log when drunk
