@@ -238,3 +238,16 @@ Combined with prior haleem+roti plate → **~772 / 38 / 105 / 23**.
 
 **Shortcut line:** `Food Log | Extra haleem roti niwalas | 244 | 14 | 32 | 7`  
 **Confidence:** 65–75% sure · niwala sizes unweighed.
+
+---
+
+## 2026-10-24 — Meal
+
+**Dish:** White rice + red beans / lobia (no oil).
+
+**Portions:** rice **241 g** (148+93) · lobia **250 g** (150+100).
+
+**Macros:** **631 kcal · P 28 · C 124 · F 2**
+
+**Shortcut line:** `Food Log | White rice lobia no oil | 631 | 28 | 124 | 2`  
+**Confidence:** 80–88% sure · plain cooked rice + no-oil beans.
