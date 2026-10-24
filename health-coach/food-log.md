@@ -251,3 +251,14 @@ Combined with prior haleem+roti plate → **~772 / 38 / 105 / 23**.
 
 **Shortcut line:** `Food Log | White rice lobia no oil | 631 | 29 | 124 | 2`  
 **Confidence:** 80–88% sure · plain cooked rice + no-oil beans.
+
+---
+
+## 2026-10-24 — Snack
+
+**Dish:** 2 dates.
+
+**Macros:** **50 kcal · P 0 · C 13 · F 0**
+
+**Shortcut line:** `Food Log | 2 dates | 50 | 0 | 13 | 0`  
+**Confidence:** 80–88% sure · medium dates (not huge medjool).
