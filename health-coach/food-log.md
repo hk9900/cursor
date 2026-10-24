@@ -291,7 +291,7 @@ Combined with prior haleem+roti plate → **~772 / 38 / 105 / 23**.
 
 **Dish:** 4-slice Continente toast sandwich — 100 g salami, 1 fried egg, slight mayo, little grated cheese.
 
-**Macros:** **702 kcal · P 32 · C 63 · F 37**
+**Macros:** **702 kcal · P 32 · C 63 · F 36**
 
-**Shortcut line:** `Food Log | Salami egg mayo cheese toast sandwich | 702 | 32 | 63 | 37`  
+**Shortcut line:** `Food Log | Salami egg mayo cheese toast sandwich | 702 | 32 | 63 | 36`  
 **Confidence:** 75–82% sure · mayo + cheese amounts estimated “slight/little”.
