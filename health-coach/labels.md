@@ -78,6 +78,18 @@ Homemade pots stay in `recipes.md`. Packaged labels live **here**.
   - `150 g salami` → **360 / 17 / 6 / 30**
 - Fat-heavy / moderate protein — fine as a small add-on, not a main cut protein. High salt.
 
+## Continente — Veggie dumplings / gyoza (frozen)
+- Saved: 2026-10-24 · source: pack nutrition photo
+- Product: vegetable gyozas (~55% veg: cabbage, carrot, green beans + wheat, oils, mushrooms) · ~**20 pieces / pack**
+- Log unit: **1 dumpling = 20 g** (as labeled) or weigh
+- Per **1 dumpling (20 g)**: **29 kcal · P 0.7 · C 5.3 · F 0.5** (sugars 1.0, fiber 0.5, sat 0.2, salt 0.22)
+- Per **100 g**: **147 kcal · P 3.7 · C 26.6 · F 2.4** (fiber 2.5, salt 1.1)
+- Quick log:
+  - `5 veggie dumplings` → **145 / 4 / 27 / 3**
+  - `10 veggie dumplings` → **290 / 7 / 53 / 5**
+  - `100 g veggie dumplings` → **147 / 4 / 27 / 2**
+- Prefer **steam / air fry** (label macros). Pan-fry with oil: add ~40–80 kcal for the oil used.
+
 ## Applied Nutrition — Critical Whey (**Chocolate Milkshake + Frappuccino**)
 - Saved: 2026-10-14 · jar photo + official retailer/brand labels
 - Mix with **water** on cut days · always Food Log when drunk
