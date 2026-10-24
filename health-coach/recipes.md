@@ -87,6 +87,16 @@ Use midpoint **~1.25 tbsp/pot (~150 kcal oil)** unless photo looks unusually dry
 - Freeze 5–10 min → **shallow fry**; don’t disturb while frying.
 - **Log notes:** Fixed protein base 250 g raw chicken for whole batch — ask how many sticks he ate / share of batch. Breadcrumb + shallow fry adds carbs/fat.
 
+## Banana protein pancakes (batch of 4)
+- Source: shared recipe 2026-10-24 · adapted to **Critical Whey** (not Impact)
+- **Ingredients (whole batch):** 1 large ripe banana · 2 large eggs · **1 serving Critical Whey** (2 scoops / 33 g — Chocolate or Frappuccino) · **~35 g rolled oats** (1 rounded oat scoop / ~⅓ cup) · pan **1 spray** oil
+- Method: blend banana+eggs smooth → add whey+oats → blend · medium heat non-stick · 4 pancakes (~5″) · flip when bubbles
+- **Honest macros (batch):** ~**520 kcal · P 43 · C 58 · F 14** (Chocolate whey) · +spray ~5
+- **Per pancake (÷4):** ~**130 kcal · P 11 · C 15 · F 4**
+- Recipe card claiming **115 kcal / 15 g P each** undercounts protein powder math — use numbers above
+- Quick log: `N banana protein pancakes` → N × **130 / 11 / 15 / 4** · full batch `4 pancakes` → **520 / 43 / 58 / 14**
+- Cut tip: great breakfast; skip syrup — berries + Canderel if you want sweet
+
 ---
 
 ## Logging priorities (from these recipes)
