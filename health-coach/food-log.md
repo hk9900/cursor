@@ -295,3 +295,15 @@ Combined with prior haleem+roti plate → **~772 / 38 / 105 / 23**.
 
 **Shortcut line:** `Food Log | Salami egg mayo cheese toast sandwich | 702 | 32 | 63 | 36`  
 **Confidence:** 75–82% sure · mayo + cheese amounts estimated “slight/little”.
+
+---
+
+## 2026-10-24 — Lunch add-on
+
+**Dish:** Continente Light Café (protein coffee) + 2 veggie dumplings.
+
+**Macros:** **193 kcal · P 21 · C 24 · F 2**  
+With sandwich → **~895 / 53 / 87 / 38**.
+
+**Shortcut line:** `Food Log | Light Cafe 2 veggie dumplings | 193 | 21 | 24 | 2`  
+**Confidence:** 90–95% sure · both from labels (steam/air-fry dumplings).
