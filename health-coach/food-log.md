@@ -284,3 +284,14 @@ Combined with prior haleem+roti plate → **~772 / 38 / 105 / 23**.
 
 **Shortcut line:** `Food Log | Banana protein pancakes chai | 394 | 33 | 43 | 11`  
 **Confidence:** 80–88% sure · pancake density from recipe batch.
+
+---
+
+## 2026-10-24 — Lunch
+
+**Dish:** 4-slice Continente toast sandwich — 100 g salami, 1 fried egg, slight mayo, little grated cheese.
+
+**Macros:** **702 kcal · P 32 · C 63 · F 37**
+
+**Shortcut line:** `Food Log | Salami egg mayo cheese toast sandwich | 702 | 32 | 63 | 37`  
+**Confidence:** 75–82% sure · mayo + cheese amounts estimated “slight/little”.
