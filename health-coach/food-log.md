@@ -262,3 +262,14 @@ Combined with prior haleem+roti plate → **~772 / 38 / 105 / 23**.
 
 **Shortcut line:** `Food Log | 2 dates | 50 | 0 | 13 | 0`  
 **Confidence:** 80–88% sure · medium dates (not huge medjool).
+
+---
+
+## 2026-10-24 — Evening
+
+**Dish:** Critical Whey Chocolate Milkshake (1 serving).
+
+**Macros:** **122 kcal · P 24 · C 4 · F 1**
+
+**Shortcut line:** `Food Log | Critical Whey Chocolate Milkshake | 122 | 24 | 4 | 1`  
+**Confidence:** 92–95% sure.
