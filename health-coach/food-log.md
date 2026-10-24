@@ -273,3 +273,14 @@ Combined with prior haleem+roti plate → **~772 / 38 / 105 / 23**.
 
 **Shortcut line:** `Food Log | Critical Whey Chocolate Milkshake | 122 | 24 | 4 | 1`  
 **Confidence:** 92–95% sure.
+
+---
+
+## 2026-10-24 — Breakfast
+
+**Dish:** Banana protein pancakes 150 g + 1 chai (Canderel).
+
+**Macros:** **394 kcal · P 33 · C 43 · F 11**
+
+**Shortcut line:** `Food Log | Banana protein pancakes chai | 394 | 33 | 43 | 11`  
+**Confidence:** 80–88% sure · pancake density from recipe batch.
