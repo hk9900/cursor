@@ -331,3 +331,16 @@ With sandwich → **~895 / 53 / 87 / 38**.
 
 **Shortcut line:** `Food Log | Dark chocolate 1x1 inch | 55 | 1 | 5 | 4`  
 **Confidence:** 75–85% sure · size→grams estimated.
+
+---
+
+## 2026-10-25 — Meal
+
+**Dish:** Air-fryer chicken nuggets (breast, light coat assumed).
+
+**Portion:** **175 g**.
+
+**Macros:** **324 kcal · P 44 · C 14 · F 12**
+
+**Shortcut line:** `Food Log | Air fryer chicken nuggets | 324 | 44 | 14 | 12`  
+**Confidence:** 72–80% sure · homemade breast nuggets assumed (not frozen pack).
