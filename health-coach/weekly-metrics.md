@@ -15,6 +15,16 @@ Height: **180.3 cm** · Week 0 weight **115.9 kg** (27 Sep 2026)
 | 0 | 27/Sep/2026 | 115.9 | — | — | — | — | — | — | — | — | — |
 | 1 | 11/Oct/2026 | 113.5 | 48 | 49.5 | 15 | 23 | 21593 | 9558 / 5d → **avg 1912** | 15690 / 5d → **avg 3138** | 6132 / 5d → **avg 1226** | 8 |
 | 2 | 18/Oct/2026 | 112.9 | 46.5 | 48.5 | 15 | 22 | 16098 | 11533 / 7d → **avg 1648** | 21213 / 7d → **avg 3030** | 9680 / 7d → **avg 1383** | 7 (2 cookies extra) |
+| 3 | 25/Oct/2026 | 111.5 | 45.5 | 48.5 | 14.5 | 23.5 | 20007 | 11529 / 7d → **avg 1647** | 21037 / 7d → **avg 3005** | 9508 / 7d → **avg 1358** | 8 (good overall) |
+
+### Week 3 derived (25 Oct)
+- Weight vs W2: **−1.4 kg** · vs W0: **−4.4 kg** · vs start 120: **−8.5 kg**
+- Waist: **46.5 → 45.5″ (−1.0″)** · total from W1: **48 → 45.5″ (−2.5″)**
+- Chest **flat 48.5″** · Bicep **15 → 14.5″** · Thigh **22 → 23.5″** (likely tape/water variance — don’t chase)
+- WHtR: 45.5 ÷ 70.9 ≈ **0.64** (was 0.66)
+- Intake avg **~1,647** — still in band ✓ · Burn **~3,005** · deficit **~1,358**
+- Steps TILSD **20,007** → ~**2,860**/day if 7d — up vs W2; still verify vs Fitbit if walks felt higher
+- Note: **good overall** / motiv 8 — hold the plan; don’t tighten further while losing ≥0.8–1 kg/week
 
 ### Week 2 derived (18 Oct)
 - Weight vs W1: **−0.6 kg** · vs W0: **−3.0 kg** (~3 weeks)
