@@ -307,3 +307,16 @@ With sandwich → **~895 / 53 / 87 / 38**.
 
 **Shortcut line:** `Food Log | Light Cafe 2 veggie dumplings | 193 | 21 | 24 | 2`  
 **Confidence:** 90–95% sure · both from labels (steam/air-fry dumplings).
+
+---
+
+## 2026-10-25 — Dinner
+
+**Dish:** Memoni Khaosa — noodles, beef curry (no oil), egg, yellow curry.
+
+**Portions:** noodles **200 g** · beef curry **200 g** · 1 egg · yellow curry **70 g** · plate total **546 g** (~26 g likely fried potato/garnish not separately logged).
+
+**Macros:** **719 kcal · P 54 · C 68 · F 28**
+
+**Shortcut line:** `Food Log | Memoni Khaosa | 719 | 54 | 68 | 28`  
+**Confidence:** 70–78% sure · yellow curry composition + possible fried topping estimated.
