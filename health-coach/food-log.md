@@ -320,3 +320,14 @@ With sandwich → **~895 / 53 / 87 / 38**.
 
 **Shortcut line:** `Food Log | Memoni Khaosa | 719 | 54 | 68 | 28`  
 **Confidence:** 70–78% sure · yellow curry composition + possible fried topping estimated.
+
+---
+
+## 2026-10-25 — Snack
+
+**Dish:** 1×1 inch dark chocolate (~10 g).
+
+**Macros:** **55 kcal · P 1 · C 5 · F 4**
+
+**Shortcut line:** `Food Log | Dark chocolate 1x1 inch | 55 | 1 | 5 | 4`  
+**Confidence:** 75–85% sure · size→grams estimated.
