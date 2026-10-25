@@ -344,3 +344,16 @@ With sandwich → **~895 / 53 / 87 / 38**.
 
 **Shortcut line:** `Food Log | Air fryer chicken nuggets | 324 | 44 | 14 | 12`  
 **Confidence:** 72–80% sure · homemade breast nuggets assumed (not frozen pack).
+
+---
+
+## 2026-10-25 — Dinner
+
+**Dish:** Bhindi gosht + 2.5 roti (unweighed).
+
+**Estimate:** ~1 plate gosht (~220 g, household low oil) · 2.5 medium house roti.
+
+**Macros:** **570 kcal · P 36 · C 62 · F 21**
+
+**Shortcut line:** `Food Log | Bhindi gosht 2.5 roti | 570 | 36 | 62 | 21`  
+**Confidence:** 65–75% sure · no scale weights; oil/meat share estimated.
