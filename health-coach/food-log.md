@@ -357,3 +357,14 @@ With sandwich → **~895 / 53 / 87 / 38**.
 
 **Shortcut line:** `Food Log | Bhindi gosht 2.5 roti | 570 | 36 | 62 | 21`  
 **Confidence:** 65–75% sure · no scale weights; oil/meat share estimated.
+
+---
+
+## 2026-10-25 — Evening
+
+**Dish:** Critical Whey Frappuccino (1 serving).
+
+**Macros:** **130 kcal · P 24 · C 4 · F 2**
+
+**Shortcut line:** `Food Log | Critical Whey Frappuccino | 130 | 24 | 4 | 2`  
+**Confidence:** 92–95% sure.
