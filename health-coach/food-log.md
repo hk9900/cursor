@@ -379,3 +379,16 @@ With sandwich → **~895 / 53 / 87 / 38**.
 
 **Shortcut line:** `Food Log | GY mix Buondi | 233 | 25 | 19 | 6`  
 **Confidence:** 85–90% sure · 1 scoop = half jar serving (16.5 g).
+
+---
+
+## 2026-10-26 — Meal
+
+**Dish:** Air-fryer chicken nuggets + haleem (lean, no oil).
+
+**Portions:** nuggets **147 g** · haleem **347 g**.
+
+**Macros:** **793 kcal · P 82 · C 68 · F 24**
+
+**Shortcut line:** `Food Log | Chicken nuggets haleem | 793 | 82 | 68 | 24`  
+**Confidence:** 75–82% sure.
