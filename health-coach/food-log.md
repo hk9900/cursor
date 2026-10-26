@@ -392,3 +392,14 @@ With sandwich → **~895 / 53 / 87 / 38**.
 
 **Shortcut line:** `Food Log | Chicken nuggets haleem | 792 | 82 | 68 | 24`  
 **Confidence:** 75–82% sure.
+
+---
+
+## 2026-10-26 — Drink
+
+**Dish:** Continente Light Café (protein coffee 250 ml).
+
+**Macros:** **135 kcal · P 20 · C 13 · F 1**
+
+**Shortcut line:** `Food Log | Continente Light Cafe | 135 | 20 | 13 | 1`  
+**Confidence:** 92–95% sure.
