@@ -368,3 +368,14 @@ With sandwich → **~895 / 53 / 87 / 38**.
 
 **Shortcut line:** `Food Log | Critical Whey Frappuccino | 130 | 24 | 4 | 2`  
 **Confidence:** 92–95% sure.
+
+---
+
+## 2026-10-26 — Breakfast
+
+**Dish:** 200 g Mythos GY + 1 tbsp granola + 2 strawberries + 1 scoop Chocolate whey · Buondi + 1 tsp Canderel.
+
+**Macros:** **233 kcal · P 25 · C 19 · F 6**
+
+**Shortcut line:** `Food Log | GY mix Buondi | 233 | 25 | 19 | 6`  
+**Confidence:** 85–90% sure · 1 scoop = half jar serving (16.5 g).
