@@ -403,3 +403,16 @@ With sandwich → **~895 / 53 / 87 / 38**.
 
 **Shortcut line:** `Food Log | Continente Light Cafe | 135 | 20 | 13 | 1`  
 **Confidence:** 92–95% sure.
+
+---
+
+## 2026-10-26 — Dinner
+
+**Dish:** Aloo qeema (~10% aloo / 90% qeema) + 2 roti.
+
+**Estimate:** ~180 g qeema mix (low oil) · 2 medium house roti.
+
+**Macros:** **542 kcal · P 42 · C 47 · F 24**
+
+**Shortcut line:** `Food Log | Aloo qeema 2 roti | 542 | 42 | 47 | 24`  
+**Confidence:** 65–75% sure · qeema unweighed; 10% aloo noted.
