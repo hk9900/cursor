@@ -388,7 +388,7 @@ With sandwich → **~895 / 53 / 87 / 38**.
 
 **Portions:** nuggets **147 g** · haleem **347 g**.
 
-**Macros:** **793 kcal · P 82 · C 68 · F 24**
+**Macros:** **792 kcal · P 82 · C 68 · F 24**
 
-**Shortcut line:** `Food Log | Chicken nuggets haleem | 793 | 82 | 68 | 24`  
+**Shortcut line:** `Food Log | Chicken nuggets haleem | 792 | 82 | 68 | 24`  
 **Confidence:** 75–82% sure.
