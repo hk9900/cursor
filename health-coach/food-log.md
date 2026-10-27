@@ -421,9 +421,9 @@ With sandwich → **~895 / 53 / 87 / 38**.
 
 ## 2026-10-27 — Breakfast
 
-**Dish:** 200 g GY mix (usual: GY + granola + berries + whey).
+**Dish:** 200 g Mythos GY + 1–2 tbsp granola + 3 strawberries + 1 scoop Chocolate whey.
 
-**Macros:** **160 kcal · P 16 · C 14 · F 4**
+**Macros:** **257 kcal · P 25 · C 24 · F 7** (granola midpoint 1.5 tbsp)
 
-**Shortcut line:** `Food Log | GY mix | 160 | 16 | 14 | 4`  
-**Confidence:** 78–85% sure · prior mix density.
+**Shortcut line:** `Food Log | GY granola strawberries whey | 257 | 25 | 24 | 7`  
+**Confidence:** 85–90% sure · 1 scoop = half jar serving.
