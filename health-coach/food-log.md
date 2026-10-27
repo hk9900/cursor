@@ -451,3 +451,14 @@ With sandwich → **~895 / 53 / 87 / 38**.
 
 **Shortcut line:** `Food Log | Chicken 65 rice dal meethi dahi boondi | 625 | 51 | 78 | 11`  
 **Confidence:** 75–82% sure · dahi-boondi ratio estimated.
+
+---
+
+## 2026-10-27 — Evening
+
+**Dish:** Critical Whey Frappuccino (1 serving).
+
+**Macros:** **130 kcal · P 24 · C 4 · F 2**
+
+**Shortcut line:** `Food Log | Critical Whey Frappuccino | 130 | 24 | 4 | 2`  
+**Confidence:** 92–95% sure.
