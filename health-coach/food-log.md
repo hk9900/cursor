@@ -427,3 +427,14 @@ With sandwich → **~895 / 53 / 87 / 38**.
 
 **Shortcut line:** `Food Log | GY granola strawberries whey | 257 | 25 | 24 | 7`  
 **Confidence:** 85–90% sure · 1 scoop = half jar serving.
+
+---
+
+## 2026-10-27 — Lunch
+
+**Dish:** Aloo qeema (~10% aloo) + 2 roti (same as 26 Oct).
+
+**Macros:** **542 kcal · P 42 · C 47 · F 24**
+
+**Shortcut line:** `Food Log | Aloo qeema 2 roti | 542 | 42 | 47 | 24`  
+**Confidence:** 65–75% sure · same unweighed estimate.
