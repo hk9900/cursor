@@ -416,3 +416,14 @@ With sandwich → **~895 / 53 / 87 / 38**.
 
 **Shortcut line:** `Food Log | Aloo qeema 2 roti | 542 | 42 | 47 | 24`  
 **Confidence:** 65–75% sure · qeema unweighed; 10% aloo noted.
+
+---
+
+## 2026-10-27 — Breakfast
+
+**Dish:** 200 g GY mix (usual: GY + granola + berries + whey).
+
+**Macros:** **160 kcal · P 16 · C 14 · F 4**
+
+**Shortcut line:** `Food Log | GY mix | 160 | 16 | 14 | 4`  
+**Confidence:** 78–85% sure · prior mix density.
