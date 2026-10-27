@@ -438,3 +438,16 @@ With sandwich → **~895 / 53 / 87 / 38**.
 
 **Shortcut line:** `Food Log | Aloo qeema 2 roti | 542 | 42 | 47 | 24`  
 **Confidence:** 65–75% sure · same unweighed estimate.
+
+---
+
+## 2026-10-27 — Dinner
+
+**Dish:** Air-fryer chicken 65 (breast) + white rice + masoor dal (no oil/tarka) + meethi dahi boondi (sucralose).
+
+**Portions:** chicken **100 g** · rice **100 g** · dal **164 g** · meethi dahi boondi **100 g**.
+
+**Macros:** **625 kcal · P 51 · C 78 · F 11**
+
+**Shortcut line:** `Food Log | Chicken 65 rice dal meethi dahi boondi | 625 | 51 | 78 | 11`  
+**Confidence:** 75–82% sure · dahi-boondi ratio estimated.
