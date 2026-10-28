@@ -462,3 +462,14 @@ With sandwich → **~895 / 53 / 87 / 38**.
 
 **Shortcut line:** `Food Log | Critical Whey Frappuccino | 130 | 24 | 4 | 2`  
 **Confidence:** 92–95% sure.
+
+---
+
+## 2026-10-28 — Breakfast
+
+**Dish:** Usual GY mix (200 g GY + granola + strawberries + 1 scoop chocolate whey) + 1 chai.
+
+**Macros:** **351 kcal · P 32 · C 34 · F 10**
+
+**Shortcut line:** `Food Log | GY mix chai | 351 | 32 | 34 | 10`  
+**Confidence:** 85–90% sure.
