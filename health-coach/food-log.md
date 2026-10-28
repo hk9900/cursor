@@ -1457,3 +1457,19 @@ With sandwich → **~895 / 53 / 87 / 38**.
 
 **Shortcut line:** `Food Log | GY mix chai | 351 | 32 | 34 | 10`  
 **Confidence:** 85–90% sure.
+
+## 2026-10-28 — Lunch/Dinner
+
+**Dish:** Air-fryer-style chicken 65 (breast) + white rice + kali masoor dal (no oil/tarka assumed).
+
+**Portions:** chicken 65 **124 g** · white rice **150 g** · kali masoor **100 g**.
+
+**Macros:** **525 kcal · P 49 · C 65 · F 7**  
+(Chicken 65 ~217/36/5/6 · rice ~195/4/42/0 · dal ~115/9/18/1.)
+
+**Shortcut line:** `Food Log | Chicken 65 rice kali masoor | 525 | 49 | 65 | 7`  
+**Confidence:** 78–85% sure · weighed grams; chicken method assumed air-fryer/spray like 27 Oct — say if deep-fried.
+
+**Notes:** Solid cut plate — rice within 200 g cap; protein strong from chicken + dal.
+
+---
