@@ -1491,3 +1491,18 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** Strong protein night. Roti count on cap (2). If gosht gravy was heavy, fat could be +5–10.
 
 ---
+
+## 2026-10-28 — Dessert
+
+**Dish:** Burger King King Fusion Kit Kat (1 cup).
+
+**Portion:** **1** cup (EU/Spain nutrition — closest to Lisbon).
+
+**Macros:** **339 kcal · P 6 · C 48 · F 13**
+
+**Shortcut line:** `Food Log | King Fusion Kit Kat | 339 | 6 | 48 | 13`  
+**Confidence:** 80–88% sure · BK Spain/EU listing; Portugal may vary slightly.
+
+**Notes:** High sugar dessert · little protein. Rare treat — don’t stack with a second cup.
+
+---
