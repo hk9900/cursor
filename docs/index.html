@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Hassan · Health Coach</title>
+    <meta
+      name="description"
+      content="Hassan Khan cut dashboard — weight, Fitbit energy, food log, recovery, plan."
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,700&family=Outfit:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.7/dist/chart.umd.min.js" defer></script>
+    <script src="data.js" defer></script>
+    <script src="app.js" defer></script>
+  </head>
+  <body>
+    <div class="atmosphere" aria-hidden="true"></div>
+
+    <header class="hero">
+      <p class="brand">Hassan</p>
+      <h1>Health Coach</h1>
+      <p class="lede">
+        Cut dashboard · Fitbit Air · Apple Food Log · Lisbon · through 28 Oct
+        2026
+      </p>
+      <div class="hero-stats" id="hero-stats"></div>
+    </header>
+
+    <nav class="tabs" role="tablist" aria-label="Dashboard sections">
+      <button type="button" role="tab" aria-selected="true" data-tab="overview">
+        Overview
+      </button>
+      <button type="button" role="tab" aria-selected="false" data-tab="energy">
+        Energy
+      </button>
+      <button type="button" role="tab" aria-selected="false" data-tab="body">
+        Body
+      </button>
+      <button type="button" role="tab" aria-selected="false" data-tab="food">
+        Food Log
+      </button>
+      <button type="button" role="tab" aria-selected="false" data-tab="recovery">
+        Recovery
+      </button>
+      <button type="button" role="tab" aria-selected="false" data-tab="plan">
+        Plan
+      </button>
+    </nav>
+
+    <main>
+      <section id="panel-overview" class="panel active" role="tabpanel"></section>
+      <section id="panel-energy" class="panel" role="tabpanel" hidden></section>
+      <section id="panel-body" class="panel" role="tabpanel" hidden></section>
+      <section id="panel-food" class="panel" role="tabpanel" hidden></section>
+      <section id="panel-recovery" class="panel" role="tabpanel" hidden></section>
+      <section id="panel-plan" class="panel" role="tabpanel" hidden></section>
+    </main>
+
+    <footer class="site-foot">
+      <p>
+        Data through 2026-10-28 · BMR ~2,070 at 111.5 kg · TDEE Fitbit
+        ~2,800–3,100 · Hosted on GitHub Pages
+      </p>
+    </footer>
+  </body>
+</html>
