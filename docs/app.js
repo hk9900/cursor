@@ -169,7 +169,7 @@
       stat(String(HC.labels.length), "Shelf labels"),
     ].join("");
     document.getElementById("foot-meta").textContent =
-      `${HC.totals.meals} meals · ${HC.totals.days} days · ${HC.labels.length} labels · ${HC.recipes.length} recipes · through ${HC.meta.through}`;
+      `${HC.totals.meals} meals · ${HC.totals.days} days · ${HC.labels.length} labels · ${HC.recipes.length} recipes · through ${HC.meta.through} · site ${HC.meta.siteUpdated || HC.meta.through}`;
   }
 
   function renderOverview() {
@@ -261,31 +261,61 @@
 
   function renderEnergy() {
     const root = document.getElementById("panel-energy");
+    const ex = HC.export || {};
     const burnAll = avg(HC.burn);
     const activeAll = avg(HC.active);
     const stepsAll = avg(HC.steps);
+    const azmAvg = ex.azmMinutes ? avg(ex.azmMinutes) : 0;
     const fitbitRows = HC.fitbitDays.map((d, i) => [
       d, String(HC.burn[i]), String(HC.active[i]), HC.steps[i].toLocaleString(), String(HC.rhr[i]),
     ]);
     const energyRows = HC.energyDays.map((d, i) => [
       d, String(HC.intake[i]), String(HC.proteinApple[i]), String(HC.burnOnIntake[i]), String(HC.deficit[i]),
     ]);
+    const exportRows = (ex.days || []).map((d, i) => [
+      d.slice(5),
+      String(ex.calories?.[i] ?? "—"),
+      (ex.steps?.[i] ?? 0).toLocaleString(),
+      String(ex.distanceKm?.[i] ?? "—"),
+      String(ex.azmMinutes?.[i] ?? "—"),
+      String(ex.veryActive?.[i] ?? "—"),
+      String(ex.fairlyActive?.[i] ?? "—"),
+      String(ex.lightlyActive?.[i] ?? "—"),
+      String(ex.rhr?.[i] ?? "—"),
+    ]);
+    const exRows = (ex.exercises || []).map((e) => [
+      e.date, e.name, String(e.kcal ?? "—"), String(e.minutes ?? "—"),
+      String(e.steps ?? "—"), String(e.azm ?? "—"),
+    ]);
     root.innerHTML = `
       <div class="stack">
         <div class="grid-4">
           ${stat(`~${burnAll}`, "Avg total burn")}
-          ${stat(`~${activeAll}`, "Avg active")}
+          ${stat(`~${activeAll}`, "Avg active kcal")}
           ${stat(`~${stepsAll.toLocaleString()}`, "Avg steps")}
-          ${stat("~2,070", "BMR @ 111.5")}
+          ${stat(`~${azmAvg}`, "Avg AZM min (V+F)")}
         </div>
         ${chartCard("Total vs active burn", "Fitbit · Sep 23 – Oct 13", "c-burn")}
         ${chartCard("Steps", "Fitbit Physical Activity", "c-steps", true)}
+        ${chartCard("Distance (km)", "Fitbit export · cm→km", "c-distance", true)}
+        ${chartCard("Active zone minutes (very + fairly)", "Proxy AZM from activity minutes", "c-azm", true)}
+        ${chartCard("Activity minutes stacked", "Very / fairly / lightly", "c-act-min")}
+        ${chartCard("Heart-rate zone minutes", "Fitbit zones · export", "c-hr-zones")}
         ${chartCard("Intake vs burn", "Apple Dietary Energy days", "c-intake-burn")}
         ${chartCard("Apple protein (g)", "Target 150–170", "c-protein-apple", true)}
-        ${tableCard("Every Fitbit day", "Burn · active · steps · RHR", [
+        ${tableCard("Logged exercises", "Fitbit exercise-0 export", [
+          { label: "Date" }, { label: "Activity" }, { label: "kcal", num: true },
+          { label: "Min", num: true }, { label: "Steps", num: true }, { label: "AZM", num: true },
+        ], exRows, [], true)}
+        ${tableCard("Every Fitbit day (dashboard series)", "Burn · active · steps · RHR", [
           { label: "Date" }, { label: "Burn", num: true }, { label: "Active", num: true },
           { label: "Steps", num: true }, { label: "RHR", num: true },
         ], fitbitRows, [], true)}
+        ${tableCard("Full export day table", "Calories · steps · km · AZM · activity · RHR", [
+          { label: "Date" }, { label: "kcal", num: true }, { label: "Steps", num: true },
+          { label: "km", num: true }, { label: "AZM", num: true }, { label: "Very", num: true },
+          { label: "Fair", num: true }, { label: "Light", num: true }, { label: "RHR", num: true },
+        ], exportRows, [], true)}
         ${tableCard("Every Apple intake day", "Intake · P · burn · deficit", [
           { label: "Date" }, { label: "Intake", num: true }, { label: "P", num: true },
           { label: "Burn", num: true }, { label: "Deficit", num: true },
@@ -302,6 +332,22 @@
       { label: "Active burn", data: HC.active, color: good, fill: good + "14" },
     ]);
     barChart("c-steps", HC.fitbitDays, [{ label: "Steps", data: HC.steps, color: info }]);
+    if (ex.dayLabels) {
+      lineChart("c-distance", ex.dayLabels, [
+        { label: "km", data: ex.distanceKm, color: accent, fill: accent + "14" },
+      ]);
+      barChart("c-azm", ex.dayLabels, [{ label: "AZM min", data: ex.azmMinutes, color: good }]);
+      barChart("c-act-min", ex.dayLabels, [
+        { label: "Very", data: ex.veryActive, color: "#9b2c2c" },
+        { label: "Fairly", data: ex.fairlyActive, color: warn },
+        { label: "Lightly", data: ex.lightlyActive, color: info },
+      ], { stacked: true });
+      barChart("c-hr-zones", ex.dayLabels, [
+        { label: "Zone 1", data: ex.zone1, color: info },
+        { label: "Zone 2", data: ex.zone2, color: warn },
+        { label: "Zone 3", data: ex.zone3, color: "#9b2c2c" },
+      ], { stacked: true });
+    }
     barChart("c-intake-burn", HC.energyDays, [
       { label: "Intake", data: HC.intake, color: warn },
       { label: "Burn", data: HC.burnOnIntake, color: info },
@@ -366,6 +412,7 @@
       String(m.p),
       String(m.c),
       String(m.f),
+      m.notes || m.portions || "—",
       m.backfill ? "est." : "live",
     ]);
   }
@@ -412,11 +459,12 @@
         `${list.length} meals · ${sumK.toLocaleString()} kcal · ${sumP} g protein`;
       document.getElementById("meal-table").innerHTML = tableCard(
         "Complete Food Log",
-        "Every entry from health-coach/food-log.md",
+        "Every entry from health-coach/food-log.md · notes when present",
         [
           { label: "Date" }, { label: "Slot" }, { label: "Dish" },
           { label: "kcal", num: true }, { label: "P", num: true },
-          { label: "C", num: true }, { label: "F", num: true }, { label: "Src" },
+          { label: "C", num: true }, { label: "F", num: true },
+          { label: "Notes" }, { label: "Src" },
         ],
         mealRows(list),
         [],
@@ -498,30 +546,59 @@
 
   function renderRecovery() {
     const root = document.getElementById("panel-recovery");
+    const sleep = HC.sleep || {};
+    const vo2 = (HC.export && HC.export.vo2) || [];
+    const sleepRows = (sleep.rows || []).map((s) => [
+      s.date,
+      String(s.asleep ?? "—"),
+      String(s.deep ?? "—"),
+      String(s.rem ?? "—"),
+      String(s.efficiency ?? "—"),
+      String(s.inBed ?? "—"),
+    ]);
     root.innerHTML = `
       <div class="stack">
         <div class="grid-4">
           ${stat("86 → 78", "RHR trend", "good")}
-          ${stat("73–86", "Sleep scores")}
+          ${stat(String((sleep.rows || []).length), "Sleep nights in export")}
           ${stat("A+", "Blood type")}
           ${stat("6–8 h", "Sleep aim")}
         </div>
         ${chartCard("Resting heart rate", "Fitbit Daily RHR", "c-rhr")}
-        ${chartCard("Sleep score & deep sleep", "Sparse Fitbit nights", "c-sleep")}
-        ${tableCard("Sleep nights", "", [
-          { label: "Night" }, { label: "Score", num: true }, { label: "Deep min", num: true },
-        ], HC.sleep.labels.map((d, i) => [d, String(HC.sleep.score[i]), String(HC.sleep.deep[i])]))}
+        ${chartCard("Minutes asleep", "Fitbit sleep export (main nights)", "c-sleep-asleep")}
+        ${chartCard("Deep sleep (min)", "When Fitbit stages available", "c-sleep-deep", true)}
+        ${chartCard("Sleep efficiency %", "Fitbit", "c-sleep-eff", true)}
+        ${vo2.length ? chartCard("Demographic VO₂ max", "Fitbit estimate", "c-vo2", true) : ""}
+        ${tableCard("All sleep nights", "Asleep · deep · REM · efficiency · in bed", [
+          { label: "Date" }, { label: "Asleep", num: true }, { label: "Deep", num: true },
+          { label: "REM", num: true }, { label: "Eff %", num: true }, { label: "In bed", num: true },
+        ], sleepRows, [], true)}
         ${tableCard("RHR every day", "", [
           { label: "Date" }, { label: "RHR", num: true },
         ], HC.fitbitDays.map((d, i) => [d, String(HC.rhr[i])]), [], true)}
+        ${tableCard("VO₂ max estimates", "", [
+          { label: "Date" }, { label: "VO₂", num: true },
+        ], vo2.map((v) => [v.date, String(v.vo2)]), [], true)}
       </div>`;
     lineChart("c-rhr", HC.fitbitDays, [
       { label: "RHR", data: HC.rhr, color: "#9b2c2c", fill: "#9b2c2c18" },
     ], { beginAtZero: false, min: 74, max: 88 });
-    lineChart("c-sleep", HC.sleep.labels, [
-      { label: "Score", data: HC.sleep.score, color: info },
-      { label: "Deep (min)", data: HC.sleep.deep, color: good },
-    ], { beginAtZero: false });
+    if (sleep.labels?.length) {
+      lineChart("c-sleep-asleep", sleep.labels, [
+        { label: "Asleep (min)", data: sleep.asleep, color: info, fill: info + "14" },
+      ]);
+      barChart("c-sleep-deep", sleep.labels, [
+        { label: "Deep (min)", data: sleep.deep, color: good },
+      ]);
+      lineChart("c-sleep-eff", sleep.labels, [
+        { label: "Efficiency %", data: sleep.efficiency, color: accent },
+      ], { beginAtZero: false, min: 70, max: 100 });
+    }
+    if (vo2.length) {
+      lineChart("c-vo2", vo2.map((v) => v.date.slice(5)), [
+        { label: "VO₂", data: vo2.map((v) => v.vo2), color: warn, fill: warn + "14" },
+      ], { beginAtZero: false });
+    }
   }
 
   function renderPlan() {

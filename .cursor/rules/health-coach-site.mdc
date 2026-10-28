@@ -1,0 +1,51 @@
+---
+description: Keep Hassan Health Coach GitHub Pages site in sync whenever new health data arrives
+globs:
+  - health-coach/**
+  - docs/**
+alwaysApply: true
+---
+
+# Health Coach site — never leave it stale
+
+Hassan’s public dashboard lives at **https://hk9900.github.io/cursor/**  
+Source: repo `docs/` (static HTML/JS). Deployed by `.github/workflows/pages.yml` on push to `main` or `cursor/health-coach`.
+
+## When this rule fires
+
+Any time the user (or chat) provides **new** Health Coach data, update **both** the markdown sources **and** the site in the same turn — do not stop at logging only.
+
+Triggers include:
+- Food Log / meal photo / macros / `shortcuts://` log
+- Pack nutrition label photo or “save this label”
+- Recipe / household cook change (oil, spray, staples)
+- Sunday weigh-in / tape / weekly Notes table
+- Fitbit / Google / Apple Health export
+- Labs, supplements, targets, profile facts
+- Coaching decisions that change locked rules (oil, roti/rice caps, kcal band)
+
+## Required write set
+
+1. **Canonical markdown** under `health-coach/` as appropriate:
+   - `food-log.md` — meal blocks  
+   - `labels.md` — pack macros  
+   - `recipes.md` — household methods  
+   - `weekly-metrics.md` — Sunday table  
+   - `profile.md` — identity, locked cut rules, current metrics  
+2. **Site data:** regenerate / patch `docs/data.js` so `window.HC` includes the new facts (meals, labels, recipes, weeks, Fitbit series, profile text, `meta.through` / `meta.siteUpdated`).  
+3. **Site UI** (`docs/app.js`, `docs/index.html`, `docs/styles.css`) only if a new data shape needs a chart, column, or tab.  
+4. **Commit + push** on a `cursor/<name>-1743` branch and open/update the PR into `cursor/health-coach` so Pages can deploy.
+
+## Locked coaching facts (don’t regress)
+
+- Food band **1,550–1,800** (prefer ~1,650) · protein **150–170 g**
+- Starch: ≤**2 roti** or ≤**200 g** Qilla rice — not both · Ashirwad chakki atta
+- Oil default **1–1.5 tbsp/pot** or **1 spray** when he says so (not old 5–7 tbsp unless he reverts)
+- Daal/lobia = good staples · tostas rare · haleem 1–2×/month
+- Food Log format + Apple Health Shortcut unchanged
+
+## Do not
+
+- Skip the site update because “markdown is enough”
+- Invent Fitbit days past the last export without a new dump
+- Publish physique photos to the public Pages site unless he explicitly asks

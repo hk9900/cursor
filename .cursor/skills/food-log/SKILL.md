@@ -17,11 +17,13 @@ User sends a **meal photo**, describes a plate, or asks to **log / estimate** fo
 ## Context to load first
 
 1. Read `/cursor/stores/self/artifacts/health-coach-profile.md` if present.
-2. Read recipe / profile notes under `health-coach/` in the repo — especially `health-coach/recipes.md`.
+2. Read recipe / profile notes under `health-coach/` in the repo — especially `health-coach/recipes.md`, `labels.md`, `profile.md`.
 3. Use prior meal history in the thread (e.g. **Paltay salan = chickpea flour / besan**, not fish).
 4. Prefer **his kitchen defaults** and **named recipes in recipes.md** over generic restaurant DB entries.
-   - Oil default (**locked until user says changed**): **~2 dish spoons/recipe**; 1 dish spoon ≈ **2.5–3.5 tbsp** → ~**5–7 tbsp oil/pot**. Use ~6 tbsp/pot midpoint for estimates.
+   - Oil default (**current cut, locked**): **1–1.5 tbsp/pot** or **1 spray** when he says spray/no oil. Older household pots were ~2 dish spoons ≈ 5–7 tbsp — only use that if he says the pot changed back.
+   - Starch: ≤**2 roti** or ≤**200 g** Qilla rice — not both (Ashirwad chakki atta).
 5. Optionally web-search unfamiliar dishes — still adjust to **his portion and oil**.
+6. After logging: mirror into `health-coach/food-log.md` **and** refresh `docs/data.js` for Pages (see `.cursor/rules/health-coach-site.mdc`).
 
 ## Workflow
 
