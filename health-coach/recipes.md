@@ -3,11 +3,10 @@
 Source: family notes (Roman Urdu), trained 24 Sep 2026.  
 Household defaults: pot often feeds **2 adults + toddler** with **50–100% leftovers**.
 
-**Oil (locked until user says it changed):** usually **~2 dish spoons per recipe**.  
-1 dish spoon ≈ **2.5–3.5 tbsp** → 2 dish spoons ≈ **5–7 tbsp** oil/pot  
-≈ **600–840 kcal oil per pot** (~120 kcal/tbsp), shared across servings + leftovers.  
-His typical share of pot oil often ~**200–350 kcal** depending on how much gravy/salan he takes (not counting starch).  
-Use midpoint **~3 tbsp per dish spoon** (6 tbsp/pot ≈ **720 kcal oil**) unless photo looks unusually dry/oily.
+**Oil (updated Oct 2026):** household uses **~1–1.5 tbsp oil per whole cooking pot** (was ~2 dish spoons ≈ 5–7 tbsp).  
+≈ **120–180 kcal oil per pot** (~120 kcal/tbsp), shared across servings + leftovers.  
+His typical share of pot oil often ~**30–70 kcal** depending on gravy amount (not counting starch).  
+Use midpoint **~1.25 tbsp/pot (~150 kcal oil)** unless photo looks unusually dry/oily.
 
 **Units:** 1 pao ≈ 250 g. Pao chamach ≈ ¼ tsp/tbsp in context.
 
@@ -88,20 +87,24 @@ Use midpoint **~3 tbsp per dish spoon** (6 tbsp/pot ≈ **720 kcal oil**) unless
 - Freeze 5–10 min → **shallow fry**; don’t disturb while frying.
 - **Log notes:** Fixed protein base 250 g raw chicken for whole batch — ask how many sticks he ate / share of batch. Breadcrumb + shallow fry adds carbs/fat.
 
+## Banana protein pancakes (batch of 4)
+- Source: shared recipe 2026-10-24 · adapted to **Critical Whey** (not Impact)
+- **Ingredients (whole batch):** 1 large ripe banana · 2 large eggs · **1 serving Critical Whey** (2 scoops / 33 g — Chocolate or Frappuccino) · **~35 g rolled oats** (1 rounded oat scoop / ~⅓ cup) · pan **1 spray** oil
+- Method: blend banana+eggs smooth → add whey+oats → blend · medium heat non-stick · 4 pancakes (~5″) · flip when bubbles
+- **Honest macros (batch):** ~**520 kcal · P 43 · C 58 · F 14** (Chocolate whey) · +spray ~5
+- **Per pancake (÷4):** ~**130 kcal · P 11 · C 15 · F 4**
+- Recipe card claiming **115 kcal / 15 g P each** undercounts protein powder math — use numbers above
+- Quick log: `N banana protein pancakes` → N × **130 / 11 / 15 / 4** · full batch `4 pancakes` → **520 / 43 / 58 / 14**
+- Cut tip: great breakfast; skip syrup — berries + Canderel if you want sweet
+
 ---
 
 ## Logging priorities (from these recipes)
-1. **Oil / baghaar / shallow-fry** — #1 lever. Default **2 dish spoons/pot** (= ~5–7 tbsp). Dry dishes (qatliyan, bhindi, khara qeema) hold more of that oil on the plate.
-2. **Starch** — chawal dishes, roti on side, haleem density.
+1. **Starch** — chawal dishes, roti on side, haleem density. Now the #1 calorie lever (oil is low).
+2. **Oil / baghaar / shallow-fry** — default **1–1.5 tbsp/pot**. Dry dishes (qatliyan, bhindi, khara qeema) still hold more of that oil on the plate.
 3. **Batch fraction** — haleem, dahi baray, chicken sticks, karhi pot.
 
-## Packaged: Continente sliced bread (Portugal)
-- Serving / slice **31.5 g**: **80 kcal · P 2.9 · C 14.2 · F 1.0** (fiber 1.2, salt 0.30)
-- Per 100 g: 254 kcal · P 9.1 · C 45 · F 3.3
-- **Log notes:** Use **80 kcal/slice** when user says slice count. Prefer this over generic bread estimates.
-
-## Packaged: Fulya Merguez (hot dog / sausage)
-- Pack **400 g / 8 pieces** → **~50 g/piece**
-- Label per 100 g: **236 kcal · P 11 · C 6.3 · F 19**
-- Per piece (raw/as labeled): **~118 kcal · P 5.5 · C 3 · F 9.5**
-- **Log notes:** Multiply by piece count. If shallow/deep fried, add extra oil (~40–80 kcal/piece depending on fry). Ask cook method.
+## Packaged foods
+**Canonical pack macros:** `health-coach/labels.md`  
+(Continente bread, Bimbo, tostas, Merguez, Biotech whey, …).  
+Save new nutrition-label photos there; keep homemade recipes in this file.
