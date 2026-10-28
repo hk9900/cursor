@@ -7,7 +7,8 @@ window.HC = {
     "startWeight": 120,
     "heightCm": 180.3,
     "dob": "1991-08-08",
-    "city": "Lisbon"
+    "city": "Lisbon",
+    "siteUpdated": "2026-10-28"
   },
   "weightCut": {
     "labels": [
@@ -331,28 +332,1063 @@ window.HC = {
   ],
   "sleep": {
     "labels": [
+      "09-24",
       "09-25",
       "09-26",
+      "09-27",
       "09-28",
+      "09-29",
+      "09-30",
+      "10-01",
+      "10-02",
       "10-03",
+      "10-04",
       "10-05",
-      "10-11"
+      "10-06",
+      "10-07",
+      "10-08",
+      "10-09",
+      "10-10",
+      "10-11",
+      "10-12",
+      "10-13",
+      "10-14"
     ],
-    "score": [
-      81,
-      73,
-      76,
-      74,
-      86,
-      82
+    "asleep": [
+      439,
+      500,
+      412,
+      586,
+      478,
+      391,
+      404,
+      596,
+      526,
+      455,
+      319,
+      597,
+      456,
+      404,
+      432,
+      479,
+      651,
+      390,
+      487,
+      461,
+      401
     ],
     "deep": [
+      0,
       109,
       67,
+      0,
       96,
-      72,
+      0,
+      0,
+      0,
+      0,
+      73,
+      0,
       118,
-      80
+      0,
+      0,
+      0,
+      0,
+      0,
+      81,
+      0,
+      0,
+      0
+    ],
+    "efficiency": [
+      94,
+      92,
+      88,
+      95,
+      95,
+      94,
+      97,
+      93,
+      93,
+      94,
+      90,
+      92,
+      94,
+      96,
+      92,
+      91,
+      95,
+      97,
+      95,
+      91,
+      92
+    ],
+    "rows": [
+      {
+        "date": "2026-09-24",
+        "asleep": 439,
+        "awake": 29,
+        "inBed": 468,
+        "efficiency": 94,
+        "deep": null,
+        "rem": null,
+        "main": true
+      },
+      {
+        "date": "2026-09-25",
+        "asleep": 500,
+        "awake": 87,
+        "inBed": 587,
+        "efficiency": 92,
+        "deep": 109,
+        "rem": 75,
+        "main": true
+      },
+      {
+        "date": "2026-09-26",
+        "asleep": 412,
+        "awake": 66,
+        "inBed": 478,
+        "efficiency": 88,
+        "deep": 67,
+        "rem": 75,
+        "main": true
+      },
+      {
+        "date": "2026-09-27",
+        "asleep": 586,
+        "awake": 34,
+        "inBed": 620,
+        "efficiency": 95,
+        "deep": null,
+        "rem": null,
+        "main": true
+      },
+      {
+        "date": "2026-09-28",
+        "asleep": 478,
+        "awake": 67,
+        "inBed": 545,
+        "efficiency": 95,
+        "deep": 96,
+        "rem": 117,
+        "main": true
+      },
+      {
+        "date": "2026-09-29",
+        "asleep": 391,
+        "awake": 25,
+        "inBed": 416,
+        "efficiency": 94,
+        "deep": null,
+        "rem": null,
+        "main": true
+      },
+      {
+        "date": "2026-09-30",
+        "asleep": 404,
+        "awake": 12,
+        "inBed": 416,
+        "efficiency": 97,
+        "deep": null,
+        "rem": null,
+        "main": true
+      },
+      {
+        "date": "2026-10-01",
+        "asleep": 596,
+        "awake": 44,
+        "inBed": 640,
+        "efficiency": 93,
+        "deep": null,
+        "rem": null,
+        "main": true
+      },
+      {
+        "date": "2026-10-02",
+        "asleep": 526,
+        "awake": 41,
+        "inBed": 567,
+        "efficiency": 93,
+        "deep": null,
+        "rem": null,
+        "main": true
+      },
+      {
+        "date": "2026-10-03",
+        "asleep": 455,
+        "awake": 83,
+        "inBed": 538,
+        "efficiency": 94,
+        "deep": 73,
+        "rem": 59,
+        "main": true
+      },
+      {
+        "date": "2026-10-04",
+        "asleep": 319,
+        "awake": 37,
+        "inBed": 356,
+        "efficiency": 90,
+        "deep": null,
+        "rem": null,
+        "main": true
+      },
+      {
+        "date": "2026-10-05",
+        "asleep": 597,
+        "awake": 71,
+        "inBed": 668,
+        "efficiency": 92,
+        "deep": 118,
+        "rem": 173,
+        "main": true
+      },
+      {
+        "date": "2026-10-06",
+        "asleep": 456,
+        "awake": 31,
+        "inBed": 487,
+        "efficiency": 94,
+        "deep": null,
+        "rem": null,
+        "main": true
+      },
+      {
+        "date": "2026-10-07",
+        "asleep": 404,
+        "awake": 15,
+        "inBed": 419,
+        "efficiency": 96,
+        "deep": null,
+        "rem": null,
+        "main": true
+      },
+      {
+        "date": "2026-10-08",
+        "asleep": 432,
+        "awake": 38,
+        "inBed": 470,
+        "efficiency": 92,
+        "deep": null,
+        "rem": null,
+        "main": true
+      },
+      {
+        "date": "2026-10-09",
+        "asleep": 479,
+        "awake": 45,
+        "inBed": 524,
+        "efficiency": 91,
+        "deep": null,
+        "rem": null,
+        "main": true
+      },
+      {
+        "date": "2026-10-10",
+        "asleep": 651,
+        "awake": 31,
+        "inBed": 683,
+        "efficiency": 95,
+        "deep": null,
+        "rem": null,
+        "main": true
+      },
+      {
+        "date": "2026-10-11",
+        "asleep": 390,
+        "awake": 57,
+        "inBed": 447,
+        "efficiency": 97,
+        "deep": 81,
+        "rem": 110,
+        "main": true
+      },
+      {
+        "date": "2026-10-12",
+        "asleep": 487,
+        "awake": 27,
+        "inBed": 514,
+        "efficiency": 95,
+        "deep": null,
+        "rem": null,
+        "main": true
+      },
+      {
+        "date": "2026-10-13",
+        "asleep": 461,
+        "awake": 45,
+        "inBed": 508,
+        "efficiency": 91,
+        "deep": null,
+        "rem": null,
+        "main": true
+      },
+      {
+        "date": "2026-10-14",
+        "asleep": 401,
+        "awake": 36,
+        "inBed": 448,
+        "efficiency": 92,
+        "deep": null,
+        "rem": null,
+        "main": true
+      }
+    ]
+  },
+  "export": {
+    "days": [
+      "2026-09-23",
+      "2026-09-24",
+      "2026-09-25",
+      "2026-09-26",
+      "2026-09-27",
+      "2026-09-28",
+      "2026-09-29",
+      "2026-09-30",
+      "2026-10-01",
+      "2026-10-02",
+      "2026-10-03",
+      "2026-10-04",
+      "2026-10-05",
+      "2026-10-06",
+      "2026-10-07",
+      "2026-10-08",
+      "2026-10-09",
+      "2026-10-10",
+      "2026-10-11",
+      "2026-10-12",
+      "2026-10-13",
+      "2026-10-14"
+    ],
+    "dayLabels": [
+      "09-23",
+      "09-24",
+      "09-25",
+      "09-26",
+      "09-27",
+      "09-28",
+      "09-29",
+      "09-30",
+      "10-01",
+      "10-02",
+      "10-03",
+      "10-04",
+      "10-05",
+      "10-06",
+      "10-07",
+      "10-08",
+      "10-09",
+      "10-10",
+      "10-11",
+      "10-12",
+      "10-13",
+      "10-14"
+    ],
+    "steps": [
+      1138,
+      3689,
+      2430,
+      5884,
+      851,
+      2983,
+      3367,
+      2642,
+      1113,
+      1259,
+      1064,
+      2121,
+      5634,
+      1893,
+      3251,
+      4074,
+      2125,
+      2025,
+      2071,
+      1059,
+      989,
+      1639
+    ],
+    "calories": [
+      2897,
+      2951,
+      2825,
+      3387,
+      2798,
+      3137,
+      2939,
+      2694,
+      2516,
+      2588,
+      2564,
+      2974,
+      3076,
+      3256,
+      2910,
+      3514,
+      3112,
+      2634,
+      2674,
+      3031,
+      2818,
+      1456
+    ],
+    "distanceKm": [
+      0.85,
+      2.75,
+      1.81,
+      4.3,
+      0.63,
+      2.22,
+      2.5,
+      1.97,
+      0.83,
+      0.94,
+      0.79,
+      1.58,
+      4.42,
+      1.41,
+      2.42,
+      3.06,
+      1.58,
+      1.51,
+      1.54,
+      0.79,
+      0.73,
+      1.22
+    ],
+    "veryActive": [
+      4,
+      0,
+      0,
+      32,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      31,
+      44,
+      0,
+      49,
+      18,
+      0,
+      0,
+      29,
+      16,
+      0
+    ],
+    "fairlyActive": [
+      24,
+      0,
+      0,
+      34,
+      9,
+      18,
+      0,
+      0,
+      0,
+      0,
+      0,
+      7,
+      5,
+      11,
+      6,
+      4,
+      10,
+      0,
+      0,
+      13,
+      25,
+      0
+    ],
+    "lightlyActive": [
+      82,
+      143,
+      122,
+      115,
+      78,
+      148,
+      134,
+      101,
+      81,
+      62,
+      64,
+      111,
+      95,
+      100,
+      128,
+      126,
+      125,
+      87,
+      98,
+      91,
+      67,
+      71
+    ],
+    "sedentary": [
+      1295,
+      865,
+      731,
+      781,
+      733,
+      703,
+      881,
+      933,
+      682,
+      871,
+      756,
+      964,
+      641,
+      711,
+      768,
+      898,
+      783,
+      670,
+      895,
+      793,
+      720,
+      311
+    ],
+    "azmMinutes": [
+      28,
+      0,
+      0,
+      66,
+      9,
+      20,
+      0,
+      0,
+      0,
+      0,
+      0,
+      9,
+      36,
+      55,
+      6,
+      53,
+      28,
+      0,
+      0,
+      42,
+      41,
+      0
+    ],
+    "rhr": [
+      87.0,
+      79.44238948822021,
+      78.63880062103271,
+      77.29224300384521,
+      77.16421413421631,
+      78.52047920227051,
+      80.38380336761475,
+      78.88902473449707,
+      76.41549491882324,
+      75.0135498046875,
+      75.84992027282715,
+      77.9216947555542,
+      78.14942264556885,
+      79.20788955688477,
+      81.34125804901123,
+      81.115234375,
+      80.78929710388184,
+      79.30046272277832,
+      78.76954174041748,
+      78.89702892303467,
+      77.94579124450684,
+      77.85736846923828
+    ],
+    "zone1": [
+      326.0,
+      392.0,
+      466.0,
+      716.0,
+      516.0,
+      611.0,
+      436.0,
+      327.0,
+      249.0,
+      468.0,
+      363.0,
+      649.0,
+      562.0,
+      637.0,
+      601.0,
+      459.0,
+      663.0,
+      359.0,
+      381.0,
+      351.0,
+      324.0,
+      0
+    ],
+    "zone2": [
+      1.0,
+      11.0,
+      0.0,
+      53.0,
+      4.0,
+      28.0,
+      14.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      3.0,
+      25.0,
+      49.0,
+      7.0,
+      21.0,
+      10.0,
+      3.0,
+      5.0,
+      12.0,
+      10.0,
+      0
+    ],
+    "zone3": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      4.0,
+      2.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0
+    ],
+    "belowZone": [
+      311.0,
+      1027.0,
+      967.0,
+      671.0,
+      919.0,
+      699.0,
+      965.0,
+      1113.0,
+      1183.0,
+      971.0,
+      1077.0,
+      709.0,
+      835.0,
+      752.0,
+      795.0,
+      938.0,
+      767.0,
+      1078.0,
+      785.0,
+      1077.0,
+      1106.0,
+      0
+    ],
+    "sleep": [
+      {
+        "date": "2026-09-24",
+        "asleep": 439,
+        "awake": 29,
+        "inBed": 468,
+        "efficiency": 94,
+        "deep": null,
+        "rem": null,
+        "main": true
+      },
+      {
+        "date": "2026-09-25",
+        "asleep": 500,
+        "awake": 87,
+        "inBed": 587,
+        "efficiency": 92,
+        "deep": 109,
+        "rem": 75,
+        "main": true
+      },
+      {
+        "date": "2026-09-26",
+        "asleep": 412,
+        "awake": 66,
+        "inBed": 478,
+        "efficiency": 88,
+        "deep": 67,
+        "rem": 75,
+        "main": true
+      },
+      {
+        "date": "2026-09-27",
+        "asleep": 586,
+        "awake": 34,
+        "inBed": 620,
+        "efficiency": 95,
+        "deep": null,
+        "rem": null,
+        "main": true
+      },
+      {
+        "date": "2026-09-28",
+        "asleep": 478,
+        "awake": 67,
+        "inBed": 545,
+        "efficiency": 95,
+        "deep": 96,
+        "rem": 117,
+        "main": true
+      },
+      {
+        "date": "2026-09-29",
+        "asleep": 391,
+        "awake": 25,
+        "inBed": 416,
+        "efficiency": 94,
+        "deep": null,
+        "rem": null,
+        "main": true
+      },
+      {
+        "date": "2026-09-30",
+        "asleep": 404,
+        "awake": 12,
+        "inBed": 416,
+        "efficiency": 97,
+        "deep": null,
+        "rem": null,
+        "main": true
+      },
+      {
+        "date": "2026-10-01",
+        "asleep": 596,
+        "awake": 44,
+        "inBed": 640,
+        "efficiency": 93,
+        "deep": null,
+        "rem": null,
+        "main": true
+      },
+      {
+        "date": "2026-10-02",
+        "asleep": 526,
+        "awake": 41,
+        "inBed": 567,
+        "efficiency": 93,
+        "deep": null,
+        "rem": null,
+        "main": true
+      },
+      {
+        "date": "2026-10-03",
+        "asleep": 455,
+        "awake": 83,
+        "inBed": 538,
+        "efficiency": 94,
+        "deep": 73,
+        "rem": 59,
+        "main": true
+      },
+      {
+        "date": "2026-10-04",
+        "asleep": 319,
+        "awake": 37,
+        "inBed": 356,
+        "efficiency": 90,
+        "deep": null,
+        "rem": null,
+        "main": true
+      },
+      {
+        "date": "2026-10-05",
+        "asleep": 597,
+        "awake": 71,
+        "inBed": 668,
+        "efficiency": 92,
+        "deep": 118,
+        "rem": 173,
+        "main": true
+      },
+      {
+        "date": "2026-10-06",
+        "asleep": 456,
+        "awake": 31,
+        "inBed": 487,
+        "efficiency": 94,
+        "deep": null,
+        "rem": null,
+        "main": true
+      },
+      {
+        "date": "2026-10-07",
+        "asleep": 404,
+        "awake": 15,
+        "inBed": 419,
+        "efficiency": 96,
+        "deep": null,
+        "rem": null,
+        "main": true
+      },
+      {
+        "date": "2026-10-08",
+        "asleep": 432,
+        "awake": 38,
+        "inBed": 470,
+        "efficiency": 92,
+        "deep": null,
+        "rem": null,
+        "main": true
+      },
+      {
+        "date": "2026-10-09",
+        "asleep": 479,
+        "awake": 45,
+        "inBed": 524,
+        "efficiency": 91,
+        "deep": null,
+        "rem": null,
+        "main": true
+      },
+      {
+        "date": "2026-10-10",
+        "asleep": 651,
+        "awake": 31,
+        "inBed": 683,
+        "efficiency": 95,
+        "deep": null,
+        "rem": null,
+        "main": true
+      },
+      {
+        "date": "2026-10-11",
+        "asleep": 390,
+        "awake": 57,
+        "inBed": 447,
+        "efficiency": 97,
+        "deep": 81,
+        "rem": 110,
+        "main": true
+      },
+      {
+        "date": "2026-10-12",
+        "asleep": 487,
+        "awake": 27,
+        "inBed": 514,
+        "efficiency": 95,
+        "deep": null,
+        "rem": null,
+        "main": true
+      },
+      {
+        "date": "2026-10-13",
+        "asleep": 461,
+        "awake": 45,
+        "inBed": 508,
+        "efficiency": 91,
+        "deep": null,
+        "rem": null,
+        "main": true
+      },
+      {
+        "date": "2026-10-14",
+        "asleep": 401,
+        "awake": 36,
+        "inBed": 448,
+        "efficiency": 92,
+        "deep": null,
+        "rem": null,
+        "main": true
+      }
+    ],
+    "vo2": [
+      {
+        "date": "2026-09-23",
+        "vo2": 30.45
+      },
+      {
+        "date": "2026-09-24",
+        "vo2": 31.28
+      },
+      {
+        "date": "2026-09-25",
+        "vo2": 31.62
+      },
+      {
+        "date": "2026-09-26",
+        "vo2": 31.87
+      },
+      {
+        "date": "2026-09-27",
+        "vo2": 32.03
+      },
+      {
+        "date": "2026-09-28",
+        "vo2": 32.08
+      },
+      {
+        "date": "2026-09-29",
+        "vo2": 32.05
+      },
+      {
+        "date": "2026-09-30",
+        "vo2": 32.2
+      },
+      {
+        "date": "2026-10-01",
+        "vo2": 32.39
+      },
+      {
+        "date": "2026-10-02",
+        "vo2": 32.6
+      },
+      {
+        "date": "2026-10-03",
+        "vo2": 32.75
+      },
+      {
+        "date": "2026-10-04",
+        "vo2": 32.81
+      },
+      {
+        "date": "2026-10-05",
+        "vo2": 32.85
+      },
+      {
+        "date": "2026-10-06",
+        "vo2": 32.86
+      },
+      {
+        "date": "2026-10-07",
+        "vo2": 32.8
+      },
+      {
+        "date": "2026-10-08",
+        "vo2": 32.76
+      },
+      {
+        "date": "2026-10-09",
+        "vo2": 32.73
+      },
+      {
+        "date": "2026-10-10",
+        "vo2": 32.75
+      },
+      {
+        "date": "2026-10-11",
+        "vo2": 32.78
+      },
+      {
+        "date": "2026-10-12",
+        "vo2": 32.86
+      },
+      {
+        "date": "2026-10-13",
+        "vo2": 32.96
+      },
+      {
+        "date": "2026-10-14",
+        "vo2": 33.05
+      }
+    ],
+    "exercises": [
+      {
+        "date": "09/26/26 1",
+        "name": "Walk",
+        "kcal": 267,
+        "minutes": 29,
+        "steps": 1937,
+        "azm": 30
+      },
+      {
+        "date": "09/28/26 1",
+        "name": "Swim",
+        "kcal": 57,
+        "minutes": 26,
+        "steps": null,
+        "azm": 3
+      },
+      {
+        "date": "10/05/26 1",
+        "name": "Walk",
+        "kcal": 357,
+        "minutes": 32,
+        "steps": 3523,
+        "azm": 48
+      },
+      {
+        "date": "10/06/26 1",
+        "name": "Workout",
+        "kcal": 601,
+        "minutes": 55,
+        "steps": 136,
+        "azm": 66
+      },
+      {
+        "date": "10/08/26 1",
+        "name": "Walk",
+        "kcal": 63,
+        "minutes": 7,
+        "steps": 715,
+        "azm": 2
+      },
+      {
+        "date": "10/08/26 1",
+        "name": "Workout",
+        "kcal": 658,
+        "minutes": 41,
+        "steps": 104,
+        "azm": 9
+      },
+      {
+        "date": "10/09/26 1",
+        "name": "Workout",
+        "kcal": 390,
+        "minutes": 42,
+        "steps": 108,
+        "azm": 17
+      },
+      {
+        "date": "10/12/26 1",
+        "name": "Workout",
+        "kcal": 577,
+        "minutes": 54,
+        "steps": 134,
+        "azm": 18
+      },
+      {
+        "date": "10/13/26 1",
+        "name": "Workout",
+        "kcal": 369,
+        "minutes": 41,
+        "steps": 98,
+        "azm": 30
+      }
+    ],
+    "fitbitWeights": [
+      {
+        "date": "2026-09-23",
+        "kg": 120.0,
+        "bmi": 36.91
+      },
+      {
+        "date": "2026-09-30",
+        "kg": 115.9,
+        "bmi": 35.65
+      },
+      {
+        "date": "2026-10-12",
+        "kg": 113.5,
+        "bmi": 34.91
+      }
     ]
   },
   "targets": {
@@ -409,11 +1445,11 @@ window.HC = {
     "Ashirwad chakki atta roti — ≤2 / meal",
     "Qilla white rice — ≤200 g cooked / meal",
     "Roti or rice — not both",
-    "Daal / lobia — keep (good staples)",
-    "Tostas — rare OK",
-    "Haleem — 1–2× / month",
-    "Oil default — 1–1.5 tbsp / pot (current cut)",
-    "Chai sugar kept"
+    "Daal / lobia — keep",
+    "Tostas rare OK",
+    "Haleem 1–2× / month",
+    "Oil 1–1.5 tbsp/pot or 1 spray",
+    "Chai sugar / Canderel kept"
   ],
   "stack": [
     [
@@ -670,7 +1706,7 @@ window.HC = {
   "pie": [
     {
       "label": "Mixed plate",
-      "value": 17360
+      "value": 16713
     },
     {
       "label": "Treat / sweet",
@@ -678,15 +1714,19 @@ window.HC = {
     },
     {
       "label": "Eggs / chai breakfast",
-      "value": 7952
-    },
-    {
-      "label": "Starch / veg plate",
-      "value": 7827
+      "value": 7907
     },
     {
       "label": "Protein focus",
       "value": 7796
+    },
+    {
+      "label": "Starch / veg plate",
+      "value": 7292
+    },
+    {
+      "label": "GY / yogurt",
+      "value": 3449
     },
     {
       "label": "Whey",
@@ -694,11 +1734,7 @@ window.HC = {
     },
     {
       "label": "Other",
-      "value": 2047
-    },
-    {
-      "label": "GY / yogurt",
-      "value": 1720
+      "value": 1545
     }
   ],
   "meals": [
@@ -710,7 +1746,6 @@ window.HC = {
       "p": 35,
       "c": 80,
       "f": 35,
-      "shortcut": "Chicken biryani | 820 | 35 | 80 | 35",
       "notes": "Chat prompt: can we name the recipe in health app?",
       "confidence": "75–85% sure · backfilled from chat history.",
       "portions": "",
@@ -724,7 +1759,6 @@ window.HC = {
       "p": 25,
       "c": 100,
       "f": 30,
-      "shortcut": "Paltay salan (besan) + 2 roti | 800 | 25 | 100 | 30",
       "notes": "Chat prompt: No paltay salan is made of cheakpea flour",
       "confidence": "75–85% sure · backfilled from chat history.",
       "portions": "",
@@ -738,7 +1772,6 @@ window.HC = {
       "p": 28,
       "c": 125,
       "f": 30,
-      "shortcut": "Masoor daal + rice + aloo bhujia | 900 | 28 | 125 | 30",
       "notes": "Chat prompt: Fir meal to actually log  Daal masoor with rice and few tabs of allu bhujia",
       "confidence": "80–85% sure · backfilled from chat history.",
       "portions": "",
@@ -752,7 +1785,6 @@ window.HC = {
       "p": 22,
       "c": 95,
       "f": 30,
-      "shortcut": "Palak alu + 2 roti | 800 | 22 | 95 | 30",
       "notes": "Chat prompt: Palak alu with 2 roti",
       "confidence": "78–85% sure · backfilled from chat history.",
       "portions": "",
@@ -766,7 +1798,6 @@ window.HC = {
       "p": 0,
       "c": 30,
       "f": 0,
-      "shortcut": "Fanta 1 glass | 120 | 0 | 30 | 0",
       "notes": "Chat prompt: Fanta 1 glass",
       "confidence": "85–90% sure · backfilled from chat history.",
       "portions": "",
@@ -780,7 +1811,6 @@ window.HC = {
       "p": 18,
       "c": 65,
       "f": 20,
-      "shortcut": "Bread Nutella + chai + half-fry egg + bread | 500 | 18 | 65 | 20",
       "notes": "Chat prompt: Not half egg 1 half fried egg",
       "confidence": "72–80% sure · backfilled from chat history.",
       "portions": "",
@@ -794,7 +1824,6 @@ window.HC = {
       "p": 5,
       "c": 50,
       "f": 10,
-      "shortcut": "Siwayon ka zarda | 300 | 5 | 50 | 10",
       "notes": "Chat prompt: Siwayon ka zarda and thats a teaspoon",
       "confidence": "75–82% sure · backfilled from chat history.",
       "portions": "",
@@ -808,7 +1837,6 @@ window.HC = {
       "p": 0,
       "c": 25,
       "f": 0,
-      "shortcut": "Apricot jam 2 tbsp | 100 | 0 | 25 | 0",
       "notes": "",
       "confidence": "90–95% sure · backfilled from chat history.",
       "portions": "",
@@ -822,7 +1850,6 @@ window.HC = {
       "p": 3,
       "c": 24,
       "f": 10,
-      "shortcut": "Cake rusk x2 | 204 | 3 | 24 | 10",
       "notes": "Chat prompt: 2 of tgese cake rusk",
       "confidence": "88–93% sure · backfilled from chat history.",
       "portions": "",
@@ -836,7 +1863,6 @@ window.HC = {
       "p": 8,
       "c": 42,
       "f": 3,
-      "shortcut": "Bread slices x3 | 225 | 8 | 42 | 3",
       "notes": "Chat prompt: Add 3 bread slices",
       "confidence": "75–82% sure · backfilled from chat history.",
       "portions": "",
@@ -850,7 +1876,6 @@ window.HC = {
       "p": 9,
       "c": 99,
       "f": 13,
-      "shortcut": "Bread + siwayan zarda + Fanta | 540 | 9 | 99 | 13",
       "notes": "Chat prompt: 1 bread slice and this this siwayan ka zarda aur 1 glass fanta",
       "confidence": "78–85% sure · backfilled from chat history.",
       "portions": "",
@@ -864,7 +1889,6 @@ window.HC = {
       "p": 15,
       "c": 70,
       "f": 18,
-      "shortcut": "Flatbread + palak sabzi | 520 | 15 | 70 | 18",
       "notes": "Chat prompt: 1 yes 2 yea 3 flatbread",
       "confidence": "75–82% sure · backfilled from chat history.",
       "portions": "",
@@ -878,7 +1902,6 @@ window.HC = {
       "p": 30,
       "c": 48,
       "f": 28,
-      "shortcut": "Lasagna 1 slice | 560 | 30 | 48 | 28",
       "notes": "",
       "confidence": "70–78% sure · backfilled from chat history.",
       "portions": "",
@@ -892,7 +1915,6 @@ window.HC = {
       "p": 5,
       "c": 22,
       "f": 12,
-      "shortcut": "Gajak 1 piece | 220 | 5 | 22 | 12",
       "notes": "",
       "confidence": "72–80% sure · backfilled from chat history.",
       "portions": "",
@@ -906,7 +1928,6 @@ window.HC = {
       "p": 35,
       "c": 80,
       "f": 30,
-      "shortcut": "Chicken biryani 1 plate | 750 | 35 | 80 | 30",
       "notes": "",
       "confidence": "78–85% sure · backfilled from chat history.",
       "portions": "",
@@ -920,7 +1941,6 @@ window.HC = {
       "p": 85,
       "c": 226,
       "f": 96,
-      "shortcut": "2 plates biryani + 3 gajak + Coke Zero | 2160 | 85 | 226 | 96",
       "notes": "Chat prompt: 2 plate biryani, 3 peice gajak, 1 glass coke zero",
       "confidence": "75–82% sure · backfilled from chat history.",
       "portions": "",
@@ -934,7 +1954,6 @@ window.HC = {
       "p": 30,
       "c": 48,
       "f": 28,
-      "shortcut": "Lasagna 1 piece | 570 | 30 | 48 | 28",
       "notes": "",
       "confidence": "70–78% sure · backfilled from chat history.",
       "portions": "",
@@ -948,7 +1967,6 @@ window.HC = {
       "p": 17,
       "c": 67,
       "f": 27,
-      "shortcut": "Hot dog + 3 cake rusk + chai | 575 | 17 | 67 | 27",
       "notes": "Chat prompt: 1 hot dog 3 piece of cake rusk 1 cup chai",
       "confidence": "85–90% sure · backfilled from chat history.",
       "portions": "",
@@ -962,7 +1980,6 @@ window.HC = {
       "p": 42,
       "c": 85,
       "f": 35,
-      "shortcut": "Chicken biryani + raita | 900 | 42 | 85 | 35",
       "notes": "",
       "confidence": "78–85% sure · backfilled from chat history.",
       "portions": "",
@@ -976,7 +1993,6 @@ window.HC = {
       "p": 15,
       "c": 66,
       "f": 36,
-      "shortcut": "Gajak 3 pieces | 660 | 15 | 66 | 36",
       "notes": "Chat prompt: 3 piece gajak",
       "confidence": "72–80% sure · backfilled from chat history.",
       "portions": "",
@@ -990,7 +2006,6 @@ window.HC = {
       "p": 11,
       "c": 67,
       "f": 10,
-      "shortcut": "Yogurt 250g + 2 tbsp sugar + 2 oranges | 440 | 11 | 67 | 10",
       "notes": "Chat prompt: 250gm yogurts with 2 tbsp sugar and 2 oranges",
       "confidence": "80–88% sure · backfilled from chat history.",
       "portions": "",
@@ -1004,7 +2019,6 @@ window.HC = {
       "p": 14,
       "c": 85,
       "f": 32,
-      "shortcut": "Baingan burani + white rice | 700 | 14 | 85 | 32",
       "notes": "Chat prompt: Bhau rani of baigan with white rice",
       "confidence": "72–80% sure · backfilled from chat history.",
       "portions": "",
@@ -1018,7 +2032,6 @@ window.HC = {
       "p": 14,
       "c": 57,
       "f": 11,
-      "shortcut": "Half-fry egg + chai + 2 bread | 410 | 14 | 57 | 11",
       "notes": "Chat prompt: 1 half fry egg 1 chai 2 slice of bread",
       "confidence": "82–88% sure · backfilled from chat history.",
       "portions": "",
@@ -1032,7 +2045,6 @@ window.HC = {
       "p": 6,
       "c": 48,
       "f": 8,
-      "shortcut": "Bread jam + bread Lotus spread | 300 | 6 | 48 | 8",
       "notes": "Chat prompt: Alsi 1 slice with strawberry jam and 1 slice with lotus crunchy spread",
       "confidence": "75–85% sure · backfilled from chat history.",
       "portions": "",
@@ -1046,7 +2058,6 @@ window.HC = {
       "p": 14,
       "c": 82,
       "f": 30,
-      "shortcut": "Baingan burani + rice | 680 | 14 | 82 | 30",
       "notes": "",
       "confidence": "72–80% sure · backfilled from chat history.",
       "portions": "",
@@ -1060,7 +2071,6 @@ window.HC = {
       "p": 4,
       "c": 19,
       "f": 2,
-      "shortcut": "Drink yogurt 160g | 107 | 4 | 19 | 2",
       "notes": "",
       "confidence": "75–85% sure · backfilled from chat history.",
       "portions": "",
@@ -1074,7 +2084,6 @@ window.HC = {
       "p": 65,
       "c": 125,
       "f": 45,
-      "shortcut": "Spaghetti beef cheese veggies x2 | 1250 | 65 | 125 | 45",
       "notes": "Chat prompt: Home made spaghetti with minced beef cheese and veggies",
       "confidence": "75–82% sure · backfilled from chat history.",
       "portions": "",
@@ -1088,7 +2097,6 @@ window.HC = {
       "p": 23,
       "c": 121,
       "f": 28,
-      "shortcut": "Chai + 4 bread + fried egg + 3 tbsp Lotus | 830 | 23 | 121 | 28",
       "notes": "Chat prompt: 1 chai 4 bread slices 1 fried egg and 3 tbsp of lutus crunchy spread",
       "confidence": "82–88% sure · backfilled from chat history.",
       "portions": "",
@@ -1102,7 +2110,6 @@ window.HC = {
       "p": 35,
       "c": 75,
       "f": 25,
-      "shortcut": "Pasta beef veggies 1 box | 700 | 35 | 75 | 25",
       "notes": "",
       "confidence": "75–82% sure · backfilled from chat history.",
       "portions": "",
@@ -1116,7 +2123,6 @@ window.HC = {
       "p": 4,
       "c": 20,
       "f": 2,
-      "shortcut": "Continente yogurt drink chocolate 160g | 110 | 4 | 20 | 2",
       "notes": "",
       "confidence": "85–90% sure · backfilled from chat history.",
       "portions": "",
@@ -1130,7 +2136,6 @@ window.HC = {
       "p": 36,
       "c": 15,
       "f": 44,
-      "shortcut": "3 eggs + 3 hot dogs + coffee + 1 tsp sugar | 605 | 36 | 15 | 44",
       "notes": "Chat prompt: I added 1 teaspoon of suger",
       "confidence": "90–95% sure · backfilled from chat history.",
       "portions": "",
@@ -1144,7 +2149,6 @@ window.HC = {
       "p": 52,
       "c": 0,
       "f": 6,
-      "shortcut": "Chicken breast 168g cooked | 280 | 52 | 0 | 6",
       "notes": "Chat prompt: It is 168 gm cooked chicken breast no oil",
       "confidence": "92–95% sure · backfilled from chat history.",
       "portions": "",
@@ -1158,7 +2162,6 @@ window.HC = {
       "p": 5,
       "c": 42,
       "f": 3,
-      "shortcut": "Tehari 142g | 200 | 5 | 42 | 3",
       "notes": "Chat prompt: 142gm tehari very low oil 1tbsp in whole big cooking pot",
       "confidence": "80–85% sure · backfilled from chat history.",
       "portions": "",
@@ -1172,7 +2175,6 @@ window.HC = {
       "p": 65,
       "c": 88,
       "f": 34,
-      "shortcut": "Aloo matar gajar + 2 rotisserie chicken + 2 roti | 920 | 65 | 88 | 34",
       "notes": "Chat prompt: Home made rotis",
       "confidence": "75–80% sure · backfilled from chat history.",
       "portions": "",
@@ -1186,7 +2188,6 @@ window.HC = {
       "p": 19,
       "c": 29,
       "f": 21,
-      "shortcut": "4 tostas + 2 boiled eggs + half tbsp butter + cafe au lait (1 tsp sugar) | 390 | 19 | 29 | 21",
       "notes": "Chat prompt: So note down 4 papay(30cal each) 2 hard boiled eggs, half tablespoon butter and this coffee with 1 teaspoon sugar",
       "confidence": "90–95% sure · backfilled from chat history.",
       "portions": "",
@@ -1200,7 +2201,6 @@ window.HC = {
       "p": 15,
       "c": 71,
       "f": 14,
-      "shortcut": "Aloo matar 250g + 1 roti + Continente Zero drink | 440 | 15 | 71 | 14",
       "notes": "Chat prompt: 250gm of alo matar with 1 roti and 1 this",
       "confidence": "80–85% sure · backfilled from chat history.",
       "portions": "",
@@ -1214,7 +2214,6 @@ window.HC = {
       "p": 100,
       "c": 160,
       "f": 50,
-      "shortcut": "Beef arvi salan 3 plates + 5 roti + PB on 1 rusk | 1600 | 100 | 160 | 50",
       "notes": "Chat prompt: It was mostly  beef and arvi salan with almost no oil",
       "confidence": "78–85% sure · backfilled from chat history.",
       "portions": "",
@@ -1228,7 +2227,6 @@ window.HC = {
       "p": 27,
       "c": 15,
       "f": 20,
-      "shortcut": "GY mix 100g + 3 eggs + Buondi + 1 tsp sugar | 346 | 27 | 15 | 20",
       "notes": "Chat prompt: Not correct i made a mix 100gm gy 1tbsp granola and 1 tbsp berries. 3 whole hard boiled eggs and 1 bondi capsule with 1 teaspoon suger",
       "confidence": "85–90% sure · backfilled from chat history.",
       "portions": "",
@@ -1242,7 +2240,6 @@ window.HC = {
       "p": 49,
       "c": 46,
       "f": 8,
-      "shortcut": "Chicken 137g + yellow rice 100g + yogurt drink | 460 | 49 | 46 | 8",
       "notes": "Chat prompt: Log this drink with chicken and rice Chicken 137 g Rice 100 gm",
       "confidence": "85–90% sure · backfilled from chat history.",
       "portions": "",
@@ -1256,7 +2253,6 @@ window.HC = {
       "p": 60,
       "c": 152,
       "f": 25,
-      "shortcut": "2 plates kali masoor daal chawal + Mimosa protein coffee | 1085 | 60 | 152 | 25",
       "notes": "Chat prompt: 1 this and 2 plates full kali masoor daal chawal",
       "confidence": "75–80% sure · backfilled from chat history.",
       "portions": "",
@@ -1270,7 +2266,6 @@ window.HC = {
       "p": 1,
       "c": 20,
       "f": 0,
-      "shortcut": "2 small keenus | 80 | 1 | 20 | 0",
       "notes": "",
       "confidence": "90–95% sure · backfilled from chat history.",
       "portions": "",
@@ -1284,7 +2279,6 @@ window.HC = {
       "p": 25,
       "c": 12,
       "f": 18,
-      "shortcut": "GY 100g + granola + berries + 3 eggs | 332 | 25 | 12 | 18",
       "notes": "Chat prompt: 100gm low fat greek yogurt 1 tablespoon fuel granola 2 tablespoons frozen berries 3 hard boiled eggs",
       "confidence": "88–92% sure · backfilled from chat history.",
       "portions": "",
@@ -1298,7 +2292,6 @@ window.HC = {
       "p": 9,
       "c": 9,
       "f": 5,
-      "shortcut": "1 Bimbo slice + half tbsp PB | 130 | 9 | 9 | 5",
       "notes": "",
       "confidence": "90–95% sure · backfilled from chat history.",
       "portions": "",
@@ -1312,7 +2305,6 @@ window.HC = {
       "p": 49,
       "c": 24,
       "f": 7,
-      "shortcut": "Chicken steak 150g + potato 100g (2 oil sprays) | 370 | 49 | 24 | 7",
       "notes": "Chat prompt: 250 total gram  150gm chicken steak with 1 oil spray 100gm ptato with 1 oil spray",
       "confidence": "85–90% sure · backfilled from chat history.",
       "portions": "",
@@ -1326,7 +2318,6 @@ window.HC = {
       "p": 48,
       "c": 95,
       "f": 34,
-      "shortcut": "Salmon 62g + paltay (besan) + 2.5 roti + PB tsp + Bimbo | 900 | 48 | 95 | 34",
       "notes": "Chat prompt: 62gm salmon with 1 oil spray with paltay salan (besan) and roti qty is 2.5 also 1teasopn pb and 1 slice protine bread",
       "confidence": "75–80% sure · backfilled from chat history.",
       "portions": "",
@@ -1340,7 +2331,6 @@ window.HC = {
       "p": 20,
       "c": 13,
       "f": 1,
-      "shortcut": "Mimosa protein coffee 250ml | 135 | 20 | 13 | 1",
       "notes": "",
       "confidence": "75–85% sure · backfilled from chat history.",
       "portions": "",
@@ -1354,7 +2344,6 @@ window.HC = {
       "p": 52,
       "c": 97,
       "f": 37,
-      "shortcut": "3-egg omelette + 3 Bimbo + 98g pack roti + milky chai 1.5tsp sugar | 960 | 52 | 97 | 37",
       "notes": "Chat prompt: With 3 slice recalculate",
       "confidence": "88–92% sure · backfilled from chat history.",
       "portions": "",
@@ -1368,7 +2357,6 @@ window.HC = {
       "p": 72,
       "c": 52,
       "f": 37,
-      "shortcut": "Salmon 125g + chicken salan (botis) + 2 roti | 830 | 72 | 52 | 37",
       "notes": "Chat prompt: Same fish like yesterday day but 125gm with chicken salan (mostly botis with bones) and 2roti",
       "confidence": "75–80% sure · backfilled from chat history.",
       "portions": "",
@@ -1382,7 +2370,6 @@ window.HC = {
       "p": 25,
       "c": 52,
       "f": 4,
-      "shortcut": "Mimosa protein coffee + big bowl popcorn (1 spray) | 340 | 25 | 52 | 4",
       "notes": "Chat prompt: Also 1 big bowl of homemade popcorn with only 1 spray of oil and pinch of salt",
       "confidence": "78–85% sure · backfilled from chat history.",
       "portions": "",
@@ -1396,7 +2383,6 @@ window.HC = {
       "p": 56,
       "c": 79,
       "f": 34,
-      "shortcut": "3-egg omelette + GY bowl + apple + 3 Bimbo + half tbsp PB + chai | 880 | 56 | 79 | 34",
       "notes": "Chat prompt: Recalculate minus 1 slice of protein 0.5 tablespoons pb",
       "confidence": "85–90% sure · backfilled from chat history.",
       "portions": "",
@@ -1410,7 +2396,6 @@ window.HC = {
       "p": 66,
       "c": 52,
       "f": 33,
-      "shortcut": "Salmon 100g + chicken salan + 2 roti | 785 | 66 | 52 | 33",
       "notes": "Chat prompt: Same chicken salan with 2 roti and 100gm salmon fish fried with only 1 oil spray",
       "confidence": "75–80% sure · backfilled from chat history.",
       "portions": "",
@@ -1424,7 +2409,6 @@ window.HC = {
       "p": 0,
       "c": 16,
       "f": 0,
-      "shortcut": "1 small apple | 60 | 0 | 16 | 0",
       "notes": "Chat prompt: 1 small apple",
       "confidence": "90–95% sure · backfilled from chat history.",
       "portions": "",
@@ -1438,7 +2422,6 @@ window.HC = {
       "p": 41,
       "c": 38,
       "f": 24,
-      "shortcut": "GY mix + 3-egg omelette + 2 Bimbo + Buondi 1tsp sugar | 550 | 41 | 38 | 24",
       "notes": "Chat prompt: 120gm greek yogurt, 2 tbsp fuel 2 tbsp frozen berries, 3 whole eggs omelette with 1 spray, 2 protein bread slice, 1 boundi capsule 1 teaspoon suger",
       "confidence": "88–92% sure · backfilled from chat history.",
       "portions": "",
@@ -1452,7 +2435,6 @@ window.HC = {
       "p": 54,
       "c": 68,
       "f": 12,
-      "shortcut": "Chicken Manchurian 225g + egg veg rice 200g (1 spray) | 650 | 54 | 68 | 12",
       "notes": "Chat prompt: Oil was single spray",
       "confidence": "80–85% sure · backfilled from chat history.",
       "portions": "",
@@ -1466,7 +2448,6 @@ window.HC = {
       "p": 2,
       "c": 67,
       "f": 0,
-      "shortcut": "9 dates | 250 | 2 | 67 | 0",
       "notes": "",
       "confidence": "90–95% sure · backfilled from chat history.",
       "portions": "",
@@ -1480,7 +2461,6 @@ window.HC = {
       "p": 9,
       "c": 14,
       "f": 5,
-      "shortcut": "1 Bimbo + 1 tsp PB + 1 tosta | 145 | 9 | 14 | 5",
       "notes": "Chat prompt: Log 1 slice pb and 1 toastas",
       "confidence": "90–95% sure · backfilled from chat history.",
       "portions": "",
@@ -1494,7 +2474,6 @@ window.HC = {
       "p": 37,
       "c": 33,
       "f": 25,
-      "shortcut": "GY 150g + fuel + berries + 3 eggs + 2 tostas + Bimbo tsp PB | 530 | 37 | 33 | 25",
       "notes": "Chat prompt: 150gm gy with 1 tablespoon fuel 2 tablespoons in frozen berries, 3 boil eggs, 2 tostas, 1 teaspoon pb with 1 slice protein bread",
       "confidence": "88–92% sure · backfilled from chat history.",
       "portions": "",
@@ -1508,7 +2487,6 @@ window.HC = {
       "p": 49,
       "c": 20,
       "f": 7,
-      "shortcut": "Chicken breast 146g + 1 can corn chat masala | 355 | 49 | 20 | 7",
       "notes": "Chat prompt: 146gm chicken breast and 1 can corn with chat masala",
       "confidence": "90–95% sure · backfilled from chat history.",
       "portions": "",
@@ -1522,7 +2500,6 @@ window.HC = {
       "p": 37,
       "c": 72,
       "f": 14,
-      "shortcut": "Chicken steak 80g + aloo baingan + 2 plain roti (oil spray) | 560 | 37 | 72 | 14",
       "notes": "Chat prompt: Not roit is plain roti alo baegan and steak is cooked single oil spray",
       "confidence": "85–90% sure · backfilled from chat history.",
       "portions": "",
@@ -1536,7 +2513,6 @@ window.HC = {
       "p": 3,
       "c": 15,
       "f": 2,
-      "shortcut": "3 tostas | 90 | 3 | 15 | 2",
       "notes": "",
       "confidence": "75–85% sure · backfilled from chat history.",
       "portions": "",
@@ -1550,7 +2526,6 @@ window.HC = {
       "p": 0,
       "c": 21,
       "f": 0,
-      "shortcut": "1 apple | 80 | 0 | 21 | 0",
       "notes": "",
       "confidence": "90–95% sure · backfilled from chat history.",
       "portions": "",
@@ -1564,7 +2539,6 @@ window.HC = {
       "p": 36,
       "c": 38,
       "f": 23,
-      "shortcut": "3 eggs + 2 Bimbo tsp PB + 3 tostas + Buondi 1tsp sugar | 535 | 36 | 38 | 23",
       "notes": "",
       "confidence": "88–92% sure · backfilled from chat history.",
       "portions": "",
@@ -1578,7 +2552,6 @@ window.HC = {
       "p": 53,
       "c": 60,
       "f": 14,
-      "shortcut": "Chicken Manchurian 100g + gravy + rice 100g + breast 75g + apple | 580 | 53 | 60 | 14",
       "notes": "Chat prompt: So okay log this one I ate chicken Manchurian with rice that I ate yesterday hundred gram rice with hundred gram chicken gravy is not included in the hundred gr",
       "confidence": "72–80% sure · backfilled from chat history.",
       "portions": "",
@@ -1592,7 +2565,6 @@ window.HC = {
       "p": 28,
       "c": 106,
       "f": 2,
-      "shortcut": "Masoor daal 250g + rice 165g (no oil) + 1 small keenu | 540 | 28 | 106 | 2",
       "notes": "Chat prompt: Log it 1 small keenu as well",
       "confidence": "85–90% sure · backfilled from chat history.",
       "portions": "",
@@ -1606,7 +2578,6 @@ window.HC = {
       "p": 24,
       "c": 4,
       "f": 2,
-      "shortcut": "Critical Whey Frappuccino (2 scoops) | 130 | 24 | 4 | 2",
       "notes": "Chat prompt: 1 whey frappacino",
       "confidence": "90–95% sure · backfilled from chat history.",
       "portions": "",
@@ -1620,7 +2591,6 @@ window.HC = {
       "p": 25,
       "c": 22,
       "f": 7,
-      "shortcut": "Continente yogurt 150g + strawberries 40g + protein granola 2 tbsp + whey chocolate 1 scoop | 250 | 25 | 22 | 7",
       "notes": "Chat prompt: Breakfast one fifty gram of Greek yogurt forty gram of frozen strawberries, two tablespoon of frozen protein granola, and one scoop of whey protein mixture. Cho",
       "confidence": "72–80% sure · backfilled from chat history.",
       "portions": "",
@@ -1634,7 +2604,6 @@ window.HC = {
       "p": 23,
       "c": 23,
       "f": 6,
-      "shortcut": "Mythos Greek yogurt 150g + strawberries 40g + protein granola 2 tbsp + whey chocolate 1 scoop | 246 | 23 | 23 | 6",
       "notes": "Chat prompt: Now calculate breakfast",
       "confidence": "88–92% sure · backfilled from chat history.",
       "portions": "",
@@ -1648,7 +2617,6 @@ window.HC = {
       "p": 0,
       "c": 2,
       "f": 0,
-      "shortcut": "Buondi coffee + Canderel erythritol 1/2 tsp | 5 | 0 | 2 | 0",
       "notes": "Chat prompt: Half teaspoon with boundi capsule",
       "confidence": "90–95% sure · backfilled from chat history.",
       "portions": "",
@@ -1662,7 +2630,6 @@ window.HC = {
       "p": 73,
       "c": 10,
       "f": 11,
-      "shortcut": "Chicken breast botis 200g + egg-white garlic sauce | 410 | 73 | 10 | 11",
       "notes": "Chat prompt: The sauce contains two boiled egg whites, two garlic cloves, one teaspoon vinegar, some milk, one fourth teaspoon salt, half teaspoon sugar. Also two hundred gr",
       "confidence": "78–85% sure · backfilled from chat history.",
       "portions": "",
@@ -1676,7 +2643,6 @@ window.HC = {
       "p": 52,
       "c": 134,
       "f": 41,
-      "shortcut": "3 roti + 2 plates aloo qeema (no oil) + 20g dark chocolate | 1150 | 52 | 134 | 41",
       "notes": "Chat prompt: 3 roti with 2 plate alo qeema (no oil) and 20gm dark chocolate we bought earlier",
       "confidence": "68–75% sure · backfilled from chat history.",
       "portions": "",
@@ -1690,7 +2656,6 @@ window.HC = {
       "p": 45,
       "c": 45,
       "f": 28,
-      "shortcut": "Omelette 2 eggs + 100g whites (1 spray) + chai Canderel + tostas 30g + Bimbo 70g + 1 tbsp Mimosa light | 627 | 45 | 45 | 28",
       "notes": "Chat prompt: Update 70gm of protein bread",
       "confidence": "85–90% sure · backfilled from chat history.",
       "portions": "",
@@ -1704,7 +2669,6 @@ window.HC = {
       "p": 92,
       "c": 71,
       "f": 23,
-      "shortcut": "Aloo qeema (80g qeema + 137g aloo) + chicken 200g + roti 78g | 855 | 92 | 71 | 23",
       "notes": "Chat prompt: 80gm qeema  137gm alo Alo qeema 200gm chicken  78gm roti",
       "confidence": "75–82% sure · backfilled from chat history.",
       "portions": "",
@@ -1718,7 +2682,6 @@ window.HC = {
       "p": 40,
       "c": 60,
       "f": 12,
-      "shortcut": "Beef haleem 400g (lean, no oil/tarka) | 520 | 40 | 60 | 12",
       "notes": "Chat prompt: 400gm oh beef haleem with no oil tarka or anything just lean meat wheat lentils and other ingredients",
       "confidence": "78–85% sure · backfilled from chat history.",
       "portions": "",
@@ -1732,7 +2695,6 @@ window.HC = {
       "p": 4,
       "c": 48,
       "f": 15,
-      "shortcut": "Homemade chocolate chip cookies x2 (74g) | 339 | 4 | 48 | 15",
       "notes": "Chat prompt: 2 cooked cookies are 74gm",
       "confidence": "85–90% sure · backfilled from chat history.",
       "portions": "",
@@ -1746,7 +2708,6 @@ window.HC = {
       "p": 46,
       "c": 57,
       "f": 7,
-      "shortcut": "Mythos GY 200g + granola 1 tbsp + berries + whey choc 1 scoop + banana + Continente Light Cafe 250ml | 477 | 46 | 57 | 7",
       "notes": "Chat prompt: Two hundred grams Greek yogurt. One tablespoon. Granola. Fuel. Two. To two point five tablespoons berries. One scoop. Chocolate whey. And one whole banana. This",
       "confidence": "85–90% sure · backfilled from chat history.",
       "portions": "",
@@ -1760,7 +2721,6 @@ window.HC = {
       "p": 30,
       "c": 45,
       "f": 9,
-      "shortcut": "Beef haleem 300g (lean, no oil/tarka) | 390 | 30 | 45 | 9",
       "notes": "Chat prompt: 300gm yesterday’s haleem",
       "confidence": "78–85% sure · backfilled from chat history.",
       "portions": "",
@@ -1774,7 +2734,6 @@ window.HC = {
       "p": 41,
       "c": 63,
       "f": 19,
-      "shortcut": "Macaroni minced beef | 583 | 41 | 63 | 19",
       "notes": "Chat prompt: Log 315 gm of this and also 1 serving frapp whey",
       "confidence": "78–85% sure · backfilled from chat history.",
       "portions": "",
@@ -1788,7 +2747,6 @@ window.HC = {
       "p": 47,
       "c": 43,
       "f": 18,
-      "shortcut": "Breakfast omelette chai Bimbo tosta | 524 | 47 | 43 | 18",
       "notes": "Chat prompt: Add it ti breakfast and log",
       "confidence": "85–90% sure · backfilled from chat history.",
       "portions": "",
@@ -1802,7 +2760,6 @@ window.HC = {
       "p": 56,
       "c": 68,
       "f": 19,
-      "shortcut": "Chicken biryani botis rice yogurt | 647 | 56 | 68 | 19",
       "notes": "Chat prompt: 293 gm boties 216 gm rice part 1 tbsp natutal yogurt",
       "confidence": "78–85% sure · backfilled from chat history.",
       "portions": "",
@@ -1816,7 +2773,6 @@ window.HC = {
       "p": 25,
       "c": 22,
       "f": 6,
-      "shortcut": "GY granola berries whey chocolate | 249 | 25 | 22 | 6",
       "notes": "Chat prompt: 200gm gy 1 tbsp granola 2 tbsp berries 1 scoop chocolate milkshake whey 1 teaspoon my sucralose (total 312gm) Also coffee pod with 0.5 teaspoon sucralose",
       "confidence": "85–90% sure · backfilled from chat history.",
       "portions": "",
@@ -1830,7 +2786,6 @@ window.HC = {
       "p": 2,
       "c": 4,
       "f": 2,
-      "shortcut": "Galão café au lait pod | 45 | 2 | 4 | 2",
       "notes": "Chat prompt: 200gm gy 1 tbsp granola 2 tbsp berries 1 scoop chocolate milkshake whey 1 teaspoon my sucralose (total 312gm) Also coffee pod with 0.5 teaspoon sucralose",
       "confidence": "92–95% sure · backfilled from chat history.",
       "portions": "",
@@ -1844,7 +2799,6 @@ window.HC = {
       "p": 38,
       "c": 74,
       "f": 13,
-      "shortcut": "Chicken biryani botis rice | 555 | 38 | 74 | 13",
       "notes": "Chat prompt: 180 gm chicken boti  246 gm rice  Chicken biryani",
       "confidence": "78–85% sure · backfilled from chat history.",
       "portions": "",
@@ -1858,7 +2812,6 @@ window.HC = {
       "p": 44,
       "c": 44,
       "f": 21,
-      "shortcut": "Air fryer salmon biryani rice | 507 | 44 | 44 | 21",
       "notes": "Solid protein lunch; rice volume is the main carb lever for the rest of the day. Prefer weighing salmon next time so the Health entry matches the plate exactly.",
       "confidence": "78–85% sure · weight on salmon assumed until he confirms scale grams.",
       "portions": "salmon **150 g** cooked · biryani rice **150 g** (corrected from an earlier 75 g guess).",
@@ -1872,7 +2825,6 @@ window.HC = {
       "p": 1,
       "c": 12,
       "f": 0,
-      "shortcut": "Medium keenu | 50 | 1 | 12 | 0",
       "notes": "Easy cut-friendly fruit; keeps sweet tooth covered without sugar creep.",
       "confidence": "80–88% sure · size estimate only.",
       "portions": "1 fruit, edible flesh ~70–80 g (unweighed).",
@@ -1886,7 +2838,6 @@ window.HC = {
       "p": 37,
       "c": 74,
       "f": 26,
-      "shortcut": "Pao de queijo salmon matar chawal | 666 | 37 | 74 | 26",
       "notes": "Protein OK from salmon; starch is the big share (matar chawal + cheese bread). Fine if day intake still in band.",
       "confidence": "78–85% sure · pão from label; matar chawal estimated from recipe book oil baseline.",
       "portions": "pão de queijo **51 g** · salmon **100 g** · matar chawal **200 g**.",
@@ -1900,7 +2851,6 @@ window.HC = {
       "p": 24,
       "c": 4,
       "f": 1,
-      "shortcut": "Critical Whey Chocolate Milkshake | 122 | 24 | 4 | 1",
       "notes": "",
       "confidence": "92–95% sure · pack label.",
       "portions": "",
@@ -1914,7 +2864,6 @@ window.HC = {
       "p": 38,
       "c": 21,
       "f": 15,
-      "shortcut": "Eggs whites chai Bimbo | 365 | 38 | 21 | 15",
       "notes": "",
       "confidence": "88–92% sure · labels for whites/bread/milk; eggs standard.",
       "portions": "",
@@ -1928,7 +2877,6 @@ window.HC = {
       "p": 3,
       "c": 15,
       "f": 5,
-      "shortcut": "3 tostas Mimosa light | 118 | 3 | 15 | 5",
       "notes": "",
       "confidence": "88–92% sure.",
       "portions": "",
@@ -1942,7 +2890,6 @@ window.HC = {
       "p": 24,
       "c": 35,
       "f": 13,
-      "shortcut": "Salmon matar chawal | 350 | 24 | 35 | 13",
       "notes": "",
       "confidence": "80–88% sure.",
       "portions": "salmon **73 g** · matar chawal **124 g**.",
@@ -1956,7 +2903,6 @@ window.HC = {
       "p": 2,
       "c": 24,
       "f": 0,
-      "shortcut": "2 medium keenu | 100 | 2 | 24 | 0",
       "notes": "",
       "confidence": "80–88% sure.",
       "portions": "",
@@ -1970,7 +2916,6 @@ window.HC = {
       "p": 16,
       "c": 103,
       "f": 5,
-      "shortcut": "White rice Bahu Rani no oil | 535 | 16 | 103 | 5",
       "notes": "Protein low for the plate — whey after helps close the gap.",
       "confidence": "75–82% sure · Bahu Rani not in recipe book; no-oil baingan+yogurt estimate.",
       "portions": "white rice **312 g** · Bahu Rani **249 g**.",
@@ -1984,7 +2929,6 @@ window.HC = {
       "p": 24,
       "c": 4,
       "f": 1,
-      "shortcut": "Critical Whey Chocolate Milkshake | 122 | 24 | 4 | 1",
       "notes": "",
       "confidence": "92–95% sure.",
       "portions": "",
@@ -1998,7 +2942,6 @@ window.HC = {
       "p": 23,
       "c": 24,
       "f": 7,
-      "shortcut": "GY mix chai | 254 | 23 | 24 | 7",
       "notes": "",
       "confidence": "78–85% sure · mix ratio assumed same as prior GY+granola+berries+whey bowl.",
       "portions": "",
@@ -2012,7 +2955,6 @@ window.HC = {
       "p": 11,
       "c": 76,
       "f": 2,
-      "shortcut": "Rice Bahu Rani 2 keenu | 373 | 11 | 76 | 2",
       "notes": "",
       "confidence": "75–82% sure · Bahu Rani no-oil estimate. · Protein light — whey later helps.",
       "portions": "rice **150 g** · Bahu Rani **150 g** · 2 medium keenu.",
@@ -2026,7 +2968,6 @@ window.HC = {
       "p": 53,
       "c": 59,
       "f": 13,
-      "shortcut": "Chicken popcorn bhindi 2 roti | 533 | 53 | 59 | 13",
       "notes": "",
       "confidence": "75–82% sure · popcorn coating + roti size estimated; bhindi spray-only.",
       "portions": "popcorn **150 g** · bhindi **150 g** · **2** medium house roti.",
@@ -2040,7 +2981,6 @@ window.HC = {
       "p": 24,
       "c": 4,
       "f": 2,
-      "shortcut": "Critical Whey Frappuccino | 130 | 24 | 4 | 2",
       "notes": "",
       "confidence": "92–95% sure.",
       "portions": "",
@@ -2054,7 +2994,6 @@ window.HC = {
       "p": 34,
       "c": 27,
       "f": 19,
-      "shortcut": "Eggs whites chai 3 tostas Mimosa | 407 | 34 | 27 | 19",
       "notes": "",
       "confidence": "88–92% sure.",
       "portions": "",
@@ -2068,7 +3007,6 @@ window.HC = {
       "p": 47,
       "c": 24,
       "f": 9,
-      "shortcut": "Chicken popcorn corn fries | 357 | 47 | 24 | 9",
       "notes": "",
       "confidence": "75–82% sure · popcorn light coat; combo corn/fries mix estimated.",
       "portions": "popcorn **154 g** · corn+fries **62 g**.",
@@ -2082,7 +3020,6 @@ window.HC = {
       "p": 24,
       "c": 73,
       "f": 16,
-      "shortcut": "Haleem tandoori roti | 528 | 24 | 73 | 16",
       "notes": "",
       "confidence": "72–80% sure · roti grams assumed ~100 g; weigh next time.",
       "portions": "haleem **100 g** · tandoori roti **~100 g** (unweighed — pack label density).",
@@ -2096,7 +3033,6 @@ window.HC = {
       "p": 14,
       "c": 32,
       "f": 7,
-      "shortcut": "Extra haleem roti niwalas | 244 | 14 | 32 | 7",
       "notes": "",
       "confidence": "65–75% sure · niwala sizes unweighed.",
       "portions": "",
@@ -2110,7 +3046,6 @@ window.HC = {
       "p": 29,
       "c": 124,
       "f": 2,
-      "shortcut": "White rice lobia no oil | 631 | 29 | 124 | 2",
       "notes": "",
       "confidence": "80–88% sure · plain cooked rice + no-oil beans.",
       "portions": "rice **241 g** (148+93) · lobia **250 g** (150+100).",
@@ -2124,7 +3059,6 @@ window.HC = {
       "p": 0,
       "c": 13,
       "f": 0,
-      "shortcut": "2 dates | 50 | 0 | 13 | 0",
       "notes": "",
       "confidence": "80–88% sure · medium dates (not huge medjool).",
       "portions": "",
@@ -2138,7 +3072,6 @@ window.HC = {
       "p": 24,
       "c": 4,
       "f": 1,
-      "shortcut": "Critical Whey Chocolate Milkshake | 122 | 24 | 4 | 1",
       "notes": "",
       "confidence": "92–95% sure.",
       "portions": "",
@@ -2152,7 +3085,6 @@ window.HC = {
       "p": 33,
       "c": 43,
       "f": 11,
-      "shortcut": "Banana protein pancakes chai | 394 | 33 | 43 | 11",
       "notes": "",
       "confidence": "80–88% sure · pancake density from recipe batch.",
       "portions": "",
@@ -2166,7 +3098,6 @@ window.HC = {
       "p": 32,
       "c": 63,
       "f": 36,
-      "shortcut": "Salami egg mayo cheese toast sandwich | 702 | 32 | 63 | 36",
       "notes": "",
       "confidence": "75–82% sure · mayo + cheese amounts estimated “slight/little”.",
       "portions": "",
@@ -2180,7 +3111,6 @@ window.HC = {
       "p": 21,
       "c": 24,
       "f": 2,
-      "shortcut": "Light Cafe 2 veggie dumplings | 193 | 21 | 24 | 2",
       "notes": "",
       "confidence": "90–95% sure · both from labels (steam/air-fry dumplings).",
       "portions": "",
@@ -2194,7 +3124,6 @@ window.HC = {
       "p": 54,
       "c": 68,
       "f": 28,
-      "shortcut": "Memoni Khaosa | 719 | 54 | 68 | 28",
       "notes": "",
       "confidence": "70–78% sure · yellow curry composition + possible fried topping estimated.",
       "portions": "noodles **200 g** · beef curry **200 g** · 1 egg · yellow curry **70 g** · plate total **546 g** (~26 g likely fried potato/garnish not separately logged).",
@@ -2208,7 +3137,6 @@ window.HC = {
       "p": 1,
       "c": 5,
       "f": 4,
-      "shortcut": "Dark chocolate 1x1 inch | 55 | 1 | 5 | 4",
       "notes": "",
       "confidence": "75–85% sure · size→grams estimated.",
       "portions": "",
@@ -2222,7 +3150,6 @@ window.HC = {
       "p": 44,
       "c": 14,
       "f": 12,
-      "shortcut": "Air fryer chicken nuggets | 324 | 44 | 14 | 12",
       "notes": "",
       "confidence": "72–80% sure · homemade breast nuggets assumed (not frozen pack).",
       "portions": "**175 g**.",
@@ -2236,7 +3163,6 @@ window.HC = {
       "p": 36,
       "c": 62,
       "f": 21,
-      "shortcut": "Bhindi gosht 2.5 roti | 570 | 36 | 62 | 21",
       "notes": "",
       "confidence": "65–75% sure · no scale weights; oil/meat share estimated.",
       "portions": "",
@@ -2250,7 +3176,6 @@ window.HC = {
       "p": 24,
       "c": 4,
       "f": 2,
-      "shortcut": "Critical Whey Frappuccino | 130 | 24 | 4 | 2",
       "notes": "",
       "confidence": "92–95% sure.",
       "portions": "",
@@ -2264,7 +3189,6 @@ window.HC = {
       "p": 25,
       "c": 19,
       "f": 6,
-      "shortcut": "GY mix Buondi | 233 | 25 | 19 | 6",
       "notes": "",
       "confidence": "85–90% sure · 1 scoop = half jar serving (16.5 g).",
       "portions": "",
@@ -2278,7 +3202,6 @@ window.HC = {
       "p": 82,
       "c": 68,
       "f": 24,
-      "shortcut": "Chicken nuggets haleem | 792 | 82 | 68 | 24",
       "notes": "",
       "confidence": "75–82% sure.",
       "portions": "nuggets **147 g** · haleem **347 g**.",
@@ -2292,7 +3215,6 @@ window.HC = {
       "p": 20,
       "c": 13,
       "f": 1,
-      "shortcut": "Continente Light Cafe | 135 | 20 | 13 | 1",
       "notes": "",
       "confidence": "92–95% sure.",
       "portions": "",
@@ -2306,7 +3228,6 @@ window.HC = {
       "p": 42,
       "c": 47,
       "f": 24,
-      "shortcut": "Aloo qeema 2 roti | 542 | 42 | 47 | 24",
       "notes": "",
       "confidence": "65–75% sure · qeema unweighed; 10% aloo noted.",
       "portions": "",
@@ -2320,7 +3241,6 @@ window.HC = {
       "p": 25,
       "c": 24,
       "f": 7,
-      "shortcut": "GY granola strawberries whey | 257 | 25 | 24 | 7",
       "notes": "",
       "confidence": "85–90% sure · 1 scoop = half jar serving.",
       "portions": "",
@@ -2334,7 +3254,6 @@ window.HC = {
       "p": 42,
       "c": 47,
       "f": 24,
-      "shortcut": "Aloo qeema 2 roti | 542 | 42 | 47 | 24",
       "notes": "",
       "confidence": "65–75% sure · same unweighed estimate.",
       "portions": "",
@@ -2348,7 +3267,6 @@ window.HC = {
       "p": 51,
       "c": 78,
       "f": 11,
-      "shortcut": "Chicken 65 rice dal meethi dahi boondi | 625 | 51 | 78 | 11",
       "notes": "",
       "confidence": "75–82% sure · dahi-boondi ratio estimated.",
       "portions": "chicken **100 g** · rice **100 g** · dal **164 g** · meethi dahi boondi **100 g**.",
@@ -2362,7 +3280,6 @@ window.HC = {
       "p": 24,
       "c": 4,
       "f": 2,
-      "shortcut": "Critical Whey Frappuccino | 130 | 24 | 4 | 2",
       "notes": "",
       "confidence": "92–95% sure.",
       "portions": "",
@@ -2376,7 +3293,6 @@ window.HC = {
       "p": 32,
       "c": 34,
       "f": 10,
-      "shortcut": "GY mix chai | 351 | 32 | 34 | 10",
       "notes": "",
       "confidence": "85–90% sure.",
       "portions": "",
@@ -3058,9 +3974,8 @@ window.HC = {
     {
       "name": "Critical Whey — Chocolate Milkshake",
       "bullets": [
-        "Log unit: 2 scoops / 33 g (1 serving)",
-        "Per serving: 122 kcal · P 23.6 · C 4.1 · F 1.2",
-        "Source: pack label · saved Oct 2026"
+        "2 scoops/33g serving",
+        "122 kcal · P 23.6 · C 4.1 · F 1.2"
       ],
       "macros": {
         "kcal": 122,
@@ -3072,9 +3987,8 @@ window.HC = {
     {
       "name": "Critical Whey — Frappuccino",
       "bullets": [
-        "Log unit: 2 scoops / 33 g (1 serving)",
-        "Per serving: 130 kcal · P 24 · C 3.8 · F 2.0 · ~100 mg caffeine",
-        "Source: pack label · saved Oct 2026"
+        "2 scoops/33g",
+        "130 kcal · P 24 · C 3.8 · F 2.0 · ~100mg caffeine"
       ],
       "macros": {
         "kcal": 130,
@@ -3086,8 +4000,7 @@ window.HC = {
     {
       "name": "Continente Mythos Greek Yogurt 2%",
       "bullets": [
-        "Log unit: 100 g",
-        "Per 100 g: 55 kcal · P 5.3 · C 3.9 · F 2.0"
+        "100 g: 55 kcal · P 5.3 · C 3.9 · F 2.0"
       ],
       "macros": {
         "kcal": 55,
@@ -3099,9 +4012,7 @@ window.HC = {
     {
       "name": "Protein granola",
       "bullets": [
-        "Log unit: 100 g",
-        "Per 100 g: 431 kcal · P 16 · C 62 · F 12",
-        "Typical use: 1–2 tbsp in GY mix"
+        "100 g: 431 · P 16 · C 62 · F 12 · typical 1–2 tbsp in GY"
       ],
       "macros": {
         "kcal": 431,
@@ -3113,21 +4024,19 @@ window.HC = {
     {
       "name": "Continente frozen strawberries",
       "bullets": [
-        "Log unit: 100 g",
-        "Per 100 g: 40 kcal · P 0.7 · C 7.0 · F 0.5"
+        "100 g: 40 · P 0.7 · C 7 · F 0.5"
       ],
       "macros": {
         "kcal": 40,
         "p": 0.7,
-        "c": 7.0,
+        "c": 7,
         "f": 0.5
       }
     },
     {
-      "name": "Continente Light Café (protein coffee)",
+      "name": "Continente Light Café",
       "bullets": [
-        "Log unit: 250 ml carton",
-        "Per carton: 135 kcal · P 20 · C 12.5 · F 0.5"
+        "250 ml: 135 · P 20 · C 12.5 · F 0.5"
       ],
       "macros": {
         "kcal": 135,
@@ -3139,9 +4048,7 @@ window.HC = {
     {
       "name": "Meio-gordo milk 1.6%",
       "bullets": [
-        "Log unit: 100 ml",
-        "Per 100 ml: 47 kcal · P 3.3 · C 4.9 · F 1.6",
-        "Default chai 200 ml + Canderel: 94 kcal · P 7 · C 10 · F 3"
+        "100 ml: 47 · P 3.3 · C 4.9 · F 1.6"
       ],
       "macros": {
         "kcal": 47,
@@ -3151,10 +4058,21 @@ window.HC = {
       }
     },
     {
+      "name": "Default chai 200 ml + Canderel",
+      "bullets": [
+        "94 kcal · P 7 · C 10 · F 3"
+      ],
+      "macros": {
+        "kcal": 94,
+        "p": 7,
+        "c": 10,
+        "f": 3
+      }
+    },
+    {
       "name": "Crown Tandoori Roti",
       "bullets": [
-        "Log unit: 100 g",
-        "Per 100 g: 378 kcal · P 10.6 · C 56.8 · F 12.1"
+        "100 g: 378 · P 10.6 · C 56.8 · F 12.1"
       ],
       "macros": {
         "kcal": 378,
@@ -3166,9 +4084,7 @@ window.HC = {
     {
       "name": "Continente Pão de Queijo",
       "bullets": [
-        "Log unit: 25 g portion · 100 g pack basis",
-        "25 g: 68 kcal · P 1.5 · C 8.8 · F 2.9",
-        "100 g: 271 kcal · P 5.8 · C 35 · F 11.7"
+        "25 g: 68 · P 1.5 · C 8.8 · F 2.9"
       ],
       "macros": {
         "kcal": 68,
@@ -3180,8 +4096,7 @@ window.HC = {
     {
       "name": "Chicken salami (yellow pack)",
       "bullets": [
-        "Log unit: 100 g",
-        "Per 100 g: 240 kcal · P 11 · C 4 · F 20"
+        "100 g: 240 · P 11 · C 4 · F 20"
       ],
       "macros": {
         "kcal": 240,
@@ -3191,10 +4106,9 @@ window.HC = {
       }
     },
     {
-      "name": "Continente Veggie Dumplings (gyoza)",
+      "name": "Continente Veggie Dumplings",
       "bullets": [
-        "Log unit: 1 dumpling (20 g)",
-        "Per dumpling: 29 kcal · P 0.7 · C 5.3 · F 0.5"
+        "1 dumpling 20 g: 29 · P 0.7 · C 5.3 · F 0.5"
       ],
       "macros": {
         "kcal": 29,
@@ -3204,24 +4118,9 @@ window.HC = {
       }
     },
     {
-      "name": "Default chai (200 ml meio-gordo + Canderel)",
+      "name": "Banana protein pancakes (per pancake)",
       "bullets": [
-        "Log unit: 1 cup",
-        "94 kcal · P 7 · C 10 · F 3"
-      ],
-      "macros": {
-        "kcal": 94,
-        "p": 7,
-        "c": 10,
-        "f": 3
-      }
-    },
-    {
-      "name": "Banana protein pancakes (batch of 4)",
-      "bullets": [
-        "Batch: 1 banana, 2 eggs, 1 Critical Whey, 35 g oats",
-        "Batch: 520 kcal · P 43 · C 58 · F 14",
-        "Per pancake ~130 · ~200 kcal / 100 g cooked"
+        "Batch/4 ~520 · per pancake ~130 · P 11 · C 15 · F 4"
       ],
       "macros": {
         "kcal": 130,
@@ -3289,12 +4188,14 @@ window.HC = {
       "motiv": "8 (good overall)"
     }
   ],
-  "profileMd": "# Health Coach — Hassan Khan profile\n\nSee also: Cursor skill `.cursor/skills/food-log/SKILL.md` for meal photo → estimate → shortcuts:// log.\n\n## Identity & body\n- Male, born Aug 1991 (~35)\n- 120 kg, 5′11″ (~180 cm), BMI ~36.9\n- Waist 44–46 in · WHtR ~0.63 (aim <0.5)\n- Stable 116–120 kg ~3 years\n- Past low 88–92 kg after ~6 mo crash; regained in ~1 year\n- Phased targets: 105–108 → hold 92–95 → later 70–80 aspirational\n\n## Activity & lifestyle\n- ~1,500 steps/day · Google Health (iPhone) · Bevel available\n- Sleep 6–8 h · lower back pain history · acidity (chai OK)\n- Smokes · family heart-attack history · Coke Zero · fruit for sweet tooth\n\n## Labs (Unilabs 28 Apr 2026)\n- Total 219 · LDL 149 · HDL 30 · TG 198 · Glucose 94\n\n## Energy\n- BMR ~2,160 · TDEE ~2,590 · cut ~2,000–2,100\n\n## Diet defaults\n- ~90% Pakistani household food · 3 meals · rare snacks\n- Roti 2–2.5 (sometimes 3); no rice same meal; big ~2-ball rotis common\n- Rice meals can be large — aim 1 medium plate when logging/cutting\n- Salan ~**2 dish spoons oil/pot**; 1 dish spoon ≈ **2.5–3.5 tbsp** → ~**5–7 tbsp/pot** (~600–840 kcal oil shared)\n- Pot: him + wife + 2yo toddler; leftovers cover 50–100% next meal\n- Chai 1×/day 2–2.5 tbsp sugar — keep\n- Creep order: **oil (2 dish spoons ≈ 5–7 tbsp/pot)** > starch volume > chai sugar\n\n## Food Log (locked)\nFormat:\n```\nFood Log | {dish name} | {kcal} | {protein} | {carbs} | {fat}\n{low}–{high}% sure\n```\nThen tappable `shortcuts://run-shortcut?name=Food%20Log&input=text&text=...`\nSMS backup: +351926194305\nRecipe book: `health-coach/recipes.md`\nLearned: Paltay salan = besan (chickpea flour)\n",
+  "profileMd": "# Health Coach — Hassan Khan profile\n\nSee also: Cursor skill `.cursor/skills/food-log/SKILL.md` for meal photo → estimate → shortcuts:// log.  \n**Public dashboard:** https://hk9900.github.io/cursor/ (source `docs/` — keep in sync; see `.cursor/rules/health-coach-site.mdc`).\n\n## Identity & body\n- Male, born Aug 1991 (~35) · Lisbon\n- Height **180.3 cm** (5′11″)\n- **Current (25 Oct 2026 / W3):** **111.5 kg** · waist **45.5″** · chest 48.5″ · bicep R 14.5″ · thigh R 23.5″ · WHtR ≈ **0.64**\n- Fitbit start **120 kg** (23 Sep) · W0 **115.9** (27 Sep) · W1 **113.5 / 48″** · W2 **112.9 / 46.5″**\n- Past low ~88–92 kg after crash cut; regained ~1 year\n- Phased targets: **105–108 → hold 92–95 → later 70–80** aspirational\n\n## Activity & lifestyle\n- Fitbit Air (+ Google Takeout) · Apple Health Food Log Shortcut\n- Sleep aim 6–8 h · lower back history · acidity (chai OK)\n- Smokes · family heart-attack history · Coke Zero · fruit for sweet tooth\n- Walks are the main NEAT lever (don’t eat Fitbit burn back)\n\n## Labs (Unilabs 28 Apr 2026)\n- Total 219 · LDL 149 · HDL 30 · TG 198 · Glucose 94\n\n## Energy (locked cut)\n- Food band **1,550–1,800 kcal/day** (prefer ~**1,650** like W2–W3 Notes avg)\n- Protein **150–170 g** · Fat **45–65 g** · Carbs **120–190 g**\n- BMR Mifflin ~**2,070** at 111.5 kg · Fitbit TDEE trend ~**2,800–3,100**\n- Notes weekly intake: W1 ~1,912 (5d) · W2 **1,648** · W3 **1,647**\n\n## Diet defaults (locked Oct 2026)\n- ~90% Pakistani household food · Ashirwad chakki atta · Qilla white rice\n- **One starch per meal:** ≤**2 roti** **or** ≤**200 g** cooked rice — not both\n- **Daal / lobia** = good staples (keep)\n- **Tostas** rare OK · **Haleem** 1–2×/month\n- Oil (current cut): **1–1.5 tbsp/pot** or air-fryer **1 spray** when he says so  \n  (Older household pots were ~2 dish spoons ≈ 5–7 tbsp — do **not** use that unless he says the pot changed back)\n- Pot often feeds him + wife + toddler; leftovers common\n- Chai 1×/day — **keep** sugar or Canderel as logged; milk = meio-gordo 1.6%\n- Creep order now: **portion size** > oil > chai sugar\n\n## Shelf & recipes\n- Labels: `health-coach/labels.md`\n- Recipes: `health-coach/recipes.md`\n- Meal mirror: `health-coach/food-log.md`\n- Weekly tape: `health-coach/weekly-metrics.md`\n\n## Food Log (locked)\nFormat:\n```\nFood Log | {dish name} | {kcal} | {protein} | {carbs} | {fat}\n{low}–{high}% sure\n```\nThen tappable `shortcuts://run-shortcut?name=Food%20Log&input=text&text=...`  \nSMS backup: +351926194305  \nLearned: Paltay salan = besan (chickpea flour) · chicken skinless by default\n",
   "totals": {
     "meals": 120,
     "days": 31,
     "kcal": 56004,
-    "protein": 3564
+    "protein": 3564,
+    "labels": 33,
+    "recipes": 16
   },
   "topMeals": [
     [

@@ -2,13 +2,14 @@
 
 Static dashboard for GitHub Pages.
 
-**Local:** open `index.html` in a browser, or serve this folder:
+**Live:** https://hk9900.github.io/cursor/
+
+**Local:**
 
 ```bash
 python3 -m http.server 8080 --directory docs
 ```
 
-**Live (after Pages is enabled):** https://hk9900.github.io/cursor/
+Deploy: `.github/workflows/pages.yml` on push to `main` / `cursor/health-coach`.
 
-Repo → Settings → Pages → Source: **GitHub Actions**.  
-Deploy workflow: `.github/workflows/pages.yml` (runs on push to `main` / `cursor/health-coach`).
+**Keep fresh:** whenever Hassan logs meals, labels, weigh-ins, or exports, update `health-coach/*` **and** regenerate `docs/data.js` (rule: `.cursor/rules/health-coach-site.mdc`).
