@@ -6,7 +6,7 @@
     <title>Hassan · Health Coach</title>
     <meta
       name="description"
-      content="Hassan Khan cut dashboard — weight, Fitbit energy, food log, recovery, plan."
+      content="Full Health Coach archive — every meal, label, recipe, Fitbit day, and plan."
     />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -26,46 +26,39 @@
       <p class="brand">Hassan</p>
       <h1>Health Coach</h1>
       <p class="lede">
-        Cut dashboard · Fitbit Air · Apple Food Log · Lisbon · through 28 Oct
-        2026
+        Full archive · every Food Log, shelf label, recipe, Fitbit day, weigh-in
+        · Lisbon · through 28 Oct 2026
       </p>
       <div class="hero-stats" id="hero-stats"></div>
     </header>
 
     <nav class="tabs" role="tablist" aria-label="Dashboard sections">
-      <button type="button" role="tab" aria-selected="true" data-tab="overview">
-        Overview
-      </button>
-      <button type="button" role="tab" aria-selected="false" data-tab="energy">
-        Energy
-      </button>
-      <button type="button" role="tab" aria-selected="false" data-tab="body">
-        Body
-      </button>
-      <button type="button" role="tab" aria-selected="false" data-tab="food">
-        Food Log
-      </button>
-      <button type="button" role="tab" aria-selected="false" data-tab="recovery">
-        Recovery
-      </button>
-      <button type="button" role="tab" aria-selected="false" data-tab="plan">
-        Plan
-      </button>
+      <button type="button" role="tab" aria-selected="true" data-tab="overview">Overview</button>
+      <button type="button" role="tab" aria-selected="false" data-tab="body">Body</button>
+      <button type="button" role="tab" aria-selected="false" data-tab="energy">Energy</button>
+      <button type="button" role="tab" aria-selected="false" data-tab="food">Food charts</button>
+      <button type="button" role="tab" aria-selected="false" data-tab="meals">All meals</button>
+      <button type="button" role="tab" aria-selected="false" data-tab="labels">Labels</button>
+      <button type="button" role="tab" aria-selected="false" data-tab="recipes">Recipes</button>
+      <button type="button" role="tab" aria-selected="false" data-tab="recovery">Recovery</button>
+      <button type="button" role="tab" aria-selected="false" data-tab="plan">Plan</button>
     </nav>
 
     <main>
       <section id="panel-overview" class="panel active" role="tabpanel"></section>
-      <section id="panel-energy" class="panel" role="tabpanel" hidden></section>
       <section id="panel-body" class="panel" role="tabpanel" hidden></section>
+      <section id="panel-energy" class="panel" role="tabpanel" hidden></section>
       <section id="panel-food" class="panel" role="tabpanel" hidden></section>
+      <section id="panel-meals" class="panel" role="tabpanel" hidden></section>
+      <section id="panel-labels" class="panel" role="tabpanel" hidden></section>
+      <section id="panel-recipes" class="panel" role="tabpanel" hidden></section>
       <section id="panel-recovery" class="panel" role="tabpanel" hidden></section>
       <section id="panel-plan" class="panel" role="tabpanel" hidden></section>
     </main>
 
     <footer class="site-foot">
-      <p>
-        Data through 2026-10-28 · BMR ~2,070 at 111.5 kg · TDEE Fitbit
-        ~2,800–3,100 · Hosted on GitHub Pages
+      <p id="foot-meta">
+        Hassan Health Coach · full data dump · hosted on GitHub Pages
       </p>
     </footer>
   </body>

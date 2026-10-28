@@ -2,7 +2,6 @@
   const { HC } = window;
   const charts = [];
   const css = getComputedStyle(document.documentElement);
-  const ink = css.getPropertyValue("--ink").trim() || "#14201c";
   const muted = css.getPropertyValue("--muted").trim() || "#6b7a72";
   const accent = css.getPropertyValue("--accent").trim() || "#1f6b4a";
   const warn = css.getPropertyValue("--accent-2").trim() || "#c45c26";
@@ -15,54 +14,48 @@
   Chart.defaults.borderColor = line;
   Chart.defaults.plugins.legend.labels.boxWidth = 12;
 
-  function avg(xs) {
-    return Math.round(xs.reduce((a, b) => a + b, 0) / xs.length);
-  }
+  const avg = (xs) => Math.round(xs.reduce((a, b) => a + b, 0) / xs.length);
 
-  function el(html) {
-    const t = document.createElement("template");
-    t.innerHTML = html.trim();
-    return t.content.firstElementChild;
+  function esc(s) {
+    return String(s ?? "")
+      .replace(/&/g, "&amp;")
+      .replace(/</g, "&lt;")
+      .replace(/>/g, "&gt;")
+      .replace(/"/g, "&quot;");
   }
 
   function stat(value, label, tone = "") {
-    return `<div class="stat ${tone}"><span class="value">${value}</span><span class="label">${label}</span></div>`;
+    return `<div class="stat ${tone}"><span class="value">${esc(value)}</span><span class="label">${esc(label)}</span></div>`;
   }
 
   function chartCard(title, caption, canvasId, sm = false) {
     return `
       <div class="chart-card">
-        <h2>${title}</h2>
-        <p class="caption">${caption}</p>
+        <h2>${esc(title)}</h2>
+        <p class="caption">${esc(caption)}</p>
         <div class="chart-wrap ${sm ? "sm" : ""}"><canvas id="${canvasId}"></canvas></div>
       </div>`;
   }
 
-  function tableCard(title, caption, headers, rows, tones = []) {
+  function tableCard(title, caption, headers, rows, tones = [], compact = false) {
     const head = headers
-      .map((h) => {
-        const num = h.num ? ' class="num"' : "";
-        return `<th${num}>${h.label}</th>`;
-      })
+      .map((h) => `<th${h.num ? ' class="num"' : ""}>${esc(h.label)}</th>`)
       .join("");
     const body = rows
       .map((r, i) => {
         const tone = tones[i] ? ` class="tone-${tones[i]}"` : "";
         const cells = r
-          .map((c, j) => {
-            const num = headers[j]?.num ? ' class="num"' : "";
-            return `<td${num}>${c}</td>`;
-          })
+          .map((c, j) => `<td${headers[j]?.num ? ' class="num"' : ""}>${esc(c)}</td>`)
           .join("");
         return `<tr${tone}>${cells}</tr>`;
       })
       .join("");
     return `
       <div class="table-card">
-        <h2>${title}</h2>
-        ${caption ? `<p class="caption">${caption}</p>` : ""}
+        <h2>${esc(title)}</h2>
+        ${caption ? `<p class="caption">${esc(caption)}</p>` : ""}
         <div style="overflow-x:auto">
-          <table class="data"><thead><tr>${head}</tr></thead><tbody>${body}</tbody></table>
+          <table class="data ${compact ? "compact" : ""}"><thead><tr>${head}</tr></thead><tbody>${body}</tbody></table>
         </div>
       </div>`;
   }
@@ -81,7 +74,7 @@
             borderColor: s.color,
             backgroundColor: s.fill || s.color + "22",
             tension: 0.28,
-            pointRadius: labels.length > 20 ? 0 : 3,
+            pointRadius: labels.length > 18 ? 0 : 3,
             pointHoverRadius: 5,
             fill: !!s.fill,
             borderWidth: 2,
@@ -91,10 +84,7 @@
           responsive: true,
           maintainAspectRatio: false,
           interaction: { mode: "index", intersect: false },
-          plugins: {
-            legend: { display: series.length > 1 },
-            annotation: undefined,
-          },
+          plugins: { legend: { display: series.length > 1 } },
           scales: {
             x: { grid: { display: false } },
             y: {
@@ -131,11 +121,7 @@
           plugins: { legend: { display: series.length > 1 } },
           scales: {
             x: { stacked: !!opts.stacked, grid: { display: false } },
-            y: {
-              stacked: !!opts.stacked,
-              beginAtZero: true,
-              grid: { color: line + "88" },
-            },
+            y: { stacked: !!opts.stacked, beginAtZero: true, grid: { color: line + "88" } },
           },
         },
       }),
@@ -171,10 +157,7 @@
   }
 
   function destroyCharts() {
-    while (charts.length) {
-      const c = charts.pop();
-      c.destroy();
-    }
+    while (charts.length) charts.pop().destroy();
   }
 
   function renderHero() {
@@ -182,9 +165,11 @@
     document.getElementById("hero-stats").innerHTML = [
       stat(`${HC.meta.weight} kg`, "Current (25 Oct)", "good"),
       stat(`−${lost} kg`, "Since Fitbit start", "good"),
-      stat(`${HC.meta.waist}″`, "Waist (was 48″)", "good"),
-      stat("1,647", "W3 avg intake (Notes)", "info"),
+      stat(String(HC.totals.meals), "Food Logs archived"),
+      stat(String(HC.labels.length), "Shelf labels"),
     ].join("");
+    document.getElementById("foot-meta").textContent =
+      `${HC.totals.meals} meals · ${HC.totals.days} days · ${HC.labels.length} labels · ${HC.recipes.length} recipes · through ${HC.meta.through}`;
   }
 
   function renderOverview() {
@@ -193,76 +178,85 @@
       <div class="stack">
         <div class="callout">
           <strong>Week 3: 111.5 kg · waist 45.5″</strong>
-          Path 120 → 115.9 → 113.5 → 112.9 → 111.5 (−8.5 kg). Notes intake locked
-          ~1,648–1,647 kcal in W2–W3. Keep the band — don’t cut lower.
+          Full archive loaded — ${HC.totals.meals} meals, ${HC.labels.length} pack labels,
+          ${HC.recipes.length} household recipes, Fitbit days, Apple windows, Sunday metrics.
+          Notes intake locked ~1,648 kcal in W2–W3. Don’t cut lower.
         </div>
         <div class="grid-4">
-          ${stat("120 meals", "In food-log.md")}
-          ${stat("~3,025", "Burn/day W1 Fitbit")}
-          ${stat("~7,100", "Steps/day W1")}
-          ${stat("45.5″", "Waist W3", "good")}
+          ${stat(`${HC.meta.waist}″`, "Waist (was 48″)", "good")}
+          ${stat("1,647", "W3 Notes intake", "info")}
+          ${stat(HC.totals.kcal.toLocaleString(), "Sum logged kcal")}
+          ${stat(`${HC.totals.protein.toLocaleString()} g`, "Sum logged protein")}
         </div>
-        ${chartCard(
-          "Weight — current cut",
-          "Source: Fitbit / Notes Sunday weigh-ins · kg · Sep 23 – Oct 25 2026",
-          "c-weight",
-        )}
-        ${chartCard(
-          "Energy balance — Apple Food Log days",
-          "Intake = Apple Dietary Energy · Burn = Fitbit total · Target 1,550–1,800",
-          "c-energy-balance",
-        )}
-        ${chartCard(
-          "Daily deficit (kcal)",
-          "Positive = cutting · Fitbit burn − Apple intake",
-          "c-deficit",
-          true,
-        )}
+        ${chartCard("Weight — current cut", "Sunday weigh-ins · Sep 23 – Oct 25 2026", "c-weight")}
+        ${chartCard("Daily logged kcal (all Food Logs)", "food-log.md day sums · early dates estimated", "c-ov-kcal")}
+        ${chartCard("Daily logged protein", "Target 150–170 g", "c-ov-p", true)}
         <div class="grid-2">
-          ${tableCard(
-            "Source roles",
-            "",
-            [{ label: "Source" }, { label: "Use for" }],
-            [
-              ["Fitbit / Google", "Burn, steps, AZM, sleep, RHR"],
-              ["Apple Health", "Food Log macros (Shortcut)"],
-              ["food-log.md", "Full meal mirror · chat + live"],
-              ["Notes Sunday table", "Weekly intake / weight truth"],
-            ],
-          )}
-          ${tableCard(
-            "Phased targets",
-            "",
-            [{ label: "Phase" }, { label: "Target" }],
-            [
-              ["Now →", "105–108 kg"],
-              ["Hold", "92–95 kg"],
-              ["Later", "70–80 kg"],
-              ["Pace", "≥1 kg/wk early; 0.8–1.1 after"],
-              ["WHtR long-term", "< 0.5 (now ≈ 0.64)"],
-            ],
-          )}
+          ${tableCard("Sunday weekly metrics", "Notes table truth", [
+            { label: "Week" }, { label: "Date" }, { label: "kg", num: true },
+            { label: "Waist" }, { label: "Intake" }, { label: "Burn" }, { label: "Motiv" },
+          ], HC.weeks.map((w) => [String(w.week), w.date, String(w.weight), w.waist, w.intake, w.burn, w.motiv]),
+          [undefined, undefined, "good", "good"])}
+          ${tableCard("Phased targets", "", [
+            { label: "Phase" }, { label: "Target" },
+          ], [
+            ["Now →", "105–108 kg"],
+            ["Hold", "92–95 kg"],
+            ["Later", "70–80 kg"],
+            ["Height", `${HC.meta.heightCm} cm`],
+            ["DOB", HC.meta.dob],
+            ["City", HC.meta.city],
+          ])}
         </div>
         <div class="callout bad">
           <strong>Cardiovascular priority</strong>
-          Smokes · family heart history · waist still elevated · Unilabs Apr 28:
-          Total 219 · LDL 149 · HDL 30 · TG 198 · Glucose 94. See GP for BP,
-          cessation, statin discussion.
+          Smokes · family heart history · Unilabs Apr 28: Total 219 · LDL 149 · HDL 30 · TG 198 · Glucose 94.
         </div>
       </div>`;
-
     lineChart("c-weight", HC.weightCut.labels, [
       { label: "Weight (kg)", data: HC.weightCut.kg, color: info, fill: info + "18" },
     ], { beginAtZero: false, min: 108, max: 122 });
-
-    lineChart("c-energy-balance", HC.energyDays, [
-      { label: "Fitbit burn", data: HC.burnOnIntake, color: info, fill: info + "14" },
-      { label: "Apple intake", data: HC.intake, color: warn, fill: warn + "14" },
+    lineChart("c-ov-kcal", HC.mealDays, [
+      { label: "Logged kcal", data: HC.mealKcal, color: info, fill: info + "14" },
     ]);
-
-    barChart("c-deficit", HC.energyDays, [
-      { label: "Deficit (kcal)", data: HC.deficit, color: accent },
+    lineChart("c-ov-p", HC.mealDays, [
+      { label: "Protein (g)", data: HC.mealProtein, color: good, fill: good + "14" },
     ]);
+  }
+
+  function renderBody() {
+    const root = document.getElementById("panel-body");
+    root.innerHTML = `
+      <div class="stack">
+        <div class="grid-4">
+          ${stat("111.5 kg", "Week 3", "good")}
+          ${stat("45.5 in", "Waist", "good")}
+          ${stat("48.5 in", "Chest")}
+          ${stat("14.5 / 23.5", "Bicep / thigh")}
+        </div>
+        ${chartCard("Current cut", "120 → 111.5 · −8.5 kg", "c-body-weight")}
+        ${chartCard("Past cut — Xiaomi 2019–2020", "107.3 → 93.2 kg", "c-past-cut")}
+        ${tableCard("Full tape log", "", [
+          { label: "Week" }, { label: "Date" }, { label: "Weight", num: true },
+          { label: "Waist" }, { label: "Chest" }, { label: "Bicep R" },
+          { label: "Thigh R" }, { label: "Steps TILSD" }, { label: "Motiv" },
+        ], HC.weeks.map((w) => [String(w.week), w.date, String(w.weight), w.waist, w.chest, w.bicep, w.thigh, w.steps, w.motiv]))}
+        <div class="grid-2">
+          ${tableCard("Labs — Unilabs 28 Apr 2026", "", [
+            { label: "Marker" }, { label: "Value", num: true }, { label: "Flag" },
+          ], HC.labs.map(([a, b, c]) => [a, b, c]), HC.labs.map((r) => r[3]))}
+          <div class="rule-card">
+            <h2>Staples locked</h2>
+            <ul class="clean">${HC.staples.map((s) => `<li>${esc(s)}</li>`).join("")}</ul>
+          </div>
+        </div>
+      </div>`;
+    lineChart("c-body-weight", HC.weightCut.labels, [
+      { label: "kg", data: HC.weightCut.kg, color: good, fill: good + "18" },
+    ], { beginAtZero: false, min: 108, max: 122 });
+    lineChart("c-past-cut", HC.pastCut.labels, [
+      { label: "Weight (kg)", data: HC.pastCut.kg, color: info, fill: info + "18" },
+    ], { beginAtZero: false, min: 90, max: 110 });
   }
 
   function renderEnergy() {
@@ -270,70 +264,44 @@
     const burnAll = avg(HC.burn);
     const activeAll = avg(HC.active);
     const stepsAll = avg(HC.steps);
-    const burnW1 = avg(HC.burn.slice(12, 19));
-    const stepsW1 = avg(HC.steps.slice(12, 19));
-    const activeW1 = avg(HC.active.slice(12, 19));
-
+    const fitbitRows = HC.fitbitDays.map((d, i) => [
+      d, String(HC.burn[i]), String(HC.active[i]), HC.steps[i].toLocaleString(), String(HC.rhr[i]),
+    ]);
+    const energyRows = HC.energyDays.map((d, i) => [
+      d, String(HC.intake[i]), String(HC.proteinApple[i]), String(HC.burnOnIntake[i]), String(HC.deficit[i]),
+    ]);
     root.innerHTML = `
       <div class="stack">
         <div class="grid-4">
           ${stat(`~${burnAll}`, "Avg total burn")}
-          ${stat(`~${activeAll}`, "Avg active burn")}
+          ${stat(`~${activeAll}`, "Avg active")}
           ${stat(`~${stepsAll.toLocaleString()}`, "Avg steps")}
-          ${stat("~2,070", "Mifflin BMR @ 111.5")}
+          ${stat("~2,070", "BMR @ 111.5")}
         </div>
-        ${chartCard(
-          "Total burn vs active burn",
-          "Fitbit Global Export · Sep 23 – Oct 13 · kcal/day",
-          "c-burn",
-        )}
-        ${chartCard(
-          "Steps per day",
-          "Prefer Fitbit over Notes TILSD (W1 Notes undercounted)",
-          "c-steps",
-          true,
-        )}
-        ${tableCard(
-          "Week comparison",
-          "",
-          [
-            { label: "Window" },
-            { label: "Burn/day", num: true },
-            { label: "Active/day", num: true },
-            { label: "Steps/day", num: true },
-            { label: "Notes" },
-          ],
-          [
-            ["Sep 23 – Oct 13", String(burnAll), String(activeAll), stepsAll.toLocaleString(), "Full export"],
-            ["Oct 5 – 11 (W1)", String(burnW1), String(activeW1), stepsW1.toLocaleString(), "Peak walk week"],
-            ["Notes W2 / W3 intake", "—", "—", "—", "1,648 / 1,647 kcal"],
-          ],
-        )}
-        ${chartCard(
-          "Intake vs burn (logged days)",
-          "Apple Dietary Energy vs Fitbit total",
-          "c-intake-burn",
-        )}
-        ${chartCard(
-          "Protein (g) on Food Log days",
-          "Target 150–170 g · Apple Dietary Protein",
-          "c-protein-apple",
-          true,
-        )}
-        <div class="callout">
-          <strong>Don’t eat the burn back</strong>
-          Fitbit active can be ±15–30% off. Use total burn as TDEE trend
-          (~2,800–3,100). Keep food 1,550–1,800; walks 400–500+ active kcal.
-        </div>
+        ${chartCard("Total vs active burn", "Fitbit · Sep 23 – Oct 13", "c-burn")}
+        ${chartCard("Steps", "Fitbit Physical Activity", "c-steps", true)}
+        ${chartCard("Intake vs burn", "Apple Dietary Energy days", "c-intake-burn")}
+        ${chartCard("Apple protein (g)", "Target 150–170", "c-protein-apple", true)}
+        ${tableCard("Every Fitbit day", "Burn · active · steps · RHR", [
+          { label: "Date" }, { label: "Burn", num: true }, { label: "Active", num: true },
+          { label: "Steps", num: true }, { label: "RHR", num: true },
+        ], fitbitRows, [], true)}
+        ${tableCard("Every Apple intake day", "Intake · P · burn · deficit", [
+          { label: "Date" }, { label: "Intake", num: true }, { label: "P", num: true },
+          { label: "Burn", num: true }, { label: "Deficit", num: true },
+        ], energyRows, HC.deficit.map((d) => (d < 0 ? "bad" : d > 1200 ? "good" : undefined)), true)}
+        ${tableCard("Oct 6–13 detail", "", [
+          { label: "Date" }, { label: "kcal", num: true }, { label: "P", num: true },
+          { label: "C", num: true }, { label: "F", num: true }, { label: "Burn", num: true },
+          { label: "Steps", num: true }, { label: "Def", num: true },
+        ], HC.octLogged.map((d) => [d.d, String(d.kcal), String(d.p), String(d.c), String(d.f), String(d.burn), d.steps.toLocaleString(), String(d.def)]),
+        HC.octLogged.map((d) => (d.def < 0 ? "bad" : d.kcal >= 1550 && d.kcal <= 1800 ? "good" : d.kcal > 2200 ? "warn" : undefined)), true)}
       </div>`;
-
     lineChart("c-burn", HC.fitbitDays, [
       { label: "Total burn", data: HC.burn, color: info, fill: info + "14" },
       { label: "Active burn", data: HC.active, color: good, fill: good + "14" },
     ]);
-    barChart("c-steps", HC.fitbitDays, [
-      { label: "Steps", data: HC.steps, color: info },
-    ]);
+    barChart("c-steps", HC.fitbitDays, [{ label: "Steps", data: HC.steps, color: info }]);
     barChart("c-intake-burn", HC.energyDays, [
       { label: "Intake", data: HC.intake, color: warn },
       { label: "Burn", data: HC.burnOnIntake, color: info },
@@ -343,197 +311,189 @@
     ]);
   }
 
-  function renderBody() {
-    const root = document.getElementById("panel-body");
-    root.innerHTML = `
-      <div class="stack">
-        <div class="grid-4">
-          ${stat("111.5 kg", "Week 3 weight", "good")}
-          ${stat("45.5 in", "Waist W3", "good")}
-          ${stat("48.5 in", "Chest W3")}
-          ${stat("14.5 / 23.5", "Bicep / thigh R")}
-        </div>
-        ${chartCard(
-          "Current cut weight path",
-          "120 → 115.9 → 113.5 → 112.9 → 111.5 · −8.5 kg in ~32 days",
-          "c-body-weight",
-        )}
-        ${chartCard(
-          "Past cut — Xiaomi (2019–2020)",
-          "Google Takeout · 107.3 → 93.2 kg in ~4 months (~0.8–0.9 kg/week)",
-          "c-past-cut",
-        )}
-        ${tableCard(
-          "Weekly tape log",
-          "",
-          [
-            { label: "Week" },
-            { label: "Date" },
-            { label: "Weight", num: true },
-            { label: "Waist", num: true },
-            { label: "Chest", num: true },
-            { label: "Bicep R", num: true },
-            { label: "Thigh R", num: true },
-            { label: "Motiv", num: true },
-          ],
-          HC.tape,
-          [undefined, undefined, "good", "good"],
-        )}
-        <div class="grid-2">
-          ${tableCard(
-            "Labs — Unilabs 28 Apr 2026",
-            "",
-            [{ label: "Marker" }, { label: "Value", num: true }, { label: "Flag" }],
-            HC.labs.map(([a, b, c]) => [a, b, c]),
-            HC.labs.map((r) => r[3]),
-          )}
-          <div class="rule-card">
-            <h2>IR / prediabetes context</h2>
-            <p class="caption">Acanthosis nigricans noted</p>
-            <ul class="clean">
-              <li>Protein-forward plates matter as much as the scale</li>
-              <li>Keep chai; cap roti/rice at your rules</li>
-              <li>Daal / lobia are good staples — keep them</li>
-              <li>WHtR long-term &lt; 0.5 (now ≈ 0.64)</li>
-            </ul>
-          </div>
-        </div>
-      </div>`;
-
-    lineChart("c-body-weight", HC.weightCut.labels, [
-      { label: "kg", data: HC.weightCut.kg, color: good, fill: good + "18" },
-    ], { beginAtZero: false, min: 108, max: 122 });
-    lineChart("c-past-cut", HC.pastCut.labels, [
-      { label: "Weight (kg)", data: HC.pastCut.kg, color: info, fill: info + "18" },
-    ], { beginAtZero: false, min: 90, max: 110 });
-  }
-
   function renderFood() {
     const root = document.getElementById("panel-food");
-    const tones = HC.octLogged.map((d) =>
-      d.def < 0
-        ? "bad"
-        : d.kcal >= 1550 && d.kcal <= 1800
-          ? "good"
-          : d.kcal > 2200
-            ? "warn"
-            : undefined,
-    );
-
     root.innerHTML = `
       <div class="stack">
         <div class="grid-4">
-          ${stat("120", "Meals logged")}
-          ${stat("31", "Logged days")}
-          ${stat("1,745", "W2 avg kcal (file)", "good")}
-          ${stat("137 g", "W2 avg protein", "info")}
+          ${stat(String(HC.totals.meals), "Meals")}
+          ${stat(String(HC.totals.days), "Days")}
+          ${stat(String(HC.weekKcal[1]), "W2 avg kcal", "good")}
+          ${stat(`${HC.weekP[1]} g`, "W2 avg P", "info")}
         </div>
-        <div class="callout">
-          <strong>How to read meal-day charts</strong>
-          From food-log.md (chat backfill + live from 20 Oct). Pre–20 Oct dates
-          estimated vs Sunday check-ins — early bars can spike. Prefer weekly
-          averages and Notes intake (W2/W3 ≈ 1,648). 28 Oct is partial.
-        </div>
-        ${chartCard(
-          "Daily calories from logged meals",
-          "X: date · Y: Food Log kcal sum · Target band 1,550–1,800",
-          "c-meal-kcal",
-        )}
-        ${chartCard(
-          "Daily protein from logged meals",
-          "Target 150–170 g/day",
-          "c-meal-protein",
-          true,
-        )}
+        ${chartCard("Daily kcal", "All food-log.md day sums", "c-meal-kcal")}
+        ${chartCard("Daily macros stacked view (P/C/F g)", "From day sums", "c-meal-macros")}
         <div class="grid-2">
-          ${chartCard("Avg kcal / day by week", "File day-sums · W4 partial", "c-week-kcal", true)}
-          ${chartCard("Avg protein / day by week", "W1 under target · W2 best", "c-week-p", true)}
+          ${chartCard("kcal / day by week", "", "c-week-kcal", true)}
+          ${chartCard("protein / day by week", "", "c-week-p", true)}
         </div>
         <div class="grid-2">
-          ${chartCard("Calories by meal type", "Share of total logged kcal", "c-meal-pie", true)}
-          ${chartCard("Meals per week window", "Corrections collapsed", "c-week-n", true)}
+          ${chartCard("Meal-type kcal share", "", "c-meal-pie", true)}
+          ${chartCard("Meals per week", "", "c-week-n", true)}
         </div>
-        ${chartCard(
-          "Notes weekly intake (canonical)",
-          "Sunday table · W1 was 5 days",
-          "c-notes-intake",
-          true,
-        )}
-        <div class="rule-card">
-          <h2>Staples (locked)</h2>
-          <p class="caption">Not bad foods — portion rules only</p>
-          <div class="pill-row">
-            <span class="pill on">≤2 roti / meal</span>
-            <span class="pill on">≤200 g Qilla rice</span>
-            <span class="pill on">Roti or rice — not both</span>
-            <span class="pill">Ashirwad chakki atta</span>
-            <span class="pill">Daal / lobia keep</span>
-            <span class="pill">Tostas rare OK</span>
-            <span class="pill">Haleem 1–2×/mo</span>
+        ${chartCard("Notes weekly intake", "Canonical Sunday averages", "c-notes-intake", true)}
+        ${chartCard("Meals logged per day", "Count of Food Log entries", "c-meal-n", true)}
+        ${tableCard("Top 20 highest-kcal meals", "* backfill estimated date", [
+          { label: "Dish" }, { label: "kcal", num: true }, { label: "P", num: true }, { label: "When" },
+        ], HC.topMeals, [], true)}
+        ${tableCard("Every day total", "All 31 days", [
+          { label: "Date" }, { label: "kcal", num: true }, { label: "P", num: true },
+          { label: "C", num: true }, { label: "F", num: true }, { label: "Meals", num: true },
+        ], HC.daily.map((d) => [d.date, String(d.kcal), String(d.p), String(d.c), String(d.f), String(d.n)]), [], true)}
+      </div>`;
+    lineChart("c-meal-kcal", HC.mealDays, [
+      { label: "kcal", data: HC.mealKcal, color: info, fill: info + "14" },
+    ]);
+    barChart("c-meal-macros", HC.mealDays, [
+      { label: "Protein", data: HC.mealProtein, color: good },
+      { label: "Carbs", data: HC.mealCarbs, color: info },
+      { label: "Fat", data: HC.mealFat, color: warn },
+    ], { stacked: true });
+    barChart("c-week-kcal", HC.weekLabels, [{ label: "kcal/day", data: HC.weekKcal, color: info }]);
+    barChart("c-week-p", HC.weekLabels, [{ label: "P g/day", data: HC.weekP, color: good }]);
+    pieChart("c-meal-pie", HC.pie);
+    barChart("c-week-n", HC.weekLabels, [{ label: "Meals", data: HC.weekMeals, color: muted }]);
+    barChart("c-notes-intake", HC.notesLabels, [{ label: "Intake", data: HC.notesIntake, color: warn }]);
+    barChart("c-meal-n", HC.mealDays, [{ label: "Meals", data: HC.mealCount, color: accent }]);
+  }
+
+  function mealRows(list) {
+    return list.map((m) => [
+      m.date,
+      m.slot,
+      m.dish,
+      String(m.kcal),
+      String(m.p),
+      String(m.c),
+      String(m.f),
+      m.backfill ? "est." : "live",
+    ]);
+  }
+
+  function renderMeals() {
+    const root = document.getElementById("panel-meals");
+    const dates = [...new Set(HC.meals.map((m) => m.date))];
+    root.innerHTML = `
+      <div class="stack">
+        <div class="sticky-note">
+          <div class="toolbar">
+            <input id="meal-q" type="search" placeholder="Search dish, notes, slot…" />
+            <select id="meal-date">
+              <option value="">All dates (${dates.length})</option>
+              ${dates.map((d) => `<option value="${esc(d)}">${esc(d)}</option>`).join("")}
+            </select>
+            <select id="meal-src">
+              <option value="">All sources</option>
+              <option value="live">Live mirror</option>
+              <option value="est">Chat backfill</option>
+            </select>
           </div>
-          <ul class="clean" style="margin-top:12px">
-            <li>Oil default 1–1.5 tbsp/pot</li>
-            <li>GY mix + whey breakfast habit — keep</li>
-            <li>Rare leaks: salami toast, celebration doubles (early cut)</li>
-          </ul>
+          <p class="meta-line" id="meal-meta">${HC.meals.length} meals</p>
         </div>
-        ${tableCard(
-          "Highest-calorie meals",
-          "* = estimated date from chat backfill",
-          [
-            { label: "Meal" },
-            { label: "kcal", num: true },
-            { label: "P", num: true },
-            { label: "When" },
-          ],
-          HC.topMeals,
-        )}
-        ${tableCard(
-          "Oct 6–13 Apple Health days",
-          "Canonical early window vs Fitbit burn",
-          [
-            { label: "Date" },
-            { label: "Intake", num: true },
-            { label: "P", num: true },
-            { label: "C", num: true },
-            { label: "F", num: true },
-            { label: "Burn", num: true },
-            { label: "Steps", num: true },
-            { label: "Deficit", num: true },
-          ],
-          HC.octLogged.map((d) => [
-            d.d,
-            String(d.kcal),
-            String(d.p),
-            String(d.c),
-            String(d.f),
-            String(d.burn),
-            d.steps.toLocaleString(),
-            String(d.def),
-          ]),
-          tones,
-        )}
+        <div id="meal-table"></div>
       </div>`;
 
-    lineChart("c-meal-kcal", HC.mealDays, [
-      { label: "Logged kcal", data: HC.mealKcal, color: info, fill: info + "14" },
-    ]);
-    lineChart("c-meal-protein", HC.mealDays, [
-      { label: "Protein (g)", data: HC.mealProtein, color: good, fill: good + "14" },
-    ]);
-    barChart("c-week-kcal", HC.weekLabels, [
-      { label: "kcal / day", data: HC.weekKcal, color: info },
-    ]);
-    barChart("c-week-p", HC.weekLabels, [
-      { label: "protein g / day", data: HC.weekP, color: good },
-    ]);
-    pieChart("c-meal-pie", HC.mealPie);
-    barChart("c-week-n", HC.weekLabels, [
-      { label: "Meal count", data: HC.weekMeals, color: muted },
-    ]);
-    barChart("c-notes-intake", HC.notesLabels, [
-      { label: "Avg intake (kcal)", data: HC.notesIntake, color: warn },
-    ]);
+    const draw = () => {
+      const q = document.getElementById("meal-q").value.trim().toLowerCase();
+      const date = document.getElementById("meal-date").value;
+      const src = document.getElementById("meal-src").value;
+      let list = HC.meals.slice();
+      if (date) list = list.filter((m) => m.date === date);
+      if (src === "live") list = list.filter((m) => !m.backfill);
+      if (src === "est") list = list.filter((m) => m.backfill);
+      if (q) {
+        list = list.filter((m) =>
+          `${m.dish} ${m.slot} ${m.notes} ${m.portions}`.toLowerCase().includes(q),
+        );
+      }
+      const sumK = list.reduce((a, m) => a + m.kcal, 0);
+      const sumP = list.reduce((a, m) => a + m.p, 0);
+      document.getElementById("meal-meta").textContent =
+        `${list.length} meals · ${sumK.toLocaleString()} kcal · ${sumP} g protein`;
+      document.getElementById("meal-table").innerHTML = tableCard(
+        "Complete Food Log",
+        "Every entry from health-coach/food-log.md",
+        [
+          { label: "Date" }, { label: "Slot" }, { label: "Dish" },
+          { label: "kcal", num: true }, { label: "P", num: true },
+          { label: "C", num: true }, { label: "F", num: true }, { label: "Src" },
+        ],
+        mealRows(list),
+        [],
+        true,
+      );
+    };
+
+    ["meal-q", "meal-date", "meal-src"].forEach((id) => {
+      document.getElementById(id).addEventListener("input", draw);
+      document.getElementById(id).addEventListener("change", draw);
+    });
+    draw();
+  }
+
+  function renderLabels() {
+    const root = document.getElementById("panel-labels");
+    root.innerHTML = `
+      <div class="stack">
+        <div class="callout">
+          <strong>${HC.labels.length} shelf labels</strong>
+          Canonical pack macros for Food Logs. Prefer these over generic databases.
+        </div>
+        <div class="toolbar sticky-note">
+          <input id="label-q" type="search" placeholder="Filter labels…" />
+          <p class="meta-line" id="label-meta"></p>
+        </div>
+        <div class="cards" id="label-cards"></div>
+      </div>`;
+
+    const draw = () => {
+      const q = document.getElementById("label-q").value.trim().toLowerCase();
+      const list = HC.labels.filter(
+        (l) => !q || `${l.name} ${l.bullets.join(" ")}`.toLowerCase().includes(q),
+      );
+      document.getElementById("label-meta").textContent = `${list.length} labels`;
+      document.getElementById("label-cards").innerHTML = list
+        .map((l) => {
+          const chip = l.macros
+            ? `<span class="macro-chip">${l.macros.kcal} kcal · P ${l.macros.p} · C ${l.macros.c} · F ${l.macros.f}</span>`
+            : "";
+          return `<article class="card-item"><h3>${esc(l.name)}</h3><ul>${l.bullets
+            .map((b) => `<li>${esc(b)}</li>`)
+            .join("")}</ul>${chip}</article>`;
+        })
+        .join("");
+    };
+    document.getElementById("label-q").addEventListener("input", draw);
+    draw();
+  }
+
+  function renderRecipes() {
+    const root = document.getElementById("panel-recipes");
+    root.innerHTML = `
+      <div class="stack">
+        <div class="callout">
+          <strong>${HC.recipes.length} household recipes</strong>
+          Family notes (Roman Urdu trained). Oil baselines evolved — current cut uses 1–1.5 tbsp/pot when he says spray/no oil.
+        </div>
+        <div class="toolbar sticky-note">
+          <input id="recipe-q" type="search" placeholder="Filter recipes…" />
+        </div>
+        <div class="cards" id="recipe-cards"></div>
+      </div>`;
+    const draw = () => {
+      const q = document.getElementById("recipe-q").value.trim().toLowerCase();
+      const list = HC.recipes.filter(
+        (r) => !q || `${r.name} ${r.body}`.toLowerCase().includes(q),
+      );
+      document.getElementById("recipe-cards").innerHTML = list
+        .map(
+          (r) =>
+            `<article class="card-item"><h3>${esc(r.name)}</h3><pre class="recipe-body">${esc(r.body)}</pre></article>`,
+        )
+        .join("");
+    };
+    document.getElementById("recipe-q").addEventListener("input", draw);
+    draw();
   }
 
   function renderRecovery() {
@@ -541,44 +501,26 @@
     root.innerHTML = `
       <div class="stack">
         <div class="grid-4">
-          ${stat("86 → 78", "RHR trend (bpm)", "good")}
-          ${stat("73–86", "Sleep score range")}
+          ${stat("86 → 78", "RHR trend", "good")}
+          ${stat("73–86", "Sleep scores")}
           ${stat("A+", "Blood type")}
           ${stat("6–8 h", "Sleep aim")}
         </div>
-        ${chartCard(
-          "Resting heart rate (bpm)",
-          "Fitbit Daily RHR · Sep 23 – Oct 13",
-          "c-rhr",
-        )}
-        ${chartCard(
-          "Sleep score & deep sleep",
-          "Fitbit Sleep Score export · sparse nights",
-          "c-sleep",
-        )}
-        ${tableCard(
-          "Sleep nights",
-          "",
-          [
-            { label: "Night" },
-            { label: "Score", num: true },
-            { label: "Deep (min)", num: true },
-          ],
-          HC.sleep.labels.map((d, i) => [d, String(HC.sleep.score[i]), String(HC.sleep.deep[i])]),
-        )}
-        <div class="callout">
-          <strong>Sleep & stress</strong>
-          Creatine may add 0.5–1.5 kg water in week 1 — expect scale noise.
-          Magnesium deferred unless sleep/cramps worsen.
-        </div>
+        ${chartCard("Resting heart rate", "Fitbit Daily RHR", "c-rhr")}
+        ${chartCard("Sleep score & deep sleep", "Sparse Fitbit nights", "c-sleep")}
+        ${tableCard("Sleep nights", "", [
+          { label: "Night" }, { label: "Score", num: true }, { label: "Deep min", num: true },
+        ], HC.sleep.labels.map((d, i) => [d, String(HC.sleep.score[i]), String(HC.sleep.deep[i])]))}
+        ${tableCard("RHR every day", "", [
+          { label: "Date" }, { label: "RHR", num: true },
+        ], HC.fitbitDays.map((d, i) => [d, String(HC.rhr[i])]), [], true)}
       </div>`;
-
     lineChart("c-rhr", HC.fitbitDays, [
-      { label: "RHR (bpm)", data: HC.rhr, color: "#9b2c2c", fill: "#9b2c2c18" },
+      { label: "RHR", data: HC.rhr, color: "#9b2c2c", fill: "#9b2c2c18" },
     ], { beginAtZero: false, min: 74, max: 88 });
     lineChart("c-sleep", HC.sleep.labels, [
-      { label: "Overall score", data: HC.sleep.score, color: info },
-      { label: "Deep sleep (min)", data: HC.sleep.deep, color: good },
+      { label: "Score", data: HC.sleep.score, color: info },
+      { label: "Deep (min)", data: HC.sleep.deep, color: good },
     ], { beginAtZero: false });
   }
 
@@ -587,67 +529,53 @@
     root.innerHTML = `
       <div class="stack">
         <div class="grid-4">
-          ${stat("1,550–1,800", "Food kcal / day", "info")}
-          ${stat("150–170 g", "Protein / day", "good")}
-          ${stat("45–65 g", "Fat / day")}
-          ${stat("120–190 g", "Carbs / day")}
+          ${stat("1,550–1,800", "kcal / day", "info")}
+          ${stat("150–170 g", "Protein", "good")}
+          ${stat("45–65 g", "Fat")}
+          ${stat("120–190 g", "Carbs")}
         </div>
-        ${tableCard(
-          "Cut levers",
-          "",
-          [{ label: "Lever" }, { label: "Target" }, { label: "Rule" }],
-          [
-            ["Food band", "1,550–1,800", "Prefer ~1,650 like W2–W3; floor ~1,500"],
-            ["Protein", "150–170 g", "Whey when food short; log the scoop"],
-            ["Walks", "400–500+ active kcal", "Don’t eat Fitbit burn back"],
-            ["Pace", "≥1 kg/week early", "Tighten portions if <0.5–0.7 ×2 wks"],
-            ["Weigh-in", "Sunday AM", "Toilet, before food"],
-            ["Tape", "Waist / chest / bicep / thigh", "With weight"],
-          ],
-        )}
-        ${tableCard(
-          "Halal top-3 stack",
-          "",
-          [{ label: "#" }, { label: "Supplement" }, { label: "Dose" }, { label: "Notes" }],
-          [
-            ["1", "Whey (Critical Whey)", "~24 g P · 122–130 kcal", "Log every scoop"],
-            ["2", "Creatine monohydrate", "5 g daily", "No loading; water noise week 1"],
-            ["3", "Algae omega-3", "2 caps/day with meal", "Heart/TG — not fat loss"],
-          ],
-        )}
-        ${tableCard(
-          "Weekly adjust",
-          "",
-          [{ label: "If…" }, { label: "Then…" }],
-          [
-            ["Lose ≥0.8–1.0 kg/week", "Hold calories & walks"],
-            ["Lose <0.5–0.7 for 2 weeks", "Tighten starch portions — not protein"],
-            ["Lose >1.2–1.5 with fatigue", "Bump food slightly"],
-            ["Protein ≪ 130", "Add whey or lean meat"],
-            ["Intake ≫ 1,800", "Flag day (portion / rare stack)"],
-          ],
-        )}
+        ${tableCard("Cut levers", "", [
+          { label: "Lever" }, { label: "Target" }, { label: "Rule" },
+        ], [
+          ["Food band", "1,550–1,800", "Prefer ~1,650; floor ~1,500"],
+          ["Protein", "150–170 g", "Whey when short; log scoop"],
+          ["Walks", "400–500+ active kcal", "Don’t eat burn back"],
+          ["Weigh-in", "Sunday AM", "Toilet, before food"],
+          ["Tape", "Waist / chest / bicep / thigh", "With weight"],
+        ])}
+        ${tableCard("Halal stack", "", [
+          { label: "#" }, { label: "Supplement" }, { label: "Dose" }, { label: "Notes" },
+        ], HC.stack)}
+        ${tableCard("Weekly adjust", "", [
+          { label: "If…" }, { label: "Then…" },
+        ], [
+          ["Lose ≥0.8–1.0 kg/week", "Hold calories & walks"],
+          ["Lose <0.5–0.7 for 2 weeks", "Tighten portions — not protein"],
+          ["Lose >1.2–1.5 with fatigue", "Bump food slightly"],
+          ["Protein ≪ 130", "Add whey or lean meat"],
+          ["Intake ≫ 1,800", "Flag day"],
+        ])}
+        <div class="rule-card">
+          <h2>Profile snapshot</h2>
+          <pre class="profile-pre">${esc(HC.profileMd)}</pre>
+        </div>
         <div class="rule-card">
           <h2>Food Log format</h2>
-          <p class="caption">Apple Health Shortcut · locked</p>
-          <pre style="margin:0;white-space:pre-wrap;font-family:ui-monospace,monospace;font-size:0.88rem;background:var(--paper);padding:12px;border-radius:10px;border:1px solid var(--line)">Food Log | {dish} | {kcal} | {protein} | {carbs} | {fat}
+          <pre class="profile-pre">Food Log | {dish} | {kcal} | {protein} | {carbs} | {fat}
 {low}–{high}% sure
 shortcuts://run-shortcut?name=Food%20Log&amp;input=text&amp;text=...</pre>
-        </div>
-        <div class="callout">
-          <strong>Coaching pointers</strong>
-          Don’t cut below ~1,650. Staples (roti or rice + daal/lobia) are fine at
-          your caps. Hit 150 g protein. Watch rare salami/toast stacks. Sunday:
-          weight + waist.
         </div>
       </div>`;
   }
 
   const renderers = {
     overview: renderOverview,
-    energy: renderEnergy,
     body: renderBody,
+    energy: renderEnergy,
     food: renderFood,
+    meals: renderMeals,
+    labels: renderLabels,
+    recipes: renderRecipes,
     recovery: renderRecovery,
     plan: renderPlan,
   };
@@ -655,8 +583,7 @@ shortcuts://run-shortcut?name=Food%20Log&amp;input=text&amp;text=...</pre>
   function showTab(name) {
     destroyCharts();
     document.querySelectorAll(".tabs button").forEach((btn) => {
-      const on = btn.dataset.tab === name;
-      btn.setAttribute("aria-selected", on ? "true" : "false");
+      btn.setAttribute("aria-selected", btn.dataset.tab === name ? "true" : "false");
     });
     document.querySelectorAll(".panel").forEach((panel) => {
       const on = panel.id === `panel-${name}`;
@@ -666,21 +593,14 @@ shortcuts://run-shortcut?name=Food%20Log&amp;input=text&amp;text=...</pre>
     renderers[name]();
   }
 
-  function initTabs() {
+  function boot() {
+    renderHero();
     document.querySelectorAll(".tabs button").forEach((btn) => {
       btn.addEventListener("click", () => showTab(btn.dataset.tab));
     });
-  }
-
-  function boot() {
-    renderHero();
-    initTabs();
     showTab("overview");
   }
 
-  if (document.readyState === "loading") {
-    document.addEventListener("DOMContentLoaded", boot);
-  } else {
-    boot();
-  }
+  if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", boot);
+  else boot();
 })();
