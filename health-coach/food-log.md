@@ -1458,6 +1458,8 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Shortcut line:** `Food Log | GY mix chai | 351 | 32 | 34 | 10`  
 **Confidence:** 85–90% sure.
 
+---
+
 ## 2026-10-28 — Lunch/Dinner
 
 **Dish:** Air-fryer-style chicken 65 (breast) + white rice + kali masoor dal (no oil/tarka assumed).
@@ -1471,5 +1473,21 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Confidence:** 78–85% sure · weighed grams; chicken method assumed air-fryer/spray like 27 Oct — say if deep-fried.
 
 **Notes:** Solid cut plate — rice within 200 g cap; protein strong from chicken + dal.
+
+---
+
+## 2026-10-28 — Dinner
+
+**Dish:** Chicken breast kebab + bhindi gosht + 2 roti.
+
+**Portions:** kebab **120 g** (chicken breast) · **2** medium house roti · bhindi gosht unweighed plate portion.
+
+**Macros:** **680 kcal · P 68 · C 55 · F 24**  
+(Kebab ~204/35/2/6 grilled breast · bhindi gosht ~250/26/10/13 cut-oil share · 2 roti ~226/7/43/5.)
+
+**Shortcut line:** `Food Log | Chicken breast kebab bhindi gosht 2 roti | 680 | 68 | 55 | 24`  
+**Confidence:** 75–82% sure · kebab weighed; gosht + roti size estimated — say if gosht was oily or roti big.
+
+**Notes:** Strong protein night. Roti count on cap (2). If gosht gravy was heavy, fat could be +5–10.
 
 ---
