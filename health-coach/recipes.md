@@ -3,11 +3,10 @@
 Source: family notes (Roman Urdu), trained 24 Sep 2026.  
 Household defaults: pot often feeds **2 adults + toddler** with **50–100% leftovers**.
 
-**Oil (locked until user says it changed):** usually **~2 dish spoons per recipe**.  
-1 dish spoon ≈ **2.5–3.5 tbsp** → 2 dish spoons ≈ **5–7 tbsp** oil/pot  
-≈ **600–840 kcal oil per pot** (~120 kcal/tbsp), shared across servings + leftovers.  
-His typical share of pot oil often ~**200–350 kcal** depending on how much gravy/salan he takes (not counting starch).  
-Use midpoint **~3 tbsp per dish spoon** (6 tbsp/pot ≈ **720 kcal oil**) unless photo looks unusually dry/oily.
+**Oil (updated Oct 2026):** household now uses **~1–1.5 tbsp oil per whole cooking pot** (was ~2 dish spoons ≈ 5–7 tbsp).  
+≈ **120–180 kcal oil per pot** (~120 kcal/tbsp), shared across servings + leftovers.  
+His typical share of pot oil often ~**30–70 kcal** depending on gravy amount (not counting starch).  
+Use midpoint **~1.25 tbsp/pot (~150 kcal oil)** unless photo looks unusually dry/oily.
 
 **Units:** 1 pao ≈ 250 g. Pao chamach ≈ ¼ tsp/tbsp in context.
 
@@ -91,8 +90,8 @@ Use midpoint **~3 tbsp per dish spoon** (6 tbsp/pot ≈ **720 kcal oil**) unless
 ---
 
 ## Logging priorities (from these recipes)
-1. **Oil / baghaar / shallow-fry** — #1 lever. Default **2 dish spoons/pot** (= ~5–7 tbsp). Dry dishes (qatliyan, bhindi, khara qeema) hold more of that oil on the plate.
-2. **Starch** — chawal dishes, roti on side, haleem density.
+1. **Starch** — chawal dishes, roti on side, haleem density. Now the #1 calorie lever (oil is low).
+2. **Oil / baghaar / shallow-fry** — default **1–1.5 tbsp/pot**. Dry dishes (qatliyan, bhindi, khara qeema) still hold more of that oil on the plate.
 3. **Batch fraction** — haleem, dahi baray, chicken sticks, karhi pot.
 
 ## Packaged: Continente sliced bread (Portugal)
@@ -100,8 +99,20 @@ Use midpoint **~3 tbsp per dish spoon** (6 tbsp/pot ≈ **720 kcal oil**) unless
 - Per 100 g: 254 kcal · P 9.1 · C 45 · F 3.3
 - **Log notes:** Use **80 kcal/slice** when user says slice count. Prefer this over generic bread estimates.
 
+## Packaged: Bimbo pan semillas + pea protein
+- Per slice **~33.9 g**: **81 kcal · P 6.8 · C 8.5 · F 1.8** (fiber 2.1, sugars 1.2, salt 0.28)
+- Per 100 g: **240 kcal · P 20 · C 25 · F 5.3** (fiber 6.3)
+- ~14 slices/pack. Wheat + seeds (4.2%) + pea protein (3.8%).
+- **Log notes:** Use **81 kcal/slice**. Higher protein / lower carbs than Continente white — better for IR/prediabetes toast meals.
+
 ## Packaged: Fulya Merguez (hot dog / sausage)
 - Pack **400 g / 8 pieces** → **~50 g/piece**
 - Label per 100 g: **236 kcal · P 11 · C 6.3 · F 19**
 - Per piece (raw/as labeled): **~118 kcal · P 5.5 · C 3 · F 9.5**
 - **Log notes:** Multiply by piece count. If shallow/deep fried, add extra oil (~40–80 kcal/piece depending on fry). Ask cook method.
+
+## Packaged: Tostas (crisp toast / rusk, 750 g pack)
+- Serving **15 g = 2 tostas**: **60 kcal · P 1.8 · C 10.0 · F 1.2** (fiber 1.0, salt 0.14)
+- Per tosta / piece: **30 kcal · P 0.9 · C 5.0 · F 0.6**
+- Per 100 g: **405 kcal · P 12 · C 67 · F 8.0**
+- Pack ≈ 50 servings (100 tostas). **Log notes:** Use **30 kcal/piece** × count.
