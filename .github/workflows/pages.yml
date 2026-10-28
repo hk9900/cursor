@@ -5,6 +5,7 @@ on:
     branches:
       - main
       - cursor/health-coach
+      - cursor/health-coach-site-1743
     paths:
       - "docs/**"
       - ".github/workflows/pages.yml"
