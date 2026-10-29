@@ -3407,6 +3407,19 @@ window.HC = {
       "portions": "**2** small squares ≈ **~12 g** (each smaller than the prior ~10 g / 1×1″ piece).",
       "confidence": "72–80% sure · square size estimated — say grams or milk chocolate if different.",
       "backfill": false
+    },
+    {
+      "date": "2026-10-29",
+      "slot": "Evening whey",
+      "dish": "Critical Whey Frappuccino (1 serving)",
+      "kcal": 130,
+      "p": 24,
+      "c": 4,
+      "f": 2,
+      "notes": "Locked shelf quick-log.",
+      "portions": "",
+      "confidence": "92–95% sure · label (33 g serving).",
+      "backfill": false
     }
   ],
   "daily": [
@@ -3660,11 +3673,11 @@ window.HC = {
     },
     {
       "date": "2026-10-29",
-      "kcal": 1461,
-      "p": 137,
-      "c": 127,
-      "f": 52,
-      "n": 5
+      "kcal": 1591,
+      "p": 161,
+      "c": 131,
+      "f": 54,
+      "n": 6
     }
   ],
   "recipes": [

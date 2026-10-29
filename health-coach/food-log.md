@@ -1583,3 +1583,16 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** Small treat after evening plate.
 
 ---
+
+## 2026-10-29 — Evening whey
+
+**Dish:** Critical Whey Frappuccino (1 serving).
+
+**Macros:** **130 kcal · P 24 · C 4 · F 2**
+
+**Shortcut line:** `Food Log | Critical Whey Frappuccino | 130 | 24 | 4 | 2`  
+**Confidence:** 92–95% sure · label (33 g serving).
+
+**Notes:** Locked shelf quick-log.
+
+---
