@@ -1567,3 +1567,19 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** Same sitting as chicken sticks. One starch (roti) with the aloo — within ≤2 roti rule.
 
 ---
+
+## 2026-10-29 — Dessert
+
+**Dish:** Dark chocolate — 2 small squares (bought bar, same household as prior).
+
+**Portions:** **2** small squares ≈ **~12 g** (each smaller than the prior ~10 g / 1×1″ piece).
+
+**Macros:** **65 kcal · P 1 · C 6 · F 5**  
+(Scaled from 25 Oct 1×1″ @ 55/10 g dark chocolate density.)
+
+**Shortcut line:** `Food Log | Dark chocolate 2 small squares | 65 | 1 | 6 | 5`  
+**Confidence:** 72–80% sure · square size estimated — say grams or milk chocolate if different.
+
+**Notes:** Small treat after evening plate.
+
+---

@@ -3394,6 +3394,19 @@ window.HC = {
       "portions": "qatliyan **112 g** cooked · **1** medium house roti · cut oil **1–1.5 tbsp/pot** share assumed.",
       "confidence": "72–80% sure · qatliyan weighed; oil soak + roti size estimated — say if roti big or plate oily.",
       "backfill": false
+    },
+    {
+      "date": "2026-10-29",
+      "slot": "Dessert",
+      "dish": "Dark chocolate — 2 small squares (bought bar, same household as prior)",
+      "kcal": 65,
+      "p": 1,
+      "c": 6,
+      "f": 5,
+      "notes": "Small treat after evening plate.",
+      "portions": "**2** small squares ≈ **~12 g** (each smaller than the prior ~10 g / 1×1″ piece).",
+      "confidence": "72–80% sure · square size estimated — say grams or milk chocolate if different.",
+      "backfill": false
     }
   ],
   "daily": [
@@ -3647,11 +3660,11 @@ window.HC = {
     },
     {
       "date": "2026-10-29",
-      "kcal": 1396,
-      "p": 136,
-      "c": 121,
-      "f": 47,
-      "n": 4
+      "kcal": 1461,
+      "p": 137,
+      "c": 127,
+      "f": 52,
+      "n": 5
     }
   ],
   "recipes": [
