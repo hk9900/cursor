@@ -1519,3 +1519,19 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** Standard cut breakfast.
 
 ---
+
+## 2026-10-29 — Lunch/Dinner
+
+**Dish:** Bhindi gosht + 1 roti + chicken breast kebab 100 g.
+
+**Portions:** kebab **100 g** · **1** medium house roti · bhindi gosht unweighed plate portion.
+
+**Macros:** **535 kcal · P 59 · C 34 · F 21**  
+(Kebab ~170/29/2/5 · bhindi gosht ~250/26/10/13 · roti ~115/4/22/3.)
+
+**Shortcut line:** `Food Log | Bhindi gosht 1 roti chicken kebab | 535 | 59 | 34 | 21`  
+**Confidence:** 75–82% sure · kebab weighed; gosht + roti size estimated.
+
+**Notes:** Half the roti vs last night — good starch control. Strong protein.
+
+---
