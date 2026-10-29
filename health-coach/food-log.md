@@ -1551,3 +1551,19 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** Separate from earlier kebab + bhindi meal. Strong evening protein top-up.
 
 ---
+
+## 2026-10-29 — Evening side
+
+**Dish:** Aloo ki qatliyan (zeera + mirch, dry oil-cook, no water — recipe book).
+
+**Portions:** ~**170 g** plate (unweighed) · cut oil **1–1.5 tbsp/pot** share assumed · Tabasco on side.
+
+**Macros:** **250 kcal · P 4 · C 36 · F 10**  
+(Potato ~175 kcal / oil share ~75 · dry qatliyan holds oil.)
+
+**Shortcut line:** `Food Log | Aloo qatliyan | 250 | 4 | 36 | 10`  
+**Confidence:** 65–75% sure · photo only; oil soak + portion estimated — say if weighed or plate was oily.
+
+**Notes:** Same sitting as chicken sticks. Starch side — no roti stacked.
+
+---

@@ -3381,6 +3381,19 @@ window.HC = {
       "portions": "**130 g** cooked (~9 sticks) · Tabasco on side (0 kcal).",
       "confidence": "78–85% sure · weighed cooked; coat + spray assumed — say if shallow-fried.",
       "backfill": false
+    },
+    {
+      "date": "2026-10-29",
+      "slot": "Evening side",
+      "dish": "Aloo ki qatliyan (zeera + mirch, dry oil-cook, no water — recipe book)",
+      "kcal": 250,
+      "p": 4,
+      "c": 36,
+      "f": 10,
+      "notes": "Same sitting as chicken sticks. Starch side — no roti stacked.",
+      "portions": "~**170 g** plate (unweighed) · cut oil **1–1.5 tbsp/pot** share assumed · Tabasco on side.",
+      "confidence": "65–75% sure · photo only; oil soak + portion estimated — say if weighed or plate was oily.",
+      "backfill": false
     }
   ],
   "daily": [
@@ -3634,11 +3647,11 @@ window.HC = {
     },
     {
       "date": "2026-10-29",
-      "kcal": 1116,
-      "p": 129,
-      "c": 75,
-      "f": 37,
-      "n": 3
+      "kcal": 1366,
+      "p": 133,
+      "c": 111,
+      "f": 47,
+      "n": 4
     }
   ],
   "recipes": [
