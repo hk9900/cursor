@@ -3373,13 +3373,13 @@ window.HC = {
       "date": "2026-10-29",
       "slot": "Evening",
       "dish": "Air-fryer chicken sticks (breast, light breadcrumb/maida coat, 1 spray assumed)",
-      "kcal": 265,
-      "p": 44,
-      "c": 8,
-      "f": 7,
+      "kcal": 230,
+      "p": 38,
+      "c": 7,
+      "f": 6,
       "notes": "Separate from earlier kebab + bhindi meal. Strong evening protein top-up.",
-      "portions": "~**150 g** cooked (~9 sticks in glass bowl, unweighed) · Tabasco on side (0 kcal).",
-      "confidence": "70–78% sure · photo only; portion + coat estimated — say if weighed or shallow-fried.",
+      "portions": "**130 g** cooked (~9 sticks) · Tabasco on side (0 kcal).",
+      "confidence": "78–85% sure · weighed cooked; coat + spray assumed — say if shallow-fried.",
       "backfill": false
     }
   ],
@@ -3634,10 +3634,10 @@ window.HC = {
     },
     {
       "date": "2026-10-29",
-      "kcal": 1151,
-      "p": 135,
-      "c": 76,
-      "f": 38,
+      "kcal": 1116,
+      "p": 129,
+      "c": 75,
+      "f": 37,
       "n": 3
     }
   ],

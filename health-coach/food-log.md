@@ -1540,13 +1540,13 @@ With sandwich → **~895 / 53 / 87 / 38**.
 
 **Dish:** Air-fryer chicken sticks (breast, light breadcrumb/maida coat, 1 spray assumed).
 
-**Portions:** ~**150 g** cooked (~9 sticks in glass bowl, unweighed) · Tabasco on side (0 kcal).
+**Portions:** **130 g** cooked (~9 sticks) · Tabasco on side (0 kcal).
 
-**Macros:** **265 kcal · P 44 · C 8 · F 7**  
-(Same density as recent AF chicken popcorn 150 g light coat.)
+**Macros:** **230 kcal · P 38 · C 7 · F 6**  
+(Scaled from AF chicken popcorn light-coat density @ 130 g cooked.)
 
-**Shortcut line:** `Food Log | Air fryer chicken sticks | 265 | 44 | 8 | 7`  
-**Confidence:** 70–78% sure · photo only; portion + coat estimated — say if weighed or shallow-fried.
+**Shortcut line:** `Food Log | Air fryer chicken sticks | 230 | 38 | 7 | 6`  
+**Confidence:** 78–85% sure · weighed cooked; coat + spray assumed — say if shallow-fried.
 
 **Notes:** Separate from earlier kebab + bhindi meal. Strong evening protein top-up.
 
