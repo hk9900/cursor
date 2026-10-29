@@ -1554,16 +1554,16 @@ With sandwich → **~895 / 53 / 87 / 38**.
 
 ## 2026-10-29 — Evening side
 
-**Dish:** Aloo ki qatliyan (zeera + mirch, dry oil-cook, no water — recipe book).
+**Dish:** Aloo ki qatliyan (zeera + mirch, dry oil-cook) + 1 roti.
 
-**Portions:** **112 g** cooked · cut oil **1–1.5 tbsp/pot** share assumed · Tabasco on side.
+**Portions:** qatliyan **112 g** cooked · **1** medium house roti · cut oil **1–1.5 tbsp/pot** share assumed.
 
-**Macros:** **165 kcal · P 3 · C 24 · F 7**  
-(Scaled to weighed plate · dry qatliyan oil density from cut pot.)
+**Macros:** **280 kcal · P 7 · C 46 · F 10**  
+(Qatliyan ~165/3/24/7 · roti ~115/4/22/3.)
 
-**Shortcut line:** `Food Log | Aloo qatliyan | 165 | 3 | 24 | 7`  
-**Confidence:** 72–80% sure · weighed; oil soak still estimated — say if plate was oily.
+**Shortcut line:** `Food Log | Aloo qatliyan 1 roti | 280 | 7 | 46 | 10`  
+**Confidence:** 72–80% sure · qatliyan weighed; oil soak + roti size estimated — say if roti big or plate oily.
 
-**Notes:** Same sitting as chicken sticks. Starch side — no roti stacked.
+**Notes:** Same sitting as chicken sticks. One starch (roti) with the aloo — within ≤2 roti rule.
 
 ---
