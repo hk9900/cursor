@@ -3368,6 +3368,19 @@ window.HC = {
       "portions": "kebab **100 g** · **1** medium house roti · bhindi gosht unweighed plate portion.",
       "confidence": "",
       "backfill": true
+    },
+    {
+      "date": "2026-10-29",
+      "slot": "Evening",
+      "dish": "Air-fryer chicken sticks (breast, light breadcrumb/maida coat, 1 spray assumed)",
+      "kcal": 265,
+      "p": 44,
+      "c": 8,
+      "f": 7,
+      "notes": "Separate from earlier kebab + bhindi meal. Strong evening protein top-up.",
+      "portions": "~**150 g** cooked (~9 sticks in glass bowl, unweighed) · Tabasco on side (0 kcal).",
+      "confidence": "70–78% sure · photo only; portion + coat estimated — say if weighed or shallow-fried.",
+      "backfill": false
     }
   ],
   "daily": [
@@ -3621,11 +3634,11 @@ window.HC = {
     },
     {
       "date": "2026-10-29",
-      "kcal": 886,
-      "p": 91,
-      "c": 68,
-      "f": 31,
-      "n": 2
+      "kcal": 1151,
+      "p": 135,
+      "c": 76,
+      "f": 38,
+      "n": 3
     }
   ],
   "recipes": [

@@ -1535,3 +1535,19 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** Half the roti vs last night — good starch control. Strong protein.
 
 ---
+
+## 2026-10-29 — Evening
+
+**Dish:** Air-fryer chicken sticks (breast, light breadcrumb/maida coat, 1 spray assumed).
+
+**Portions:** ~**150 g** cooked (~9 sticks in glass bowl, unweighed) · Tabasco on side (0 kcal).
+
+**Macros:** **265 kcal · P 44 · C 8 · F 7**  
+(Same density as recent AF chicken popcorn 150 g light coat.)
+
+**Shortcut line:** `Food Log | Air fryer chicken sticks | 265 | 44 | 8 | 7`  
+**Confidence:** 70–78% sure · photo only; portion + coat estimated — say if weighed or shallow-fried.
+
+**Notes:** Separate from earlier kebab + bhindi meal. Strong evening protein top-up.
+
+---
