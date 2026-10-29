@@ -1506,3 +1506,16 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** High sugar dessert · little protein. Rare treat — don’t stack with a second cup.
 
 ---
+
+## 2026-10-29 — Breakfast
+
+**Dish:** Usual GY mix (200 g Mythos GY + granola + strawberries + 1 scoop chocolate whey) + 1 chai (Canderel).
+
+**Macros:** **351 kcal · P 32 · C 34 · F 10**
+
+**Shortcut line:** `Food Log | GY mix chai | 351 | 32 | 34 | 10`  
+**Confidence:** 85–90% sure · same as recent “usual” bowl — say if plain GY only (no whey/granola ≈ 254).
+
+**Notes:** Standard cut breakfast.
+
+---
