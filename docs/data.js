@@ -3386,13 +3386,13 @@ window.HC = {
       "date": "2026-10-29",
       "slot": "Evening side",
       "dish": "Aloo ki qatliyan (zeera + mirch, dry oil-cook, no water — recipe book)",
-      "kcal": 250,
-      "p": 4,
-      "c": 36,
-      "f": 10,
+      "kcal": 165,
+      "p": 3,
+      "c": 24,
+      "f": 7,
       "notes": "Same sitting as chicken sticks. Starch side — no roti stacked.",
-      "portions": "~**170 g** plate (unweighed) · cut oil **1–1.5 tbsp/pot** share assumed · Tabasco on side.",
-      "confidence": "65–75% sure · photo only; oil soak + portion estimated — say if weighed or plate was oily.",
+      "portions": "**112 g** cooked · cut oil **1–1.5 tbsp/pot** share assumed · Tabasco on side.",
+      "confidence": "72–80% sure · weighed; oil soak still estimated — say if plate was oily.",
       "backfill": false
     }
   ],
@@ -3647,10 +3647,10 @@ window.HC = {
     },
     {
       "date": "2026-10-29",
-      "kcal": 1366,
-      "p": 133,
-      "c": 111,
-      "f": 47,
+      "kcal": 1281,
+      "p": 132,
+      "c": 99,
+      "f": 44,
       "n": 4
     }
   ],

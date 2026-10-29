@@ -1556,13 +1556,13 @@ With sandwich → **~895 / 53 / 87 / 38**.
 
 **Dish:** Aloo ki qatliyan (zeera + mirch, dry oil-cook, no water — recipe book).
 
-**Portions:** ~**170 g** plate (unweighed) · cut oil **1–1.5 tbsp/pot** share assumed · Tabasco on side.
+**Portions:** **112 g** cooked · cut oil **1–1.5 tbsp/pot** share assumed · Tabasco on side.
 
-**Macros:** **250 kcal · P 4 · C 36 · F 10**  
-(Potato ~175 kcal / oil share ~75 · dry qatliyan holds oil.)
+**Macros:** **165 kcal · P 3 · C 24 · F 7**  
+(Scaled to weighed plate · dry qatliyan oil density from cut pot.)
 
-**Shortcut line:** `Food Log | Aloo qatliyan | 250 | 4 | 36 | 10`  
-**Confidence:** 65–75% sure · photo only; oil soak + portion estimated — say if weighed or plate was oily.
+**Shortcut line:** `Food Log | Aloo qatliyan | 165 | 3 | 24 | 7`  
+**Confidence:** 72–80% sure · weighed; oil soak still estimated — say if plate was oily.
 
 **Notes:** Same sitting as chicken sticks. Starch side — no roti stacked.
 
