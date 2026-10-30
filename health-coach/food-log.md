@@ -1596,3 +1596,19 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** Locked shelf quick-log.
 
 ---
+
+## 2026-10-30 — Breakfast
+
+**Dish:** Egg-white omelette (225 g uncooked whites, 1 spray) + 2 Bimbo protein bread + 3 tostas light butter + Galão capsule (1 tsp sucralose).
+
+**Portions:** whites **225 g** · spray **1** · Bimbo **2** · tostas **3** · butter ~**1 tsp** lightly across tostas · Galão **1** · sucralose skip.
+
+**Macros:** **444 kcal · P 44 · C 38 · F 13**  
+(Whites ~106/25/2/0 · spray ~5/0/0/1 · 2 Bimbo ~162/14/17/4 · 3 tostas ~90/3/15/2 · butter ~36/0/0/4 · Galão ~45/2/4/2.)
+
+**Shortcut line:** `Food Log | Egg white omelette Bimbo tostas Galão | 444 | 44 | 38 | 13`  
+**Confidence:** 85–90% sure · labels for whites/Bimbo/tostas/Galão; butter smear + spray estimated — say if Mimosa light instead of butter.
+
+**Notes:** Strong lean start. Tostas rare OK per cut rules.
+
+---

@@ -1,14 +1,14 @@
 window.HC = {
   "meta": {
     "name": "Hassan Khan",
-    "through": "2026-10-29",
+    "through": "2026-10-30",
     "weight": 111.5,
     "waist": 45.5,
     "startWeight": 120,
     "heightCm": 180.3,
     "dob": "1991-08-08",
     "city": "Lisbon",
-    "siteUpdated": "2026-10-29"
+    "siteUpdated": "2026-10-30"
   },
   "weightCut": {
     "labels": [
@@ -3420,6 +3420,19 @@ window.HC = {
       "portions": "",
       "confidence": "92–95% sure · label (33 g serving).",
       "backfill": false
+    },
+    {
+      "date": "2026-10-30",
+      "slot": "Breakfast",
+      "dish": "Egg-white omelette (225 g uncooked whites, 1 spray) + 2 Bimbo protein bread + 3 tostas light butter + Galão capsule (1 tsp sucralose)",
+      "kcal": 444,
+      "p": 44,
+      "c": 38,
+      "f": 13,
+      "notes": "Strong lean breakfast · butter smear estimated — say if Mimosa light instead.",
+      "portions": "whites **225 g** · spray **1** · Bimbo **2** · tostas **3** · butter ~**1 tsp** · Galão **1** · sucralose skip.",
+      "confidence": "85–90% sure · labels for whites/Bimbo/tostas/Galão; butter smear + spray estimated.",
+      "backfill": false
     }
   ],
   "daily": [
@@ -3678,6 +3691,14 @@ window.HC = {
       "c": 131,
       "f": 54,
       "n": 6
+    },
+    {
+      "date": "2026-10-30",
+      "kcal": 444,
+      "p": 44,
+      "c": 38,
+      "f": 13,
+      "n": 1
     }
   ],
   "recipes": [
