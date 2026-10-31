@@ -3446,6 +3446,19 @@ window.HC = {
       "portions": "chicken sticks **240 g** · daal chawal **150 g** combined.",
       "confidence": "78–85% sure · sticks weighed + known density; daal/rice mix ratio estimated — say if oily tarka.",
       "backfill": false
+    },
+    {
+      "date": "2026-10-30",
+      "slot": "Dinner 2",
+      "dish": "Homemade Pakistani Singaporean rice (basmati + rice noodles + chicken + veggies; desi fusion assemble)",
+      "kcal": 595,
+      "p": 35,
+      "c": 74,
+      "f": 16,
+      "notes": "Karachi-style fusion (not Singapore). Double starch (rice + noodles) — treat as the rich plate of the day.",
+      "portions": "**370 g** weighed plate.",
+      "confidence": "70–78% sure · weighed total; layer mix + mayo/oil estimated from desi recipes — say if no mayo or heavy sauce.",
+      "backfill": false
     }
   ],
   "daily": [
@@ -3707,11 +3720,11 @@ window.HC = {
     },
     {
       "date": "2026-10-30",
-      "kcal": 1054,
-      "p": 122,
-      "c": 86,
-      "f": 25,
-      "n": 2
+      "kcal": 1649,
+      "p": 157,
+      "c": 160,
+      "f": 41,
+      "n": 3
     }
   ],
   "recipes": [
