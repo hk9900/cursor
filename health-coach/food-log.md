@@ -1457,3 +1457,222 @@ With sandwich → **~895 / 53 / 87 / 38**.
 
 **Shortcut line:** `Food Log | GY mix chai | 351 | 32 | 34 | 10`  
 **Confidence:** 85–90% sure.
+
+---
+
+## 2026-10-28 — Lunch/Dinner
+
+**Dish:** Air-fryer-style chicken 65 (breast) + white rice + kali masoor dal (no oil/tarka assumed).
+
+**Portions:** chicken 65 **124 g** · white rice **150 g** · kali masoor **100 g**.
+
+**Macros:** **525 kcal · P 49 · C 65 · F 7**  
+(Chicken 65 ~217/36/5/6 · rice ~195/4/42/0 · dal ~115/9/18/1.)
+
+**Shortcut line:** `Food Log | Chicken 65 rice kali masoor | 525 | 49 | 65 | 7`  
+**Confidence:** 78–85% sure · weighed grams; chicken method assumed air-fryer/spray like 27 Oct — say if deep-fried.
+
+**Notes:** Solid cut plate — rice within 200 g cap; protein strong from chicken + dal.
+
+---
+
+## 2026-10-28 — Dinner
+
+**Dish:** Chicken breast kebab + bhindi gosht + 2 roti.
+
+**Portions:** kebab **120 g** (chicken breast) · **2** medium house roti · bhindi gosht unweighed plate portion.
+
+**Macros:** **680 kcal · P 68 · C 55 · F 24**  
+(Kebab ~204/35/2/6 grilled breast · bhindi gosht ~250/26/10/13 cut-oil share · 2 roti ~226/7/43/5.)
+
+**Shortcut line:** `Food Log | Chicken breast kebab bhindi gosht 2 roti | 680 | 68 | 55 | 24`  
+**Confidence:** 75–82% sure · kebab weighed; gosht + roti size estimated — say if gosht was oily or roti big.
+
+**Notes:** Strong protein night. Roti count on cap (2). If gosht gravy was heavy, fat could be +5–10.
+
+---
+
+## 2026-10-28 — Dessert
+
+**Dish:** Burger King King Fusion Kit Kat (1 cup).
+
+**Portion:** **1** cup (EU/Spain nutrition — closest to Lisbon).
+
+**Macros:** **339 kcal · P 6 · C 48 · F 13**
+
+**Shortcut line:** `Food Log | King Fusion Kit Kat | 339 | 6 | 48 | 13`  
+**Confidence:** 80–88% sure · BK Spain/EU listing; Portugal may vary slightly.
+
+**Notes:** High sugar dessert · little protein. Rare treat — don’t stack with a second cup.
+
+---
+
+## 2026-10-29 — Breakfast
+
+**Dish:** Usual GY mix (200 g Mythos GY + granola + strawberries + 1 scoop chocolate whey) + 1 chai (Canderel).
+
+**Macros:** **351 kcal · P 32 · C 34 · F 10**
+
+**Shortcut line:** `Food Log | GY mix chai | 351 | 32 | 34 | 10`  
+**Confidence:** 85–90% sure · same as recent “usual” bowl — say if plain GY only (no whey/granola ≈ 254).
+
+**Notes:** Standard cut breakfast.
+
+---
+
+## 2026-10-29 — Lunch/Dinner
+
+**Dish:** Bhindi gosht + 1 roti + chicken breast kebab 100 g.
+
+**Portions:** kebab **100 g** · **1** medium house roti · bhindi gosht unweighed plate portion.
+
+**Macros:** **535 kcal · P 59 · C 34 · F 21**  
+(Kebab ~170/29/2/5 · bhindi gosht ~250/26/10/13 · roti ~115/4/22/3.)
+
+**Shortcut line:** `Food Log | Bhindi gosht 1 roti chicken kebab | 535 | 59 | 34 | 21`  
+**Confidence:** 75–82% sure · kebab weighed; gosht + roti size estimated.
+
+**Notes:** Half the roti vs last night — good starch control. Strong protein.
+
+---
+
+## 2026-10-29 — Evening
+
+**Dish:** Air-fryer chicken sticks (breast, light breadcrumb/maida coat, 1 spray assumed).
+
+**Portions:** **130 g** cooked (~9 sticks) · Tabasco on side (0 kcal).
+
+**Macros:** **230 kcal · P 38 · C 7 · F 6**  
+(Scaled from AF chicken popcorn light-coat density @ 130 g cooked.)
+
+**Shortcut line:** `Food Log | Air fryer chicken sticks | 230 | 38 | 7 | 6`  
+**Confidence:** 78–85% sure · weighed cooked; coat + spray assumed — say if shallow-fried.
+
+**Notes:** Separate from earlier kebab + bhindi meal. Strong evening protein top-up.
+
+---
+
+## 2026-10-29 — Evening side
+
+**Dish:** Aloo ki qatliyan (zeera + mirch, dry oil-cook) + 1 roti.
+
+**Portions:** qatliyan **112 g** cooked · **1** medium house roti · cut oil **1–1.5 tbsp/pot** share assumed.
+
+**Macros:** **280 kcal · P 7 · C 46 · F 10**  
+(Qatliyan ~165/3/24/7 · roti ~115/4/22/3.)
+
+**Shortcut line:** `Food Log | Aloo qatliyan 1 roti | 280 | 7 | 46 | 10`  
+**Confidence:** 72–80% sure · qatliyan weighed; oil soak + roti size estimated — say if roti big or plate oily.
+
+**Notes:** Same sitting as chicken sticks. One starch (roti) with the aloo — within ≤2 roti rule.
+
+---
+
+## 2026-10-29 — Dessert
+
+**Dish:** Dark chocolate — 2 small squares (bought bar, same household as prior).
+
+**Portions:** **2** small squares ≈ **~12 g** (each smaller than the prior ~10 g / 1×1″ piece).
+
+**Macros:** **65 kcal · P 1 · C 6 · F 5**  
+(Scaled from 25 Oct 1×1″ @ 55/10 g dark chocolate density.)
+
+**Shortcut line:** `Food Log | Dark chocolate 2 small squares | 65 | 1 | 6 | 5`  
+**Confidence:** 72–80% sure · square size estimated — say grams or milk chocolate if different.
+
+**Notes:** Small treat after evening plate.
+
+---
+
+## 2026-10-29 — Evening whey
+
+**Dish:** Critical Whey Frappuccino (1 serving).
+
+**Macros:** **130 kcal · P 24 · C 4 · F 2**
+
+**Shortcut line:** `Food Log | Critical Whey Frappuccino | 130 | 24 | 4 | 2`  
+**Confidence:** 92–95% sure · label (33 g serving).
+
+**Notes:** Locked shelf quick-log.
+
+---
+
+## 2026-10-30 — Breakfast
+
+**Dish:** Egg-white omelette (225 g uncooked whites, 1 spray) + 2 Bimbo protein bread + 3 tostas light butter + Galão capsule (1 tsp sucralose).
+
+**Portions:** whites **225 g** · spray **1** · Bimbo **2** · tostas **3** · butter ~**1 tsp** lightly across tostas · Galão **1** · sucralose skip.
+
+**Macros:** **444 kcal · P 44 · C 38 · F 13**  
+(Whites ~106/25/2/0 · spray ~5/0/0/1 · 2 Bimbo ~162/14/17/4 · 3 tostas ~90/3/15/2 · butter ~36/0/0/4 · Galão ~45/2/4/2.)
+
+**Shortcut line:** `Food Log | Egg white omelette Bimbo tostas Galão | 444 | 44 | 38 | 13`  
+**Confidence:** 85–90% sure · labels for whites/Bimbo/tostas/Galão; butter smear + spray estimated — say if Mimosa light instead of butter.
+
+**Notes:** Strong lean start. Tostas rare OK per cut rules.
+
+---
+
+## 2026-10-30 — Dinner
+
+**Dish:** Leftover air-fryer chicken sticks **240 g** + kali masoor daal chawal **150 g** (no oil/tarka assumed).
+
+**Portions:** chicken sticks **240 g** (same light-coat AF batch) · daal chawal **150 g** combined.
+
+**Macros:** **610 kcal · P 78 · C 48 · F 12**  
+(Sticks ~425/70/13/11 from 130 g @ 230 density · daal chawal ~185/8/35/1 no-oil mix.)
+
+**Shortcut line:** `Food Log | Chicken sticks daal chawal | 610 | 78 | 48 | 12`  
+**Confidence:** 78–85% sure · sticks weighed + known density; daal/rice mix ratio estimated — say if oily tarka.
+
+**Notes:** Very high protein plate. Starch ≤200 g rice-side OK as mixed 150 g.
+
+---
+
+## 2026-10-30 — Dinner 2
+
+**Dish:** Homemade Pakistani Singaporean rice (basmati + rice noodles + chicken + veggies; desi fusion assemble).
+
+**Portions:** **370 g** weighed plate · **heavy** mayo/ketchup sauce.
+
+**Macros:** **755 kcal · P 35 · C 75 · F 34**  
+(~130 g rice · ~90 g rice noodles · ~90 g chicken · ~50 g veg · cut oil share · heavy mayo drizzle ~2 tbsp + ketchup/chili.)
+
+**Shortcut line:** `Food Log | Singaporean rice | 755 | 35 | 75 | 34`  
+**Confidence:** 68–76% sure · weighed plate; heavy sauce volume still estimated — say tbsp mayo if you measured.
+
+**Notes:** Karachi-style fusion. Mayo is the fat spike — next time thin drizzle keeps this nearer ~600.
+
+---
+
+## 2026-10-31 — Breakfast
+
+**Dish:** Egg-white omelette (170 g, 1 spray) + 2 Bimbo protein bread + 5 tostas with butter + 1 chai (Canderel).
+
+**Portions:** whites **170 g** · spray **1** · Bimbo **2** · tostas **5** · butter ~**½ tbsp** across tostas · chai **1** (200 ml meio-gordo + Canderel).
+
+**Macros:** **545 kcal · P 45 · C 53 · F 17**  
+(Whites ~80/19/1/0 · spray ~5/0/0/1 · 2 Bimbo ~162/14/17/4 · 5 tostas ~150/5/25/3 · butter ~54/0/0/6 · chai ~94/7/10/3.)
+
+**Shortcut line:** `Food Log | Egg white omelette Bimbo 5 tostas chai | 545 | 45 | 53 | 17`  
+**Confidence:** 85–90% sure · labels for whites/Bimbo/tostas/chai; butter smear + spray estimated — say if Mimosa or sugar in chai.
+
+**Notes:** 5 tostas is a bigger starch hit than usual 3.
+
+---
+
+## 2026-10-31 — Dinner
+
+**Dish:** Air-fryer chicken breast boti 100 g + looki (lauki) bhujia 170 g + 2 roti.
+
+**Portions:** chicken **100 g** AF · looki bhujia **170 g** · **2** medium house roti · cut oil **1–1.5 tbsp/pot** share on bhujia.
+
+**Macros:** **495 kcal · P 41 · C 52 · F 17**  
+(Chicken ~165/31/0/4 · looki ~100/2/8/7 · 2 roti ~230/8/44/6.)
+
+**Shortcut line:** `Food Log | Chicken boti looki 2 roti | 495 | 41 | 52 | 17`  
+**Confidence:** 75–82% sure · chicken + looki weighed; bhujia oil soak + roti size estimated — say if oily or roti big.
+
+**Notes:** Lean AF protein + watery sabzi — solid cut plate. Within ≤2 roti.
+
+---

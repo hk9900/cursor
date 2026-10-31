@@ -1,14 +1,14 @@
 window.HC = {
   "meta": {
     "name": "Hassan Khan",
-    "through": "2026-10-28",
+    "through": "2026-10-31",
     "weight": 111.5,
     "waist": 45.5,
     "startWeight": 120,
     "heightCm": 180.3,
     "dob": "1991-08-08",
     "city": "Lisbon",
-    "siteUpdated": "2026-10-28"
+    "siteUpdated": "2026-10-31"
   },
   "weightCut": {
     "labels": [
@@ -1502,7 +1502,8 @@ window.HC = {
     "10-25",
     "10-26",
     "10-27",
-    "10-28"
+    "10-28",
+    "10-29"
   ],
   "mealKcal": [
     1620,
@@ -1535,7 +1536,8 @@ window.HC = {
     1798,
     1702,
     1554,
-    351
+    1895,
+    886
   ],
   "mealProtein": [
     60,
@@ -1568,7 +1570,8 @@ window.HC = {
     159,
     169,
     142,
-    32
+    155,
+    91
   ],
   "mealCarbs": [
     180,
@@ -1601,7 +1604,8 @@ window.HC = {
     153,
     147,
     153,
-    34
+    202,
+    68
   ],
   "mealFat": [
     65,
@@ -1634,7 +1638,8 @@ window.HC = {
     67,
     55,
     44,
-    10
+    54,
+    31
   ],
   "mealCount": [
     2,
@@ -1667,7 +1672,8 @@ window.HC = {
     5,
     4,
     4,
-    1
+    4,
+    2
   ],
   "weekLabels": [
     "→11 Oct (W1)",
@@ -1747,8 +1753,8 @@ window.HC = {
       "c": 80,
       "f": 35,
       "notes": "Chat prompt: can we name the recipe in health app?",
-      "confidence": "75–85% sure · backfilled from chat history.",
       "portions": "",
+      "confidence": "",
       "backfill": true
     },
     {
@@ -1760,8 +1766,8 @@ window.HC = {
       "c": 100,
       "f": 30,
       "notes": "Chat prompt: No paltay salan is made of cheakpea flour",
-      "confidence": "75–85% sure · backfilled from chat history.",
       "portions": "",
+      "confidence": "",
       "backfill": true
     },
     {
@@ -1773,8 +1779,8 @@ window.HC = {
       "c": 125,
       "f": 30,
       "notes": "Chat prompt: Fir meal to actually log  Daal masoor with rice and few tabs of allu bhujia",
-      "confidence": "80–85% sure · backfilled from chat history.",
       "portions": "",
+      "confidence": "",
       "backfill": true
     },
     {
@@ -1786,8 +1792,8 @@ window.HC = {
       "c": 95,
       "f": 30,
       "notes": "Chat prompt: Palak alu with 2 roti",
-      "confidence": "78–85% sure · backfilled from chat history.",
       "portions": "",
+      "confidence": "",
       "backfill": true
     },
     {
@@ -1799,8 +1805,8 @@ window.HC = {
       "c": 30,
       "f": 0,
       "notes": "Chat prompt: Fanta 1 glass",
-      "confidence": "85–90% sure · backfilled from chat history.",
       "portions": "",
+      "confidence": "",
       "backfill": true
     },
     {
@@ -1812,8 +1818,8 @@ window.HC = {
       "c": 65,
       "f": 20,
       "notes": "Chat prompt: Not half egg 1 half fried egg",
-      "confidence": "72–80% sure · backfilled from chat history.",
       "portions": "",
+      "confidence": "",
       "backfill": true
     },
     {
@@ -1825,8 +1831,8 @@ window.HC = {
       "c": 50,
       "f": 10,
       "notes": "Chat prompt: Siwayon ka zarda and thats a teaspoon",
-      "confidence": "75–82% sure · backfilled from chat history.",
       "portions": "",
+      "confidence": "",
       "backfill": true
     },
     {
@@ -1838,8 +1844,8 @@ window.HC = {
       "c": 25,
       "f": 0,
       "notes": "",
-      "confidence": "90–95% sure · backfilled from chat history.",
       "portions": "",
+      "confidence": "",
       "backfill": true
     },
     {
@@ -1851,8 +1857,8 @@ window.HC = {
       "c": 24,
       "f": 10,
       "notes": "Chat prompt: 2 of tgese cake rusk",
-      "confidence": "88–93% sure · backfilled from chat history.",
       "portions": "",
+      "confidence": "",
       "backfill": true
     },
     {
@@ -1864,8 +1870,8 @@ window.HC = {
       "c": 42,
       "f": 3,
       "notes": "Chat prompt: Add 3 bread slices",
-      "confidence": "75–82% sure · backfilled from chat history.",
       "portions": "",
+      "confidence": "",
       "backfill": true
     },
     {
@@ -1877,8 +1883,8 @@ window.HC = {
       "c": 99,
       "f": 13,
       "notes": "Chat prompt: 1 bread slice and this this siwayan ka zarda aur 1 glass fanta",
-      "confidence": "78–85% sure · backfilled from chat history.",
       "portions": "",
+      "confidence": "",
       "backfill": true
     },
     {
@@ -1890,8 +1896,8 @@ window.HC = {
       "c": 70,
       "f": 18,
       "notes": "Chat prompt: 1 yes 2 yea 3 flatbread",
-      "confidence": "75–82% sure · backfilled from chat history.",
       "portions": "",
+      "confidence": "",
       "backfill": true
     },
     {
@@ -1903,8 +1909,8 @@ window.HC = {
       "c": 48,
       "f": 28,
       "notes": "",
-      "confidence": "70–78% sure · backfilled from chat history.",
       "portions": "",
+      "confidence": "",
       "backfill": true
     },
     {
@@ -1916,8 +1922,8 @@ window.HC = {
       "c": 22,
       "f": 12,
       "notes": "",
-      "confidence": "72–80% sure · backfilled from chat history.",
       "portions": "",
+      "confidence": "",
       "backfill": true
     },
     {
@@ -1929,8 +1935,8 @@ window.HC = {
       "c": 80,
       "f": 30,
       "notes": "",
-      "confidence": "78–85% sure · backfilled from chat history.",
       "portions": "",
+      "confidence": "",
       "backfill": true
     },
     {
@@ -1942,8 +1948,8 @@ window.HC = {
       "c": 226,
       "f": 96,
       "notes": "Chat prompt: 2 plate biryani, 3 peice gajak, 1 glass coke zero",
-      "confidence": "75–82% sure · backfilled from chat history.",
       "portions": "",
+      "confidence": "",
       "backfill": true
     },
     {
@@ -1955,8 +1961,8 @@ window.HC = {
       "c": 48,
       "f": 28,
       "notes": "",
-      "confidence": "70–78% sure · backfilled from chat history.",
       "portions": "",
+      "confidence": "",
       "backfill": true
     },
     {
@@ -1968,8 +1974,8 @@ window.HC = {
       "c": 67,
       "f": 27,
       "notes": "Chat prompt: 1 hot dog 3 piece of cake rusk 1 cup chai",
-      "confidence": "85–90% sure · backfilled from chat history.",
       "portions": "",
+      "confidence": "",
       "backfill": true
     },
     {
@@ -1981,8 +1987,8 @@ window.HC = {
       "c": 85,
       "f": 35,
       "notes": "",
-      "confidence": "78–85% sure · backfilled from chat history.",
       "portions": "",
+      "confidence": "",
       "backfill": true
     },
     {
@@ -1994,8 +2000,8 @@ window.HC = {
       "c": 66,
       "f": 36,
       "notes": "Chat prompt: 3 piece gajak",
-      "confidence": "72–80% sure · backfilled from chat history.",
       "portions": "",
+      "confidence": "",
       "backfill": true
     },
     {
@@ -2007,8 +2013,8 @@ window.HC = {
       "c": 67,
       "f": 10,
       "notes": "Chat prompt: 250gm yogurts with 2 tbsp sugar and 2 oranges",
-      "confidence": "80–88% sure · backfilled from chat history.",
       "portions": "",
+      "confidence": "",
       "backfill": true
     },
     {
@@ -2020,8 +2026,8 @@ window.HC = {
       "c": 85,
       "f": 32,
       "notes": "Chat prompt: Bhau rani of baigan with white rice",
-      "confidence": "72–80% sure · backfilled from chat history.",
       "portions": "",
+      "confidence": "",
       "backfill": true
     },
     {
@@ -2033,8 +2039,8 @@ window.HC = {
       "c": 57,
       "f": 11,
       "notes": "Chat prompt: 1 half fry egg 1 chai 2 slice of bread",
-      "confidence": "82–88% sure · backfilled from chat history.",
       "portions": "",
+      "confidence": "",
       "backfill": true
     },
     {
@@ -2046,8 +2052,8 @@ window.HC = {
       "c": 48,
       "f": 8,
       "notes": "Chat prompt: Alsi 1 slice with strawberry jam and 1 slice with lotus crunchy spread",
-      "confidence": "75–85% sure · backfilled from chat history.",
       "portions": "",
+      "confidence": "",
       "backfill": true
     },
     {
@@ -2059,8 +2065,8 @@ window.HC = {
       "c": 82,
       "f": 30,
       "notes": "",
-      "confidence": "72–80% sure · backfilled from chat history.",
       "portions": "",
+      "confidence": "",
       "backfill": true
     },
     {
@@ -2072,8 +2078,8 @@ window.HC = {
       "c": 19,
       "f": 2,
       "notes": "",
-      "confidence": "75–85% sure · backfilled from chat history.",
       "portions": "",
+      "confidence": "",
       "backfill": true
     },
     {
@@ -2085,8 +2091,8 @@ window.HC = {
       "c": 125,
       "f": 45,
       "notes": "Chat prompt: Home made spaghetti with minced beef cheese and veggies",
-      "confidence": "75–82% sure · backfilled from chat history.",
       "portions": "",
+      "confidence": "",
       "backfill": true
     },
     {
@@ -2098,8 +2104,8 @@ window.HC = {
       "c": 121,
       "f": 28,
       "notes": "Chat prompt: 1 chai 4 bread slices 1 fried egg and 3 tbsp of lutus crunchy spread",
-      "confidence": "82–88% sure · backfilled from chat history.",
       "portions": "",
+      "confidence": "",
       "backfill": true
     },
     {
@@ -2111,8 +2117,8 @@ window.HC = {
       "c": 75,
       "f": 25,
       "notes": "",
-      "confidence": "75–82% sure · backfilled from chat history.",
       "portions": "",
+      "confidence": "",
       "backfill": true
     },
     {
@@ -2124,8 +2130,8 @@ window.HC = {
       "c": 20,
       "f": 2,
       "notes": "",
-      "confidence": "85–90% sure · backfilled from chat history.",
       "portions": "",
+      "confidence": "",
       "backfill": true
     },
     {
@@ -2137,8 +2143,8 @@ window.HC = {
       "c": 15,
       "f": 44,
       "notes": "Chat prompt: I added 1 teaspoon of suger",
-      "confidence": "90–95% sure · backfilled from chat history.",
       "portions": "",
+      "confidence": "",
       "backfill": true
     },
     {
@@ -2150,8 +2156,8 @@ window.HC = {
       "c": 0,
       "f": 6,
       "notes": "Chat prompt: It is 168 gm cooked chicken breast no oil",
-      "confidence": "92–95% sure · backfilled from chat history.",
       "portions": "",
+      "confidence": "",
       "backfill": true
     },
     {
@@ -2163,8 +2169,8 @@ window.HC = {
       "c": 42,
       "f": 3,
       "notes": "Chat prompt: 142gm tehari very low oil 1tbsp in whole big cooking pot",
-      "confidence": "80–85% sure · backfilled from chat history.",
       "portions": "",
+      "confidence": "",
       "backfill": true
     },
     {
@@ -2176,8 +2182,8 @@ window.HC = {
       "c": 88,
       "f": 34,
       "notes": "Chat prompt: Home made rotis",
-      "confidence": "75–80% sure · backfilled from chat history.",
       "portions": "",
+      "confidence": "",
       "backfill": true
     },
     {
@@ -2189,8 +2195,8 @@ window.HC = {
       "c": 29,
       "f": 21,
       "notes": "Chat prompt: So note down 4 papay(30cal each) 2 hard boiled eggs, half tablespoon butter and this coffee with 1 teaspoon sugar",
-      "confidence": "90–95% sure · backfilled from chat history.",
       "portions": "",
+      "confidence": "",
       "backfill": true
     },
     {
@@ -2202,8 +2208,8 @@ window.HC = {
       "c": 71,
       "f": 14,
       "notes": "Chat prompt: 250gm of alo matar with 1 roti and 1 this",
-      "confidence": "80–85% sure · backfilled from chat history.",
       "portions": "",
+      "confidence": "",
       "backfill": true
     },
     {
@@ -2215,8 +2221,8 @@ window.HC = {
       "c": 160,
       "f": 50,
       "notes": "Chat prompt: It was mostly  beef and arvi salan with almost no oil",
-      "confidence": "78–85% sure · backfilled from chat history.",
       "portions": "",
+      "confidence": "",
       "backfill": true
     },
     {
@@ -2228,8 +2234,8 @@ window.HC = {
       "c": 15,
       "f": 20,
       "notes": "Chat prompt: Not correct i made a mix 100gm gy 1tbsp granola and 1 tbsp berries. 3 whole hard boiled eggs and 1 bondi capsule with 1 teaspoon suger",
-      "confidence": "85–90% sure · backfilled from chat history.",
       "portions": "",
+      "confidence": "",
       "backfill": true
     },
     {
@@ -2241,8 +2247,8 @@ window.HC = {
       "c": 46,
       "f": 8,
       "notes": "Chat prompt: Log this drink with chicken and rice Chicken 137 g Rice 100 gm",
-      "confidence": "85–90% sure · backfilled from chat history.",
       "portions": "",
+      "confidence": "",
       "backfill": true
     },
     {
@@ -2254,8 +2260,8 @@ window.HC = {
       "c": 152,
       "f": 25,
       "notes": "Chat prompt: 1 this and 2 plates full kali masoor daal chawal",
-      "confidence": "75–80% sure · backfilled from chat history.",
       "portions": "",
+      "confidence": "",
       "backfill": true
     },
     {
@@ -2267,8 +2273,8 @@ window.HC = {
       "c": 20,
       "f": 0,
       "notes": "",
-      "confidence": "90–95% sure · backfilled from chat history.",
       "portions": "",
+      "confidence": "",
       "backfill": true
     },
     {
@@ -2280,8 +2286,8 @@ window.HC = {
       "c": 12,
       "f": 18,
       "notes": "Chat prompt: 100gm low fat greek yogurt 1 tablespoon fuel granola 2 tablespoons frozen berries 3 hard boiled eggs",
-      "confidence": "88–92% sure · backfilled from chat history.",
       "portions": "",
+      "confidence": "",
       "backfill": true
     },
     {
@@ -2293,8 +2299,8 @@ window.HC = {
       "c": 9,
       "f": 5,
       "notes": "",
-      "confidence": "90–95% sure · backfilled from chat history.",
       "portions": "",
+      "confidence": "",
       "backfill": true
     },
     {
@@ -2306,8 +2312,8 @@ window.HC = {
       "c": 24,
       "f": 7,
       "notes": "Chat prompt: 250 total gram  150gm chicken steak with 1 oil spray 100gm ptato with 1 oil spray",
-      "confidence": "85–90% sure · backfilled from chat history.",
       "portions": "",
+      "confidence": "",
       "backfill": true
     },
     {
@@ -2319,8 +2325,8 @@ window.HC = {
       "c": 95,
       "f": 34,
       "notes": "Chat prompt: 62gm salmon with 1 oil spray with paltay salan (besan) and roti qty is 2.5 also 1teasopn pb and 1 slice protine bread",
-      "confidence": "75–80% sure · backfilled from chat history.",
       "portions": "",
+      "confidence": "",
       "backfill": true
     },
     {
@@ -2332,8 +2338,8 @@ window.HC = {
       "c": 13,
       "f": 1,
       "notes": "",
-      "confidence": "75–85% sure · backfilled from chat history.",
       "portions": "",
+      "confidence": "",
       "backfill": true
     },
     {
@@ -2345,8 +2351,8 @@ window.HC = {
       "c": 97,
       "f": 37,
       "notes": "Chat prompt: With 3 slice recalculate",
-      "confidence": "88–92% sure · backfilled from chat history.",
       "portions": "",
+      "confidence": "",
       "backfill": true
     },
     {
@@ -2358,8 +2364,8 @@ window.HC = {
       "c": 52,
       "f": 37,
       "notes": "Chat prompt: Same fish like yesterday day but 125gm with chicken salan (mostly botis with bones) and 2roti",
-      "confidence": "75–80% sure · backfilled from chat history.",
       "portions": "",
+      "confidence": "",
       "backfill": true
     },
     {
@@ -2371,8 +2377,8 @@ window.HC = {
       "c": 52,
       "f": 4,
       "notes": "Chat prompt: Also 1 big bowl of homemade popcorn with only 1 spray of oil and pinch of salt",
-      "confidence": "78–85% sure · backfilled from chat history.",
       "portions": "",
+      "confidence": "",
       "backfill": true
     },
     {
@@ -2384,8 +2390,8 @@ window.HC = {
       "c": 79,
       "f": 34,
       "notes": "Chat prompt: Recalculate minus 1 slice of protein 0.5 tablespoons pb",
-      "confidence": "85–90% sure · backfilled from chat history.",
       "portions": "",
+      "confidence": "",
       "backfill": true
     },
     {
@@ -2397,8 +2403,8 @@ window.HC = {
       "c": 52,
       "f": 33,
       "notes": "Chat prompt: Same chicken salan with 2 roti and 100gm salmon fish fried with only 1 oil spray",
-      "confidence": "75–80% sure · backfilled from chat history.",
       "portions": "",
+      "confidence": "",
       "backfill": true
     },
     {
@@ -2410,8 +2416,8 @@ window.HC = {
       "c": 16,
       "f": 0,
       "notes": "Chat prompt: 1 small apple",
-      "confidence": "90–95% sure · backfilled from chat history.",
       "portions": "",
+      "confidence": "",
       "backfill": true
     },
     {
@@ -2423,8 +2429,8 @@ window.HC = {
       "c": 38,
       "f": 24,
       "notes": "Chat prompt: 120gm greek yogurt, 2 tbsp fuel 2 tbsp frozen berries, 3 whole eggs omelette with 1 spray, 2 protein bread slice, 1 boundi capsule 1 teaspoon suger",
-      "confidence": "88–92% sure · backfilled from chat history.",
       "portions": "",
+      "confidence": "",
       "backfill": true
     },
     {
@@ -2436,8 +2442,8 @@ window.HC = {
       "c": 68,
       "f": 12,
       "notes": "Chat prompt: Oil was single spray",
-      "confidence": "80–85% sure · backfilled from chat history.",
       "portions": "",
+      "confidence": "",
       "backfill": true
     },
     {
@@ -2449,8 +2455,8 @@ window.HC = {
       "c": 67,
       "f": 0,
       "notes": "",
-      "confidence": "90–95% sure · backfilled from chat history.",
       "portions": "",
+      "confidence": "",
       "backfill": true
     },
     {
@@ -2462,8 +2468,8 @@ window.HC = {
       "c": 14,
       "f": 5,
       "notes": "Chat prompt: Log 1 slice pb and 1 toastas",
-      "confidence": "90–95% sure · backfilled from chat history.",
       "portions": "",
+      "confidence": "",
       "backfill": true
     },
     {
@@ -2475,8 +2481,8 @@ window.HC = {
       "c": 33,
       "f": 25,
       "notes": "Chat prompt: 150gm gy with 1 tablespoon fuel 2 tablespoons in frozen berries, 3 boil eggs, 2 tostas, 1 teaspoon pb with 1 slice protein bread",
-      "confidence": "88–92% sure · backfilled from chat history.",
       "portions": "",
+      "confidence": "",
       "backfill": true
     },
     {
@@ -2488,8 +2494,8 @@ window.HC = {
       "c": 20,
       "f": 7,
       "notes": "Chat prompt: 146gm chicken breast and 1 can corn with chat masala",
-      "confidence": "90–95% sure · backfilled from chat history.",
       "portions": "",
+      "confidence": "",
       "backfill": true
     },
     {
@@ -2501,8 +2507,8 @@ window.HC = {
       "c": 72,
       "f": 14,
       "notes": "Chat prompt: Not roit is plain roti alo baegan and steak is cooked single oil spray",
-      "confidence": "85–90% sure · backfilled from chat history.",
       "portions": "",
+      "confidence": "",
       "backfill": true
     },
     {
@@ -2514,8 +2520,8 @@ window.HC = {
       "c": 15,
       "f": 2,
       "notes": "",
-      "confidence": "75–85% sure · backfilled from chat history.",
       "portions": "",
+      "confidence": "",
       "backfill": true
     },
     {
@@ -2527,8 +2533,8 @@ window.HC = {
       "c": 21,
       "f": 0,
       "notes": "",
-      "confidence": "90–95% sure · backfilled from chat history.",
       "portions": "",
+      "confidence": "",
       "backfill": true
     },
     {
@@ -2540,8 +2546,8 @@ window.HC = {
       "c": 38,
       "f": 23,
       "notes": "",
-      "confidence": "88–92% sure · backfilled from chat history.",
       "portions": "",
+      "confidence": "",
       "backfill": true
     },
     {
@@ -2553,8 +2559,8 @@ window.HC = {
       "c": 60,
       "f": 14,
       "notes": "Chat prompt: So okay log this one I ate chicken Manchurian with rice that I ate yesterday hundred gram rice with hundred gram chicken gravy is not included in the hundred gr",
-      "confidence": "72–80% sure · backfilled from chat history.",
       "portions": "",
+      "confidence": "",
       "backfill": true
     },
     {
@@ -2566,8 +2572,8 @@ window.HC = {
       "c": 106,
       "f": 2,
       "notes": "Chat prompt: Log it 1 small keenu as well",
-      "confidence": "85–90% sure · backfilled from chat history.",
       "portions": "",
+      "confidence": "",
       "backfill": true
     },
     {
@@ -2579,8 +2585,8 @@ window.HC = {
       "c": 4,
       "f": 2,
       "notes": "Chat prompt: 1 whey frappacino",
-      "confidence": "90–95% sure · backfilled from chat history.",
       "portions": "",
+      "confidence": "",
       "backfill": true
     },
     {
@@ -2592,8 +2598,8 @@ window.HC = {
       "c": 22,
       "f": 7,
       "notes": "Chat prompt: Breakfast one fifty gram of Greek yogurt forty gram of frozen strawberries, two tablespoon of frozen protein granola, and one scoop of whey protein mixture. Cho",
-      "confidence": "72–80% sure · backfilled from chat history.",
       "portions": "",
+      "confidence": "",
       "backfill": true
     },
     {
@@ -2605,8 +2611,8 @@ window.HC = {
       "c": 23,
       "f": 6,
       "notes": "Chat prompt: Now calculate breakfast",
-      "confidence": "88–92% sure · backfilled from chat history.",
       "portions": "",
+      "confidence": "",
       "backfill": true
     },
     {
@@ -2618,8 +2624,8 @@ window.HC = {
       "c": 2,
       "f": 0,
       "notes": "Chat prompt: Half teaspoon with boundi capsule",
-      "confidence": "90–95% sure · backfilled from chat history.",
       "portions": "",
+      "confidence": "",
       "backfill": true
     },
     {
@@ -2631,8 +2637,8 @@ window.HC = {
       "c": 10,
       "f": 11,
       "notes": "Chat prompt: The sauce contains two boiled egg whites, two garlic cloves, one teaspoon vinegar, some milk, one fourth teaspoon salt, half teaspoon sugar. Also two hundred gr",
-      "confidence": "78–85% sure · backfilled from chat history.",
       "portions": "",
+      "confidence": "",
       "backfill": true
     },
     {
@@ -2644,8 +2650,8 @@ window.HC = {
       "c": 134,
       "f": 41,
       "notes": "Chat prompt: 3 roti with 2 plate alo qeema (no oil) and 20gm dark chocolate we bought earlier",
-      "confidence": "68–75% sure · backfilled from chat history.",
       "portions": "",
+      "confidence": "",
       "backfill": true
     },
     {
@@ -2657,8 +2663,8 @@ window.HC = {
       "c": 45,
       "f": 28,
       "notes": "Chat prompt: Update 70gm of protein bread",
-      "confidence": "85–90% sure · backfilled from chat history.",
       "portions": "",
+      "confidence": "",
       "backfill": true
     },
     {
@@ -2670,8 +2676,8 @@ window.HC = {
       "c": 71,
       "f": 23,
       "notes": "Chat prompt: 80gm qeema  137gm alo Alo qeema 200gm chicken  78gm roti",
-      "confidence": "75–82% sure · backfilled from chat history.",
       "portions": "",
+      "confidence": "",
       "backfill": true
     },
     {
@@ -2683,8 +2689,8 @@ window.HC = {
       "c": 60,
       "f": 12,
       "notes": "Chat prompt: 400gm oh beef haleem with no oil tarka or anything just lean meat wheat lentils and other ingredients",
-      "confidence": "78–85% sure · backfilled from chat history.",
       "portions": "",
+      "confidence": "",
       "backfill": true
     },
     {
@@ -2696,8 +2702,8 @@ window.HC = {
       "c": 48,
       "f": 15,
       "notes": "Chat prompt: 2 cooked cookies are 74gm",
-      "confidence": "85–90% sure · backfilled from chat history.",
       "portions": "",
+      "confidence": "",
       "backfill": true
     },
     {
@@ -2709,8 +2715,8 @@ window.HC = {
       "c": 57,
       "f": 7,
       "notes": "Chat prompt: Two hundred grams Greek yogurt. One tablespoon. Granola. Fuel. Two. To two point five tablespoons berries. One scoop. Chocolate whey. And one whole banana. This",
-      "confidence": "85–90% sure · backfilled from chat history.",
       "portions": "",
+      "confidence": "",
       "backfill": true
     },
     {
@@ -2722,8 +2728,8 @@ window.HC = {
       "c": 45,
       "f": 9,
       "notes": "Chat prompt: 300gm yesterday’s haleem",
-      "confidence": "78–85% sure · backfilled from chat history.",
       "portions": "",
+      "confidence": "",
       "backfill": true
     },
     {
@@ -2735,8 +2741,8 @@ window.HC = {
       "c": 63,
       "f": 19,
       "notes": "Chat prompt: Log 315 gm of this and also 1 serving frapp whey",
-      "confidence": "78–85% sure · backfilled from chat history.",
       "portions": "",
+      "confidence": "",
       "backfill": true
     },
     {
@@ -2748,8 +2754,8 @@ window.HC = {
       "c": 43,
       "f": 18,
       "notes": "Chat prompt: Add it ti breakfast and log",
-      "confidence": "85–90% sure · backfilled from chat history.",
       "portions": "",
+      "confidence": "",
       "backfill": true
     },
     {
@@ -2761,8 +2767,8 @@ window.HC = {
       "c": 68,
       "f": 19,
       "notes": "Chat prompt: 293 gm boties 216 gm rice part 1 tbsp natutal yogurt",
-      "confidence": "78–85% sure · backfilled from chat history.",
       "portions": "",
+      "confidence": "",
       "backfill": true
     },
     {
@@ -2774,8 +2780,8 @@ window.HC = {
       "c": 22,
       "f": 6,
       "notes": "Chat prompt: 200gm gy 1 tbsp granola 2 tbsp berries 1 scoop chocolate milkshake whey 1 teaspoon my sucralose (total 312gm) Also coffee pod with 0.5 teaspoon sucralose",
-      "confidence": "85–90% sure · backfilled from chat history.",
       "portions": "",
+      "confidence": "",
       "backfill": true
     },
     {
@@ -2787,8 +2793,8 @@ window.HC = {
       "c": 4,
       "f": 2,
       "notes": "Chat prompt: 200gm gy 1 tbsp granola 2 tbsp berries 1 scoop chocolate milkshake whey 1 teaspoon my sucralose (total 312gm) Also coffee pod with 0.5 teaspoon sucralose",
-      "confidence": "92–95% sure · backfilled from chat history.",
       "portions": "",
+      "confidence": "",
       "backfill": true
     },
     {
@@ -2800,8 +2806,8 @@ window.HC = {
       "c": 74,
       "f": 13,
       "notes": "Chat prompt: 180 gm chicken boti  246 gm rice  Chicken biryani",
-      "confidence": "78–85% sure · backfilled from chat history.",
       "portions": "",
+      "confidence": "",
       "backfill": true
     },
     {
@@ -2813,8 +2819,8 @@ window.HC = {
       "c": 44,
       "f": 21,
       "notes": "Solid protein lunch; rice volume is the main carb lever for the rest of the day. Prefer weighing salmon next time so the Health entry matches the plate exactly.",
-      "confidence": "78–85% sure · weight on salmon assumed until he confirms scale grams.",
       "portions": "salmon **150 g** cooked · biryani rice **150 g** (corrected from an earlier 75 g guess).",
+      "confidence": "",
       "backfill": false
     },
     {
@@ -2826,8 +2832,8 @@ window.HC = {
       "c": 12,
       "f": 0,
       "notes": "Easy cut-friendly fruit; keeps sweet tooth covered without sugar creep.",
-      "confidence": "80–88% sure · size estimate only.",
       "portions": "1 fruit, edible flesh ~70–80 g (unweighed).",
+      "confidence": "",
       "backfill": false
     },
     {
@@ -2839,8 +2845,8 @@ window.HC = {
       "c": 74,
       "f": 26,
       "notes": "Protein OK from salmon; starch is the big share (matar chawal + cheese bread). Fine if day intake still in band.",
-      "confidence": "78–85% sure · pão from label; matar chawal estimated from recipe book oil baseline.",
       "portions": "pão de queijo **51 g** · salmon **100 g** · matar chawal **200 g**.",
+      "confidence": "",
       "backfill": true
     },
     {
@@ -2852,8 +2858,8 @@ window.HC = {
       "c": 4,
       "f": 1,
       "notes": "",
-      "confidence": "92–95% sure · pack label.",
       "portions": "",
+      "confidence": "",
       "backfill": false
     },
     {
@@ -2865,8 +2871,8 @@ window.HC = {
       "c": 21,
       "f": 15,
       "notes": "",
-      "confidence": "88–92% sure · labels for whites/bread/milk; eggs standard.",
       "portions": "",
+      "confidence": "",
       "backfill": false
     },
     {
@@ -2878,8 +2884,8 @@ window.HC = {
       "c": 15,
       "f": 5,
       "notes": "",
-      "confidence": "88–92% sure.",
       "portions": "",
+      "confidence": "",
       "backfill": false
     },
     {
@@ -2891,8 +2897,8 @@ window.HC = {
       "c": 35,
       "f": 13,
       "notes": "",
-      "confidence": "80–88% sure.",
       "portions": "salmon **73 g** · matar chawal **124 g**.",
+      "confidence": "",
       "backfill": false
     },
     {
@@ -2904,8 +2910,8 @@ window.HC = {
       "c": 24,
       "f": 0,
       "notes": "",
-      "confidence": "80–88% sure.",
       "portions": "",
+      "confidence": "",
       "backfill": false
     },
     {
@@ -2917,8 +2923,8 @@ window.HC = {
       "c": 103,
       "f": 5,
       "notes": "Protein low for the plate — whey after helps close the gap.",
-      "confidence": "75–82% sure · Bahu Rani not in recipe book; no-oil baingan+yogurt estimate.",
       "portions": "white rice **312 g** · Bahu Rani **249 g**.",
+      "confidence": "",
       "backfill": false
     },
     {
@@ -2930,8 +2936,8 @@ window.HC = {
       "c": 4,
       "f": 1,
       "notes": "",
-      "confidence": "92–95% sure.",
       "portions": "",
+      "confidence": "",
       "backfill": false
     },
     {
@@ -2943,8 +2949,8 @@ window.HC = {
       "c": 24,
       "f": 7,
       "notes": "",
-      "confidence": "78–85% sure · mix ratio assumed same as prior GY+granola+berries+whey bowl.",
       "portions": "",
+      "confidence": "",
       "backfill": false
     },
     {
@@ -2956,8 +2962,8 @@ window.HC = {
       "c": 76,
       "f": 2,
       "notes": "",
-      "confidence": "75–82% sure · Bahu Rani no-oil estimate. · Protein light — whey later helps.",
       "portions": "rice **150 g** · Bahu Rani **150 g** · 2 medium keenu.",
+      "confidence": "",
       "backfill": false
     },
     {
@@ -2969,8 +2975,8 @@ window.HC = {
       "c": 59,
       "f": 13,
       "notes": "",
-      "confidence": "75–82% sure · popcorn coating + roti size estimated; bhindi spray-only.",
       "portions": "popcorn **150 g** · bhindi **150 g** · **2** medium house roti.",
+      "confidence": "",
       "backfill": true
     },
     {
@@ -2982,8 +2988,8 @@ window.HC = {
       "c": 4,
       "f": 2,
       "notes": "",
-      "confidence": "92–95% sure.",
       "portions": "",
+      "confidence": "",
       "backfill": false
     },
     {
@@ -2995,8 +3001,8 @@ window.HC = {
       "c": 27,
       "f": 19,
       "notes": "",
-      "confidence": "88–92% sure.",
       "portions": "",
+      "confidence": "",
       "backfill": false
     },
     {
@@ -3008,8 +3014,8 @@ window.HC = {
       "c": 24,
       "f": 9,
       "notes": "",
-      "confidence": "75–82% sure · popcorn light coat; combo corn/fries mix estimated.",
       "portions": "popcorn **154 g** · corn+fries **62 g**.",
+      "confidence": "",
       "backfill": true
     },
     {
@@ -3021,8 +3027,8 @@ window.HC = {
       "c": 73,
       "f": 16,
       "notes": "",
-      "confidence": "72–80% sure · roti grams assumed ~100 g; weigh next time.",
       "portions": "haleem **100 g** · tandoori roti **~100 g** (unweighed — pack label density).",
+      "confidence": "",
       "backfill": false
     },
     {
@@ -3034,8 +3040,8 @@ window.HC = {
       "c": 32,
       "f": 7,
       "notes": "",
-      "confidence": "65–75% sure · niwala sizes unweighed.",
       "portions": "",
+      "confidence": "",
       "backfill": false
     },
     {
@@ -3047,8 +3053,8 @@ window.HC = {
       "c": 124,
       "f": 2,
       "notes": "",
-      "confidence": "80–88% sure · plain cooked rice + no-oil beans.",
       "portions": "rice **241 g** (148+93) · lobia **250 g** (150+100).",
+      "confidence": "",
       "backfill": false
     },
     {
@@ -3060,8 +3066,8 @@ window.HC = {
       "c": 13,
       "f": 0,
       "notes": "",
-      "confidence": "80–88% sure · medium dates (not huge medjool).",
       "portions": "",
+      "confidence": "",
       "backfill": false
     },
     {
@@ -3073,8 +3079,8 @@ window.HC = {
       "c": 4,
       "f": 1,
       "notes": "",
-      "confidence": "92–95% sure.",
       "portions": "",
+      "confidence": "",
       "backfill": false
     },
     {
@@ -3086,8 +3092,8 @@ window.HC = {
       "c": 43,
       "f": 11,
       "notes": "",
-      "confidence": "80–88% sure · pancake density from recipe batch.",
       "portions": "",
+      "confidence": "",
       "backfill": false
     },
     {
@@ -3099,8 +3105,8 @@ window.HC = {
       "c": 63,
       "f": 36,
       "notes": "",
-      "confidence": "75–82% sure · mayo + cheese amounts estimated “slight/little”.",
       "portions": "",
+      "confidence": "",
       "backfill": true
     },
     {
@@ -3112,8 +3118,8 @@ window.HC = {
       "c": 24,
       "f": 2,
       "notes": "",
-      "confidence": "90–95% sure · both from labels (steam/air-fry dumplings).",
       "portions": "",
+      "confidence": "",
       "backfill": false
     },
     {
@@ -3125,8 +3131,8 @@ window.HC = {
       "c": 68,
       "f": 28,
       "notes": "",
-      "confidence": "70–78% sure · yellow curry composition + possible fried topping estimated.",
       "portions": "noodles **200 g** · beef curry **200 g** · 1 egg · yellow curry **70 g** · plate total **546 g** (~26 g likely fried potato/garnish not separately logged).",
+      "confidence": "",
       "backfill": true
     },
     {
@@ -3138,8 +3144,8 @@ window.HC = {
       "c": 5,
       "f": 4,
       "notes": "",
-      "confidence": "75–85% sure · size→grams estimated.",
       "portions": "",
+      "confidence": "",
       "backfill": true
     },
     {
@@ -3151,8 +3157,8 @@ window.HC = {
       "c": 14,
       "f": 12,
       "notes": "",
-      "confidence": "72–80% sure · homemade breast nuggets assumed (not frozen pack).",
       "portions": "**175 g**.",
+      "confidence": "",
       "backfill": false
     },
     {
@@ -3164,8 +3170,8 @@ window.HC = {
       "c": 62,
       "f": 21,
       "notes": "",
-      "confidence": "65–75% sure · no scale weights; oil/meat share estimated.",
       "portions": "",
+      "confidence": "",
       "backfill": true
     },
     {
@@ -3177,8 +3183,8 @@ window.HC = {
       "c": 4,
       "f": 2,
       "notes": "",
-      "confidence": "92–95% sure.",
       "portions": "",
+      "confidence": "",
       "backfill": false
     },
     {
@@ -3190,8 +3196,8 @@ window.HC = {
       "c": 19,
       "f": 6,
       "notes": "",
-      "confidence": "85–90% sure · 1 scoop = half jar serving (16.5 g).",
       "portions": "",
+      "confidence": "",
       "backfill": false
     },
     {
@@ -3203,8 +3209,8 @@ window.HC = {
       "c": 68,
       "f": 24,
       "notes": "",
-      "confidence": "75–82% sure.",
       "portions": "nuggets **147 g** · haleem **347 g**.",
+      "confidence": "",
       "backfill": false
     },
     {
@@ -3216,8 +3222,8 @@ window.HC = {
       "c": 13,
       "f": 1,
       "notes": "",
-      "confidence": "92–95% sure.",
       "portions": "",
+      "confidence": "",
       "backfill": false
     },
     {
@@ -3229,8 +3235,8 @@ window.HC = {
       "c": 47,
       "f": 24,
       "notes": "",
-      "confidence": "65–75% sure · qeema unweighed; 10% aloo noted.",
       "portions": "",
+      "confidence": "",
       "backfill": false
     },
     {
@@ -3242,8 +3248,8 @@ window.HC = {
       "c": 24,
       "f": 7,
       "notes": "",
-      "confidence": "85–90% sure · 1 scoop = half jar serving.",
       "portions": "",
+      "confidence": "",
       "backfill": false
     },
     {
@@ -3255,8 +3261,8 @@ window.HC = {
       "c": 47,
       "f": 24,
       "notes": "",
-      "confidence": "65–75% sure · same unweighed estimate.",
       "portions": "",
+      "confidence": "",
       "backfill": false
     },
     {
@@ -3268,8 +3274,8 @@ window.HC = {
       "c": 78,
       "f": 11,
       "notes": "",
-      "confidence": "75–82% sure · dahi-boondi ratio estimated.",
       "portions": "chicken **100 g** · rice **100 g** · dal **164 g** · meethi dahi boondi **100 g**.",
+      "confidence": "",
       "backfill": true
     },
     {
@@ -3281,8 +3287,8 @@ window.HC = {
       "c": 4,
       "f": 2,
       "notes": "",
-      "confidence": "92–95% sure.",
       "portions": "",
+      "confidence": "",
       "backfill": false
     },
     {
@@ -3294,8 +3300,190 @@ window.HC = {
       "c": 34,
       "f": 10,
       "notes": "",
-      "confidence": "85–90% sure.",
       "portions": "",
+      "confidence": "",
+      "backfill": false
+    },
+    {
+      "date": "2026-10-28",
+      "slot": "Lunch/Dinner",
+      "dish": "Air-fryer-style chicken 65 (breast) + white rice + kali masoor dal (no oil/tarka assumed)",
+      "kcal": 525,
+      "p": 49,
+      "c": 65,
+      "f": 7,
+      "notes": "Solid cut plate — rice within 200 g cap; protein strong from chicken + dal.",
+      "portions": "chicken 65 **124 g** · white rice **150 g** · kali masoor **100 g**.",
+      "confidence": "",
+      "backfill": false
+    },
+    {
+      "date": "2026-10-28",
+      "slot": "Dinner",
+      "dish": "Chicken breast kebab + bhindi gosht + 2 roti",
+      "kcal": 680,
+      "p": 68,
+      "c": 55,
+      "f": 24,
+      "notes": "Strong protein night. Roti count on cap (2). If gosht gravy was heavy, fat could be +5–10.",
+      "portions": "kebab **120 g** (chicken breast) · **2** medium house roti · bhindi gosht unweighed plate portion.",
+      "confidence": "",
+      "backfill": true
+    },
+    {
+      "date": "2026-10-28",
+      "slot": "Dessert",
+      "dish": "Burger King King Fusion Kit Kat (1 cup)",
+      "kcal": 339,
+      "p": 6,
+      "c": 48,
+      "f": 13,
+      "notes": "High sugar dessert · little protein. Rare treat — don’t stack with a second cup.",
+      "portions": "**1** cup (EU/Spain nutrition — closest to Lisbon).",
+      "confidence": "",
+      "backfill": false
+    },
+    {
+      "date": "2026-10-29",
+      "slot": "Breakfast",
+      "dish": "Usual GY mix (200 g Mythos GY + granola + strawberries + 1 scoop chocolate whey) + 1 chai (Canderel)",
+      "kcal": 351,
+      "p": 32,
+      "c": 34,
+      "f": 10,
+      "notes": "Standard cut breakfast.",
+      "portions": "",
+      "confidence": "",
+      "backfill": false
+    },
+    {
+      "date": "2026-10-29",
+      "slot": "Lunch/Dinner",
+      "dish": "Bhindi gosht + 1 roti + chicken breast kebab 100 g",
+      "kcal": 535,
+      "p": 59,
+      "c": 34,
+      "f": 21,
+      "notes": "Half the roti vs last night — good starch control. Strong protein.",
+      "portions": "kebab **100 g** · **1** medium house roti · bhindi gosht unweighed plate portion.",
+      "confidence": "",
+      "backfill": true
+    },
+    {
+      "date": "2026-10-29",
+      "slot": "Evening",
+      "dish": "Air-fryer chicken sticks (breast, light breadcrumb/maida coat, 1 spray assumed)",
+      "kcal": 230,
+      "p": 38,
+      "c": 7,
+      "f": 6,
+      "notes": "Separate from earlier kebab + bhindi meal. Strong evening protein top-up.",
+      "portions": "**130 g** cooked (~9 sticks) · Tabasco on side (0 kcal).",
+      "confidence": "78–85% sure · weighed cooked; coat + spray assumed — say if shallow-fried.",
+      "backfill": false
+    },
+    {
+      "date": "2026-10-29",
+      "slot": "Evening side",
+      "dish": "Aloo ki qatliyan (zeera + mirch, dry oil-cook) + 1 roti",
+      "kcal": 280,
+      "p": 7,
+      "c": 46,
+      "f": 10,
+      "notes": "Same sitting as chicken sticks. One starch (roti) with the aloo — within ≤2 roti rule.",
+      "portions": "qatliyan **112 g** cooked · **1** medium house roti · cut oil **1–1.5 tbsp/pot** share assumed.",
+      "confidence": "72–80% sure · qatliyan weighed; oil soak + roti size estimated — say if roti big or plate oily.",
+      "backfill": false
+    },
+    {
+      "date": "2026-10-29",
+      "slot": "Dessert",
+      "dish": "Dark chocolate — 2 small squares (bought bar, same household as prior)",
+      "kcal": 65,
+      "p": 1,
+      "c": 6,
+      "f": 5,
+      "notes": "Small treat after evening plate.",
+      "portions": "**2** small squares ≈ **~12 g** (each smaller than the prior ~10 g / 1×1″ piece).",
+      "confidence": "72–80% sure · square size estimated — say grams or milk chocolate if different.",
+      "backfill": false
+    },
+    {
+      "date": "2026-10-29",
+      "slot": "Evening whey",
+      "dish": "Critical Whey Frappuccino (1 serving)",
+      "kcal": 130,
+      "p": 24,
+      "c": 4,
+      "f": 2,
+      "notes": "Locked shelf quick-log.",
+      "portions": "",
+      "confidence": "92–95% sure · label (33 g serving).",
+      "backfill": false
+    },
+    {
+      "date": "2026-10-30",
+      "slot": "Breakfast",
+      "dish": "Egg-white omelette (225 g uncooked whites, 1 spray) + 2 Bimbo protein bread + 3 tostas light butter + Galão capsule (1 tsp sucralose)",
+      "kcal": 444,
+      "p": 44,
+      "c": 38,
+      "f": 13,
+      "notes": "Strong lean breakfast · butter smear estimated — say if Mimosa light instead.",
+      "portions": "whites **225 g** · spray **1** · Bimbo **2** · tostas **3** · butter ~**1 tsp** · Galão **1** · sucralose skip.",
+      "confidence": "85–90% sure · labels for whites/Bimbo/tostas/Galão; butter smear + spray estimated.",
+      "backfill": false
+    },
+    {
+      "date": "2026-10-30",
+      "slot": "Dinner",
+      "dish": "Leftover air-fryer chicken sticks 240 g + kali masoor daal chawal 150 g (no oil/tarka assumed)",
+      "kcal": 610,
+      "p": 78,
+      "c": 48,
+      "f": 12,
+      "notes": "Leftover sticks batch · rice+dal within starch cap · very high protein plate.",
+      "portions": "chicken sticks **240 g** · daal chawal **150 g** combined.",
+      "confidence": "78–85% sure · sticks weighed + known density; daal/rice mix ratio estimated — say if oily tarka.",
+      "backfill": false
+    },
+    {
+      "date": "2026-10-30",
+      "slot": "Dinner 2",
+      "dish": "Homemade Pakistani Singaporean rice (basmati + rice noodles + chicken + veggies; desi fusion assemble)",
+      "kcal": 755,
+      "p": 35,
+      "c": 75,
+      "f": 34,
+      "notes": "Karachi-style fusion. Mayo is the fat spike — next time thin drizzle keeps this nearer ~600.",
+      "portions": "**370 g** weighed plate · **heavy** mayo/ketchup sauce.",
+      "confidence": "68–76% sure · weighed plate; heavy sauce volume still estimated — say tbsp mayo if you measured.",
+      "backfill": false
+    },
+    {
+      "date": "2026-10-31",
+      "slot": "Breakfast",
+      "dish": "Egg-white omelette (170 g, 1 spray) + 2 Bimbo + 5 tostas with butter + 1 chai (Canderel)",
+      "kcal": 545,
+      "p": 45,
+      "c": 53,
+      "f": 17,
+      "notes": "Tostas ×5 is a heavier starch hit — butter smear estimated.",
+      "portions": "whites **170 g** · spray **1** · Bimbo **2** · tostas **5** · butter ~**½ tbsp** · chai **1** (200 ml milk + Canderel).",
+      "confidence": "85–90% sure · labels for whites/Bimbo/tostas/chai; butter smear + spray estimated — say if Mimosa or sugar in chai.",
+      "backfill": false
+    },
+    {
+      "date": "2026-10-31",
+      "slot": "Dinner",
+      "dish": "Air-fryer chicken breast boti 100 g + looki (lauki) bhujia 170 g + 2 roti",
+      "kcal": 495,
+      "p": 41,
+      "c": 52,
+      "f": 17,
+      "notes": "Lean AF protein + watery sabzi — solid cut plate. Within ≤2 roti.",
+      "portions": "chicken **100 g** AF · looki bhujia **170 g** · **2** medium house roti · cut oil **1–1.5 tbsp/pot** share on bhujia.",
+      "confidence": "75–82% sure · chicken + looki weighed; bhujia oil soak + roti size estimated — say if oily or roti big.",
       "backfill": false
     }
   ],
@@ -3542,11 +3730,35 @@ window.HC = {
     },
     {
       "date": "2026-10-28",
-      "kcal": 351,
-      "p": 32,
-      "c": 34,
-      "f": 10,
-      "n": 1
+      "kcal": 1895,
+      "p": 155,
+      "c": 202,
+      "f": 54,
+      "n": 4
+    },
+    {
+      "date": "2026-10-29",
+      "kcal": 1591,
+      "p": 161,
+      "c": 131,
+      "f": 54,
+      "n": 6
+    },
+    {
+      "date": "2026-10-30",
+      "kcal": 1809,
+      "p": 157,
+      "c": 161,
+      "f": 59,
+      "n": 3
+    },
+    {
+      "date": "2026-10-31",
+      "kcal": 1040,
+      "p": 86,
+      "c": 105,
+      "f": 34,
+      "n": 2
     }
   ],
   "recipes": [
@@ -3874,13 +4086,32 @@ window.HC = {
         "Per **100 g**: **55 kcal · P 5.3 · C 3.9 · F 2.0** (sugars 3.9, salt 0.14)",
         "Per **125 g**: **69 kcal · P 6.6 · C 4.9 · F 2.5**",
         "Quick log examples:",
-        "Note: “Greek-style” here is thick/light branding — protein is **moderate** (~5.3 g/100 g), not like 0% high-protein GY (~9–10 g/100 g). Pair with whey when the meal needs more P."
+        "Note: “Greek-style” here is thick/light branding — protein is **moderate** (~5.3 g/100 g), not like 0% high-protein GY (~9–10 g/100 g). Pair with whey when the meal needs more P.",
+        "**Keep this over Mimosa Batido Natural** — better P/kcal and less fat for the breakfast bowl."
       ],
       "macros": {
         "kcal": 55.0,
         "p": 5.3,
         "c": 3.9,
         "f": 2.0
+      }
+    },
+    {
+      "name": "Mimosa — Iogurte Batido Natural (1 kg)",
+      "bullets": [
+        "Saved: **2026-10-31** · source: tub nutrition photo",
+        "Product: natural **stirred** yogurt (`iogurte batido natural`) — **not** Greek-style · Portugal",
+        "Badge “−50% lípidos” is vs **Mimosa Estilo Grego Natural**, not vs Mythos",
+        "Log unit: **per 100 g**",
+        "Per **100 g**: **72 kcal · P 4.5 · C 4.8 · F 3.5** (sugars 4.8, sat 2.2, salt 0.10, Ca 140 mg)",
+        "Per **125 g**: **90 kcal · P 5.7 · C 6.0 · F 4.4**",
+        "**Vs Mythos GY 2% @ 100 g:** +17 kcal · −0.8 P · +0.9 C · +1.5 F → **worse for the cut**. Prefer Mythos."
+      ],
+      "macros": {
+        "kcal": 72.0,
+        "p": 4.5,
+        "c": 4.8,
+        "f": 3.5
       }
     },
     {
@@ -4190,10 +4421,10 @@ window.HC = {
   ],
   "profileMd": "# Health Coach — Hassan Khan profile\n\nSee also: Cursor skill `.cursor/skills/food-log/SKILL.md` for meal photo → estimate → shortcuts:// log.  \n**Public dashboard:** https://hk9900.github.io/cursor/ (source `docs/` — keep in sync; see `.cursor/rules/health-coach-site.mdc`).\n\n## Identity & body\n- Male, born Aug 1991 (~35) · Lisbon\n- Height **180.3 cm** (5′11″)\n- **Current (25 Oct 2026 / W3):** **111.5 kg** · waist **45.5″** · chest 48.5″ · bicep R 14.5″ · thigh R 23.5″ · WHtR ≈ **0.64**\n- Fitbit start **120 kg** (23 Sep) · W0 **115.9** (27 Sep) · W1 **113.5 / 48″** · W2 **112.9 / 46.5″**\n- Past low ~88–92 kg after crash cut; regained ~1 year\n- Phased targets: **105–108 → hold 92–95 → later 70–80** aspirational\n\n## Activity & lifestyle\n- Fitbit Air (+ Google Takeout) · Apple Health Food Log Shortcut\n- Sleep aim 6–8 h · lower back history · acidity (chai OK)\n- Smokes · family heart-attack history · Coke Zero · fruit for sweet tooth\n- Walks are the main NEAT lever (don’t eat Fitbit burn back)\n\n## Labs (Unilabs 28 Apr 2026)\n- Total 219 · LDL 149 · HDL 30 · TG 198 · Glucose 94\n\n## Energy (locked cut)\n- Food band **1,550–1,800 kcal/day** (prefer ~**1,650** like W2–W3 Notes avg)\n- Protein **150–170 g** · Fat **45–65 g** · Carbs **120–190 g**\n- BMR Mifflin ~**2,070** at 111.5 kg · Fitbit TDEE trend ~**2,800–3,100**\n- Notes weekly intake: W1 ~1,912 (5d) · W2 **1,648** · W3 **1,647**\n\n## Diet defaults (locked Oct 2026)\n- ~90% Pakistani household food · Ashirwad chakki atta · Qilla white rice\n- **One starch per meal:** ≤**2 roti** **or** ≤**200 g** cooked rice — not both\n- **Daal / lobia** = good staples (keep)\n- **Tostas** rare OK · **Haleem** 1–2×/month\n- Oil (current cut): **1–1.5 tbsp/pot** or air-fryer **1 spray** when he says so  \n  (Older household pots were ~2 dish spoons ≈ 5–7 tbsp — do **not** use that unless he says the pot changed back)\n- Pot often feeds him + wife + toddler; leftovers common\n- Chai 1×/day — **keep** sugar or Canderel as logged; milk = meio-gordo 1.6%\n- Creep order now: **portion size** > oil > chai sugar\n\n## Shelf & recipes\n- Labels: `health-coach/labels.md`\n- Recipes: `health-coach/recipes.md`\n- Meal mirror: `health-coach/food-log.md`\n- Weekly tape: `health-coach/weekly-metrics.md`\n\n## Food Log (locked)\nFormat:\n```\nFood Log | {dish name} | {kcal} | {protein} | {carbs} | {fat}\n{low}–{high}% sure\n```\nThen tappable `shortcuts://run-shortcut?name=Food%20Log&input=text&text=...`  \nSMS backup: +351926194305  \nLearned: Paltay salan = besan (chickpea flour) · chicken skinless by default\n",
   "totals": {
-    "meals": 120,
-    "days": 31,
-    "kcal": 56004,
-    "protein": 3564,
+    "meals": 125,
+    "days": 32,
+    "kcal": 58434,
+    "protein": 3778,
     "labels": 33,
     "recipes": 16
   },
