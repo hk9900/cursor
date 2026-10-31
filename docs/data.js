@@ -3451,13 +3451,13 @@ window.HC = {
       "date": "2026-10-30",
       "slot": "Dinner 2",
       "dish": "Homemade Pakistani Singaporean rice (basmati + rice noodles + chicken + veggies; desi fusion assemble)",
-      "kcal": 595,
+      "kcal": 755,
       "p": 35,
-      "c": 74,
-      "f": 16,
-      "notes": "Karachi-style fusion (not Singapore). Double starch (rice + noodles) — treat as the rich plate of the day.",
-      "portions": "**370 g** weighed plate.",
-      "confidence": "70–78% sure · weighed total; layer mix + mayo/oil estimated from desi recipes — say if no mayo or heavy sauce.",
+      "c": 75,
+      "f": 34,
+      "notes": "Karachi-style fusion. Mayo is the fat spike — next time thin drizzle keeps this nearer ~600.",
+      "portions": "**370 g** weighed plate · **heavy** mayo/ketchup sauce.",
+      "confidence": "68–76% sure · weighed plate; heavy sauce volume still estimated — say tbsp mayo if you measured.",
       "backfill": false
     }
   ],
@@ -3720,10 +3720,10 @@ window.HC = {
     },
     {
       "date": "2026-10-30",
-      "kcal": 1649,
+      "kcal": 1809,
       "p": 157,
-      "c": 160,
-      "f": 41,
+      "c": 161,
+      "f": 59,
       "n": 3
     }
   ],

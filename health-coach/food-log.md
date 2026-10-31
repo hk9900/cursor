@@ -1633,14 +1633,14 @@ With sandwich → **~895 / 53 / 87 / 38**.
 
 **Dish:** Homemade Pakistani Singaporean rice (basmati + rice noodles + chicken + veggies; desi fusion assemble).
 
-**Portions:** **370 g** weighed plate.
+**Portions:** **370 g** weighed plate · **heavy** mayo/ketchup sauce.
 
-**Macros:** **595 kcal · P 35 · C 74 · F 16**  
-(~130 g rice · ~90 g rice noodles · ~90 g chicken · ~50 g veg · cut oil share · light mayo/ketchup drizzle assumed.)
+**Macros:** **755 kcal · P 35 · C 75 · F 34**  
+(~130 g rice · ~90 g rice noodles · ~90 g chicken · ~50 g veg · cut oil share · heavy mayo drizzle ~2 tbsp + ketchup/chili.)
 
-**Shortcut line:** `Food Log | Singaporean rice | 595 | 35 | 74 | 16`  
-**Confidence:** 70–78% sure · weighed total; layer mix + mayo/oil estimated from desi recipes — say if no mayo or heavy sauce.
+**Shortcut line:** `Food Log | Singaporean rice | 755 | 35 | 75 | 34`  
+**Confidence:** 68–76% sure · weighed plate; heavy sauce volume still estimated — say tbsp mayo if you measured.
 
-**Notes:** Karachi-style fusion (not Singapore). Double starch (rice + noodles) — treat as the rich plate of the day.
+**Notes:** Karachi-style fusion. Mayo is the fat spike — next time thin drizzle keeps this nearer ~600.
 
 ---
