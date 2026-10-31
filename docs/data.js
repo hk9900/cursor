@@ -1,7 +1,7 @@
 window.HC = {
   "meta": {
     "name": "Hassan Khan",
-    "through": "2026-10-30",
+    "through": "2026-10-31",
     "weight": 111.5,
     "waist": 45.5,
     "startWeight": 120,
@@ -3459,6 +3459,19 @@ window.HC = {
       "portions": "**370 g** weighed plate · **heavy** mayo/ketchup sauce.",
       "confidence": "68–76% sure · weighed plate; heavy sauce volume still estimated — say tbsp mayo if you measured.",
       "backfill": false
+    },
+    {
+      "date": "2026-10-31",
+      "slot": "Breakfast",
+      "dish": "Egg-white omelette (170 g, 1 spray) + 2 Bimbo + 5 tostas with butter + 1 chai (Canderel)",
+      "kcal": 545,
+      "p": 45,
+      "c": 53,
+      "f": 17,
+      "notes": "Tostas ×5 is a heavier starch hit — butter smear estimated.",
+      "portions": "whites **170 g** · spray **1** · Bimbo **2** · tostas **5** · butter ~**½ tbsp** · chai **1** (200 ml milk + Canderel).",
+      "confidence": "85–90% sure · labels for whites/Bimbo/tostas/chai; butter smear + spray estimated — say if Mimosa or sugar in chai.",
+      "backfill": false
     }
   ],
   "daily": [
@@ -3725,6 +3738,14 @@ window.HC = {
       "c": 161,
       "f": 59,
       "n": 3
+    },
+    {
+      "date": "2026-10-31",
+      "kcal": 545,
+      "p": 45,
+      "c": 53,
+      "f": 17,
+      "n": 1
     }
   ],
   "recipes": [

@@ -1644,3 +1644,19 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** Karachi-style fusion. Mayo is the fat spike — next time thin drizzle keeps this nearer ~600.
 
 ---
+
+## 2026-10-31 — Breakfast
+
+**Dish:** Egg-white omelette (170 g, 1 spray) + 2 Bimbo protein bread + 5 tostas with butter + 1 chai (Canderel).
+
+**Portions:** whites **170 g** · spray **1** · Bimbo **2** · tostas **5** · butter ~**½ tbsp** across tostas · chai **1** (200 ml meio-gordo + Canderel).
+
+**Macros:** **545 kcal · P 45 · C 53 · F 17**  
+(Whites ~80/19/1/0 · spray ~5/0/0/1 · 2 Bimbo ~162/14/17/4 · 5 tostas ~150/5/25/3 · butter ~54/0/0/6 · chai ~94/7/10/3.)
+
+**Shortcut line:** `Food Log | Egg white omelette Bimbo 5 tostas chai | 545 | 45 | 53 | 17`  
+**Confidence:** 85–90% sure · labels for whites/Bimbo/tostas/chai; butter smear + spray estimated — say if Mimosa or sugar in chai.
+
+**Notes:** 5 tostas is a bigger starch hit than usual 3.
+
+---
