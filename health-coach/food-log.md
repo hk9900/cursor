@@ -1612,3 +1612,19 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** Strong lean start. Tostas rare OK per cut rules.
 
 ---
+
+## 2026-10-30 — Dinner
+
+**Dish:** Leftover air-fryer chicken sticks **240 g** + kali masoor daal chawal **150 g** (no oil/tarka assumed).
+
+**Portions:** chicken sticks **240 g** (same light-coat AF batch) · daal chawal **150 g** combined.
+
+**Macros:** **610 kcal · P 78 · C 48 · F 12**  
+(Sticks ~425/70/13/11 from 130 g @ 230 density · daal chawal ~185/8/35/1 no-oil mix.)
+
+**Shortcut line:** `Food Log | Chicken sticks daal chawal | 610 | 78 | 48 | 12`  
+**Confidence:** 78–85% sure · sticks weighed + known density; daal/rice mix ratio estimated — say if oily tarka.
+
+**Notes:** Very high protein plate. Starch ≤200 g rice-side OK as mixed 150 g.
+
+---

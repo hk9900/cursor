@@ -8,7 +8,7 @@ window.HC = {
     "heightCm": 180.3,
     "dob": "1991-08-08",
     "city": "Lisbon",
-    "siteUpdated": "2026-10-30"
+    "siteUpdated": "2026-10-31"
   },
   "weightCut": {
     "labels": [
@@ -3433,6 +3433,19 @@ window.HC = {
       "portions": "whites **225 g** · spray **1** · Bimbo **2** · tostas **3** · butter ~**1 tsp** · Galão **1** · sucralose skip.",
       "confidence": "85–90% sure · labels for whites/Bimbo/tostas/Galão; butter smear + spray estimated.",
       "backfill": false
+    },
+    {
+      "date": "2026-10-30",
+      "slot": "Dinner",
+      "dish": "Leftover air-fryer chicken sticks 240 g + kali masoor daal chawal 150 g (no oil/tarka assumed)",
+      "kcal": 610,
+      "p": 78,
+      "c": 48,
+      "f": 12,
+      "notes": "Leftover sticks batch · rice+dal within starch cap · very high protein plate.",
+      "portions": "chicken sticks **240 g** · daal chawal **150 g** combined.",
+      "confidence": "78–85% sure · sticks weighed + known density; daal/rice mix ratio estimated — say if oily tarka.",
+      "backfill": false
     }
   ],
   "daily": [
@@ -3694,11 +3707,11 @@ window.HC = {
     },
     {
       "date": "2026-10-30",
-      "kcal": 444,
-      "p": 44,
-      "c": 38,
-      "f": 13,
-      "n": 1
+      "kcal": 1054,
+      "p": 122,
+      "c": 86,
+      "f": 25,
+      "n": 2
     }
   ],
   "recipes": [
