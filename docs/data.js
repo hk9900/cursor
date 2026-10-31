@@ -3472,6 +3472,19 @@ window.HC = {
       "portions": "whites **170 g** · spray **1** · Bimbo **2** · tostas **5** · butter ~**½ tbsp** · chai **1** (200 ml milk + Canderel).",
       "confidence": "85–90% sure · labels for whites/Bimbo/tostas/chai; butter smear + spray estimated — say if Mimosa or sugar in chai.",
       "backfill": false
+    },
+    {
+      "date": "2026-10-31",
+      "slot": "Dinner",
+      "dish": "Air-fryer chicken breast boti 100 g + looki (lauki) bhujia 170 g + 2 roti",
+      "kcal": 495,
+      "p": 41,
+      "c": 52,
+      "f": 17,
+      "notes": "Lean AF protein + watery sabzi — solid cut plate. Within ≤2 roti.",
+      "portions": "chicken **100 g** AF · looki bhujia **170 g** · **2** medium house roti · cut oil **1–1.5 tbsp/pot** share on bhujia.",
+      "confidence": "75–82% sure · chicken + looki weighed; bhujia oil soak + roti size estimated — say if oily or roti big.",
+      "backfill": false
     }
   ],
   "daily": [
@@ -3741,11 +3754,11 @@ window.HC = {
     },
     {
       "date": "2026-10-31",
-      "kcal": 545,
-      "p": 45,
-      "c": 53,
-      "f": 17,
-      "n": 1
+      "kcal": 1040,
+      "p": 86,
+      "c": 105,
+      "f": 34,
+      "n": 2
     }
   ],
   "recipes": [

@@ -1660,3 +1660,19 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** 5 tostas is a bigger starch hit than usual 3.
 
 ---
+
+## 2026-10-31 — Dinner
+
+**Dish:** Air-fryer chicken breast boti 100 g + looki (lauki) bhujia 170 g + 2 roti.
+
+**Portions:** chicken **100 g** AF · looki bhujia **170 g** · **2** medium house roti · cut oil **1–1.5 tbsp/pot** share on bhujia.
+
+**Macros:** **495 kcal · P 41 · C 52 · F 17**  
+(Chicken ~165/31/0/4 · looki ~100/2/8/7 · 2 roti ~230/8/44/6.)
+
+**Shortcut line:** `Food Log | Chicken boti looki 2 roti | 495 | 41 | 52 | 17`  
+**Confidence:** 75–82% sure · chicken + looki weighed; bhujia oil soak + roti size estimated — say if oily or roti big.
+
+**Notes:** Lean AF protein + watery sabzi — solid cut plate. Within ≤2 roti.
+
+---
