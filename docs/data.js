@@ -4052,13 +4052,32 @@ window.HC = {
         "Per **100 g**: **55 kcal · P 5.3 · C 3.9 · F 2.0** (sugars 3.9, salt 0.14)",
         "Per **125 g**: **69 kcal · P 6.6 · C 4.9 · F 2.5**",
         "Quick log examples:",
-        "Note: “Greek-style” here is thick/light branding — protein is **moderate** (~5.3 g/100 g), not like 0% high-protein GY (~9–10 g/100 g). Pair with whey when the meal needs more P."
+        "Note: “Greek-style” here is thick/light branding — protein is **moderate** (~5.3 g/100 g), not like 0% high-protein GY (~9–10 g/100 g). Pair with whey when the meal needs more P.",
+        "**Keep this over Mimosa Batido Natural** — better P/kcal and less fat for the breakfast bowl."
       ],
       "macros": {
         "kcal": 55.0,
         "p": 5.3,
         "c": 3.9,
         "f": 2.0
+      }
+    },
+    {
+      "name": "Mimosa — Iogurte Batido Natural (1 kg)",
+      "bullets": [
+        "Saved: **2026-10-31** · source: tub nutrition photo",
+        "Product: natural **stirred** yogurt (`iogurte batido natural`) — **not** Greek-style · Portugal",
+        "Badge “−50% lípidos” is vs **Mimosa Estilo Grego Natural**, not vs Mythos",
+        "Log unit: **per 100 g**",
+        "Per **100 g**: **72 kcal · P 4.5 · C 4.8 · F 3.5** (sugars 4.8, sat 2.2, salt 0.10, Ca 140 mg)",
+        "Per **125 g**: **90 kcal · P 5.7 · C 6.0 · F 4.4**",
+        "**Vs Mythos GY 2% @ 100 g:** +17 kcal · −0.8 P · +0.9 C · +1.5 F → **worse for the cut**. Prefer Mythos."
+      ],
+      "macros": {
+        "kcal": 72.0,
+        "p": 4.5,
+        "c": 4.8,
+        "f": 3.5
       }
     },
     {
