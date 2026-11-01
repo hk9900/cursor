@@ -1,14 +1,14 @@
 window.HC = {
   "meta": {
     "name": "Hassan Khan",
-    "through": "2026-10-31",
+    "through": "2026-11-01",
     "weight": 111.5,
     "waist": 45.5,
     "startWeight": 120,
     "heightCm": 180.3,
     "dob": "1991-08-08",
     "city": "Lisbon",
-    "siteUpdated": "2026-10-31"
+    "siteUpdated": "2026-11-01"
   },
   "weightCut": {
     "labels": [
@@ -3485,6 +3485,19 @@ window.HC = {
       "portions": "chicken **100 g** AF · looki bhujia **170 g** · **2** medium house roti · cut oil **1–1.5 tbsp/pot** share on bhujia.",
       "confidence": "75–82% sure · chicken + looki weighed; bhujia oil soak + roti size estimated — say if oily or roti big.",
       "backfill": false
+    },
+    {
+      "date": "2026-11-01",
+      "slot": "Breakfast",
+      "dish": "Usual GY mix but Mimosa Batido 200 g (granola + strawberries + 1 scoop chocolate whey) + 5 tostas + 1 chai (Canderel)",
+      "kcal": 535,
+      "p": 35,
+      "c": 61,
+      "f": 16,
+      "notes": "Batido vs Mythos costs ~+34 kcal / −2 P / +3 F on the yogurt alone. Prefer Mythos next tub.",
+      "portions": "Mimosa Batido **200 g** · mix add-ins as usual · tostas **5** · chai **1**.",
+      "confidence": "85–90% sure · Batido + tostas + chai labels; mix add-ins as usual — say if Mimosa Estilo Grego (heavier) instead of Batido.",
+      "backfill": false
     }
   ],
   "daily": [
@@ -3759,6 +3772,14 @@ window.HC = {
       "c": 105,
       "f": 34,
       "n": 2
+    },
+    {
+      "date": "2026-11-01",
+      "kcal": 535,
+      "p": 35,
+      "c": 61,
+      "f": 16,
+      "n": 1
     }
   ],
   "recipes": [

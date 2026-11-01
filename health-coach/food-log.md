@@ -1676,3 +1676,19 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** Lean AF protein + watery sabzi — solid cut plate. Within ≤2 roti.
 
 ---
+
+## 2026-11-01 — Breakfast
+
+**Dish:** Usual GY mix but **Mimosa Batido** 200 g (granola + strawberries + 1 scoop chocolate whey) + 5 tostas + 1 chai (Canderel).
+
+**Portions:** Mimosa Batido **200 g** · mix add-ins as usual · tostas **5** · chai **1**.
+
+**Macros:** **535 kcal · P 35 · C 61 · F 16**  
+(Mix ~291/23/26/10 vs Mythos mix 257 · 5 tostas ~150/5/25/3 · chai ~94/7/10/3.)
+
+**Shortcut line:** `Food Log | Mimosa GY mix 5 tostas chai | 535 | 35 | 61 | 16`  
+**Confidence:** 85–90% sure · Batido + tostas + chai labels; mix add-ins as usual — say if Mimosa *Estilo Grego* (heavier) instead of Batido.
+
+**Notes:** Batido vs Mythos costs ~+34 kcal / −2 P / +3 F on the yogurt alone. Prefer Mythos next tub.
+
+---
