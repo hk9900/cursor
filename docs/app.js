@@ -177,18 +177,18 @@
     root.innerHTML = `
       <div class="stack">
         <div class="callout">
-          <strong>Week 3: 111.5 kg · waist 45.5″</strong>
+          <strong>Week 4: ${HC.meta.weight} kg · waist ${HC.meta.waist}″</strong>
           Full archive loaded — ${HC.totals.meals} meals, ${HC.labels.length} pack labels,
           ${HC.recipes.length} household recipes, Fitbit days, Apple windows, Sunday metrics.
-          Notes intake locked ~1,648 kcal in W2–W3. Don’t cut lower.
+          Notes intake W4 ~1,714 (still in band). Walks skipped W4 — resume NEAT, don’t crash-cut.
         </div>
         <div class="grid-4">
           ${stat(`${HC.meta.waist}″`, "Waist (was 48″)", "good")}
-          ${stat("1,647", "W3 Notes intake", "info")}
+          ${stat("1,714", "W4 Notes intake", "info")}
           ${stat(HC.totals.kcal.toLocaleString(), "Sum logged kcal")}
           ${stat(`${HC.totals.protein.toLocaleString()} g`, "Sum logged protein")}
         </div>
-        ${chartCard("Weight — current cut", "Sunday weigh-ins · Sep 23 – Oct 25 2026", "c-weight")}
+        ${chartCard("Weight — current cut", "Sunday weigh-ins · Sep 23 – Nov 1 2026", "c-weight")}
         ${chartCard("Daily logged kcal (all Food Logs)", "food-log.md day sums · early dates estimated", "c-ov-kcal")}
         ${chartCard("Daily logged protein", "Target 150–170 g", "c-ov-p", true)}
         <div class="grid-2">
@@ -229,12 +229,12 @@
     root.innerHTML = `
       <div class="stack">
         <div class="grid-4">
-          ${stat("111.5 kg", "Week 3", "good")}
-          ${stat("45.5 in", "Waist", "good")}
-          ${stat("48.5 in", "Chest")}
-          ${stat("14.5 / 23.5", "Bicep / thigh")}
+          ${stat(`${HC.meta.weight} kg`, "Week 4", "good")}
+          ${stat(`${HC.meta.waist} in`, "Waist", "good")}
+          ${stat("47 in", "Chest")}
+          ${stat("14.5 / 22", "Bicep / thigh")}
         </div>
-        ${chartCard("Current cut", "120 → 111.5 · −8.5 kg", "c-body-weight")}
+        ${chartCard("Current cut", "120 → 111.2 · −8.8 kg", "c-body-weight")}
         ${chartCard("Past cut — Xiaomi 2019–2020", "107.3 → 93.2 kg", "c-past-cut")}
         ${tableCard("Full tape log", "", [
           { label: "Week" }, { label: "Date" }, { label: "Weight", num: true },

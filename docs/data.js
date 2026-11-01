@@ -2,8 +2,8 @@ window.HC = {
   "meta": {
     "name": "Hassan Khan",
     "through": "2026-11-01",
-    "weight": 111.5,
-    "waist": 45.5,
+    "weight": 111.2,
+    "waist": 45,
     "startWeight": 120,
     "heightCm": 180.3,
     "dob": "1991-08-08",
@@ -16,14 +16,16 @@ window.HC = {
       "09-27",
       "10-11",
       "10-18",
-      "10-25"
+      "10-25",
+      "11-01"
     ],
     "kg": [
       120.0,
       115.9,
       113.5,
       112.9,
-      111.5
+      111.5,
+      111.2
     ]
   },
   "pastCut": {
@@ -1702,12 +1704,14 @@ window.HC = {
   "notesIntake": [
     1912,
     1648,
-    1647
+    1647,
+    1714
   ],
   "notesLabels": [
     "W1 →11 Oct",
     "W2 →18 Oct",
-    "W3 →25 Oct"
+    "W3 →25 Oct",
+    "W4 →1 Nov"
   ],
   "pie": [
     {
@@ -4438,9 +4442,23 @@ window.HC = {
       "burn": "21037 / 7d → **avg 3005**",
       "deficit": "9508 / 7d → **avg 1358**",
       "motiv": "8 (good overall)"
+    },
+    {
+      "week": 4,
+      "date": "01/Nov/2026",
+      "weight": 111.2,
+      "waist": "45",
+      "chest": "47",
+      "bicep": "14.5",
+      "thigh": "22",
+      "steps": "17165",
+      "intake": "11996 / 7d → **avg 1714**",
+      "burn": "18405 / 7d → **avg 2629**",
+      "deficit": "6409 / 7d → **avg 916**",
+      "motiv": "5 (skipped walk whole week)"
     }
   ],
-  "profileMd": "# Health Coach — Hassan Khan profile\n\nSee also: Cursor skill `.cursor/skills/food-log/SKILL.md` for meal photo → estimate → shortcuts:// log.  \n**Public dashboard:** https://hk9900.github.io/cursor/ (source `docs/` — keep in sync; see `.cursor/rules/health-coach-site.mdc`).\n\n## Identity & body\n- Male, born Aug 1991 (~35) · Lisbon\n- Height **180.3 cm** (5′11″)\n- **Current (25 Oct 2026 / W3):** **111.5 kg** · waist **45.5″** · chest 48.5″ · bicep R 14.5″ · thigh R 23.5″ · WHtR ≈ **0.64**\n- Fitbit start **120 kg** (23 Sep) · W0 **115.9** (27 Sep) · W1 **113.5 / 48″** · W2 **112.9 / 46.5″**\n- Past low ~88–92 kg after crash cut; regained ~1 year\n- Phased targets: **105–108 → hold 92–95 → later 70–80** aspirational\n\n## Activity & lifestyle\n- Fitbit Air (+ Google Takeout) · Apple Health Food Log Shortcut\n- Sleep aim 6–8 h · lower back history · acidity (chai OK)\n- Smokes · family heart-attack history · Coke Zero · fruit for sweet tooth\n- Walks are the main NEAT lever (don’t eat Fitbit burn back)\n\n## Labs (Unilabs 28 Apr 2026)\n- Total 219 · LDL 149 · HDL 30 · TG 198 · Glucose 94\n\n## Energy (locked cut)\n- Food band **1,550–1,800 kcal/day** (prefer ~**1,650** like W2–W3 Notes avg)\n- Protein **150–170 g** · Fat **45–65 g** · Carbs **120–190 g**\n- BMR Mifflin ~**2,070** at 111.5 kg · Fitbit TDEE trend ~**2,800–3,100**\n- Notes weekly intake: W1 ~1,912 (5d) · W2 **1,648** · W3 **1,647**\n\n## Diet defaults (locked Oct 2026)\n- ~90% Pakistani household food · Ashirwad chakki atta · Qilla white rice\n- **One starch per meal:** ≤**2 roti** **or** ≤**200 g** cooked rice — not both\n- **Daal / lobia** = good staples (keep)\n- **Tostas** rare OK · **Haleem** 1–2×/month\n- Oil (current cut): **1–1.5 tbsp/pot** or air-fryer **1 spray** when he says so  \n  (Older household pots were ~2 dish spoons ≈ 5–7 tbsp — do **not** use that unless he says the pot changed back)\n- Pot often feeds him + wife + toddler; leftovers common\n- Chai 1×/day — **keep** sugar or Canderel as logged; milk = meio-gordo 1.6%\n- Creep order now: **portion size** > oil > chai sugar\n\n## Shelf & recipes\n- Labels: `health-coach/labels.md`\n- Recipes: `health-coach/recipes.md`\n- Meal mirror: `health-coach/food-log.md`\n- Weekly tape: `health-coach/weekly-metrics.md`\n\n## Food Log (locked)\nFormat:\n```\nFood Log | {dish name} | {kcal} | {protein} | {carbs} | {fat}\n{low}–{high}% sure\n```\nThen tappable `shortcuts://run-shortcut?name=Food%20Log&input=text&text=...`  \nSMS backup: +351926194305  \nLearned: Paltay salan = besan (chickpea flour) · chicken skinless by default\n",
+  "profileMd": "# Health Coach — Hassan Khan profile\n\nSee also: Cursor skill `.cursor/skills/food-log/SKILL.md` for meal photo → estimate → shortcuts:// log.  \n**Public dashboard:** https://hk9900.github.io/cursor/ (source `docs/` — keep in sync; see `.cursor/rules/health-coach-site.mdc`).\n\n## Identity & body\n- Male, born Aug 1991 (~35) · Lisbon\n- Height **180.3 cm** (5′11″)\n- **Current (1 Nov 2026 / W4):** **111.2 kg** · waist **45″** · chest 47″ · bicep R 14.5″ · thigh R 22″ · WHtR ≈ **0.63**\n- Fitbit start **120 kg** (23 Sep) · W0 **115.9** (27 Sep) · W1 **113.5 / 48″** · W2 **112.9 / 46.5″** · W3 **111.5 / 45.5″**\n- Past low ~88–92 kg after crash cut; regained ~1 year\n- Phased targets: **105–108 → hold 92–95 → later 70–80** aspirational\n\n## Activity & lifestyle\n- Fitbit Air (+ Google Takeout) · Apple Health Food Log Shortcut\n- Sleep aim 6–8 h · lower back history · acidity (chai OK)\n- Smokes · family heart-attack history · Coke Zero · fruit for sweet tooth\n- Walks are the main NEAT lever (don’t eat Fitbit burn back) · W4 skipped walks — resume\n\n## Labs (Unilabs 28 Apr 2026)\n- Total 219 · LDL 149 · HDL 30 · TG 198 · Glucose 94\n\n## Energy (locked cut)\n- Food band **1,550–1,800 kcal/day** (prefer ~**1,650** like W2–W3 Notes avg)\n- Protein **150–170 g** · Fat **45–65 g** · Carbs **120–190 g**\n- BMR Mifflin ~**2,065** at 111.2 kg · Fitbit TDEE trend ~**2,600–3,100** (walks swing it)\n- Notes weekly intake: W1 ~1,912 (5d) · W2 **1,648** · W3 **1,647** · W4 **1,714**\n\n## Diet defaults (locked Oct 2026)\n- ~90% Pakistani household food · Ashirwad chakki atta · Qilla white rice\n- **One starch per meal:** ≤**2 roti** **or** ≤**200 g** cooked rice — not both\n- **Daal / lobia** = good staples (keep)\n- **Tostas** rare OK · **Haleem** 1–2×/month\n- Oil (current cut): **1–1.5 tbsp/pot** or air-fryer **1 spray** when he says so  \n  (Older household pots were ~2 dish spoons ≈ 5–7 tbsp — do **not** use that unless he says the pot changed back)\n- Pot often feeds him + wife + toddler; leftovers common\n- Chai 1×/day — **keep** sugar or Canderel as logged; milk = meio-gordo 1.6%\n- Creep order now: **portion size** > oil > chai sugar\n\n## Shelf & recipes\n- Labels: `health-coach/labels.md`\n- Recipes: `health-coach/recipes.md`\n- Meal mirror: `health-coach/food-log.md`\n- Weekly tape: `health-coach/weekly-metrics.md`\n\n## Food Log (locked)\nFormat:\n```\nFood Log | {dish name} | {kcal} | {protein} | {carbs} | {fat}\n{low}–{high}% sure\n```\nThen tappable `shortcuts://run-shortcut?name=Food%20Log&input=text&text=...`  \nSMS backup: +351926194305  \nLearned: Paltay salan = besan (chickpea flour) · chicken skinless by default\n",
   "totals": {
     "meals": 125,
     "days": 32,

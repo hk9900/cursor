@@ -6,8 +6,8 @@ See also: Cursor skill `.cursor/skills/food-log/SKILL.md` for meal photo → est
 ## Identity & body
 - Male, born Aug 1991 (~35) · Lisbon
 - Height **180.3 cm** (5′11″)
-- **Current (25 Oct 2026 / W3):** **111.5 kg** · waist **45.5″** · chest 48.5″ · bicep R 14.5″ · thigh R 23.5″ · WHtR ≈ **0.64**
-- Fitbit start **120 kg** (23 Sep) · W0 **115.9** (27 Sep) · W1 **113.5 / 48″** · W2 **112.9 / 46.5″**
+- **Current (1 Nov 2026 / W4):** **111.2 kg** · waist **45″** · chest 47″ · bicep R 14.5″ · thigh R 22″ · WHtR ≈ **0.63**
+- Fitbit start **120 kg** (23 Sep) · W0 **115.9** (27 Sep) · W1 **113.5 / 48″** · W2 **112.9 / 46.5″** · W3 **111.5 / 45.5″**
 - Past low ~88–92 kg after crash cut; regained ~1 year
 - Phased targets: **105–108 → hold 92–95 → later 70–80** aspirational
 
@@ -15,7 +15,7 @@ See also: Cursor skill `.cursor/skills/food-log/SKILL.md` for meal photo → est
 - Fitbit Air (+ Google Takeout) · Apple Health Food Log Shortcut
 - Sleep aim 6–8 h · lower back history · acidity (chai OK)
 - Smokes · family heart-attack history · Coke Zero · fruit for sweet tooth
-- Walks are the main NEAT lever (don’t eat Fitbit burn back)
+- Walks are the main NEAT lever (don’t eat Fitbit burn back) · W4 skipped walks — resume
 
 ## Labs (Unilabs 28 Apr 2026)
 - Total 219 · LDL 149 · HDL 30 · TG 198 · Glucose 94
@@ -23,8 +23,8 @@ See also: Cursor skill `.cursor/skills/food-log/SKILL.md` for meal photo → est
 ## Energy (locked cut)
 - Food band **1,550–1,800 kcal/day** (prefer ~**1,650** like W2–W3 Notes avg)
 - Protein **150–170 g** · Fat **45–65 g** · Carbs **120–190 g**
-- BMR Mifflin ~**2,070** at 111.5 kg · Fitbit TDEE trend ~**2,800–3,100**
-- Notes weekly intake: W1 ~1,912 (5d) · W2 **1,648** · W3 **1,647**
+- BMR Mifflin ~**2,065** at 111.2 kg · Fitbit TDEE trend ~**2,600–3,100** (walks swing it)
+- Notes weekly intake: W1 ~1,912 (5d) · W2 **1,648** · W3 **1,647** · W4 **1,714**
 
 ## Diet defaults (locked Oct 2026)
 - ~90% Pakistani household food · Ashirwad chakki atta · Qilla white rice
