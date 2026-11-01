@@ -3502,6 +3502,19 @@ window.HC = {
       "portions": "Mimosa Batido **200 g** · mix add-ins as usual · tostas **5** · chai **1**.",
       "confidence": "85–90% sure · Batido + tostas + chai labels; mix add-ins as usual — say if Mimosa Estilo Grego (heavier) instead of Batido.",
       "backfill": false
+    },
+    {
+      "date": "2026-11-01",
+      "slot": "Dinner",
+      "dish": "Chicken breast botiyan 100 g + beef–onion stew 225 g (50/50) + 2 roti + 1 tosta with 1 tsp PB + 1 medium orange + 2 small keeno",
+      "kcal": 965,
+      "p": 71,
+      "c": 99,
+      "f": 36,
+      "notes": "Big dinner plate. Fruit OK. PB tsp on tosta is fine as rare add-on.",
+      "portions": "chicken **100 g** · stew **225 g** (≈112 g beef + 112 g onion) · **2** medium roti · tosta **1** · PB **1 tsp** · orange **1** medium · keeno **2** small.",
+      "confidence": "72–80% sure · weighed chicken/stew; beef fat + stew oil estimated (calibration nudge) — say if stew oily or chicken was fried.",
+      "backfill": false
     }
   ],
   "daily": [
@@ -3779,11 +3792,11 @@ window.HC = {
     },
     {
       "date": "2026-11-01",
-      "kcal": 535,
-      "p": 35,
-      "c": 61,
-      "f": 16,
-      "n": 1
+      "kcal": 1500,
+      "p": 106,
+      "c": 160,
+      "f": 52,
+      "n": 2
     }
   ],
   "recipes": [

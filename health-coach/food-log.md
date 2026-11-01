@@ -1692,3 +1692,19 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** Batido vs Mythos costs ~+34 kcal / −2 P / +3 F on the yogurt alone. Prefer Mythos next tub.
 
 ---
+
+## 2026-11-01 — Dinner
+
+**Dish:** Chicken breast botiyan 100 g + beef–onion stew 225 g (50/50) + 2 roti + 1 tosta with 1 tsp PB + 1 medium orange + 2 small keeno.
+
+**Portions:** chicken **100 g** · stew **225 g** (≈112 g beef + 112 g onion) · **2** medium roti · tosta **1** · PB **1 tsp** · orange **1** medium · keeno **2** small.
+
+**Macros:** **965 kcal · P 71 · C 99 · F 36**  
+(Chicken ~165/31/0/4 · stew ~355/28/12/22 cut-oil mid–high · 2 roti ~240/8/46/6 · tosta+PB ~62/2/6/4 · orange ~62/1/15/0 · 2 keeno ~80/1/20/0.)
+
+**Shortcut line:** `Food Log | Chicken boti beef stew 2 roti fruit | 965 | 71 | 99 | 36`  
+**Confidence:** 72–80% sure · weighed chicken/stew; beef fat + stew oil estimated (calibration nudge) — say if stew oily or chicken was fried.
+
+**Notes:** Big dinner plate. Fruit OK. PB tsp on tosta is fine as rare add-on.
+
+---
