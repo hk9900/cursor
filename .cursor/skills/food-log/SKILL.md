@@ -17,13 +17,14 @@ User sends a **meal photo**, describes a plate, or asks to **log / estimate** fo
 ## Context to load first
 
 1. Read `/cursor/stores/self/artifacts/health-coach-profile.md` if present.
-2. Read recipe / profile notes under `health-coach/` in the repo — especially `health-coach/recipes.md`, `labels.md`, `profile.md`.
+2. Read recipe / profile notes under `health-coach/` — especially `recipes.md`, `labels.md`, `profile.md`, and **`calibration.md`** (active accuracy nudges).
 3. Use prior meal history in the thread (e.g. **Paltay salan = chickpea flour / besan**, not fish).
 4. Prefer **his kitchen defaults** and **named recipes in recipes.md** over generic restaurant DB entries.
    - Oil default (**current cut, locked**): **1–1.5 tbsp/pot** or **1 spray** when he says spray/no oil. Older household pots were ~2 dish spoons ≈ 5–7 tbsp — only use that if he says the pot changed back.
    - Starch: ≤**2 roti** or ≤**200 g** Qilla rice — not both (Ashirwad chakki atta).
 5. Optionally web-search unfamiliar dishes — still adjust to **his portion and oil**.
 6. After logging: mirror into `health-coach/food-log.md` **and** refresh `docs/data.js` for Pages (see `.cursor/rules/health-coach-site.mdc`).
+7. On **Sunday weekly Notes / weigh-in paste**: run the reconciliation procedure in `health-coach/calibration.md` (nudge logging from scale vs deficit — mandatory).
 
 ## Workflow
 
@@ -44,14 +45,19 @@ Do **not** re-ask what was already answered.
 ### 3. Estimate
 - Output **kcal, protein g, carbs g, fat g** for **what he ate**.
 - Weight toward recipe book + household rules when available.
+- **Accuracy > feel-good.** Hassan locked this: do **not** lowball oil/starch/sauce to make the day look cleaner.
+  - Apply **active nudges** from `health-coach/calibration.md` (oil plate share, roti default, mayo default).
+  - Ambiguous desi fat → prefer **mid–high** of the honest range, not the optimistic floor.
+  - Pack labels + weighed plain protein/AF chicken/egg whites → **exact label math** (no pad).
 - Confidence must be **calibrated and honest**, not inflated to please the user.
   State as a short range + “sure” (out of 100). Prefer a *true* 75–80 over a flattering 90.
   Rough guide (not a ceiling to push toward):
-  - Recipe book + clear answers + simple plate → often **85–92% sure**
-  - Photo + answers, oil known, some portion ambiguity → often **78–88% sure**
-  - Photo only / ambiguous / heavy oil-soak uncertainty → often **65–80% sure**
+    - Recipe book + clear answers + simple plate → often **85–92% sure**
+    - Photo + answers, oil known, some portion ambiguity → often **78–88% sure**
+    - Photo only / ambiguous / heavy oil-soak uncertainty → often **65–80% sure**
 - Never use ±kcal bands in the final line.
 - Do **not** raise % just because the user asks “why not 90?” — explain the uncertainty instead; only change % if your evidence actually improved.
+- Do **not** lower kcal because “he’s on a cut” or to keep the day under 1,800 — log what he ate; the band is a target, not a reporting bias.
 
 ### 4. Deliver (required final shape)
 
@@ -84,6 +90,8 @@ Food Log | Paltay salan (besan) + 2 roti | 800 | 25 | 100 | 30
 - Prefer `sms:` compose links (user rejected that UX).
 - Override numbers if user pastes a Health/Bevel log — **accept as-is** unless they ask.
 - Pad the final message with long tables.
+- Tell him to eat Fitbit burn back. Fitbit total burn is directionally useful but likely **~10–15% high** on walk weeks (see `calibration.md`).
+- Treat Notes deficit as literal fat loss — use × **~0.65–0.75** for forecasting; scale + waist judge the cut.
 
 ## Shortcut contract (user phone)
 

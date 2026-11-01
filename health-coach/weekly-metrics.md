@@ -57,3 +57,9 @@ Height: **180.3 cm** · Week 0 weight **115.9 kg** (27 Sep 2026)
 - Put **daily averages** in Intake / Burn / Deficit columns (or keep totals but label day count like W1/W2)
 - Prefer same # of days each week (7d ideal)
 - Always: weight + waist; chest/bicep/thigh when possible
+
+### On every Sunday paste (agent)
+1. Add the table row + derived section (as W4).
+2. Run **`calibration.md` Sunday procedure**: `predicted_kg = deficit/7700` vs actual kg; update nudge log.
+3. Reply with one-line nudge status (hold / raise oil-starch / ease).
+4. Sync profile + Pages. Accuracy > feel-good.

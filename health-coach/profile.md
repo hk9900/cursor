@@ -26,6 +26,14 @@ See also: Cursor skill `.cursor/skills/food-log/SKILL.md` for meal photo → est
 - BMR Mifflin ~**2,065** at 111.2 kg · Fitbit TDEE trend ~**2,600–3,100** (walks swing it)
 - Notes weekly intake: W1 ~1,912 (5d) · W2 **1,648** · W3 **1,647** · W4 **1,714**
 
+## Accuracy calibration (locked 1 Nov 2026)
+- **Accuracy > feel-good** on Food Logs — see `health-coach/calibration.md`
+- Fitbit Air burn: trust **direction**; absolute likely **~10–15% high** on walk weeks · never eat burn back
+- Food logs / Notes intake: trend good; absolute likely **~10–15% low** when oil/starch estimated
+- Notes deficit ≈ **1.4×** fat-loss deficit over W1→W4 — forecast fat with deficit × **~0.65–0.75**
+- On every Sunday weekly paste: reconcile predicted vs actual kg and **nudge** logging defaults in `calibration.md`
+- Active nudge now: oil plate **~9–12 g** on cooked sabzi · unweighed roti **~120 kcal** · mayo default **moderate**
+
 ## Diet defaults (locked Oct 2026)
 - ~90% Pakistani household food · Ashirwad chakki atta · Qilla white rice
 - **One starch per meal:** ≤**2 roti** **or** ≤**200 g** cooked rice — not both
@@ -42,6 +50,7 @@ See also: Cursor skill `.cursor/skills/food-log/SKILL.md` for meal photo → est
 - Recipes: `health-coach/recipes.md`
 - Meal mirror: `health-coach/food-log.md`
 - Weekly tape: `health-coach/weekly-metrics.md`
+- Calibration: `health-coach/calibration.md`
 
 ## Food Log (locked)
 Format:

@@ -19,10 +19,10 @@ Triggers include:
 - Food Log / meal photo / macros / `shortcuts://` log
 - Pack nutrition label photo or “save this label”
 - Recipe / household cook change (oil, spray, staples)
-- Sunday weigh-in / tape / weekly Notes table
+- Sunday weigh-in / tape / weekly Notes table (**also run `calibration.md` nudge procedure**)
 - Fitbit / Google / Apple Health export
 - Labs, supplements, targets, profile facts
-- Coaching decisions that change locked rules (oil, roti/rice caps, kcal band)
+- Coaching decisions that change locked rules (oil, roti/rice caps, kcal band, calibration nudges)
 
 ## Required write set
 
@@ -31,6 +31,7 @@ Triggers include:
    - `labels.md` — pack macros  
    - `recipes.md` — household methods  
    - `weekly-metrics.md` — Sunday table  
+   - `calibration.md` — accuracy nudges (update on Sunday weigh-ins)  
    - `profile.md` — identity, locked cut rules, current metrics  
 2. **Site data:** regenerate / patch `docs/data.js` so `window.HC` includes the new facts (meals, labels, recipes, weeks, Fitbit series, profile text, `meta.through` / `meta.siteUpdated`).  
 3. **Site UI** (`docs/app.js`, `docs/index.html`, `docs/styles.css`) only if a new data shape needs a chart, column, or tab.  
@@ -43,6 +44,7 @@ Triggers include:
 - Oil default **1–1.5 tbsp/pot** or **1 spray** when he says so (not old 5–7 tbsp unless he reverts)
 - Daal/lobia = good staples · tostas rare · haleem 1–2×/month
 - Food Log format + Apple Health Shortcut unchanged
+- **Accuracy > feel-good** on estimates · Sunday deficit vs scale nudges logging · never eat Fitbit burn back
 
 ## Do not
 
