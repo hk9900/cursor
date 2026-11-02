@@ -1482,13 +1482,13 @@ With sandwich → **~895 / 53 / 87 / 38**.
 
 **Portions:** kebab **120 g** (chicken breast) · **2** medium house roti · bhindi gosht unweighed plate portion.
 
-**Macros:** **680 kcal · P 68 · C 55 · F 24**  
-(Kebab ~204/35/2/6 grilled breast · bhindi gosht ~250/26/10/13 cut-oil share · 2 roti ~226/7/43/5.)
+**Macros:** **600 kcal · P 64 · C 55 · F 16**  
+(Kebab ~204/35/2/6 · bhindi gosht spray ~170/22/10/5 · 2 roti ~226/7/43/5.)
 
-**Shortcut line:** `Food Log | Chicken breast kebab bhindi gosht 2 roti | 680 | 68 | 55 | 24`  
-**Confidence:** 75–82% sure · kebab weighed; gosht + roti size estimated — say if gosht was oily or roti big.
+**Shortcut line:** `Food Log | Chicken breast kebab bhindi gosht 2 roti | 600 | 64 | 55 | 16`  
+**Confidence:** 78–85% sure · kebab weighed; gosht spray-era correction 2 Nov.
 
-**Notes:** Strong protein night. Roti count on cap (2). If gosht gravy was heavy, fat could be +5–10.
+**Notes:** Spray correction (−80). Roti on cap (2).
 
 ---
 
@@ -1526,13 +1526,13 @@ With sandwich → **~895 / 53 / 87 / 38**.
 
 **Portions:** kebab **100 g** · **1** medium house roti · bhindi gosht unweighed plate portion.
 
-**Macros:** **535 kcal · P 59 · C 34 · F 21**  
-(Kebab ~170/29/2/5 · bhindi gosht ~250/26/10/13 · roti ~115/4/22/3.)
+**Macros:** **455 kcal · P 55 · C 34 · F 12**  
+(Kebab ~170/29/2/5 · bhindi gosht spray ~170/22/10/5 · roti ~115/4/22/3.)
 
-**Shortcut line:** `Food Log | Bhindi gosht 1 roti chicken kebab | 535 | 59 | 34 | 21`  
-**Confidence:** 75–82% sure · kebab weighed; gosht + roti size estimated.
+**Shortcut line:** `Food Log | Bhindi gosht 1 roti chicken kebab | 455 | 55 | 34 | 12`  
+**Confidence:** 78–85% sure · kebab weighed; gosht spray-era correction 2 Nov.
 
-**Notes:** Half the roti vs last night — good starch control. Strong protein.
+**Notes:** Spray correction (−80). Half the roti vs prior night — good starch control.
 
 ---
 
@@ -1554,17 +1554,17 @@ With sandwich → **~895 / 53 / 87 / 38**.
 
 ## 2026-10-29 — Evening side
 
-**Dish:** Aloo ki qatliyan (zeera + mirch, dry oil-cook) + 1 roti.
+**Dish:** Aloo ki qatliyan (zeera + mirch, **spray**) + 1 roti.
 
-**Portions:** qatliyan **112 g** cooked · **1** medium house roti · cut oil **1–1.5 tbsp/pot** share assumed.
+**Portions:** qatliyan **112 g** cooked · **1** medium house roti · **1 spray**.
 
-**Macros:** **280 kcal · P 7 · C 46 · F 10**  
-(Qatliyan ~165/3/24/7 · roti ~115/4/22/3.)
+**Macros:** **215 kcal · P 6 · C 45 · F 5**  
+(Qatliyan spray ~95/2/22/2 · roti ~120/4/23/3.)
 
-**Shortcut line:** `Food Log | Aloo qatliyan 1 roti | 280 | 7 | 46 | 10`  
-**Confidence:** 72–80% sure · qatliyan weighed; oil soak + roti size estimated — say if roti big or plate oily.
+**Shortcut line:** `Food Log | Aloo qatliyan 1 roti | 215 | 6 | 45 | 5`  
+**Confidence:** 78–85% sure · weighed; spray-era correction 2 Nov.
 
-**Notes:** Same sitting as chicken sticks. One starch (roti) with the aloo — within ≤2 roti rule.
+**Notes:** Spray correction (−65 vs ladle). Same sitting as chicken sticks.
 
 ---
 
@@ -1663,17 +1663,17 @@ With sandwich → **~895 / 53 / 87 / 38**.
 
 ## 2026-10-31 — Dinner
 
-**Dish:** Air-fryer chicken breast boti 100 g + looki (lauki) bhujia 170 g + 2 roti.
+**Dish:** Air-fryer chicken breast boti 100 g + looki (lauki) bhujia 170 g (**spray**) + 2 roti.
 
-**Portions:** chicken **100 g** AF · looki bhujia **170 g** · **2** medium house roti · cut oil **1–1.5 tbsp/pot** share on bhujia.
+**Portions:** chicken **100 g** AF · looki bhujia **170 g** · **2** medium house roti · **1 spray** on bhujia.
 
-**Macros:** **495 kcal · P 41 · C 52 · F 17**  
-(Chicken ~165/31/0/4 · looki ~100/2/8/7 · 2 roti ~230/8/44/6.)
+**Macros:** **470 kcal · P 41 · C 54 · F 12**  
+(Chicken ~165/31/0/4 · looki spray ~75/2/10/2 · 2 roti ~230/8/44/6.)
 
-**Shortcut line:** `Food Log | Chicken boti looki 2 roti | 495 | 41 | 52 | 17`  
-**Confidence:** 75–82% sure · chicken + looki weighed; bhujia oil soak + roti size estimated — say if oily or roti big.
+**Shortcut line:** `Food Log | Chicken boti looki 2 roti | 470 | 41 | 54 | 12`  
+**Confidence:** 78–85% sure · weighed; spray-era correction 2 Nov — say if roti big.
 
-**Notes:** Lean AF protein + watery sabzi — solid cut plate. Within ≤2 roti.
+**Notes:** Spray correction (−25 kcal vs ladle assumption). Within ≤2 roti.
 
 ---
 
@@ -1699,11 +1699,11 @@ With sandwich → **~895 / 53 / 87 / 38**.
 
 **Portions:** chicken **100 g** · stew **225 g** (≈112 g beef + 112 g onion) · **2** medium roti · tosta **1** · PB **1 tsp** · orange **1** medium · keeno **2** small.
 
-**Macros:** **965 kcal · P 71 · C 99 · F 36**  
-(Chicken ~165/31/0/4 · stew ~355/28/12/22 cut-oil mid–high · 2 roti ~240/8/46/6 · tosta+PB ~62/2/6/4 · orange ~62/1/15/0 · 2 keeno ~80/1/20/0.)
+**Macros:** **890 kcal · P 71 · C 99 · F 26**  
+(Chicken ~165/31/0/4 · stew spray-brown ~280/28/12/12 · 2 roti ~240/8/46/6 · tosta+PB ~62/2/6/4 · orange ~62/1/15/0 · 2 keeno ~80/1/20/0.)
 
-**Shortcut line:** `Food Log | Chicken boti beef stew 2 roti fruit | 965 | 71 | 99 | 36`  
-**Confidence:** 72–80% sure · weighed chicken/stew; beef fat + stew oil estimated (calibration nudge) — say if stew oily or chicken was fried.
+**Shortcut line:** `Food Log | Chicken boti beef stew 2 roti fruit | 890 | 71 | 99 | 26`  
+**Confidence:** 75–82% sure · weighed; stew fat revised for spray-era cook 2 Nov — say if ladled oil.
 
 **Notes:** Big dinner plate. Fruit OK. PB tsp on tosta is fine as rare add-on.
 
@@ -1727,16 +1727,16 @@ With sandwich → **~895 / 53 / 87 / 38**.
 
 ## 2026-11-02 — Lunch/Dinner
 
-**Dish:** Chicken breast botiyan 92 g + white rice 100 g + bhindi gosht 150 g.
+**Dish:** Chicken breast botiyan 92 g + white rice 100 g + bhindi gosht 150 g (**spray**).
 
-**Portions:** chicken **92 g** · rice **100 g** · bhindi gosht **150 g** · cut-oil mid–high on gosht (calibration).
+**Portions:** chicken **92 g** · rice **100 g** · bhindi gosht **150 g** · **1 spray** cook (household default since ~mid-Oct).
 
-**Macros:** **545 kcal · P 54 · C 39 · F 20**  
-(Chicken ~152/29/0/4 · rice ~130/3/28/0 · bhindi gosht ~265/22/11/16.)
+**Macros:** **450 kcal · P 54 · C 39 · F 9**  
+(Chicken ~152/29/0/4 · rice ~130/3/28/0 · bhindi gosht spray ~170/22/11/5.)
 
-**Shortcut line:** `Food Log | Chicken boti rice bhindi gosht | 545 | 54 | 39 | 20`  
-**Confidence:** 75–82% sure · all weighed; gosht oil soak estimated — say if plate was oily or chicken fried.
+**Shortcut line:** `Food Log | Chicken boti rice bhindi gosht | 450 | 54 | 39 | 9`  
+**Confidence:** 78–85% sure · all weighed; spray confirmed for gosht — say if pot oil/tarka was used.
 
-**Notes:** Rice within 200 g cap · no roti stacked. Solid cut plate.
+**Notes:** Corrected 2 Nov from ladle-oil assumption after spray confirmation. Rice within 200 g · no roti.
 
 ---

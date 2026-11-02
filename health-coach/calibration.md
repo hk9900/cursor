@@ -17,14 +17,19 @@ Hassan asked for **accuracy, not flattering lows**. Update this file on every Su
 
 **Planning rule:** treat Notes deficit × **~0.65–0.75** when forecasting fat loss. Judge the cut by **scale + waist**, not deficit cosplay.
 
+## Cook-fat default (locked 2 Nov 2026)
+
+Hassan confirmed: **via spray for ~last 3 weeks** (≈ since mid-Oct).  
+→ Default household sabzi / bhujia / gosht / qatliyan / shallow cook = **1 spray** (~5–10 kcal), **not** ladle oil — unless he says pot oil, tarka, baghaar, or “oily.”
+
 ## Active logging nudges (apply until next Sunday says otherwise)
 
-Bias **up** on ambiguous household energy — never invent kcal on pack labels / weighed plain protein.
+Bias **up** on ambiguous energy **except** where spray default applies — never invent kcal on pack labels / weighed plain protein.
 
-1. **Oil-cooked sabzi / bhujia / gosht / qatliyan** (not spray-only): plate oil share **mid–high of cut pot** — typical **~9–12 g oil on his plate** (~80–110 kcal) unless he says dry/spray/light.
+1. **Sabzi / bhujia / gosht / qatliyan (spray era):** use **spray fat only** (~5–10 kcal on the plate). Do **not** add 9–12 g oil. If he says oily / pot oil / tarka → then use mid–high cut-pot share.
 2. **Unweighed medium house roti:** use **~120 kcal · P 4 · C 23 · F 3** (not 115). Big/2-ball still higher.
 3. **Mayo / fusion sauces** (e.g. Singaporean rice): if unspecified → **moderate** drizzle; if “heavy” keep heavy; never default to “light” for feel-good.
-4. **Photo-only desi plates:** prefer upper half of honest range for fat; keep confidence **honest** (often 65–80%).
+4. **Photo-only plates:** honest fat range; spray default still applies for home sabzi unless sheen looks ladled.
 5. **Labels + weighed AF chicken / egg whites / whey / bread / tostas:** use label math — **no** +10% pad.
 
 ## Sunday weekly-log procedure (mandatory)
@@ -48,6 +53,7 @@ When Hassan pastes a weekly Notes row (date · weight · waist · tapes · steps
 | From week | Ratio (pred/act) | Action | Active defaults |
 |-----------|------------------|--------|-----------------|
 | W4 review (1 Nov) | W1→W4 ≈ **1.4** | **Raise** oil/roti/sauce assumptions | Oil plate ~9–12 g · roti ~120 · mayo default moderate |
+| **2 Nov correction** | User: spray × ~3 weeks | **Override oil default → spray** | Sabzi/gosht = **spray** · roti ~120 · mayo moderate · pot oil only if stated |
 
 ## Fitbit / burn (locked interpretation)
 
