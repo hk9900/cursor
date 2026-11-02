@@ -35,13 +35,13 @@ Triggers include:
    - `profile.md` — identity, locked cut rules, current metrics  
 2. **Site data:** regenerate / patch `docs/data.js` so `window.HC` includes the new facts (meals, labels, recipes, weeks, Fitbit series, profile text, `meta.through` / `meta.siteUpdated`).  
 3. **Site UI** (`docs/app.js`, `docs/index.html`, `docs/styles.css`) only if a new data shape needs a chart, column, or tab.  
-4. **Commit + push** on a `cursor/<name>-1743` branch and open/update the PR into `cursor/health-coach` so Pages can deploy.
+4. **Deploy (Hassan, 2 Nov 2026):** commit on the working branch, then **merge into `cursor/health-coach` and push** so Pages updates. **Do not open PRs** for routine Health Coach / Food Log updates unless he asks. Merge whenever the portal should reflect new logs, weigh-ins, labels, or calibration — don’t leave the live site stale waiting on a PR.
 
 ## Locked coaching facts (don’t regress)
 
 - Food band **1,550–1,800** (prefer ~1,650) · protein **150–170 g**
 - Starch: ≤**2 roti** or ≤**200 g** Qilla rice — not both · Ashirwad chakki atta
-- Oil default **1–1.5 tbsp/pot** or **1 spray** when he says so (not old 5–7 tbsp unless he reverts)
+- Oil default **1 spray** for household cook (since ~mid-Oct); pot **1–1.5 tbsp** only if stated (not old 5–7 tbsp unless he reverts)
 - Daal/lobia = good staples · tostas rare · haleem 1–2×/month
 - Food Log format + Apple Health Shortcut unchanged
 - **Accuracy > feel-good** on estimates · Sunday deficit vs scale nudges logging · never eat Fitbit burn back

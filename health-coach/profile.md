@@ -32,15 +32,15 @@ See also: Cursor skill `.cursor/skills/food-log/SKILL.md` for meal photo → est
 - Food logs / Notes intake: trend good; absolute likely **~10–15% low** when oil/starch estimated
 - Notes deficit ≈ **1.4×** fat-loss deficit over W1→W4 — forecast fat with deficit × **~0.65–0.75**
 - On every Sunday weekly paste: reconcile predicted vs actual kg and **nudge** logging defaults in `calibration.md`
-- Active nudge now: oil plate **~9–12 g** on cooked sabzi · unweighed roti **~120 kcal** · mayo default **moderate**
+- Active nudge now: sabzi/gosht **spray** (not ladle) · unweighed roti **~120 kcal** · mayo default **moderate**
 
 ## Diet defaults (locked Oct 2026)
 - ~90% Pakistani household food · Ashirwad chakki atta · Qilla white rice
 - **One starch per meal:** ≤**2 roti** **or** ≤**200 g** cooked rice — not both
 - **Daal / lobia** = good staples (keep)
 - **Tostas** rare OK · **Haleem** 1–2×/month
-- Oil (current cut): **1–1.5 tbsp/pot** or air-fryer **1 spray** when he says so  
-  (Older household pots were ~2 dish spoons ≈ 5–7 tbsp — do **not** use that unless he says the pot changed back)
+- Oil (current cut, **locked 2 Nov**): household cook = **1 spray** by default (in use ~3 weeks / since ~mid-Oct)  
+  Pot oil **1–1.5 tbsp** only if he says pot/tarka/baghaar/oily. Older **2 dish spoons ≈ 5–7 tbsp** — never unless he reverts.
 - Pot often feeds him + wife + toddler; leftovers common
 - Chai 1×/day — **keep** sugar or Canderel as logged; milk = meio-gordo 1.6%
 - Creep order now: **portion size** > oil > chai sugar

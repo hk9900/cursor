@@ -91,7 +91,7 @@ Use midpoint **~3 tbsp per dish spoon** (6 tbsp/pot ≈ **720 kcal oil**) unless
 ---
 
 ## Logging priorities (from these recipes)
-1. **Oil / baghaar / shallow-fry** — #1 lever. **Cut default** is **1–1.5 tbsp/pot** (or spray). Older notes of **2 dish spoons ≈ 5–7 tbsp** only if he says the pot reverted. Dry dishes (qatliyan, bhindi, looki, khara qeema) still **hold oil on the plate** — for accuracy use mid–high plate share per `calibration.md`, not an optimistic skim.
+1. **Oil / baghaar / shallow-fry** — #1 lever. **Current default (locked 2 Nov): 1 spray** for household sabzi/gosht/bhujia. Pot **1–1.5 tbsp** only if he says so. Older **2 dish spoons ≈ 5–7 tbsp** only if pot reverted. Dry dishes hold oil **when ladled** — don’t invent ladle fat under spray era.
 2. **Starch** — chawal dishes, roti on side, haleem density. Unweighed medium roti ≈ **120 kcal** while calibration nudge is active.
 3. **Batch fraction** — haleem, dahi baray, chicken sticks, karhi pot.
 4. **Sauces** — mayo/ketchup fusion (Singaporean rice): don’t default to “light.”

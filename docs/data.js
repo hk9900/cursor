@@ -3325,13 +3325,13 @@ window.HC = {
       "date": "2026-10-28",
       "slot": "Dinner",
       "dish": "Chicken breast kebab + bhindi gosht + 2 roti",
-      "kcal": 680,
-      "p": 68,
+      "kcal": 600,
+      "p": 64,
       "c": 55,
-      "f": 24,
-      "notes": "Strong protein night. Roti count on cap (2). If gosht gravy was heavy, fat could be +5–10.",
-      "portions": "kebab **120 g** (chicken breast) · **2** medium house roti · bhindi gosht unweighed plate portion.",
-      "confidence": "",
+      "f": 16,
+      "notes": "Spray correction (−80). Roti on cap (2).",
+      "portions": "kebab **120 g** (chicken breast) · **2** medium house roti · bhindi gosht unweighed plate portion · spray assumed.",
+      "confidence": "78–85% sure · kebab weighed; gosht spray-era correction 2 Nov.",
       "backfill": true
     },
     {
@@ -3364,13 +3364,13 @@ window.HC = {
       "date": "2026-10-29",
       "slot": "Lunch/Dinner",
       "dish": "Bhindi gosht + 1 roti + chicken breast kebab 100 g",
-      "kcal": 535,
-      "p": 59,
+      "kcal": 455,
+      "p": 55,
       "c": 34,
-      "f": 21,
-      "notes": "Half the roti vs last night — good starch control. Strong protein.",
-      "portions": "kebab **100 g** · **1** medium house roti · bhindi gosht unweighed plate portion.",
-      "confidence": "",
+      "f": 12,
+      "notes": "Spray correction (−80). Half the roti vs prior night — good starch control.",
+      "portions": "kebab **100 g** · **1** medium house roti · bhindi gosht unweighed · spray assumed.",
+      "confidence": "78–85% sure · kebab weighed; gosht spray-era correction 2 Nov.",
       "backfill": true
     },
     {
@@ -3389,14 +3389,14 @@ window.HC = {
     {
       "date": "2026-10-29",
       "slot": "Evening side",
-      "dish": "Aloo ki qatliyan (zeera + mirch, dry oil-cook) + 1 roti",
-      "kcal": 280,
-      "p": 7,
-      "c": 46,
-      "f": 10,
-      "notes": "Same sitting as chicken sticks. One starch (roti) with the aloo — within ≤2 roti rule.",
-      "portions": "qatliyan **112 g** cooked · **1** medium house roti · cut oil **1–1.5 tbsp/pot** share assumed.",
-      "confidence": "72–80% sure · qatliyan weighed; oil soak + roti size estimated — say if roti big or plate oily.",
+      "dish": "Aloo ki qatliyan (zeera + mirch, spray) + 1 roti",
+      "kcal": 215,
+      "p": 6,
+      "c": 45,
+      "f": 5,
+      "notes": "Spray correction (−65 vs ladle). Same sitting as chicken sticks.",
+      "portions": "qatliyan **112 g** cooked · **1** medium house roti · **1 spray**.",
+      "confidence": "78–85% sure · weighed; spray-era correction 2 Nov.",
       "backfill": false
     },
     {
@@ -3480,14 +3480,14 @@ window.HC = {
     {
       "date": "2026-10-31",
       "slot": "Dinner",
-      "dish": "Air-fryer chicken breast boti 100 g + looki (lauki) bhujia 170 g + 2 roti",
-      "kcal": 495,
+      "dish": "Air-fryer chicken breast boti 100 g + looki (lauki) bhujia 170 g (spray) + 2 roti",
+      "kcal": 470,
       "p": 41,
-      "c": 52,
-      "f": 17,
-      "notes": "Lean AF protein + watery sabzi — solid cut plate. Within ≤2 roti.",
-      "portions": "chicken **100 g** AF · looki bhujia **170 g** · **2** medium house roti · cut oil **1–1.5 tbsp/pot** share on bhujia.",
-      "confidence": "75–82% sure · chicken + looki weighed; bhujia oil soak + roti size estimated — say if oily or roti big.",
+      "c": 54,
+      "f": 12,
+      "notes": "Spray correction (−25 kcal vs ladle assumption). Within ≤2 roti.",
+      "portions": "chicken **100 g** AF · looki bhujia **170 g** · **2** medium house roti · **1 spray** on bhujia.",
+      "confidence": "78–85% sure · weighed; spray-era correction 2 Nov — say if roti big.",
       "backfill": false
     },
     {
@@ -3507,13 +3507,13 @@ window.HC = {
       "date": "2026-11-01",
       "slot": "Dinner",
       "dish": "Chicken breast botiyan 100 g + beef–onion stew 225 g (50/50) + 2 roti + 1 tosta with 1 tsp PB + 1 medium orange + 2 small keeno",
-      "kcal": 965,
+      "kcal": 890,
       "p": 71,
       "c": 99,
-      "f": 36,
-      "notes": "Big dinner plate. Fruit OK. PB tsp on tosta is fine as rare add-on.",
+      "f": 26,
+      "notes": "Spray-era stew correction (−75). Fruit OK. PB tsp rare add-on.",
       "portions": "chicken **100 g** · stew **225 g** (≈112 g beef + 112 g onion) · **2** medium roti · tosta **1** · PB **1 tsp** · orange **1** medium · keeno **2** small.",
-      "confidence": "72–80% sure · weighed chicken/stew; beef fat + stew oil estimated (calibration nudge) — say if stew oily or chicken was fried.",
+      "confidence": "75–82% sure · weighed; stew fat revised for spray-era cook 2 Nov — say if ladled oil.",
       "backfill": false
     },
     {
@@ -3527,6 +3527,19 @@ window.HC = {
       "notes": "Apple swaps in for berries (~+45 kcal vs ~40 g strawberries). Still prefer Mythos next tub.",
       "portions": "Mimosa Batido **220 g** · granola **1 tbsp** · whey **1 scoop** · apple **1** small · Buondi **1** · sugar **1 tsp**.",
       "confidence": "85–90% sure · Batido + apple + usual mix add-ins; tsp assumed **sugar** — say if Canderel.",
+      "backfill": false
+    },
+    {
+      "date": "2026-11-02",
+      "slot": "Lunch/Dinner",
+      "dish": "Chicken breast botiyan 92 g + white rice 100 g + bhindi gosht 150 g (spray)",
+      "kcal": 450,
+      "p": 54,
+      "c": 39,
+      "f": 9,
+      "notes": "Corrected 2 Nov from ladle-oil assumption after spray confirmation. Rice within 200 g · no roti.",
+      "portions": "chicken **92 g** · rice **100 g** · bhindi gosht **150 g** · **1 spray** cook (household default since ~mid-Oct).",
+      "confidence": "78–85% sure · all weighed; spray confirmed for gosht — say if pot oil/tarka was used.",
       "backfill": false
     }
   ],
@@ -3773,18 +3786,18 @@ window.HC = {
     },
     {
       "date": "2026-10-28",
-      "kcal": 1895,
-      "p": 155,
+      "kcal": 1815,
+      "p": 151,
       "c": 202,
-      "f": 54,
+      "f": 46,
       "n": 4
     },
     {
       "date": "2026-10-29",
-      "kcal": 1591,
-      "p": 161,
-      "c": 131,
-      "f": 54,
+      "kcal": 1446,
+      "p": 156,
+      "c": 130,
+      "f": 40,
       "n": 6
     },
     {
@@ -3797,27 +3810,27 @@ window.HC = {
     },
     {
       "date": "2026-10-31",
-      "kcal": 1040,
+      "kcal": 1015,
       "p": 86,
-      "c": 105,
-      "f": 34,
+      "c": 107,
+      "f": 29,
       "n": 2
     },
     {
       "date": "2026-11-01",
-      "kcal": 1500,
+      "kcal": 1425,
       "p": 106,
       "c": 160,
-      "f": 52,
+      "f": 42,
       "n": 2
     },
     {
       "date": "2026-11-02",
-      "kcal": 342,
-      "p": 24,
-      "c": 39,
-      "f": 10,
-      "n": 1
+      "kcal": 792,
+      "p": 78,
+      "c": 78,
+      "f": 19,
+      "n": 2
     }
   ],
   "recipes": [
@@ -4492,7 +4505,7 @@ window.HC = {
       "motiv": "5 (skipped walk whole week)"
     }
   ],
-  "profileMd": "# Health Coach — Hassan Khan profile\n\nSee also: Cursor skill `.cursor/skills/food-log/SKILL.md` for meal photo → estimate → shortcuts:// log.  \n**Public dashboard:** https://hk9900.github.io/cursor/ (source `docs/` — keep in sync; see `.cursor/rules/health-coach-site.mdc`).\n\n## Identity & body\n- Male, born Aug 1991 (~35) · Lisbon\n- Height **180.3 cm** (5′11″)\n- **Current (1 Nov 2026 / W4):** **111.2 kg** · waist **45″** · chest 47″ · bicep R 14.5″ · thigh R 22″ · WHtR ≈ **0.63**\n- Fitbit start **120 kg** (23 Sep) · W0 **115.9** (27 Sep) · W1 **113.5 / 48″** · W2 **112.9 / 46.5″** · W3 **111.5 / 45.5″**\n- Past low ~88–92 kg after crash cut; regained ~1 year\n- Phased targets: **105–108 → hold 92–95 → later 70–80** aspirational\n\n## Activity & lifestyle\n- Fitbit Air (+ Google Takeout) · Apple Health Food Log Shortcut\n- Sleep aim 6–8 h · lower back history · acidity (chai OK)\n- Smokes · family heart-attack history · Coke Zero · fruit for sweet tooth\n- Walks are the main NEAT lever (don’t eat Fitbit burn back) · W4 skipped walks — resume\n\n## Labs (Unilabs 28 Apr 2026)\n- Total 219 · LDL 149 · HDL 30 · TG 198 · Glucose 94\n\n## Energy (locked cut)\n- Food band **1,550–1,800 kcal/day** (prefer ~**1,650** like W2–W3 Notes avg)\n- Protein **150–170 g** · Fat **45–65 g** · Carbs **120–190 g**\n- BMR Mifflin ~**2,065** at 111.2 kg · Fitbit TDEE trend ~**2,600–3,100** (walks swing it)\n- Notes weekly intake: W1 ~1,912 (5d) · W2 **1,648** · W3 **1,647** · W4 **1,714**\n\n## Accuracy calibration (locked 1 Nov 2026)\n- **Accuracy > feel-good** on Food Logs — see `health-coach/calibration.md`\n- Fitbit Air burn: trust **direction**; absolute likely **~10–15% high** on walk weeks · never eat burn back\n- Food logs / Notes intake: trend good; absolute likely **~10–15% low** when oil/starch estimated\n- Notes deficit ≈ **1.4×** fat-loss deficit over W1→W4 — forecast fat with deficit × **~0.65–0.75**\n- On every Sunday weekly paste: reconcile predicted vs actual kg and **nudge** logging defaults in `calibration.md`\n- Active nudge now: oil plate **~9–12 g** on cooked sabzi · unweighed roti **~120 kcal** · mayo default **moderate**\n\n## Diet defaults (locked Oct 2026)\n- ~90% Pakistani household food · Ashirwad chakki atta · Qilla white rice\n- **One starch per meal:** ≤**2 roti** **or** ≤**200 g** cooked rice — not both\n- **Daal / lobia** = good staples (keep)\n- **Tostas** rare OK · **Haleem** 1–2×/month\n- Oil (current cut): **1–1.5 tbsp/pot** or air-fryer **1 spray** when he says so  \n  (Older household pots were ~2 dish spoons ≈ 5–7 tbsp — do **not** use that unless he says the pot changed back)\n- Pot often feeds him + wife + toddler; leftovers common\n- Chai 1×/day — **keep** sugar or Canderel as logged; milk = meio-gordo 1.6%\n- Creep order now: **portion size** > oil > chai sugar\n\n## Shelf & recipes\n- Labels: `health-coach/labels.md`\n- Recipes: `health-coach/recipes.md`\n- Meal mirror: `health-coach/food-log.md`\n- Weekly tape: `health-coach/weekly-metrics.md`\n- Calibration: `health-coach/calibration.md`\n\n## Food Log (locked)\nFormat:\n```\nFood Log | {dish name} | {kcal} | {protein} | {carbs} | {fat}\n{low}–{high}% sure\n```\nThen tappable `shortcuts://run-shortcut?name=Food%20Log&input=text&text=...`  \nSMS backup: +351926194305  \nLearned: Paltay salan = besan (chickpea flour) · chicken skinless by default\n",
+  "profileMd": "# Health Coach — Hassan Khan profile\n\nSee also: Cursor skill `.cursor/skills/food-log/SKILL.md` for meal photo → estimate → shortcuts:// log.  \n**Public dashboard:** https://hk9900.github.io/cursor/ (source `docs/` — keep in sync; see `.cursor/rules/health-coach-site.mdc`).\n\n## Identity & body\n- Male, born Aug 1991 (~35) · Lisbon\n- Height **180.3 cm** (5′11″)\n- **Current (1 Nov 2026 / W4):** **111.2 kg** · waist **45″** · chest 47″ · bicep R 14.5″ · thigh R 22″ · WHtR ≈ **0.63**\n- Fitbit start **120 kg** (23 Sep) · W0 **115.9** (27 Sep) · W1 **113.5 / 48″** · W2 **112.9 / 46.5″** · W3 **111.5 / 45.5″**\n- Past low ~88–92 kg after crash cut; regained ~1 year\n- Phased targets: **105–108 → hold 92–95 → later 70–80** aspirational\n\n## Activity & lifestyle\n- Fitbit Air (+ Google Takeout) · Apple Health Food Log Shortcut\n- Sleep aim 6–8 h · lower back history · acidity (chai OK)\n- Smokes · family heart-attack history · Coke Zero · fruit for sweet tooth\n- Walks are the main NEAT lever (don’t eat Fitbit burn back) · W4 skipped walks — resume\n\n## Labs (Unilabs 28 Apr 2026)\n- Total 219 · LDL 149 · HDL 30 · TG 198 · Glucose 94\n\n## Energy (locked cut)\n- Food band **1,550–1,800 kcal/day** (prefer ~**1,650** like W2–W3 Notes avg)\n- Protein **150–170 g** · Fat **45–65 g** · Carbs **120–190 g**\n- BMR Mifflin ~**2,065** at 111.2 kg · Fitbit TDEE trend ~**2,600–3,100** (walks swing it)\n- Notes weekly intake: W1 ~1,912 (5d) · W2 **1,648** · W3 **1,647** · W4 **1,714**\n\n## Accuracy calibration (locked 1 Nov 2026)\n- **Accuracy > feel-good** on Food Logs — see `health-coach/calibration.md`\n- Fitbit Air burn: trust **direction**; absolute likely **~10–15% high** on walk weeks · never eat burn back\n- Food logs / Notes intake: trend good; absolute likely **~10–15% low** when oil/starch estimated\n- Notes deficit ≈ **1.4×** fat-loss deficit over W1→W4 — forecast fat with deficit × **~0.65–0.75**\n- On every Sunday weekly paste: reconcile predicted vs actual kg and **nudge** logging defaults in `calibration.md`\n- Active nudge now: sabzi/gosht **spray** (not ladle) · unweighed roti **~120 kcal** · mayo default **moderate**\n\n## Diet defaults (locked Oct 2026)\n- ~90% Pakistani household food · Ashirwad chakki atta · Qilla white rice\n- **One starch per meal:** ≤**2 roti** **or** ≤**200 g** cooked rice — not both\n- **Daal / lobia** = good staples (keep)\n- **Tostas** rare OK · **Haleem** 1–2×/month\n- Oil (current cut, **locked 2 Nov**): household cook = **1 spray** by default (in use ~3 weeks / since ~mid-Oct)  \n  Pot oil **1–1.5 tbsp** only if he says pot/tarka/baghaar/oily. Older **2 dish spoons ≈ 5–7 tbsp** — never unless he reverts.\n- Pot often feeds him + wife + toddler; leftovers common\n- Chai 1×/day — **keep** sugar or Canderel as logged; milk = meio-gordo 1.6%\n- Creep order now: **portion size** > oil > chai sugar\n\n## Shelf & recipes\n- Labels: `health-coach/labels.md`\n- Recipes: `health-coach/recipes.md`\n- Meal mirror: `health-coach/food-log.md`\n- Weekly tape: `health-coach/weekly-metrics.md`\n- Calibration: `health-coach/calibration.md`\n\n## Food Log (locked)\nFormat:\n```\nFood Log | {dish name} | {kcal} | {protein} | {carbs} | {fat}\n{low}–{high}% sure\n```\nThen tappable `shortcuts://run-shortcut?name=Food%20Log&input=text&text=...`  \nSMS backup: +351926194305  \nLearned: Paltay salan = besan (chickpea flour) · chicken skinless by default\n",
   "totals": {
     "meals": 125,
     "days": 32,
