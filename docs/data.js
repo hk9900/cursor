@@ -1,14 +1,14 @@
 window.HC = {
   "meta": {
     "name": "Hassan Khan",
-    "through": "2026-11-01",
+    "through": "2026-11-02",
     "weight": 111.2,
     "waist": 45,
     "startWeight": 120,
     "heightCm": 180.3,
     "dob": "1991-08-08",
     "city": "Lisbon",
-    "siteUpdated": "2026-11-01"
+    "siteUpdated": "2026-11-02"
   },
   "weightCut": {
     "labels": [
@@ -3515,6 +3515,19 @@ window.HC = {
       "portions": "chicken **100 g** · stew **225 g** (≈112 g beef + 112 g onion) · **2** medium roti · tosta **1** · PB **1 tsp** · orange **1** medium · keeno **2** small.",
       "confidence": "72–80% sure · weighed chicken/stew; beef fat + stew oil estimated (calibration nudge) — say if stew oily or chicken was fried.",
       "backfill": false
+    },
+    {
+      "date": "2026-11-02",
+      "slot": "Breakfast",
+      "dish": "Mimosa Batido GY mix 220 g (granola + 1 scoop chocolate whey + 1 small apple instead of strawberries) + Buondi + 1 tsp sugar",
+      "kcal": 342,
+      "p": 24,
+      "c": 39,
+      "f": 10,
+      "notes": "Apple swaps in for berries (~+45 kcal vs ~40 g strawberries). Still prefer Mythos next tub.",
+      "portions": "Mimosa Batido **220 g** · granola **1 tbsp** · whey **1 scoop** · apple **1** small · Buondi **1** · sugar **1 tsp**.",
+      "confidence": "85–90% sure · Batido + apple + usual mix add-ins; tsp assumed **sugar** — say if Canderel.",
+      "backfill": false
     }
   ],
   "daily": [
@@ -3797,6 +3810,14 @@ window.HC = {
       "c": 160,
       "f": 52,
       "n": 2
+    },
+    {
+      "date": "2026-11-02",
+      "kcal": 342,
+      "p": 24,
+      "c": 39,
+      "f": 10,
+      "n": 1
     }
   ],
   "recipes": [

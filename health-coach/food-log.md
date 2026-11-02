@@ -1708,3 +1708,19 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** Big dinner plate. Fruit OK. PB tsp on tosta is fine as rare add-on.
 
 ---
+
+## 2026-11-02 — Breakfast
+
+**Dish:** Mimosa Batido GY mix 220 g (granola + 1 scoop chocolate whey + 1 small apple instead of strawberries) + Buondi + 1 tsp sugar.
+
+**Portions:** Mimosa Batido **220 g** · granola **1 tbsp** · whey **1 scoop** · apple **1** small · Buondi **1** · sugar **1 tsp**.
+
+**Macros:** **342 kcal · P 24 · C 39 · F 10**  
+(Yogurt ~158/10/11/8 · granola+whey ~104/14/8/2 · apple ~60/0/16/0 · Buondi+sugar ~20/0/4/0.)
+
+**Shortcut line:** `Food Log | Mimosa GY mix apple Buondi | 342 | 24 | 39 | 10`  
+**Confidence:** 85–90% sure · Batido + apple + usual mix add-ins; tsp assumed **sugar** — say if Canderel.
+
+**Notes:** Apple swaps in for berries (~+45 kcal vs ~40 g strawberries). Still prefer Mythos next tub.
+
+---
