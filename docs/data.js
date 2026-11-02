@@ -3554,6 +3554,19 @@ window.HC = {
       "portions": "chicken **92 g** · tehari **200 g** · salad **20 g** · oranges **2** medium.",
       "confidence": "78–85% sure · weighed; tehari from your prior low-oil log — say if this pot was oilier.",
       "backfill": false
+    },
+    {
+      "date": "2026-11-02",
+      "slot": "Evening whey",
+      "dish": "Critical Whey Frappuccino (1 serving)",
+      "kcal": 130,
+      "p": 24,
+      "c": 4,
+      "f": 2,
+      "notes": "Locked shelf quick-log. ~100 mg caffeine — late for coffee whey.",
+      "portions": "",
+      "confidence": "92–95% sure · label (33 g serving).",
+      "backfill": false
     }
   ],
   "daily": [
@@ -3839,11 +3852,11 @@ window.HC = {
     },
     {
       "date": "2026-11-02",
-      "kcal": 1352,
-      "p": 116,
-      "c": 169,
-      "f": 27,
-      "n": 3
+      "kcal": 1482,
+      "p": 140,
+      "c": 173,
+      "f": 29,
+      "n": 4
     }
   ],
   "recipes": [
