@@ -35,7 +35,7 @@ Triggers include:
    - `profile.md` — identity, locked cut rules, current metrics  
 2. **Site data:** regenerate / patch `docs/data.js` so `window.HC` includes the new facts (meals, labels, recipes, weeks, Fitbit series, profile text, `meta.through` / `meta.siteUpdated`).  
 3. **Site UI** (`docs/app.js`, `docs/index.html`, `docs/styles.css`) only if a new data shape needs a chart, column, or tab.  
-4. **Deploy (Hassan, 2 Nov 2026):** commit on the working branch, then **merge into `cursor/health-coach` and push** so Pages updates. **Do not open PRs** for routine Health Coach / Food Log updates unless he asks. Merge whenever the portal should reflect new logs, weigh-ins, labels, or calibration — don’t leave the live site stale waiting on a PR.
+4. **Deploy (Hassan, 2 Nov 2026):** commit **directly on `cursor/health-coach`** (or merge into it) and **push** so Pages updates. **Do not open PRs** for routine Health Coach / Food Log updates unless he asks. Push whenever the portal should reflect new logs, weigh-ins, labels, or calibration — don’t leave the live site stale.
 
 ## Locked coaching facts (don’t regress)
 
