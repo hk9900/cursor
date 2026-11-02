@@ -91,9 +91,10 @@ Use midpoint **~3 tbsp per dish spoon** (6 tbsp/pot ≈ **720 kcal oil**) unless
 ---
 
 ## Logging priorities (from these recipes)
-1. **Oil / baghaar / shallow-fry** — #1 lever. Default **2 dish spoons/pot** (= ~5–7 tbsp). Dry dishes (qatliyan, bhindi, khara qeema) hold more of that oil on the plate.
-2. **Starch** — chawal dishes, roti on side, haleem density.
+1. **Oil / baghaar / shallow-fry** — #1 lever. **Cut default** is **1–1.5 tbsp/pot** (or spray). Older notes of **2 dish spoons ≈ 5–7 tbsp** only if he says the pot reverted. Dry dishes (qatliyan, bhindi, looki, khara qeema) still **hold oil on the plate** — for accuracy use mid–high plate share per `calibration.md`, not an optimistic skim.
+2. **Starch** — chawal dishes, roti on side, haleem density. Unweighed medium roti ≈ **120 kcal** while calibration nudge is active.
 3. **Batch fraction** — haleem, dahi baray, chicken sticks, karhi pot.
+4. **Sauces** — mayo/ketchup fusion (Singaporean rice): don’t default to “light.”
 
 ## Packaged: Continente sliced bread (Portugal)
 - Serving / slice **31.5 g**: **80 kcal · P 2.9 · C 14.2 · F 1.0** (fiber 1.2, salt 0.30)

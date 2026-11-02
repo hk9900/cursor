@@ -174,6 +174,19 @@ Homemade pots stay in `recipes.md`. Packaged labels live **here**.
   - `200 g` → **110 / 11 / 8 / 4**
   - `250 g` → **138 / 13 / 10 / 5**
 - Note: “Greek-style” here is thick/light branding — protein is **moderate** (~5.3 g/100 g), not like 0% high-protein GY (~9–10 g/100 g). Pair with whey when the meal needs more P.
+- **Keep this over Mimosa Batido Natural** (below) — better P/kcal and less fat for the breakfast bowl.
+
+## Mimosa — Iogurte Batido Natural (1 kg)
+- Saved: **2026-10-31** · source: tub nutrition photo
+- Product: natural **stirred** yogurt (`iogurte batido natural`) — **not** Greek-style · Portugal
+- Badge “−50% lípidos” is vs **Mimosa Estilo Grego Natural**, not vs Mythos
+- Log unit: **per 100 g**
+- Per **100 g**: **72 kcal · P 4.5 · C 4.8 · F 3.5** (sugars 4.8, sat 2.2, salt 0.10, Ca 140 mg)
+- Per **125 g**: **90 kcal · P 5.7 · C 6.0 · F 4.4**
+- Quick log:
+  - `100 g Mimosa batido` → **72 / 5 / 5 / 4**
+  - `200 g Mimosa batido` → **144 / 9 / 10 / 7**
+- **Vs Mythos GY 2% @ 100 g:** +17 kcal · −0.8 P · +0.9 C · +1.5 F → **worse for the cut**. Prefer Mythos (or a true 0% high-protein GY).
 
 ---
 
@@ -239,7 +252,7 @@ Homemade pots stay in `recipes.md`. Packaged labels live **here**.
 ## Pending (photo the label next time)
 Add when a clear label photo arrives:
 - FUEL brand granola (if different from saved protein granola pack)
-- Other Greek yogurts (Mimosa / Oikos 0%) if he switches tubs — macros differ
+- Other Greek yogurts (Oikos 0% / Mimosa Estilo Grego) if he switches tubs — macros differ · Mimosa Batido Natural already saved (weaker than Mythos)
 - Buondi (or café sachet) + sugar separate
 - Peanut butter brand
 - Brand name on this milk carton if you want it titled by brand (macros already saved)
