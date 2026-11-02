@@ -419,7 +419,8 @@
 
   function renderMeals() {
     const root = document.getElementById("panel-meals");
-    const dates = [...new Set(HC.meals.map((m) => m.date))];
+    // Archive is oldest→newest; portal shows latest first.
+    const dates = [...new Set(HC.meals.map((m) => m.date))].sort((a, b) => b.localeCompare(a));
     root.innerHTML = `
       <div class="stack">
         <div class="sticky-note">
@@ -444,7 +445,7 @@
       const q = document.getElementById("meal-q").value.trim().toLowerCase();
       const date = document.getElementById("meal-date").value;
       const src = document.getElementById("meal-src").value;
-      let list = HC.meals.slice();
+      let list = HC.meals.slice().reverse();
       if (date) list = list.filter((m) => m.date === date);
       if (src === "live") list = list.filter((m) => !m.backfill);
       if (src === "est") list = list.filter((m) => m.backfill);
@@ -459,7 +460,7 @@
         `${list.length} meals · ${sumK.toLocaleString()} kcal · ${sumP} g protein`;
       document.getElementById("meal-table").innerHTML = tableCard(
         "Complete Food Log",
-        "Every entry from health-coach/food-log.md · notes when present",
+        "Latest first · every entry from health-coach/food-log.md",
         [
           { label: "Date" }, { label: "Slot" }, { label: "Dish" },
           { label: "kcal", num: true }, { label: "P", num: true },
