@@ -3541,6 +3541,19 @@ window.HC = {
       "portions": "chicken **92 g** · rice **100 g** · bhindi gosht **150 g** · **1 spray** cook (household default since ~mid-Oct).",
       "confidence": "78–85% sure · all weighed; spray confirmed for gosht — say if pot oil/tarka was used.",
       "backfill": false
+    },
+    {
+      "date": "2026-11-02",
+      "slot": "Evening",
+      "dish": "Chicken breast botiyan 92 g + tehari 200 g + tomato–onion salad 20 g + 2 medium oranges",
+      "kcal": 560,
+      "p": 38,
+      "c": 91,
+      "f": 8,
+      "notes": "Tehari = starch for this plate (≤200 g). Second chicken plate today.",
+      "portions": "chicken **92 g** · tehari **200 g** · salad **20 g** · oranges **2** medium.",
+      "confidence": "78–85% sure · weighed; tehari from your prior low-oil log — say if this pot was oilier.",
+      "backfill": false
     }
   ],
   "daily": [
@@ -3826,11 +3839,11 @@ window.HC = {
     },
     {
       "date": "2026-11-02",
-      "kcal": 792,
-      "p": 78,
-      "c": 78,
-      "f": 19,
-      "n": 2
+      "kcal": 1352,
+      "p": 116,
+      "c": 169,
+      "f": 27,
+      "n": 3
     }
   ],
   "recipes": [

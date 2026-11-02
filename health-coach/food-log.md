@@ -1740,3 +1740,19 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** Corrected 2 Nov from ladle-oil assumption after spray confirmation. Rice within 200 g · no roti.
 
 ---
+
+## 2026-11-02 — Evening
+
+**Dish:** Chicken breast botiyan 92 g + tehari 200 g + tomato–onion salad 20 g + 2 medium oranges.
+
+**Portions:** chicken **92 g** · tehari **200 g** · salad **20 g** · oranges **2** medium.
+
+**Macros:** **560 kcal · P 38 · C 91 · F 8**  
+(Chicken ~152/29/0/4 · tehari ~280/7/59/4 from prior low-oil house density · salad ~5/0/1/0 · 2 oranges ~125/2/31/0.)
+
+**Shortcut line:** `Food Log | Chicken boti tehari salad oranges | 560 | 38 | 91 | 8`  
+**Confidence:** 78–85% sure · weighed; tehari from your prior low-oil log — say if this pot was oilier.
+
+**Notes:** Tehari = starch for this plate (≤200 g). Second chicken plate today.
+
+---
