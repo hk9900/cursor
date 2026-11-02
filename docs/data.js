@@ -3528,6 +3528,19 @@ window.HC = {
       "portions": "Mimosa Batido **220 g** · granola **1 tbsp** · whey **1 scoop** · apple **1** small · Buondi **1** · sugar **1 tsp**.",
       "confidence": "85–90% sure · Batido + apple + usual mix add-ins; tsp assumed **sugar** — say if Canderel.",
       "backfill": false
+    },
+    {
+      "date": "2026-11-02",
+      "slot": "Lunch/Dinner",
+      "dish": "Chicken breast botiyan 92 g + white rice 100 g + bhindi gosht 150 g",
+      "kcal": 545,
+      "p": 54,
+      "c": 39,
+      "f": 20,
+      "notes": "Rice within 200 g cap · no roti stacked. Solid cut plate.",
+      "portions": "chicken **92 g** · rice **100 g** · bhindi gosht **150 g** · cut-oil mid–high on gosht (calibration).",
+      "confidence": "75–82% sure · all weighed; gosht oil soak estimated — say if plate was oily or chicken fried.",
+      "backfill": false
     }
   ],
   "daily": [
@@ -3813,11 +3826,11 @@ window.HC = {
     },
     {
       "date": "2026-11-02",
-      "kcal": 342,
-      "p": 24,
-      "c": 39,
-      "f": 10,
-      "n": 1
+      "kcal": 887,
+      "p": 78,
+      "c": 78,
+      "f": 30,
+      "n": 2
     }
   ],
   "recipes": [

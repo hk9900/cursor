@@ -1724,3 +1724,19 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** Apple swaps in for berries (~+45 kcal vs ~40 g strawberries). Still prefer Mythos next tub.
 
 ---
+
+## 2026-11-02 — Lunch/Dinner
+
+**Dish:** Chicken breast botiyan 92 g + white rice 100 g + bhindi gosht 150 g.
+
+**Portions:** chicken **92 g** · rice **100 g** · bhindi gosht **150 g** · cut-oil mid–high on gosht (calibration).
+
+**Macros:** **545 kcal · P 54 · C 39 · F 20**  
+(Chicken ~152/29/0/4 · rice ~130/3/28/0 · bhindi gosht ~265/22/11/16.)
+
+**Shortcut line:** `Food Log | Chicken boti rice bhindi gosht | 545 | 54 | 39 | 20`  
+**Confidence:** 75–82% sure · all weighed; gosht oil soak estimated — say if plate was oily or chicken fried.
+
+**Notes:** Rice within 200 g cap · no roti stacked. Solid cut plate.
+
+---
