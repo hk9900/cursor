@@ -1785,3 +1785,19 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** Strong protein start. Classic bread not Bimbo — more carbs, less protein per slice.
 
 ---
+
+## 2026-11-03 — Lunch
+
+**Dish:** Homemade seekh kebab (air fryer) **141 g**.
+
+**Portions:** **141 g** cooked (~9 pieces) · AF / spray assumed · beef mince assumed (household seekh).
+
+**Macros:** **310 kcal · P 31 · C 5 · F 18**  
+(~220 kcal/100 g cooked lean-ish beef seekh + onion/herb; AF sheds some fat vs pan.)
+
+**Shortcut line:** `Food Log | AF seekh kebab | 310 | 31 | 5 | 18`  
+**Confidence:** 70–78% sure · weighed; mince fat % + beef vs chicken unknown — say if chicken mince or very fatty.
+
+**Notes:** Protein-dense plate. No starch logged with this.
+
+---

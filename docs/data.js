@@ -3580,6 +3580,19 @@ window.HC = {
       "portions": "eggs **4** · spray **1** · Light Café **1** carton · Continente bread **2** slices.",
       "confidence": "88–92% sure · bread + café labels; large-egg assumption + spray.",
       "backfill": false
+    },
+    {
+      "date": "2026-11-03",
+      "slot": "Lunch",
+      "dish": "Homemade seekh kebab (air fryer) 141 g",
+      "kcal": 310,
+      "p": 31,
+      "c": 5,
+      "f": 18,
+      "notes": "Protein-dense plate. No starch logged with this.",
+      "portions": "**141 g** cooked (~9 pieces) · AF / spray assumed · beef mince assumed (household seekh).",
+      "confidence": "70–78% sure · weighed; mince fat % + beef vs chicken unknown — say if chicken mince or very fatty.",
+      "backfill": false
     }
   ],
   "daily": [
@@ -3873,11 +3886,11 @@ window.HC = {
     },
     {
       "date": "2026-11-03",
-      "kcal": 588,
-      "p": 51,
-      "c": 43,
-      "f": 23,
-      "n": 1
+      "kcal": 898,
+      "p": 82,
+      "c": 48,
+      "f": 41,
+      "n": 2
     }
   ],
   "recipes": [
