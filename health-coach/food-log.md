@@ -1804,16 +1804,16 @@ With sandwich → **~895 / 53 / 87 / 38**.
 
 ## 2026-11-03 — Dinner
 
-**Dish:** AF beef seekh kebab 80 g + white rice 100 g + Bahu Rani 219 g (brinjal/baingan + regular yogurt) + 2 large oranges.
+**Dish:** AF beef seekh kebab 80 g + white rice 100 g + Bahu Rani 219 g (brinjal + regular yogurt, **2–3 spray**) + 2 large oranges.
 
-**Portions:** seekh **80 g** · rice **100 g** · Bahu Rani **219 g** · oranges **2** large.
+**Portions:** seekh **80 g** · rice **100 g** · Bahu Rani **219 g** · oranges **2** large · cook fat **2–3 spray** (shared pot).
 
 **Macros:** **605 kcal · P 31 · C 89 · F 15**  
 (Seekh ~176/18/3/10 · rice ~130/3/28/0 · Bahu Rani ~125/8/15/5 · 2 large oranges ~175/2/43/0.)
 
 **Shortcut line:** `Food Log | Seekh rice Bahu Rani oranges | 605 | 31 | 89 | 15`  
-**Confidence:** 75–82% sure · weighed; Bahu Rani = brinjal + regular yogurt (not besan) — say if baingan was oil-fried.
+**Confidence:** 78–85% sure · weighed; brinjal + regular yogurt + 2–3 spray confirmed (not pot oil / besan).
 
-**Notes:** Corrected: “began” = brinjal, not besan. Closer to prior no-oil Bahu Rani density + regular yogurt.
+**Notes:** “Began” = brinjal. Spray-only Bahu Rani — macros held near prior yogurt+baingan density.
 
 ---
