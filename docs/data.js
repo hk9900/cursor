@@ -3593,6 +3593,19 @@ window.HC = {
       "portions": "**141 g** cooked (~9 pieces) · AF / spray assumed · beef mince assumed (household seekh).",
       "confidence": "70–78% sure · weighed; mince fat % + beef vs chicken unknown — say if chicken mince or very fatty.",
       "backfill": false
+    },
+    {
+      "date": "2026-11-03",
+      "slot": "Dinner",
+      "dish": "AF beef seekh kebab 80 g + white rice 100 g + Bahu Rani 219 g (baingan + regular yogurt + besan) + 2 large oranges",
+      "kcal": 670,
+      "p": 34,
+      "c": 97,
+      "f": 18,
+      "notes": "Rice within 200 g. Bahu Rani denser than prior no-oil yogurt-only logs because of besan + regular yogurt.",
+      "portions": "seekh **80 g** · rice **100 g** · Bahu Rani **219 g** · oranges **2** large.",
+      "confidence": "72–80% sure · weighed; Bahu Rani besan/yogurt ratio estimated — say if oily baingan fry.",
+      "backfill": false
     }
   ],
   "daily": [
@@ -3886,11 +3899,11 @@ window.HC = {
     },
     {
       "date": "2026-11-03",
-      "kcal": 898,
-      "p": 82,
-      "c": 48,
-      "f": 41,
-      "n": 2
+      "kcal": 1568,
+      "p": 116,
+      "c": 145,
+      "f": 59,
+      "n": 3
     }
   ],
   "recipes": [

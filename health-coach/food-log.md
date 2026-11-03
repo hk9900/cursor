@@ -1801,3 +1801,19 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** Protein-dense plate. No starch logged with this.
 
 ---
+
+## 2026-11-03 — Dinner
+
+**Dish:** AF beef seekh kebab 80 g + white rice 100 g + Bahu Rani 219 g (baingan + regular yogurt + besan) + 2 large oranges.
+
+**Portions:** seekh **80 g** · rice **100 g** · Bahu Rani **219 g** · oranges **2** large.
+
+**Macros:** **670 kcal · P 34 · C 97 · F 18**  
+(Seekh ~176/18/3/10 · rice ~130/3/28/0 · Bahu Rani ~190/11/23/8 · 2 large oranges ~175/2/43/0.)
+
+**Shortcut line:** `Food Log | Seekh rice Bahu Rani oranges | 670 | 34 | 97 | 18`  
+**Confidence:** 72–80% sure · weighed; Bahu Rani besan/yogurt ratio estimated — say if oily baingan fry.
+
+**Notes:** Rice within 200 g. Bahu Rani denser than prior no-oil yogurt-only logs because of besan + regular yogurt.
+
+---
