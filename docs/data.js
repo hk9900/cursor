@@ -3597,14 +3597,14 @@ window.HC = {
     {
       "date": "2026-11-03",
       "slot": "Dinner",
-      "dish": "AF beef seekh kebab 80 g + white rice 100 g + Bahu Rani 219 g (baingan + regular yogurt + besan) + 2 large oranges",
-      "kcal": 670,
-      "p": 34,
-      "c": 97,
-      "f": 18,
-      "notes": "Rice within 200 g. Bahu Rani denser than prior no-oil yogurt-only logs because of besan + regular yogurt.",
+      "dish": "AF beef seekh kebab 80 g + white rice 100 g + Bahu Rani 219 g (brinjal/baingan + regular yogurt) + 2 large oranges",
+      "kcal": 605,
+      "p": 31,
+      "c": 89,
+      "f": 15,
+      "notes": "Corrected: “began” = brinjal, not besan. Closer to prior no-oil Bahu Rani density + regular yogurt.",
       "portions": "seekh **80 g** · rice **100 g** · Bahu Rani **219 g** · oranges **2** large.",
-      "confidence": "72–80% sure · weighed; Bahu Rani besan/yogurt ratio estimated — say if oily baingan fry.",
+      "confidence": "75–82% sure · weighed; Bahu Rani = brinjal + regular yogurt (not besan) — say if baingan was oil-fried.",
       "backfill": false
     }
   ],
@@ -3899,10 +3899,10 @@ window.HC = {
     },
     {
       "date": "2026-11-03",
-      "kcal": 1568,
-      "p": 116,
-      "c": 145,
-      "f": 59,
+      "kcal": 1503,
+      "p": 113,
+      "c": 137,
+      "f": 56,
       "n": 3
     }
   ],
