@@ -1,14 +1,14 @@
 window.HC = {
   "meta": {
     "name": "Hassan Khan",
-    "through": "2026-11-02",
+    "through": "2026-11-03",
     "weight": 111.2,
     "waist": 45,
     "startWeight": 120,
     "heightCm": 180.3,
     "dob": "1991-08-08",
     "city": "Lisbon",
-    "siteUpdated": "2026-11-02"
+    "siteUpdated": "2026-11-03"
   },
   "weightCut": {
     "labels": [
@@ -3567,6 +3567,19 @@ window.HC = {
       "portions": "",
       "confidence": "92–95% sure · label (33 g serving).",
       "backfill": false
+    },
+    {
+      "date": "2026-11-03",
+      "slot": "Breakfast",
+      "dish": "4 whole eggs fried (1 spray) + Continente Light Café (250 ml / ~20 g protein) + 2 Continente classic bread slices",
+      "kcal": 588,
+      "p": 51,
+      "c": 43,
+      "f": 23,
+      "notes": "Strong protein start. Classic bread not Bimbo — more carbs, less protein per slice.",
+      "portions": "eggs **4** · spray **1** · Light Café **1** carton · Continente bread **2** slices.",
+      "confidence": "88–92% sure · bread + café labels; large-egg assumption + spray.",
+      "backfill": false
     }
   ],
   "daily": [
@@ -3857,6 +3870,14 @@ window.HC = {
       "c": 173,
       "f": 29,
       "n": 4
+    },
+    {
+      "date": "2026-11-03",
+      "kcal": 588,
+      "p": 51,
+      "c": 43,
+      "f": 23,
+      "n": 1
     }
   ],
   "recipes": [

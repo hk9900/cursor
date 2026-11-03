@@ -1769,3 +1769,19 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** Locked shelf quick-log. ~100 mg caffeine — late for coffee whey.
 
 ---
+
+## 2026-11-03 — Breakfast
+
+**Dish:** 4 whole eggs fried (1 spray) + Continente Light Café (250 ml / ~20 g protein) + 2 Continente classic bread slices.
+
+**Portions:** eggs **4** · spray **1** · Light Café **1** carton · Continente bread **2** slices.
+
+**Macros:** **588 kcal · P 51 · C 43 · F 23**  
+(Eggs+spray ~293/25/2/20 · Light Café ~135/20/13/1 · 2 bread ~160/6/28/2.)
+
+**Shortcut line:** `Food Log | 4 eggs Light Cafe 2 Continente bread | 588 | 51 | 43 | 23`  
+**Confidence:** 88–92% sure · bread + café labels; large-egg assumption + spray.
+
+**Notes:** Strong protein start. Classic bread not Bimbo — more carbs, less protein per slice.
+
+---
