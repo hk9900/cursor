@@ -1817,3 +1817,19 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** “Began” = brinjal. Spray-only Bahu Rani — macros held near prior yogurt+baingan density.
 
 ---
+
+## 2026-11-04 — Breakfast
+
+**Dish:** 4 whole eggs (1 spray) + 2 Continente classic bread slices + Galão capsule + 1 tsp sucralose.
+
+**Portions:** eggs **4** · spray **1** · Continente bread **2** slices · Galão **1** capsule · sucralose **1 tsp** (0 kcal).
+
+**Macros:** **498 kcal · P 33 · C 34 · F 24**  
+(Eggs+spray ~293/25/2/20 · 2 bread ~160/6/28/2 · Galão ~45/2/4/2 · sucralose 0.)
+
+**Shortcut line:** `Food Log | 4 eggs 2 bread Galão | 498 | 33 | 34 | 24`  
+**Confidence:** 88–92% sure · bread + Galão labels; large-egg + spray assumed — say if no spray / Bimbo instead.
+
+**Notes:** No Light Café today — ~20 g less protein vs yesterday’s breakfast. Protein light for AM; add whey/chicken later.
+
+---

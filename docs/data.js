@@ -1,14 +1,14 @@
 window.HC = {
   "meta": {
     "name": "Hassan Khan",
-    "through": "2026-11-03",
+    "through": "2026-11-04",
     "weight": 111.2,
     "waist": 45,
     "startWeight": 120,
     "heightCm": 180.3,
     "dob": "1991-08-08",
     "city": "Lisbon",
-    "siteUpdated": "2026-11-03"
+    "siteUpdated": "2026-11-04"
   },
   "weightCut": {
     "labels": [
@@ -3606,6 +3606,19 @@ window.HC = {
       "portions": "seekh **80 g** · rice **100 g** · Bahu Rani **219 g** · oranges **2** large · cook fat **2–3 spray** (shared pot).",
       "confidence": "78–85% sure · weighed; brinjal + regular yogurt + 2–3 spray confirmed (not pot oil / besan).",
       "backfill": false
+    },
+    {
+      "date": "2026-11-04",
+      "slot": "Breakfast",
+      "dish": "4 whole eggs (1 spray) + 2 Continente classic bread slices + Galão capsule + 1 tsp sucralose",
+      "kcal": 498,
+      "p": 33,
+      "c": 34,
+      "f": 24,
+      "notes": "No Light Café today — ~20 g less protein vs yesterday’s breakfast. Protein light for AM; add whey/chicken later.",
+      "portions": "eggs **4** · spray **1** · Continente bread **2** slices · Galão **1** capsule · sucralose **1 tsp** (0 kcal).",
+      "confidence": "88–92% sure · bread + Galão labels; large-egg + spray assumed — say if no spray / Bimbo instead.",
+      "backfill": false
     }
   ],
   "daily": [
@@ -3904,6 +3917,14 @@ window.HC = {
       "c": 137,
       "f": 56,
       "n": 3
+    },
+    {
+      "date": "2026-11-04",
+      "kcal": 498,
+      "p": 33,
+      "c": 34,
+      "f": 24,
+      "n": 1
     }
   ],
   "recipes": [
