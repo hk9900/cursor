@@ -1849,3 +1849,18 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** Same seekh + rice as yesterday dinner, smaller Bahu Rani, no fruit. Day protein still light (~58 g so far).
 
 ---
+
+## 2026-11-04 — Snack
+
+**Dish:** 1 medium banana.
+
+**Portions:** banana **1** medium (~118 g).
+
+**Macros:** **105 kcal · P 1 · C 27 · F 0**
+
+**Shortcut line:** `Food Log | Medium banana | 105 | 1 | 27 | 0`  
+**Confidence:** 90–95% sure · standard medium banana.
+
+**Notes:** Fruit after lunch.
+
+---

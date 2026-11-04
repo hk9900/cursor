@@ -3632,6 +3632,19 @@ window.HC = {
       "portions": "seekh **80 g** · rice **100 g** · Bahu Rani **100 g**.",
       "confidence": "78–85% sure · weighed; same Bahu Rani pot density as 3 Nov — say if extra oil today.",
       "backfill": false
+    },
+    {
+      "date": "2026-11-04",
+      "slot": "Snack",
+      "dish": "1 medium banana",
+      "kcal": 105,
+      "p": 1,
+      "c": 27,
+      "f": 0,
+      "notes": "Fruit after lunch.",
+      "portions": "banana **1** medium (~118 g).",
+      "confidence": "90–95% sure · standard medium banana.",
+      "backfill": false
     }
   ],
   "daily": [
@@ -3933,11 +3946,11 @@ window.HC = {
     },
     {
       "date": "2026-11-04",
-      "kcal": 861,
-      "p": 58,
-      "c": 72,
+      "kcal": 966,
+      "p": 59,
+      "c": 99,
       "f": 36,
-      "n": 2
+      "n": 3
     }
   ],
   "recipes": [
