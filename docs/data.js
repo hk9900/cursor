@@ -3658,6 +3658,19 @@ window.HC = {
       "portions": "aloo matar gajar **192 g** · roti **2** medium · beef tikka boti **120 g** · cook fat **none** on beef (spices only).",
       "confidence": "72–80% sure · weighed sabzi+beef; roti unweighed; beef fat % + sabzi oil unknown — say if pot oil on sabzi.",
       "backfill": false
+    },
+    {
+      "date": "2026-11-04",
+      "slot": "Evening",
+      "dish": "Continente Light Café 250 ml (~20 g protein)",
+      "kcal": 135,
+      "p": 20,
+      "c": 13,
+      "f": 1,
+      "notes": "Good lean P closer for the day (~126 g running).",
+      "portions": "Light Café **1** carton (250 ml).",
+      "confidence": "92–95% sure · locked shelf label.",
+      "backfill": false
     }
   ],
   "daily": [
@@ -3959,11 +3972,11 @@ window.HC = {
     },
     {
       "date": "2026-11-04",
-      "kcal": 1651,
-      "p": 106,
-      "c": 181,
-      "f": 58,
-      "n": 4
+      "kcal": 1786,
+      "p": 126,
+      "c": 194,
+      "f": 59,
+      "n": 5
     }
   ],
   "recipes": [

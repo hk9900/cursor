@@ -1880,3 +1880,18 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** No-oil beef helps protein. Day still short of 150 g P unless another snack/whey.
 
 ---
+
+## 2026-11-04 — Evening
+
+**Dish:** Continente Light Café 250 ml (~20 g protein).
+
+**Portions:** Light Café **1** carton (250 ml).
+
+**Macros:** **135 kcal · P 20 · C 13 · F 1**
+
+**Shortcut line:** `Food Log | Continente Light Cafe | 135 | 20 | 13 | 1`  
+**Confidence:** 92–95% sure · locked shelf label.
+
+**Notes:** Good lean P closer for the day (~126 g running).
+
+---
