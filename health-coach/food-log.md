@@ -1864,3 +1864,19 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** Fruit after lunch.
 
 ---
+
+## 2026-11-04 — Dinner
+
+**Dish:** Aloo matar gajar 192 g + 2 roti + homemade beef tikka botiyan 120 g (**no oil**).
+
+**Portions:** aloo matar gajar **192 g** · roti **2** medium · beef tikka boti **120 g** · cook fat **none** on beef (spices only).
+
+**Macros:** **685 kcal · P 47 · C 82 · F 22**  
+(Sabzi ~195/7/34/5 spray-era potato–pea–carrot · 2 roti ~240/8/46/6 · beef tikka ~250/32/2/11.)
+
+**Shortcut line:** `Food Log | Aloo matar gajar 2 roti beef tikka | 685 | 47 | 82 | 22`  
+**Confidence:** 72–80% sure · weighed sabzi+beef; roti unweighed; beef fat % + sabzi oil unknown — say if pot oil on sabzi.
+
+**Notes:** No-oil beef helps protein. Day still short of 150 g P unless another snack/whey.
+
+---

@@ -3645,6 +3645,19 @@ window.HC = {
       "portions": "banana **1** medium (~118 g).",
       "confidence": "90–95% sure · standard medium banana.",
       "backfill": false
+    },
+    {
+      "date": "2026-11-04",
+      "slot": "Dinner",
+      "dish": "Aloo matar gajar 192 g + 2 roti + homemade beef tikka botiyan 120 g (no oil)",
+      "kcal": 685,
+      "p": 47,
+      "c": 82,
+      "f": 22,
+      "notes": "No-oil beef helps protein. Day still short of 150 g P unless another snack/whey.",
+      "portions": "aloo matar gajar **192 g** · roti **2** medium · beef tikka boti **120 g** · cook fat **none** on beef (spices only).",
+      "confidence": "72–80% sure · weighed sabzi+beef; roti unweighed; beef fat % + sabzi oil unknown — say if pot oil on sabzi.",
+      "backfill": false
     }
   ],
   "daily": [
@@ -3946,11 +3959,11 @@ window.HC = {
     },
     {
       "date": "2026-11-04",
-      "kcal": 966,
-      "p": 59,
-      "c": 99,
-      "f": 36,
-      "n": 3
+      "kcal": 1651,
+      "p": 106,
+      "c": 181,
+      "f": 58,
+      "n": 4
     }
   ],
   "recipes": [
