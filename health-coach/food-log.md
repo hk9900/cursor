@@ -1833,3 +1833,19 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** No Light Café today — ~20 g less protein vs yesterday’s breakfast. Protein light for AM; add whey/chicken later.
 
 ---
+
+## 2026-11-04 — Lunch
+
+**Dish:** AF beef seekh kebab 80 g + white rice 100 g + Bahu Rani 100 g (brinjal + regular yogurt, spray).
+
+**Portions:** seekh **80 g** · rice **100 g** · Bahu Rani **100 g**.
+
+**Macros:** **363 kcal · P 25 · C 38 · F 12**  
+(Seekh ~176/18/3/10 · rice ~130/3/28/0 · Bahu Rani ~57/4/7/2 scaled from yesterday’s spray pot.)
+
+**Shortcut line:** `Food Log | Seekh rice Bahu Rani | 363 | 25 | 38 | 12`  
+**Confidence:** 78–85% sure · weighed; same Bahu Rani pot density as 3 Nov — say if extra oil today.
+
+**Notes:** Same seekh + rice as yesterday dinner, smaller Bahu Rani, no fruit. Day protein still light (~58 g so far).
+
+---

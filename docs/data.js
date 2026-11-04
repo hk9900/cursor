@@ -3619,6 +3619,19 @@ window.HC = {
       "portions": "eggs **4** · spray **1** · Continente bread **2** slices · Galão **1** capsule · sucralose **1 tsp** (0 kcal).",
       "confidence": "88–92% sure · bread + Galão labels; large-egg + spray assumed — say if no spray / Bimbo instead.",
       "backfill": false
+    },
+    {
+      "date": "2026-11-04",
+      "slot": "Lunch",
+      "dish": "AF beef seekh kebab 80 g + white rice 100 g + Bahu Rani 100 g (brinjal + regular yogurt, spray)",
+      "kcal": 363,
+      "p": 25,
+      "c": 38,
+      "f": 12,
+      "notes": "Same seekh + rice as yesterday dinner, smaller Bahu Rani, no fruit. Day protein still light (~58 g so far).",
+      "portions": "seekh **80 g** · rice **100 g** · Bahu Rani **100 g**.",
+      "confidence": "78–85% sure · weighed; same Bahu Rani pot density as 3 Nov — say if extra oil today.",
+      "backfill": false
     }
   ],
   "daily": [
@@ -3920,11 +3933,11 @@ window.HC = {
     },
     {
       "date": "2026-11-04",
-      "kcal": 498,
-      "p": 33,
-      "c": 34,
-      "f": 24,
-      "n": 1
+      "kcal": 861,
+      "p": 58,
+      "c": 72,
+      "f": 36,
+      "n": 2
     }
   ],
   "recipes": [
