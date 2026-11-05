@@ -93,6 +93,7 @@ Food Log | Paltay salan (besan) + 2 roti | 800 | 25 | 100 | 30
 - Pad the final message with long tables.
 - Tell him to eat Fitbit burn back. Fitbit total burn is directionally useful but likely **~10–15% high** on walk weeks (see `calibration.md`).
 - Treat Notes deficit as literal fat loss — use × **~0.65–0.75** for forecasting; scale + waist judge the cut.
+- **Shelf / `labels.md`:** do **not** add or promote a new pack to the shelf until Hassan explicitly says so (e.g. “shelf it”, “lock it”, “save this label”). Recommending products in chat is fine; writing them into `labels.md` / site labels is not until he says.
 
 ## Shortcut contract (user phone)
 

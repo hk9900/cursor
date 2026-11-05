@@ -49,6 +49,7 @@ See also: Cursor skill `.cursor/skills/food-log/SKILL.md` for meal photo → est
 ## Shelf & recipes
 - Labels: `health-coach/labels.md`
 - Recipes: `health-coach/recipes.md`
+- **Shelf rule (locked 5 Nov):** do **not** add new products to `labels.md` / site shelf until Hassan says **shelf / lock / save this label**. Chat recommendations OK without shelving.
 - Meal mirror: `health-coach/food-log.md`
 - Weekly tape: `health-coach/weekly-metrics.md`
 - Calibration: `health-coach/calibration.md`

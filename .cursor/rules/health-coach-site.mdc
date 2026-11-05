@@ -17,7 +17,7 @@ Any time the user (or chat) provides **new** Health Coach data, update **both** 
 
 Triggers include:
 - Food Log / meal photo / macros / `shortcuts://` log
-- Pack nutrition label photo or “save this label”
+- Pack nutrition label photo **only when he asks to save/shelf/lock it** (5 Nov: don’t shelf new products until he says so)
 - Recipe / household cook change (oil, spray, staples)
 - Sunday weigh-in / tape / weekly Notes table (**also run `calibration.md` nudge procedure**)
 - Fitbit / Google / Apple Health export
