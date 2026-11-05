@@ -1978,16 +1978,16 @@ With sandwich → **~895 / 53 / 87 / 38**.
 
 ## 2026-11-05 — Late snack
 
-**Dish:** 1 small apple + Red Bull Zero (250 ml assumed).
+**Dish:** 1 small apple + Red Bull Zero **250 ml** (2 kcal/100 ml).
 
-**Portions:** apple **1** small · Red Bull Zero **1** can (~250 ml).
+**Portions:** apple **1** small · Red Bull Zero **250 ml** can.
 
-**Macros:** **70 kcal · P 0 · C 18 · F 0**  
-(Apple ~60/0/16/0 · Zero ~10/0/2/0.)
+**Macros:** **65 kcal · P 0 · C 16 · F 0**  
+(Apple ~60/0/16/0 · Zero 250 ml @ 2 kcal/100 ml = **5** / 0 / 0 / 0.)
 
-**Shortcut line:** `Food Log | Small apple Red Bull Zero | 70 | 0 | 18 | 0`  
-**Confidence:** 88–92% sure · small-apple default + Zero label ballpark — say if 355 ml can.
+**Shortcut line:** `Food Log | Small apple Red Bull Zero | 65 | 0 | 16 | 0`  
+**Confidence:** 92–95% sure · small-apple default + Zero label from Hassan (2 kcal/100 ml, 250 ml).
 
-**Notes:** Late caffeine — may hit sleep. Fruit OK; Zero ≈ Coke Zero for the cut.
+**Notes:** Late caffeine — may hit sleep. Zero locked at **5 kcal / can**.
 
 ---

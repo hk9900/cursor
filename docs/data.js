@@ -3740,14 +3740,14 @@ window.HC = {
     {
       "date": "2026-11-05",
       "slot": "Late snack",
-      "dish": "1 small apple + Red Bull Zero (250 ml assumed)",
-      "kcal": 70,
+      "dish": "1 small apple + Red Bull Zero 250 ml (2 kcal/100 ml)",
+      "kcal": 65,
       "p": 0,
-      "c": 18,
+      "c": 16,
       "f": 0,
-      "notes": "Late caffeine — may hit sleep. Fruit OK; Zero ≈ Coke Zero for the cut.",
-      "portions": "apple **1** small · Red Bull Zero **1** can (~250 ml).",
-      "confidence": "88–92% sure · small-apple default + Zero label ballpark — say if 355 ml can.",
+      "notes": "Late caffeine — may hit sleep. Zero locked at **5 kcal / can**.",
+      "portions": "apple **1** small · Red Bull Zero **250 ml** can.",
+      "confidence": "92–95% sure · small-apple default + Zero label from Hassan (2 kcal/100 ml, 250 ml).",
       "backfill": false
     }
   ],
@@ -4058,9 +4058,9 @@ window.HC = {
     },
     {
       "date": "2026-11-05",
-      "kcal": 2098,
+      "kcal": 2093,
       "p": 164,
-      "c": 175,
+      "c": 173,
       "f": 83,
       "n": 6
     }
