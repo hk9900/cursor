@@ -3697,6 +3697,19 @@ window.HC = {
       "portions": "noodles ~**300–350 g** cooked with veg + takeout oil/sauce sheen · dumplings **2** veg · no meat visible.",
       "confidence": "65–75% sure · photo + takeout confirmed; oil/sauce still estimated — say if plate unfinished or dumplings fried.",
       "backfill": false
+    },
+    {
+      "date": "2026-11-05",
+      "slot": "Snack",
+      "dish": "1 bite gulab jamun + 1 small piece kaju katli",
+      "kcal": 125,
+      "p": 2,
+      "c": 17,
+      "f": 6,
+      "notes": "Mithai dense; logged mid–high. Rare OK — don’t stack more sweets today.",
+      "portions": "gulab jamun **~⅓–½** small ball · kaju katli **1** small diamond.",
+      "confidence": "60–70% sure · bite/piece size photo-free estimate — say if full jamun or big katli.",
+      "backfill": false
     }
   ],
   "daily": [
@@ -4006,11 +4019,11 @@ window.HC = {
     },
     {
       "date": "2026-11-05",
-      "kcal": 1223,
-      "p": 53,
-      "c": 132,
-      "f": 56,
-      "n": 2
+      "kcal": 1348,
+      "p": 55,
+      "c": 149,
+      "f": 62,
+      "n": 3
     }
   ],
   "recipes": [

@@ -1927,3 +1927,19 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** Corrected: takeout, not canteen — higher oil/sauce. Starch-heavy, protein light.
 
 ---
+
+## 2026-11-05 — Snack
+
+**Dish:** 1 bite gulab jamun + 1 small piece kaju katli.
+
+**Portions:** gulab jamun **~⅓–½** small ball · kaju katli **1** small diamond.
+
+**Macros:** **125 kcal · P 2 · C 17 · F 6**  
+(Jamun bite ~70/1/11/3 syrup-soaked · small katli ~55/1/6/3.)
+
+**Shortcut line:** `Food Log | Gulab jamun bite kaju katli | 125 | 2 | 17 | 6`  
+**Confidence:** 60–70% sure · bite/piece size photo-free estimate — say if full jamun or big katli.
+
+**Notes:** Mithai dense; logged mid–high. Rare OK — don’t stack more sweets today.
+
+---
