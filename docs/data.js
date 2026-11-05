@@ -3723,6 +3723,19 @@ window.HC = {
       "portions": "total weighed **424 g** · bones discarded **80 g** · edible meat **344 g** · cook fat **1 spray**.",
       "confidence": "78–85% sure · bone subtract solid; assume mostly lean boti — say if thighs/skin-on heavy.",
       "backfill": false
+    },
+    {
+      "date": "2026-11-05",
+      "slot": "Evening snack",
+      "dish": "70% dark cooking chocolate — 1 piece ≈ index-finger length",
+      "kcal": 80,
+      "p": 1,
+      "c": 6,
+      "f": 5,
+      "notes": "Same cooking chocolate as prior. Day already over band — rare OK.",
+      "portions": "~**12–15 g** estimated (finger-length stick of cooking bar).",
+      "confidence": "60–70% sure · length-only estimate — weigh next time (~10 g vs 20 g swings hard).",
+      "backfill": false
     }
   ],
   "daily": [
@@ -4032,11 +4045,11 @@ window.HC = {
     },
     {
       "date": "2026-11-05",
-      "kcal": 1948,
-      "p": 163,
-      "c": 151,
-      "f": 78,
-      "n": 4
+      "kcal": 2028,
+      "p": 164,
+      "c": 157,
+      "f": 83,
+      "n": 5
     }
   ],
   "recipes": [

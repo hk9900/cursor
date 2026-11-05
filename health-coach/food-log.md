@@ -1959,3 +1959,19 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** Big lean protein closer for the day. Day kcal runs high from lunch takeout — this plate is the right kind of calories.
 
 ---
+
+## 2026-11-05 — Evening snack
+
+**Dish:** 70% dark cooking chocolate — 1 piece ≈ index-finger length.
+
+**Portions:** ~**12–15 g** estimated (finger-length stick of cooking bar).
+
+**Macros:** **80 kcal · P 1 · C 6 · F 5**  
+(~14 g @ ~580 kcal/100 g for 70% dark.)
+
+**Shortcut line:** `Food Log | 70pct dark chocolate finger | 80 | 1 | 6 | 5`  
+**Confidence:** 60–70% sure · length-only estimate — weigh next time (~10 g vs 20 g swings hard).
+
+**Notes:** Same cooking chocolate as prior. Day already over band — rare OK.
+
+---
