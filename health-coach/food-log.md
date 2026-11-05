@@ -1943,3 +1943,19 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** Mithai dense; logged mid–high. Rare OK — don’t stack more sweets today.
 
 ---
+
+## 2026-11-05 — Dinner
+
+**Dish:** Tandoori chicken botiyan (bone-in) air-fried, **1 spray**.
+
+**Portions:** total weighed **424 g** · bones discarded **80 g** · edible meat **344 g** · cook fat **1 spray**.
+
+**Macros:** **600 kcal · P 108 · C 2 · F 16**  
+(Edible ~344 g @ breast-lean AF + light yogurt/spice cling ~595/108/2/15 · spray ~5/0/0/1.)
+
+**Shortcut line:** `Food Log | AF tandoori chicken botiyan | 600 | 108 | 2 | 16`  
+**Confidence:** 78–85% sure · bone subtract solid; assume mostly lean boti — say if thighs/skin-on heavy.
+
+**Notes:** Big lean protein closer for the day. Day kcal runs high from lunch takeout — this plate is the right kind of calories.
+
+---

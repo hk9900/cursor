@@ -3710,6 +3710,19 @@ window.HC = {
       "portions": "gulab jamun **~⅓–½** small ball · kaju katli **1** small diamond.",
       "confidence": "60–70% sure · bite/piece size photo-free estimate — say if full jamun or big katli.",
       "backfill": false
+    },
+    {
+      "date": "2026-11-05",
+      "slot": "Dinner",
+      "dish": "Tandoori chicken botiyan (bone-in) air-fried, 1 spray",
+      "kcal": 600,
+      "p": 108,
+      "c": 2,
+      "f": 16,
+      "notes": "Big lean protein closer for the day. Day kcal runs high from lunch takeout — this plate is the right kind of calories.",
+      "portions": "total weighed **424 g** · bones discarded **80 g** · edible meat **344 g** · cook fat **1 spray**.",
+      "confidence": "78–85% sure · bone subtract solid; assume mostly lean boti — say if thighs/skin-on heavy.",
+      "backfill": false
     }
   ],
   "daily": [
@@ -4019,11 +4032,11 @@ window.HC = {
     },
     {
       "date": "2026-11-05",
-      "kcal": 1348,
-      "p": 55,
-      "c": 149,
-      "f": 62,
-      "n": 3
+      "kcal": 1948,
+      "p": 163,
+      "c": 151,
+      "f": 78,
+      "n": 4
     }
   ],
   "recipes": [
