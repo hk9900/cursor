@@ -1895,3 +1895,19 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** Good lean P closer for the day (~126 g running).
 
 ---
+
+## 2026-11-05 — Breakfast
+
+**Dish:** 2 whole eggs + 2 egg whites fried (1 spray) + 3 tostas light butter + 1 chai.
+
+**Portions:** whole eggs **2** · whites **2** · spray **1** · tostas **3** · butter ~**1 tsp** lightly across · chai **1** (200 ml meio-gordo, Canderel assumed).
+
+**Macros:** **403 kcal · P 30 · C 27 · F 20**  
+(Eggs+whites+spray ~183/20/2/11 · 3 tostas ~90/3/15/2 · butter ~36/0/0/4 · chai ~94/7/10/3.)
+
+**Shortcut line:** `Food Log | 2 eggs 2 whites tostas chai | 403 | 30 | 27 | 20`  
+**Confidence:** 85–90% sure · tostas + chai labels; butter smear + large-egg size estimated — say if sugar in chai / more butter.
+
+**Notes:** Light AM. Protein still needs a push later (chicken/whey/Light Café).
+
+---

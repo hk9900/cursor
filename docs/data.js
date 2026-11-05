@@ -1,14 +1,14 @@
 window.HC = {
   "meta": {
     "name": "Hassan Khan",
-    "through": "2026-11-04",
+    "through": "2026-11-05",
     "weight": 111.2,
     "waist": 45,
     "startWeight": 120,
     "heightCm": 180.3,
     "dob": "1991-08-08",
     "city": "Lisbon",
-    "siteUpdated": "2026-11-04"
+    "siteUpdated": "2026-11-05"
   },
   "weightCut": {
     "labels": [
@@ -3671,6 +3671,19 @@ window.HC = {
       "portions": "Light Café **1** carton (250 ml).",
       "confidence": "92–95% sure · locked shelf label.",
       "backfill": false
+    },
+    {
+      "date": "2026-11-05",
+      "slot": "Breakfast",
+      "dish": "2 whole eggs + 2 egg whites fried (1 spray) + 3 tostas light butter + 1 chai",
+      "kcal": 403,
+      "p": 30,
+      "c": 27,
+      "f": 20,
+      "notes": "Light AM. Protein still needs a push later (chicken/whey/Light Café).",
+      "portions": "whole eggs **2** · whites **2** · spray **1** · tostas **3** · butter ~**1 tsp** lightly across · chai **1** (200 ml meio-gordo, Canderel assumed).",
+      "confidence": "85–90% sure · tostas + chai labels; butter smear + large-egg size estimated — say if sugar in chai / more butter.",
+      "backfill": false
     }
   ],
   "daily": [
@@ -3977,6 +3990,14 @@ window.HC = {
       "c": 194,
       "f": 59,
       "n": 5
+    },
+    {
+      "date": "2026-11-05",
+      "kcal": 403,
+      "p": 30,
+      "c": 27,
+      "f": 20,
+      "n": 1
     }
   ],
   "recipes": [
