@@ -1975,3 +1975,19 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** Same cooking chocolate as prior. Day already over band — rare OK.
 
 ---
+
+## 2026-11-05 — Late snack
+
+**Dish:** 1 small apple + Red Bull Zero (250 ml assumed).
+
+**Portions:** apple **1** small · Red Bull Zero **1** can (~250 ml).
+
+**Macros:** **70 kcal · P 0 · C 18 · F 0**  
+(Apple ~60/0/16/0 · Zero ~10/0/2/0.)
+
+**Shortcut line:** `Food Log | Small apple Red Bull Zero | 70 | 0 | 18 | 0`  
+**Confidence:** 88–92% sure · small-apple default + Zero label ballpark — say if 355 ml can.
+
+**Notes:** Late caffeine — may hit sleep. Fruit OK; Zero ≈ Coke Zero for the cut.
+
+---

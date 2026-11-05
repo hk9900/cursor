@@ -3736,6 +3736,19 @@ window.HC = {
       "portions": "~**12–15 g** estimated (finger-length stick of cooking bar).",
       "confidence": "60–70% sure · length-only estimate — weigh next time (~10 g vs 20 g swings hard).",
       "backfill": false
+    },
+    {
+      "date": "2026-11-05",
+      "slot": "Late snack",
+      "dish": "1 small apple + Red Bull Zero (250 ml assumed)",
+      "kcal": 70,
+      "p": 0,
+      "c": 18,
+      "f": 0,
+      "notes": "Late caffeine — may hit sleep. Fruit OK; Zero ≈ Coke Zero for the cut.",
+      "portions": "apple **1** small · Red Bull Zero **1** can (~250 ml).",
+      "confidence": "88–92% sure · small-apple default + Zero label ballpark — say if 355 ml can.",
+      "backfill": false
     }
   ],
   "daily": [
@@ -4045,11 +4058,11 @@ window.HC = {
     },
     {
       "date": "2026-11-05",
-      "kcal": 2028,
+      "kcal": 2098,
       "p": 164,
-      "c": 157,
+      "c": 175,
       "f": 83,
-      "n": 5
+      "n": 6
     }
   ],
   "recipes": [
