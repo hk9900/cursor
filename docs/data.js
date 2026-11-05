@@ -4272,15 +4272,29 @@ window.HC = {
       }
     },
     {
-      "name": "Protein granola — flocos crocantes aveia/trigo + fruta (0.4 kg)",
+      "name": "Origens Bio — Granola Proteica Chocolate (organic) · default granola",
       "bullets": [
-        "Saved: 2026-10-15 · source: label photo",
-        "Product: crunchy oat & wheat flakes with fruit pieces, enriched with vitamins (wheat protein / “protein granola”)",
-        "Origin: Germany · net 0.4 kg",
-        "Log unit: **per 100 g** (tbsp varies by how heaped — prefer weigh)",
+        "Saved: **2026-11-05** · source: back-of-pack nutrition photo (Continente) · locked by Hassan",
+        "Product: organic protein granola / chocolate · pack ~**275 g** · ~6 × **45 g** servings",
+        "Log unit: **per 100 g** (tbsp varies — prefer weigh)",
+        "Per **100 g**: **406 kcal · P 22 · C 49 · F 10** (sugars 10, sat 3.0, fiber 10, salt 0.04) · energy **1700 kJ**",
+        "Per **45 g** pack serving: **183 kcal · P 10 · C 22 · F 4.5** (sugars 4.6)",
+        "Quick log: `1 tbsp (~10 g)` → **41 / 2.2 / 5 / 1** · `2 tbsp (~20 g)` → **81 / 4 / 10 / 2**",
+        "Prefer over old FUEL / generic protein granola. Still a topping — keep tbsp small."
+      ],
+      "macros": {
+        "kcal": 406.0,
+        "p": 22.0,
+        "c": 49.0,
+        "f": 10.0
+      }
+    },
+    {
+      "name": "Protein granola — flocos crocantes aveia/trigo + fruta (0.4 kg) · legacy",
+      "bullets": [
+        "Saved: 2026-10-15 · superseded **2026-11-05** by Origens Bio (use only if that pack is what he ate)",
         "Per **100 g**: **431 kcal · P 16 · C 62 · F 12** (sugars 18, fiber 6.4, salt 0.05)",
-        "Quick log (approx volumes if unweighed):",
-        "Prefer weighing; 2 tbsp heaped can run 25 g+"
+        "Quick log: `1 tbsp (~10 g)` → **43 / 1.6 / 6 / 1.2**"
       ],
       "macros": {
         "kcal": 431.0,
@@ -4289,6 +4303,7 @@ window.HC = {
         "f": 12.0
       }
     },
+
     {
       "name": "Continente — Morangos inteiros congelados (frozen whole strawberries)",
       "bullets": [
@@ -4506,17 +4521,18 @@ window.HC = {
       }
     },
     {
-      "name": "Protein granola",
+      "name": "Origens Bio granola proteica chocolate",
       "bullets": [
-        "100 g: 431 · P 16 · C 62 · F 12 · typical 1–2 tbsp in GY"
+        "100 g: 406 · P 22 · C 49 · F 10 · sugars 10 · default GY topping 1 tbsp ~41/2"
       ],
       "macros": {
-        "kcal": 431,
-        "p": 16,
-        "c": 62,
-        "f": 12
+        "kcal": 406,
+        "p": 22,
+        "c": 49,
+        "f": 10
       }
     },
+
     {
       "name": "Continente frozen strawberries",
       "bullets": [

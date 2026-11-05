@@ -125,17 +125,23 @@ Homemade pots stay in `recipes.md`. Packaged labels live **here**.
 - Quick log: `1 scoop Biotech` → 115 / 24 / 2 / 0.9  
 - Prefer **Applied Nutrition Critical Whey** numbers while those jars are in use.
 
-## Protein granola — flocos crocantes aveia/trigo + fruta (0.4 kg)
-- Saved: 2026-10-15 · source: label photo
-- Product: crunchy oat & wheat flakes with fruit pieces, enriched with vitamins (wheat protein / “protein granola”)
-- Origin: Germany · net 0.4 kg
-- Log unit: **per 100 g** (tbsp varies by how heaped — prefer weigh)
-- Per **100 g**: **431 kcal · P 16 · C 62 · F 12** (sugars 18, fiber 6.4, salt 0.05)
+## Origens Bio — Granola Proteica Chocolate (organic) · **default granola**
+- Saved: **2026-11-05** · source: back-of-pack nutrition photo (Continente) · locked by Hassan
+- Product: organic protein granola / chocolate · pack ~**275 g** · ~6 × **45 g** servings
+- Log unit: **per 100 g** (tbsp varies — prefer weigh)
+- Per **100 g**: **406 kcal · P 22 · C 49 · F 10** (sugars 10, sat 3.0, fiber 10, salt 0.04) · energy **1700 kJ**
+- Per **45 g** pack serving: **183 kcal · P 10 · C 22 · F 4.5** (sugars 4.6)
 - Quick log (approx volumes if unweighed):
-  - `1 tbsp (~10 g)` → **43 / 1.6 / 6 / 1.2**
-  - `2 tbsp (~20 g)` → **86 / 3 / 12 / 2**
-  - `30 g` → **129 / 5 / 19 / 4**
-- Prefer weighing; 2 tbsp heaped can run 25 g+
+  - `1 tbsp (~10 g)` → **41 / 2.2 / 5 / 1**
+  - `2 tbsp (~20 g)` → **81 / 4 / 10 / 2**
+  - `30 g` → **122 / 7 / 15 / 3**
+- Prefer over old FUEL / generic “protein granola” (higher P, less sugar). Still a topping — keep tbsp small.
+- Allergens: may contain peanuts, milk, nuts, sesame, sulphites (see pack).
+
+## Protein granola — flocos crocantes aveia/trigo + fruta (0.4 kg) · legacy
+- Saved: 2026-10-15 · superseded **2026-11-05** by Origens Bio above (use only if that pack is what he ate)
+- Per **100 g**: **431 kcal · P 16 · C 62 · F 12** (sugars 18, fiber 6.4, salt 0.05)
+- Quick log: `1 tbsp (~10 g)` → **43 / 1.6 / 6 / 1.2**
 
 ## Continente — Morangos inteiros congelados (frozen whole strawberries)
 - Saved: 2026-10-15 · source: label photo
@@ -255,7 +261,7 @@ Homemade pots stay in `recipes.md`. Packaged labels live **here**.
 
 ## Pending (photo the label next time)
 Add when a clear label photo arrives:
-- FUEL brand granola (if different from saved protein granola pack)
+- ~~FUEL brand granola~~ — default now **Origens Bio Granola Proteica Chocolate** (locked 5 Nov)
 - Other Greek yogurts (Oikos 0% / Mimosa Estilo Grego) if he switches tubs — macros differ · Mimosa Batido Natural already saved (weaker than Mythos)
 - Buondi (or café sachet) + sugar separate
 - Peanut butter brand
