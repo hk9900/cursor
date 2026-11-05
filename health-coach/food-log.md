@@ -1911,3 +1911,19 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** Light AM. Protein still needs a push later (chicken/whey/Light Café).
 
 ---
+
+## 2026-11-05 — Lunch
+
+**Dish:** Stir-fried veg noodles (canteen/plate) + **2** vegetarian dumplings (steamed).
+
+**Portions:** noodles ~**300–350 g** cooked with veg + sauce/oil sheen · dumplings **2** veg · no meat visible.
+
+**Macros:** **750 kcal · P 23 · C 105 · F 28**  
+(Noodles ~640/19/87/25 mid–high oil/sauce · 2 veg dumplings ~110/4/18/3.)
+
+**Shortcut line:** `Food Log | Veg noodles 2 dumplings | 750 | 23 | 105 | 28`  
+**Confidence:** 65–75% sure · photo only; canteen oil/sauce and noodle weight estimated — say if plate unfinished or dumplings fried.
+
+**Notes:** Starch-heavy, protein light. Accuracy bias on glossy stir-fry sauce. Need lean protein later.
+
+---

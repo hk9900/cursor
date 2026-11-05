@@ -3684,6 +3684,19 @@ window.HC = {
       "portions": "whole eggs **2** · whites **2** · spray **1** · tostas **3** · butter ~**1 tsp** lightly across · chai **1** (200 ml meio-gordo, Canderel assumed).",
       "confidence": "85–90% sure · tostas + chai labels; butter smear + large-egg size estimated — say if sugar in chai / more butter.",
       "backfill": false
+    },
+    {
+      "date": "2026-11-05",
+      "slot": "Lunch",
+      "dish": "Stir-fried veg noodles (canteen/plate) + 2 vegetarian dumplings (steamed)",
+      "kcal": 750,
+      "p": 23,
+      "c": 105,
+      "f": 28,
+      "notes": "Starch-heavy, protein light. Accuracy bias on glossy stir-fry sauce. Need lean protein later.",
+      "portions": "noodles ~**300–350 g** cooked with veg + sauce/oil sheen · dumplings **2** veg · no meat visible.",
+      "confidence": "65–75% sure · photo only; canteen oil/sauce and noodle weight estimated — say if plate unfinished or dumplings fried.",
+      "backfill": false
     }
   ],
   "daily": [
@@ -3993,11 +4006,11 @@ window.HC = {
     },
     {
       "date": "2026-11-05",
-      "kcal": 403,
-      "p": 30,
-      "c": 27,
-      "f": 20,
-      "n": 1
+      "kcal": 1153,
+      "p": 53,
+      "c": 132,
+      "f": 48,
+      "n": 2
     }
   ],
   "recipes": [
