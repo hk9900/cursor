@@ -35,7 +35,11 @@ Homemade pots stay in `recipes.md`. Packaged labels live **here**.
 - Per slice: **81 kcal · P 6.8 · C 8.5 · F 1.8** (fiber 2.1, sugars 1.2, salt 0.28)
 - Per 100 g: **239 kcal · P 20 · C 25 · F 5.2** (fiber 6.1, salt 0.84)
 - Quick log: `N Bimbo` / `N protein bread` → N × **81 / 7 / 8.5 / 1.8**
-- Prefer over Continente white for toast/omelette breakfasts (higher protein, lower carbs).
+- **Default sliced bread** (locked 5 Nov) — Hassan: OK / not haram. Prefer over Continente white and Shape.
+
+## Continente — Shape Pão de Forma · **HARAM — do not buy**
+- Saved: 2026-11-05 · front pack photo · **blocked** (Hassan: shelf/Shape is haram)
+- Kept for ID only — **do not recommend**. Macros if somehow logged: ~**99 / 6 / 8 / 4** per 40 g · **248 / 15 / 19 / 9** per 100 g.
 
 ## Tostas — crisp toast / rusk (750 g pack)
 - Saved: 2026-10 · source: pack label

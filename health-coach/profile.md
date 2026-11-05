@@ -44,6 +44,7 @@ See also: Cursor skill `.cursor/skills/food-log/SKILL.md` for meal photo → est
 - Pot often feeds him + wife + toddler; leftovers common
 - Chai 1×/day — **keep** sugar or Canderel as logged; milk = meio-gordo 1.6%
 - Creep order now: **portion size** > oil > chai sugar
+- **Bread (locked 5 Nov):** **Continente Shape / shelf Shape = haram** — do not buy. Default sliced bread = **Bimbo Proteína** (~81 kcal / 7 P / slice). Prefer house roti when possible.
 
 ## Shelf & recipes
 - Labels: `health-coach/labels.md`
