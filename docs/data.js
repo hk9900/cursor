@@ -3688,14 +3688,14 @@ window.HC = {
     {
       "date": "2026-11-05",
       "slot": "Lunch",
-      "dish": "Stir-fried veg noodles (canteen/plate) + 2 vegetarian dumplings (steamed)",
-      "kcal": 750,
+      "dish": "Takeout stir-fried veg noodles + 2 vegetarian dumplings (steamed)",
+      "kcal": 820,
       "p": 23,
       "c": 105,
-      "f": 28,
-      "notes": "Starch-heavy, protein light. Accuracy bias on glossy stir-fry sauce. Need lean protein later.",
-      "portions": "noodles ~**300–350 g** cooked with veg + sauce/oil sheen · dumplings **2** veg · no meat visible.",
-      "confidence": "65–75% sure · photo only; canteen oil/sauce and noodle weight estimated — say if plate unfinished or dumplings fried.",
+      "f": 36,
+      "notes": "Corrected: takeout, not canteen — higher oil/sauce. Starch-heavy, protein light.",
+      "portions": "noodles ~**300–350 g** cooked with veg + takeout oil/sauce sheen · dumplings **2** veg · no meat visible.",
+      "confidence": "65–75% sure · photo + takeout confirmed; oil/sauce still estimated — say if plate unfinished or dumplings fried.",
       "backfill": false
     }
   ],
@@ -4006,10 +4006,10 @@ window.HC = {
     },
     {
       "date": "2026-11-05",
-      "kcal": 1153,
+      "kcal": 1223,
       "p": 53,
       "c": 132,
-      "f": 48,
+      "f": 56,
       "n": 2
     }
   ],
