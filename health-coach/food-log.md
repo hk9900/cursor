@@ -2007,3 +2007,19 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** Heaped granola bump vs level tbsp. Solid AM protein.
 
 ---
+
+## 2026-11-06 — Lunch
+
+**Dish:** Chicken botiyan 124 g (leftover AF tandoori assumed) + arvi bhujia 187 g (**1 spray**) + melon 167 g · **no roti**.
+
+**Portions:** botiyan **124 g** edible · arvi bhujia **187 g** · melon **167 g** (orange / meloa) · cook fat **spray** on arvi.
+
+**Macros:** **453 kcal · P 43 · C 47 · F 10**  
+(Botiyan ~216/39/1/6 from AF tandoori density · arvi spray ~180/3/32/4 · melon ~57/1/14/0.)
+
+**Shortcut line:** `Food Log | Botiyan arvi melon | 453 | 43 | 47 | 10`  
+**Confidence:** 75–82% sure · weighed; assume leftover Shan tandoori chicken — say if beef botiyan or pot oil on arvi.
+
+**Notes:** No roti — good starch control. Arvi denser than looki; spray-era fat only.
+
+---

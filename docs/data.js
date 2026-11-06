@@ -3762,6 +3762,19 @@ window.HC = {
       "portions": "Mythos **100 g** · cottage **50 g** · whey **1 scoop** (33 g Chocolate) · granola **2 heaped tbsp (~28 g)** · apple **1** very small · blueberries **6–7**.",
       "confidence": "88–92% sure · Mythos + cottage + whey locked; heaped tbsp ≈28 g (weigh once to confirm).",
       "backfill": false
+    },
+    {
+      "date": "2026-11-06",
+      "slot": "Lunch",
+      "dish": "Chicken botiyan 124 g (leftover AF tandoori assumed) + arvi bhujia 187 g (1 spray) + melon 167 g · no roti",
+      "kcal": 453,
+      "p": 43,
+      "c": 47,
+      "f": 10,
+      "notes": "No roti — good starch control. Arvi denser than looki; spray-era fat only.",
+      "portions": "botiyan **124 g** edible · arvi bhujia **187 g** · melon **167 g** (orange / meloa) · cook fat **spray** on arvi.",
+      "confidence": "75–82% sure · weighed; assume leftover Shan tandoori chicken — say if beef botiyan or pot oil on arvi.",
+      "backfill": false
     }
   ],
   "daily": [
@@ -4079,11 +4092,11 @@ window.HC = {
     },
     {
       "date": "2026-11-06",
-      "kcal": 390,
-      "p": 40,
-      "c": 37,
-      "f": 9,
-      "n": 1
+      "kcal": 843,
+      "p": 83,
+      "c": 84,
+      "f": 19,
+      "n": 2
     }
   ],
   "recipes": [
