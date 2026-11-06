@@ -1,14 +1,14 @@
 window.HC = {
   "meta": {
     "name": "Hassan Khan",
-    "through": "2026-11-05",
+    "through": "2026-11-06",
     "weight": 111.2,
     "waist": 45,
     "startWeight": 120,
     "heightCm": 180.3,
     "dob": "1991-08-08",
     "city": "Lisbon",
-    "siteUpdated": "2026-11-05"
+    "siteUpdated": "2026-11-06"
   },
   "weightCut": {
     "labels": [
@@ -4326,6 +4326,23 @@ window.HC = {
         "p": 22.0,
         "c": 49.0,
         "f": 10.0
+      }
+    },
+    {
+      "name": "Philadelphia — Queijo Fresco Cottage (tub)",
+      "bullets": [
+        "Saved: **2026-11-06** · source: side-label photo · locked by Hassan",
+        "Product: cottage / queijo fresco granulado · skimmed milk + cream + salt",
+        "Per **100 g**: **96 kcal · P 10 · C 3.1 · F 4.6** (sugars 3.1, sat 3.3, salt 0.82)",
+        "Per **75 g**: **72 kcal · P 7.6 · C 2.3 · F 3.5**",
+        "Quick log: `50 g` → **48 / 5 / 2 / 2** · `100 g` → **96 / 10 / 3 / 5**",
+        "OK in GY mix; mid fat — prefer magro if found. Salted."
+      ],
+      "macros": {
+        "kcal": 96.0,
+        "p": 10.0,
+        "c": 3.1,
+        "f": 4.6
       }
     },
     {

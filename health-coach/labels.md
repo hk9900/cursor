@@ -143,6 +143,18 @@ Homemade pots stay in `recipes.md`. Packaged labels live **here**.
 - Per **100 g**: **431 kcal · P 16 · C 62 · F 12** (sugars 18, fiber 6.4, salt 0.05)
 - Quick log: `1 tbsp (~10 g)` → **43 / 1.6 / 6 / 1.2**
 
+## Philadelphia — Queijo Fresco Cottage (tub)
+- Saved: **2026-11-06** · source: side-label photo · locked by Hassan
+- Product: cottage / *queijo fresco granulado* · skimmed milk + cream + salt
+- Log unit: **per 100 g** or pack portion **75 g**
+- Per **100 g**: **96 kcal · P 10 · C 3.1 · F 4.6** (sugars 3.1, sat 3.3, fiber &lt;0.1, salt 0.82)
+- Per **75 g**: **72 kcal · P 7.6 · C 2.3 · F 3.5** (sugars 2.3, sat 2.5, salt 0.62)
+- Quick log:
+  - `50 g Philly cottage` → **48 / 5 / 2 / 2**
+  - `75 g` → **72 / 8 / 2 / 4**
+  - `100 g` → **96 / 10 / 3 / 5**
+- OK in GY mix for texture; mid fat for cottage — prefer leaner tubs if you find **magro / 1–2%**. Salty — start small in sweet bowls.
+
 ## Continente — Morangos inteiros congelados (frozen whole strawberries)
 - Saved: 2026-10-15 · source: label photo
 - Log unit: **per 100 g** (pack portion 150 g ≈ 5 portions/bag)
