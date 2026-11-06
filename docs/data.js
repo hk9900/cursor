@@ -3753,14 +3753,14 @@ window.HC = {
     {
       "date": "2026-11-06",
       "slot": "Breakfast",
-      "dish": "Mythos GY 100 g + Philadelphia cottage 50 g + Origens granola 2 tbsp + fresh berries ~40 g + 1 small apple + 1 scoop Critical Whey chocolate",
-      "kcal": 382,
+      "dish": "Mythos GY 2% 100 g + Philadelphia cottage 50 g + Critical Whey Chocolate Milkshake 1 scoop + Origens granola 2 tbsp + 1 very small apple + 6–7 fresh blueberries",
+      "kcal": 357,
       "p": 38,
-      "c": 39,
-      "f": 7,
-      "notes": "New cottage+GY mix. Solid AM protein.",
-      "portions": "Mythos **100 g** · cottage **50 g** · granola **2 tbsp (~20 g)** · berries **~40 g** · apple **1** small · whey **1 scoop** (33 g / Chocolate default).",
-      "confidence": "82–88% sure · labels locked; berries volume estimated — say if Skyr/Mimosa or weighed berries.",
+      "c": 33,
+      "f": 8,
+      "notes": "Corrected: tiny apple + few blueberries (not ~40 g berries). Solid AM protein.",
+      "portions": "Mythos **100 g** · cottage **50 g** · whey **1 scoop** (33 g Chocolate) · granola **2 tbsp (~20 g)** · apple **1** very small · blueberries **6–7**.",
+      "confidence": "88–92% sure · Mythos + cottage + whey labels locked; tbsp granola + very-small apple still volume estimates.",
       "backfill": false
     }
   ],
@@ -4079,10 +4079,10 @@ window.HC = {
     },
     {
       "date": "2026-11-06",
-      "kcal": 382,
+      "kcal": 357,
       "p": 38,
-      "c": 39,
-      "f": 7,
+      "c": 33,
+      "f": 8,
       "n": 1
     }
   ],
