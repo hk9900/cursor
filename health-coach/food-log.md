@@ -2023,3 +2023,18 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** No roti — good starch control. Arvi denser than looki; spray-era fat only.
 
 ---
+
+## 2026-11-06 — Snack
+
+**Dish:** Continente Light Café 250 ml (~20 g protein).
+
+**Portions:** Light Café **1** carton (250 ml).
+
+**Macros:** **135 kcal · P 20 · C 13 · F 1**
+
+**Shortcut line:** `Food Log | Continente Light Cafe | 135 | 20 | 13 | 1`  
+**Confidence:** 92–95% sure · locked shelf label.
+
+**Notes:** Lean P top-up.
+
+---

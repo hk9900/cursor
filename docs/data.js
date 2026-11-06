@@ -3775,6 +3775,19 @@ window.HC = {
       "portions": "botiyan **124 g** edible · arvi bhujia **187 g** · melon **167 g** (orange / meloa) · cook fat **spray** on arvi.",
       "confidence": "75–82% sure · weighed; assume leftover Shan tandoori chicken — say if beef botiyan or pot oil on arvi.",
       "backfill": false
+    },
+    {
+      "date": "2026-11-06",
+      "slot": "Snack",
+      "dish": "Continente Light Café 250 ml (~20 g protein)",
+      "kcal": 135,
+      "p": 20,
+      "c": 13,
+      "f": 1,
+      "notes": "Lean P top-up.",
+      "portions": "Light Café **1** carton (250 ml).",
+      "confidence": "92–95% sure · locked shelf label.",
+      "backfill": false
     }
   ],
   "daily": [
@@ -4092,11 +4105,11 @@ window.HC = {
     },
     {
       "date": "2026-11-06",
-      "kcal": 843,
-      "p": 83,
-      "c": 84,
-      "f": 19,
-      "n": 2
+      "kcal": 978,
+      "p": 103,
+      "c": 97,
+      "f": 20,
+      "n": 3
     }
   ],
   "recipes": [
