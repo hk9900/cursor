@@ -88,12 +88,21 @@ Use midpoint **~3 tbsp per dish spoon** (6 tbsp/pot ≈ **720 kcal oil**) unless
 - Freeze 5–10 min → **shallow fry**; don’t disturb while frying.
 - **Log notes:** Fixed protein base 250 g raw chicken for whole batch — ask how many sticks he ate / share of batch. Breadcrumb + shallow fry adds carbs/fat.
 
+## Pakistani Tandoori Chicken (Shan Masala) · oven / air fryer
+- Source: recipe card saved **6 Nov 2026** · Easy · restaurant-style
+- **Batch:** **1 kg** chicken (legs or whole pieces / botiyan)
+- **Marinade:** 4 tbsp Shan Tandoori Masala · **½ cup** thick yoghurt · 1 tbsp GG paste · 1 tbsp lemon juice · **1 tbsp oil** · optional ½ tsp red chilli · optional ½ tsp garam masala
+- **Brush (recipe card):** 1 tbsp oil or melted butter — **only if he uses it**; household AF default is often **1 spray** instead
+- **Prep:** Wash + pat dry → 2–3 deep cuts per piece → mix marinade → coat into cuts → cover → fridge **≥4 h**, preferably overnight
+- **Cook (household):** air fryer preferred; oven OK. Ask spray vs brush oil/butter.
+- **Log notes:** Weigh **total cooked** then subtract **bones left** = edible (as 5 Nov: 424 g − 80 g bones). Marinade yoghurt/spice cling is light; fat swings on **brush oil/butter** and dark meat/skin. Prefer edible grams over “1 kg raw batch share” when he weighs.
+
 ---
 
 ## Logging priorities (from these recipes)
 1. **Oil / baghaar / shallow-fry** — #1 lever. **Current default (locked 2 Nov): 1 spray** for household sabzi/gosht/bhujia. Pot **1–1.5 tbsp** only if he says so. Older **2 dish spoons ≈ 5–7 tbsp** only if pot reverted. Dry dishes hold oil **when ladled** — don’t invent ladle fat under spray era.
 2. **Starch** — chawal dishes, roti on side, haleem density. Unweighed medium roti ≈ **120 kcal** while calibration nudge is active.
-3. **Batch fraction** — haleem, dahi baray, chicken sticks, karhi pot.
+3. **Batch fraction** — haleem, dahi baray, chicken sticks, karhi pot, **Shan tandoori 1 kg batch**.
 4. **Sauces** — mayo/ketchup fusion (Singaporean rice): don’t default to “light.”
 
 ## Packaged: Continente sliced bread (Portugal)
