@@ -2038,3 +2038,19 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** Lean P top-up.
 
 ---
+
+## 2026-11-06 — Dinner
+
+**Dish:** Homemade chicken biryani (**1 spray**) — chicken botiyan with bones 240 g + rice 200 g.
+
+**Portions:** chicken bone-in **240 g** (~**195 g** edible @ ~19% bone from 5 Nov ratio) · biryani rice **200 g** · cook fat **1 spray** (pot).
+
+**Macros:** **610 kcal · P 67 · C 57 · F 11**  
+(Edible chicken ~340/61/2/9 AF-tandoori-lean density · spray biryani rice ~270/6/55/2.)
+
+**Shortcut line:** `Food Log | Biryani chicken botiyan rice | 610 | 67 | 57 | 11`  
+**Confidence:** 72–80% sure · weighed; bone % assumed from prior plate — say edible meat grams or if pot had more than spray.
+
+**Notes:** Rice at 200 g cap. Spray-era biryani — much leaner than classic oily biryani.
+
+---

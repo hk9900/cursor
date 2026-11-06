@@ -3788,6 +3788,19 @@ window.HC = {
       "portions": "Light Café **1** carton (250 ml).",
       "confidence": "92–95% sure · locked shelf label.",
       "backfill": false
+    },
+    {
+      "date": "2026-11-06",
+      "slot": "Dinner",
+      "dish": "Homemade chicken biryani (1 spray) — chicken botiyan with bones 240 g + rice 200 g",
+      "kcal": 610,
+      "p": 67,
+      "c": 57,
+      "f": 11,
+      "notes": "Rice at 200 g cap. Spray-era biryani — much leaner than classic oily biryani.",
+      "portions": "chicken bone-in **240 g** (~**195 g** edible @ ~19% bone from 5 Nov ratio) · biryani rice **200 g** · cook fat **1 spray** (pot).",
+      "confidence": "72–80% sure · weighed; bone % assumed from prior plate — say edible meat grams or if pot had more than spray.",
+      "backfill": false
     }
   ],
   "daily": [
@@ -4105,11 +4118,11 @@ window.HC = {
     },
     {
       "date": "2026-11-06",
-      "kcal": 978,
-      "p": 103,
-      "c": 97,
-      "f": 20,
-      "n": 3
+      "kcal": 1588,
+      "p": 170,
+      "c": 154,
+      "f": 31,
+      "n": 4
     }
   ],
   "recipes": [
