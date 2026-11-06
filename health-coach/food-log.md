@@ -1994,16 +1994,16 @@ With sandwich → **~895 / 53 / 87 / 38**.
 
 ## 2026-11-06 — Breakfast
 
-**Dish:** Mythos GY 2% 100 g + Philadelphia cottage 50 g + Critical Whey Chocolate Milkshake 1 scoop + Origens granola 2 tbsp + 1 very small apple + 6–7 fresh blueberries.
+**Dish:** Mythos GY 2% 100 g + Philadelphia cottage 50 g + Critical Whey Chocolate Milkshake 1 scoop + Origens granola **2 heaped tbsp** + 1 very small apple + 6–7 fresh blueberries.
 
-**Portions:** Mythos **100 g** · cottage **50 g** · whey **1 scoop** (33 g Chocolate) · granola **2 tbsp (~20 g)** · apple **1** very small · blueberries **6–7**.
+**Portions:** Mythos **100 g** · cottage **50 g** · whey **1 scoop** (33 g Chocolate) · granola **2 heaped tbsp (~28 g)** · apple **1** very small · blueberries **6–7**.
 
-**Macros:** **357 kcal · P 38 · C 33 · F 8**  
-(GY ~55/5/4/2 · cottage ~48/5/2/2 · whey ~122/24/4/1 · granola ~81/4/10/2 · very small apple ~45/0/12/0 · 6–7 blueberries ~6/0/2/0.)
+**Macros:** **390 kcal · P 40 · C 37 · F 9**  
+(GY ~55/5/4/2 · cottage ~48/5/2/2 · whey ~122/24/4/1 · heaped granola ~114/6/14/3 · very small apple ~45/0/12/0 · 6–7 blueberries ~6/0/2/0.)
 
-**Shortcut line:** `Food Log | GY cottage granola whey apple | 357 | 38 | 33 | 8`  
-**Confidence:** 88–92% sure · Mythos + cottage + whey labels locked; tbsp granola + very-small apple still volume estimates.
+**Shortcut line:** `Food Log | GY cottage granola whey apple | 390 | 40 | 37 | 9`  
+**Confidence:** 88–92% sure · Mythos + cottage + whey locked; heaped tbsp ≈28 g (weigh once to confirm).
 
-**Notes:** Corrected: tiny apple + few blueberries (not ~40 g berries). Solid AM protein.
+**Notes:** Heaped granola bump vs level tbsp. Solid AM protein.
 
 ---
