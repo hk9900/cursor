@@ -3749,6 +3749,19 @@ window.HC = {
       "portions": "apple **1** small · Red Bull Zero **250 ml** can.",
       "confidence": "92–95% sure · small-apple default + Zero label from Hassan (2 kcal/100 ml, 250 ml).",
       "backfill": false
+    },
+    {
+      "date": "2026-11-06",
+      "slot": "Breakfast",
+      "dish": "Mythos GY 100 g + Philadelphia cottage 50 g + Origens granola 2 tbsp + fresh berries ~40 g + 1 small apple + 1 scoop Critical Whey chocolate",
+      "kcal": 382,
+      "p": 38,
+      "c": 39,
+      "f": 7,
+      "notes": "New cottage+GY mix. Solid AM protein.",
+      "portions": "Mythos **100 g** · cottage **50 g** · granola **2 tbsp (~20 g)** · berries **~40 g** · apple **1** small · whey **1 scoop** (33 g / Chocolate default).",
+      "confidence": "82–88% sure · labels locked; berries volume estimated — say if Skyr/Mimosa or weighed berries.",
+      "backfill": false
     }
   ],
   "daily": [
@@ -4063,6 +4076,14 @@ window.HC = {
       "c": 173,
       "f": 83,
       "n": 6
+    },
+    {
+      "date": "2026-11-06",
+      "kcal": 382,
+      "p": 38,
+      "c": 39,
+      "f": 7,
+      "n": 1
     }
   ],
   "recipes": [

@@ -1991,3 +1991,19 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** Late caffeine — may hit sleep. Zero locked at **5 kcal / can**.
 
 ---
+
+## 2026-11-06 — Breakfast
+
+**Dish:** Mythos GY 100 g + Philadelphia cottage 50 g + Origens granola 2 tbsp + fresh berries ~40 g + 1 small apple + 1 scoop Critical Whey chocolate.
+
+**Portions:** Mythos **100 g** · cottage **50 g** · granola **2 tbsp (~20 g)** · berries **~40 g** · apple **1** small · whey **1 scoop** (33 g / Chocolate default).
+
+**Macros:** **382 kcal · P 38 · C 39 · F 7**  
+(GY ~55/5/4/2 · cottage ~48/5/2/2 · granola ~81/4/10/2 · berries ~16/0/3/0 · apple ~60/0/16/0 · whey ~122/24/4/1.)
+
+**Shortcut line:** `Food Log | GY cottage granola whey apple | 382 | 38 | 39 | 7`  
+**Confidence:** 82–88% sure · labels locked; berries volume estimated — say if Skyr/Mimosa or weighed berries.
+
+**Notes:** New cottage+GY mix. Solid AM protein.
+
+---
