@@ -2086,3 +2086,19 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** Corrected fruit weights + cottage. Cacau café not shelved yet.
 
 ---
+
+## 2026-11-07 — Lunch
+
+**Dish:** Leftover spray biryani — chicken botiyan **200 g** (bone-in assumed) + biryani rice **150 g** + Greek yogurt **20 g**.
+
+**Portions:** botiyan bone-in **200 g** (~**162 g** edible) · rice **150 g** · Mythos/GY **20 g**.
+
+**Macros:** **497 kcal · P 57 · C 44 · F 10**  
+(Edible chicken ~283/51/2/8 · spray biryani rice ~203/5/41/2 · GY 20 g ~11/1/1/0.)
+
+**Shortcut line:** `Food Log | Biryani botiyan rice GY | 497 | 57 | 44 | 10`  
+**Confidence:** 75–82% sure · weighed; bone % from prior biryani plate — say if 200 g was edible meat only.
+
+**Notes:** Same spray biryani batch as 6 Nov dinner.
+
+---

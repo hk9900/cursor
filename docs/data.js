@@ -3827,6 +3827,19 @@ window.HC = {
       "portions": "Mythos **200 g** · cottage **50 g** · granola **1 tbsp (~10 g)** · whey **1 scoop** Chocolate · apples **2 × 25 g** · pineapple **25 g** · Light Café Cacau **250 ml**.",
       "confidence": "88–92% sure · weighed fruit + locked labels; level tbsp granola assumed — say if heaped.",
       "backfill": false
+    },
+    {
+      "date": "2026-11-07",
+      "slot": "Lunch",
+      "dish": "Leftover spray biryani — chicken botiyan 200 g (bone-in assumed) + biryani rice 150 g + Greek yogurt 20 g",
+      "kcal": 497,
+      "p": 57,
+      "c": 44,
+      "f": 10,
+      "notes": "Same spray biryani batch as 6 Nov dinner.",
+      "portions": "botiyan bone-in **200 g** (~**162 g** edible) · rice **150 g** · Mythos/GY **20 g**.",
+      "confidence": "75–82% sure · weighed; bone % from prior biryani plate — say if 200 g was edible meat only.",
+      "backfill": false
     }
   ],
   "daily": [
@@ -4152,11 +4165,11 @@ window.HC = {
     },
     {
       "date": "2026-11-07",
-      "kcal": 500,
-      "p": 62,
-      "c": 41,
-      "f": 9,
-      "n": 1
+      "kcal": 997,
+      "p": 119,
+      "c": 85,
+      "f": 19,
+      "n": 2
     }
   ],
   "recipes": [
