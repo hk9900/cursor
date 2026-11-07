@@ -3801,6 +3801,19 @@ window.HC = {
       "portions": "chicken bone-in **240 g** (~**195 g** edible @ ~19% bone from 5 Nov ratio) · biryani rice **200 g** · cook fat **1 spray** (pot).",
       "confidence": "72–80% sure · weighed; bone % assumed from prior plate — say edible meat grams or if pot had more than spray.",
       "backfill": false
+    },
+    {
+      "date": "2026-11-06",
+      "slot": "Evening snack",
+      "dish": "70% dark cooking chocolate 25 g",
+      "kcal": 145,
+      "p": 2,
+      "c": 11,
+      "f": 11,
+      "notes": "Weighed — cleaner than finger estimate.",
+      "portions": "chocolate **25 g** (weighed).",
+      "confidence": "90–95% sure · weighed; same cooking bar density.",
+      "backfill": false
     }
   ],
   "daily": [
@@ -4118,11 +4131,11 @@ window.HC = {
     },
     {
       "date": "2026-11-06",
-      "kcal": 1588,
-      "p": 170,
-      "c": 154,
-      "f": 31,
-      "n": 4
+      "kcal": 1733,
+      "p": 172,
+      "c": 165,
+      "f": 42,
+      "n": 5
     }
   ],
   "recipes": [

@@ -2054,3 +2054,19 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** Rice at 200 g cap. Spray-era biryani — much leaner than classic oily biryani.
 
 ---
+
+## 2026-11-06 — Evening snack
+
+**Dish:** 70% dark cooking chocolate **25 g**.
+
+**Portions:** chocolate **25 g** (weighed).
+
+**Macros:** **145 kcal · P 2 · C 11 · F 11**  
+(~580 kcal/100 g for 70% dark cooking chocolate.)
+
+**Shortcut line:** `Food Log | 70pct dark chocolate 25g | 145 | 2 | 11 | 11`  
+**Confidence:** 90–95% sure · weighed; same cooking bar density.
+
+**Notes:** Weighed — cleaner than finger estimate.
+
+---
