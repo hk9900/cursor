@@ -2102,3 +2102,19 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** Same spray biryani batch as 6 Nov dinner.
 
 ---
+
+## 2026-11-07 — Snack
+
+**Dish:** Melon **220 g** (orange / meloa).
+
+**Portions:** melon **220 g**.
+
+**Macros:** **75 kcal · P 1 · C 18 · F 0**  
+(~34 kcal/100 g cantaloupe-style.)
+
+**Shortcut line:** `Food Log | Melon 220g | 75 | 1 | 18 | 0`  
+**Confidence:** 90–95% sure · weighed; same melon type as 6 Nov.
+
+**Notes:** Fruit snack.
+
+---

@@ -3840,6 +3840,19 @@ window.HC = {
       "portions": "botiyan bone-in **200 g** (~**162 g** edible) · rice **150 g** · Mythos/GY **20 g**.",
       "confidence": "75–82% sure · weighed; bone % from prior biryani plate — say if 200 g was edible meat only.",
       "backfill": false
+    },
+    {
+      "date": "2026-11-07",
+      "slot": "Snack",
+      "dish": "Melon 220 g (orange / meloa)",
+      "kcal": 75,
+      "p": 1,
+      "c": 18,
+      "f": 0,
+      "notes": "Fruit snack.",
+      "portions": "melon **220 g**.",
+      "confidence": "90–95% sure · weighed; same melon type as 6 Nov.",
+      "backfill": false
     }
   ],
   "daily": [
@@ -4165,11 +4178,11 @@ window.HC = {
     },
     {
       "date": "2026-11-07",
-      "kcal": 997,
-      "p": 119,
-      "c": 85,
+      "kcal": 1072,
+      "p": 120,
+      "c": 103,
       "f": 19,
-      "n": 2
+      "n": 3
     }
   ],
   "recipes": [
