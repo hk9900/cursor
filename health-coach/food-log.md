@@ -2073,16 +2073,16 @@ With sandwich → **~895 / 53 / 87 / 38**.
 
 ## 2026-11-07 — Breakfast
 
-**Dish:** Usual GY mix (Mythos 200 g + 1 tbsp Origens granola + 1 scoop Chocolate whey) + **2** small apples + pineapple pieces + Continente Light Café **Cacau** 250 ml (20 g protein).
+**Dish:** Mythos GY 2% 200 g + Philadelphia cottage 50 g + 1 tbsp Origens granola + 1 scoop Chocolate whey + **2** apples (25 g each) + pineapple **25 g** + Continente Light Café **Cacau** 250 ml.
 
-**Portions:** Mythos **200 g** · granola **1 tbsp (~10 g)** · whey **1 scoop** Chocolate · apples **2** small · pineapple pieces **~100 g** est. · Light Café Cacau **250 ml**.
+**Portions:** Mythos **200 g** · cottage **50 g** · granola **1 tbsp (~10 g)** · whey **1 scoop** Chocolate · apples **2 × 25 g** · pineapple **25 g** · Light Café Cacau **250 ml**.
 
-**Macros:** **583 kcal · P 57 · C 73 · F 7**  
-(GY mix base ~273/37/17/6 · 2 small apples ~120/0/32/0 · pineapple ~50/0/12/0 · Cacau café 250 ml ~140/20/12/1 @ 56 kcal/100 ml.)
+**Macros:** **500 kcal · P 62 · C 41 · F 9**  
+(GY ~110/11/8/4 · cottage ~48/5/2/2 · granola ~41/2/5/1 · whey ~122/24/4/1 · apples 50 g ~26/0/7/0 · pineapple 25 g ~13/0/3/0 · Cacau café ~140/20/12/1.)
 
-**Shortcut line:** `Food Log | GY mix apples pineapple Light Cafe Cacau | 583 | 57 | 73 | 7`  
-**Confidence:** 78–85% sure · Mythos/whey/café labels; pineapple grams estimated — say weigh pineapple or heaped granola / cottage in mix.
+**Shortcut line:** `Food Log | GY cottage apples pineapple Light Cafe Cacau | 500 | 62 | 41 | 9`  
+**Confidence:** 88–92% sure · weighed fruit + locked labels; level tbsp granola assumed — say if heaped.
 
-**Notes:** Cocoa Light Café (not plain). Fruit-heavy AM — protein solid from whey+café.
+**Notes:** Corrected fruit weights + cottage. Cacau café not shelved yet.
 
 ---

@@ -3818,14 +3818,14 @@ window.HC = {
     {
       "date": "2026-11-07",
       "slot": "Breakfast",
-      "dish": "Usual GY mix (Mythos 200 g + 1 tbsp Origens granola + 1 scoop Chocolate whey) + 2 small apples + pineapple pieces + Continente Light Café Cacau 250 ml (20 g protein)",
-      "kcal": 583,
-      "p": 57,
-      "c": 73,
-      "f": 7,
-      "notes": "Cocoa Light Café (not plain). Fruit-heavy AM — protein solid from whey+café.",
-      "portions": "Mythos **200 g** · granola **1 tbsp (~10 g)** · whey **1 scoop** Chocolate · apples **2** small · pineapple pieces **~100 g** est. · Light Café Cacau **250 ml**.",
-      "confidence": "78–85% sure · Mythos/whey/café labels; pineapple grams estimated — say weigh pineapple or heaped granola / cottage in mix.",
+      "dish": "Mythos GY 2% 200 g + Philadelphia cottage 50 g + 1 tbsp Origens granola + 1 scoop Chocolate whey + 2 apples (25 g each) + pineapple 25 g + Continente Light Café Cacau 250 ml",
+      "kcal": 500,
+      "p": 62,
+      "c": 41,
+      "f": 9,
+      "notes": "Corrected fruit weights + cottage. Cacau café not shelved yet.",
+      "portions": "Mythos **200 g** · cottage **50 g** · granola **1 tbsp (~10 g)** · whey **1 scoop** Chocolate · apples **2 × 25 g** · pineapple **25 g** · Light Café Cacau **250 ml**.",
+      "confidence": "88–92% sure · weighed fruit + locked labels; level tbsp granola assumed — say if heaped.",
       "backfill": false
     }
   ],
@@ -4152,10 +4152,10 @@ window.HC = {
     },
     {
       "date": "2026-11-07",
-      "kcal": 583,
-      "p": 57,
-      "c": 73,
-      "f": 7,
+      "kcal": 500,
+      "p": 62,
+      "c": 41,
+      "f": 9,
       "n": 1
     }
   ],
