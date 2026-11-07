@@ -2070,3 +2070,19 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** Weighed — cleaner than finger estimate.
 
 ---
+
+## 2026-11-07 — Breakfast
+
+**Dish:** Usual GY mix (Mythos 200 g + 1 tbsp Origens granola + 1 scoop Chocolate whey) + **2** small apples + pineapple pieces + Continente Light Café **Cacau** 250 ml (20 g protein).
+
+**Portions:** Mythos **200 g** · granola **1 tbsp (~10 g)** · whey **1 scoop** Chocolate · apples **2** small · pineapple pieces **~100 g** est. · Light Café Cacau **250 ml**.
+
+**Macros:** **583 kcal · P 57 · C 73 · F 7**  
+(GY mix base ~273/37/17/6 · 2 small apples ~120/0/32/0 · pineapple ~50/0/12/0 · Cacau café 250 ml ~140/20/12/1 @ 56 kcal/100 ml.)
+
+**Shortcut line:** `Food Log | GY mix apples pineapple Light Cafe Cacau | 583 | 57 | 73 | 7`  
+**Confidence:** 78–85% sure · Mythos/whey/café labels; pineapple grams estimated — say weigh pineapple or heaped granola / cottage in mix.
+
+**Notes:** Cocoa Light Café (not plain). Fruit-heavy AM — protein solid from whey+café.
+
+---

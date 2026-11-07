@@ -1,14 +1,14 @@
 window.HC = {
   "meta": {
     "name": "Hassan Khan",
-    "through": "2026-11-06",
+    "through": "2026-11-07",
     "weight": 111.2,
     "waist": 45,
     "startWeight": 120,
     "heightCm": 180.3,
     "dob": "1991-08-08",
     "city": "Lisbon",
-    "siteUpdated": "2026-11-06"
+    "siteUpdated": "2026-11-07"
   },
   "weightCut": {
     "labels": [
@@ -3814,6 +3814,19 @@ window.HC = {
       "portions": "chocolate **25 g** (weighed).",
       "confidence": "90–95% sure · weighed; same cooking bar density.",
       "backfill": false
+    },
+    {
+      "date": "2026-11-07",
+      "slot": "Breakfast",
+      "dish": "Usual GY mix (Mythos 200 g + 1 tbsp Origens granola + 1 scoop Chocolate whey) + 2 small apples + pineapple pieces + Continente Light Café Cacau 250 ml (20 g protein)",
+      "kcal": 583,
+      "p": 57,
+      "c": 73,
+      "f": 7,
+      "notes": "Cocoa Light Café (not plain). Fruit-heavy AM — protein solid from whey+café.",
+      "portions": "Mythos **200 g** · granola **1 tbsp (~10 g)** · whey **1 scoop** Chocolate · apples **2** small · pineapple pieces **~100 g** est. · Light Café Cacau **250 ml**.",
+      "confidence": "78–85% sure · Mythos/whey/café labels; pineapple grams estimated — say weigh pineapple or heaped granola / cottage in mix.",
+      "backfill": false
     }
   ],
   "daily": [
@@ -4136,6 +4149,14 @@ window.HC = {
       "c": 165,
       "f": 42,
       "n": 5
+    },
+    {
+      "date": "2026-11-07",
+      "kcal": 583,
+      "p": 57,
+      "c": 73,
+      "f": 7,
+      "n": 1
     }
   ],
   "recipes": [
