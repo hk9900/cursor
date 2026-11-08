@@ -21,6 +21,10 @@ See also: Cursor skill `.cursor/skills/food-log/SKILL.md` for meal photo → est
 - Total 219 · LDL 149 · HDL 30 · TG 198 · Glucose 94
 
 ## Energy (locked cut)
+- **Priority stack (locked 8 Nov):** **1) calorie deficit** → **2) optimal protein** → **3) fats & carbs under check**
+  - Never blow the deficit to “fix” macros. Prefer fruit / lean volume over more pizza-mayo when kcal is tight.
+  - After kcal is safe, push protein toward **150–170 g** (whey / Light Café / chicken / GY) before adding starch or fat.
+  - Fat **45–65 g** · carbs **120–190 g** are guardrails, not the main scoreboard.
 - Food band **1,550–1,800 kcal/day** (prefer ~**1,650** like W2–W3 Notes avg)
 - Protein **150–170 g** · Fat **45–65 g** · Carbs **120–190 g**
 - BMR Mifflin ~**2,056** at 109.9 kg · Fitbit TDEE trend ~**2,600–3,100** (walks swing it)
@@ -43,7 +47,7 @@ See also: Cursor skill `.cursor/skills/food-log/SKILL.md` for meal photo → est
   Pot oil **1–1.5 tbsp** only if he says pot/tarka/baghaar/oily. Older **2 dish spoons ≈ 5–7 tbsp** — never unless he reverts.
 - Pot often feeds him + wife + toddler; leftovers common
 - Chai 1×/day — **keep** sugar or Canderel as logged; milk = meio-gordo 1.6%
-- Creep order now: **portion size** > oil > chai sugar
+- Creep order now: **kcal / portions** > oil > chai sugar · protein protected second
 - **Bread (locked 5 Nov):** **Continente Shape / shelf Shape = haram** — do not buy. Default sliced bread = **Bimbo Proteína** (~81 kcal / 7 P / slice). Prefer house roti when possible.
 
 ## Shelf & recipes
