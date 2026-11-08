@@ -2118,3 +2118,19 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** Fruit snack.
 
 ---
+
+## 2026-11-07 — Dinner
+
+**Dish:** Leftover spray biryani — chicken botiyan **172 g** (bone-in assumed) + biryani rice **221 g**.
+
+**Portions:** botiyan bone-in **172 g** (~**140 g** edible) · rice **221 g**.
+
+**Macros:** **543 kcal · P 51 · C 62 · F 10**  
+(Edible chicken ~244/44/2/7 · spray biryani rice ~299/7/60/3.)
+
+**Shortcut line:** `Food Log | Biryani botiyan rice | 543 | 51 | 62 | 10`  
+**Confidence:** 75–82% sure · weighed; bone % from prior plate — say if 172 g edible only. Rice slightly over 200 g cap.
+
+**Notes:** Same spray batch. Rice 221 g — note for next plate.
+
+---

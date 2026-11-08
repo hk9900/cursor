@@ -3853,6 +3853,19 @@ window.HC = {
       "portions": "melon **220 g**.",
       "confidence": "90–95% sure · weighed; same melon type as 6 Nov.",
       "backfill": false
+    },
+    {
+      "date": "2026-11-07",
+      "slot": "Dinner",
+      "dish": "Leftover spray biryani — chicken botiyan 172 g (bone-in assumed) + biryani rice 221 g",
+      "kcal": 543,
+      "p": 51,
+      "c": 62,
+      "f": 10,
+      "notes": "Same spray batch. Rice 221 g — note for next plate.",
+      "portions": "botiyan bone-in **172 g** (~**140 g** edible) · rice **221 g**.",
+      "confidence": "75–82% sure · weighed; bone % from prior plate — say if 172 g edible only. Rice slightly over 200 g cap.",
+      "backfill": false
     }
   ],
   "daily": [
@@ -4178,11 +4191,11 @@ window.HC = {
     },
     {
       "date": "2026-11-07",
-      "kcal": 1072,
-      "p": 120,
-      "c": 103,
-      "f": 19,
-      "n": 3
+      "kcal": 1615,
+      "p": 171,
+      "c": 165,
+      "f": 29,
+      "n": 4
     }
   ],
   "recipes": [
