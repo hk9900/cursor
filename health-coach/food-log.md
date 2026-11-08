@@ -2198,3 +2198,19 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** Phulki oil mid–high for small bowl. Sucralose not sugar.
 
 ---
+
+## 2026-11-08 — Late evening
+
+**Dish:** Fruit chaat **400 g** — apple, oranges, corn, blueberries (chaat masala assumed).
+
+**Portions:** mixed bowl **400 g** weighed · apple · oranges · corn · blueberries (shares not weighed).
+
+**Macros:** **250 kcal · P 5 · C 59 · F 2**  
+(~equal-share mix: fruit denser corn pulls P/C a bit; no sev/cream/sugar assumed.)
+
+**Shortcut line:** `Food Log | Fruit chaat 400g | 250 | 5 | 59 | 2`  
+**Confidence:** 82–88% sure · weighed total; corn share estimated — say if corn was most of the bowl.
+
+**Notes:** Closes the day on deficit priority. Protein still soft for Nov 8.
+
+---
