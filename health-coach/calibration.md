@@ -3,19 +3,19 @@
 Locked **1 Nov 2026 (W4)** after reconciling Notes deficit vs Sunday scale.  
 Hassan asked for **accuracy, not flattering lows**. Update this file on every Sunday weekly log.
 
-## Empirical finding (W1 → W4)
+## Empirical finding (W1 → W5)
 
 | Signal | Rating | Bias |
 |--------|--------|------|
 | Fitbit Air / Google Fit **total burn** | Direction strong · absolute soft | Likely **~10–15% high** on walk weeks |
 | Food Log / Notes **intake** | Trend strong · absolute soft | Likely **~10–15% low** (oil + starch + “light” assumptions) |
-| Notes **deficit** (burn − intake) | Poor as raw fat predictor | Face value ≈ **1.4×** fat-loss deficit over W1→W4 |
+| Notes **deficit** (burn − intake) | Soft as raw fat predictor | W1→W4 ≈ **1.4×**; **W5 alone ≈ 0.89×** (better match after spray + walks) |
 
 - W1→W4 scale: **−2.3 kg**. Notes deficit sum ≈ **25.6k kcal** → predicts **~3.3 kg** fat @ 7,700 kcal/kg.
-- Implied true avg deficit ≈ **~840 kcal/day** vs Notes ≈ **~1,220**.
-- W4 (no walks): burn dropped and loss slowed — Fitbit **direction** trusted; don’t eat burn back.
+- **W5 (8 Nov):** deficit **8,921** → pred **~1.16 kg** · scale **−1.3 kg** · ratio **~0.89** → **hold** nudges.
+- W4 (no walks): burn dropped and loss slowed — Fitbit **direction** trusted; W5 walks restored burn ~2,991 — don’t eat burn back.
 
-**Planning rule:** treat Notes deficit × **~0.65–0.75** when forecasting fat loss. Judge the cut by **scale + waist**, not deficit cosplay.
+**Planning rule:** treat Notes deficit × **~0.65–0.75** when forecasting fat loss (still useful on multi-week windows). Judge the cut by **scale + waist**, not deficit cosplay.
 
 ## Cook-fat default (locked 2 Nov 2026)
 
@@ -54,6 +54,7 @@ When Hassan pastes a weekly Notes row (date · weight · waist · tapes · steps
 |-----------|------------------|--------|-----------------|
 | W4 review (1 Nov) | W1→W4 ≈ **1.4** | **Raise** oil/roti/sauce assumptions | Oil plate ~9–12 g · roti ~120 · mayo default moderate |
 | **2 Nov correction** | User: spray × ~3 weeks | **Override oil default → spray** | Sabzi/gosht = **spray** · roti ~120 · mayo moderate · pot oil only if stated |
+| **W5 (8 Nov)** | W5 ≈ **0.89** · W4+W5 rolling ≈ **1.24** | **Hold** | Sabzi/gosht = **spray** · roti ~120 · mayo moderate · pot oil only if stated |
 
 ## Fitbit / burn (locked interpretation)
 

@@ -17,6 +17,18 @@ Height: **180.3 cm** · Week 0 weight **115.9 kg** (27 Sep 2026)
 | 2 | 18/Oct/2026 | 112.9 | 46.5 | 48.5 | 15 | 22 | 16098 | 11533 / 7d → **avg 1648** | 21213 / 7d → **avg 3030** | 9680 / 7d → **avg 1383** | 7 (2 cookies extra) |
 | 3 | 25/Oct/2026 | 111.5 | 45.5 | 48.5 | 14.5 | 23.5 | 20007 | 11529 / 7d → **avg 1647** | 21037 / 7d → **avg 3005** | 9508 / 7d → **avg 1358** | 8 (good overall) |
 | 4 | 01/Nov/2026 | 111.2 | 45 | 47 | 14.5 | 22 | 17165 | 11996 / 7d → **avg 1714** | 18405 / 7d → **avg 2629** | 6409 / 7d → **avg 916** | 5 (skipped walk whole week) |
+| 5 | 08/Nov/2026 | 109.9 | 45 | 46 | 14.5 | 22.5 | 21520 | 12014 / 7d → **avg 1716** | 20935 / 7d → **avg 2991** | 8921 / 7d → **avg 1274** | 8 (very good, no walk miss, no cheat, good protein) |
+
+### Week 5 derived (8 Nov)
+- Weight vs W4: **−1.3 kg** · vs W0: **−6.0 kg** · vs start 120: **−10.1 kg**
+- Waist: **flat 45″** · total from W1: **48 → 45″ (−3.0″)**
+- Chest **47 → 46″** · Bicep **flat 14.5″** · Thigh **22 → 22.5″** (tape/water noise OK)
+- WHtR: 45 ÷ 70.9 ≈ **0.63**
+- Intake avg **~1,716** — still in band ✓ (same as W4 ~1,714)
+- Burn avg **~2,991** · deficit avg **~1,274** — burn/deficit back near W2–W3 after walks resumed
+- Steps TILSD **21,520** → ~**3,074**/day — strong week; walks restored
+- Calibration: Notes deficit **8,921** → pred **~1.16 kg** · scale **−1.3 kg** · ratio **~0.89** → **hold** spray/roti/mayo nudges
+- Note: motiv **8** / no walk miss / no cheat / good protein — best process week since W3; hold the plan
 
 ### Week 4 derived (1 Nov)
 - Weight vs W3: **−0.3 kg** · vs W0: **−4.7 kg** · vs start 120: **−8.8 kg**

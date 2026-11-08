@@ -160,10 +160,26 @@
     while (charts.length) charts.pop().destroy();
   }
 
+  function latestWeek() {
+    const weeks = HC.weeks || [];
+    return weeks.length ? weeks[weeks.length - 1] : null;
+  }
+
+  function weekLabel(w) {
+    return w ? `W${w.week}` : "Current";
+  }
+
+  function intakeAvg(w) {
+    if (!w || !w.intake) return "—";
+    const m = String(w.intake).match(/avg\s+(\d+)/i);
+    return m ? m[1] : String(w.intake);
+  }
+
   function renderHero() {
     const lost = (HC.meta.startWeight - HC.meta.weight).toFixed(1);
+    const throughLabel = (HC.meta.through || "").replace(/^(\d{4})-(\d{2})-(\d{2})$/, (_, y, m, d) => `${d} ${["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"][+m - 1]}`);
     document.getElementById("hero-stats").innerHTML = [
-      stat(`${HC.meta.weight} kg`, "Current (25 Oct)", "good"),
+      stat(`${HC.meta.weight} kg`, throughLabel ? `Current (${throughLabel})` : "Current", "good"),
       stat(`−${lost} kg`, "Since Fitbit start", "good"),
       stat(String(HC.totals.meals), "Food Logs archived"),
       stat(String(HC.labels.length), "Shelf labels"),
@@ -174,28 +190,34 @@
 
   function renderOverview() {
     const root = document.getElementById("panel-overview");
+    const w = latestWeek();
+    const wLab = weekLabel(w);
+    const intake = intakeAvg(w);
+    const cutEnd = (HC.weightCut && HC.weightCut.labels && HC.weightCut.labels.length)
+      ? HC.weightCut.labels[HC.weightCut.labels.length - 1]
+      : (HC.meta.through || "");
     root.innerHTML = `
       <div class="stack">
         <div class="callout">
-          <strong>Week 4: ${HC.meta.weight} kg · waist ${HC.meta.waist}″</strong>
+          <strong>${wLab}: ${HC.meta.weight} kg · waist ${HC.meta.waist}″</strong>
           Full archive loaded — ${HC.totals.meals} meals, ${HC.labels.length} pack labels,
           ${HC.recipes.length} household recipes, Fitbit days, Apple windows, Sunday metrics.
-          Notes intake W4 ~1,714 (still in band). Walks skipped W4 — resume NEAT, don’t crash-cut.
+          Notes intake ${wLab} ~${intake} (still in band). Walks restored W5 — hold plan, don’t crash-cut.
         </div>
         <div class="grid-4">
           ${stat(`${HC.meta.waist}″`, "Waist (was 48″)", "good")}
-          ${stat("1,714", "W4 Notes intake", "info")}
+          ${stat(intake, `${wLab} Notes intake`, "info")}
           ${stat(HC.totals.kcal.toLocaleString(), "Sum logged kcal")}
           ${stat(`${HC.totals.protein.toLocaleString()} g`, "Sum logged protein")}
         </div>
-        ${chartCard("Weight — current cut", "Sunday weigh-ins · Sep 23 – Nov 1 2026", "c-weight")}
+        ${chartCard("Weight — current cut", `Sunday weigh-ins · Sep 23 – ${cutEnd} 2026`, "c-weight")}
         ${chartCard("Daily logged kcal (all Food Logs)", "food-log.md day sums · early dates estimated", "c-ov-kcal")}
         ${chartCard("Daily logged protein", "Target 150–170 g", "c-ov-p", true)}
         <div class="grid-2">
           ${tableCard("Sunday weekly metrics", "Notes table truth", [
             { label: "Week" }, { label: "Date" }, { label: "kg", num: true },
             { label: "Waist" }, { label: "Intake" }, { label: "Burn" }, { label: "Motiv" },
-          ], HC.weeks.map((w) => [String(w.week), w.date, String(w.weight), w.waist, w.intake, w.burn, w.motiv]),
+          ], HC.weeks.map((row) => [String(row.week), row.date, String(row.weight), row.waist, row.intake, row.burn, row.motiv]),
           [undefined, undefined, "good", "good"])}
           ${tableCard("Phased targets", "", [
             { label: "Phase" }, { label: "Target" },
@@ -215,7 +237,7 @@
       </div>`;
     lineChart("c-weight", HC.weightCut.labels, [
       { label: "Weight (kg)", data: HC.weightCut.kg, color: info, fill: info + "18" },
-    ], { beginAtZero: false, min: 108, max: 122 });
+    ], { beginAtZero: false, min: 105, max: 122 });
     lineChart("c-ov-kcal", HC.mealDays, [
       { label: "Logged kcal", data: HC.mealKcal, color: info, fill: info + "14" },
     ]);
@@ -226,21 +248,23 @@
 
   function renderBody() {
     const root = document.getElementById("panel-body");
+    const w = latestWeek();
+    const lost = (HC.meta.startWeight - HC.meta.weight).toFixed(1);
     root.innerHTML = `
       <div class="stack">
         <div class="grid-4">
-          ${stat(`${HC.meta.weight} kg`, "Week 4", "good")}
+          ${stat(`${HC.meta.weight} kg`, weekLabel(w), "good")}
           ${stat(`${HC.meta.waist} in`, "Waist", "good")}
-          ${stat("47 in", "Chest")}
-          ${stat("14.5 / 22", "Bicep / thigh")}
+          ${stat(`${w && w.chest && w.chest !== "—" ? w.chest : "—"} in`, "Chest")}
+          ${stat(`${w && w.bicep && w.bicep !== "—" ? w.bicep : "—"} / ${w && w.thigh && w.thigh !== "—" ? w.thigh : "—"}`, "Bicep / thigh")}
         </div>
-        ${chartCard("Current cut", "120 → 111.2 · −8.8 kg", "c-body-weight")}
+        ${chartCard("Current cut", `${HC.meta.startWeight} → ${HC.meta.weight} · −${lost} kg`, "c-body-weight")}
         ${chartCard("Past cut — Xiaomi 2019–2020", "107.3 → 93.2 kg", "c-past-cut")}
         ${tableCard("Full tape log", "", [
           { label: "Week" }, { label: "Date" }, { label: "Weight", num: true },
           { label: "Waist" }, { label: "Chest" }, { label: "Bicep R" },
           { label: "Thigh R" }, { label: "Steps TILSD" }, { label: "Motiv" },
-        ], HC.weeks.map((w) => [String(w.week), w.date, String(w.weight), w.waist, w.chest, w.bicep, w.thigh, w.steps, w.motiv]))}
+        ], HC.weeks.map((row) => [String(row.week), row.date, String(row.weight), row.waist, row.chest, row.bicep, row.thigh, row.steps, row.motiv]))}
         <div class="grid-2">
           ${tableCard("Labs — Unilabs 28 Apr 2026", "", [
             { label: "Marker" }, { label: "Value", num: true }, { label: "Flag" },
@@ -253,7 +277,7 @@
       </div>`;
     lineChart("c-body-weight", HC.weightCut.labels, [
       { label: "kg", data: HC.weightCut.kg, color: good, fill: good + "18" },
-    ], { beginAtZero: false, min: 108, max: 122 });
+    ], { beginAtZero: false, min: 105, max: 122 });
     lineChart("c-past-cut", HC.pastCut.labels, [
       { label: "Weight (kg)", data: HC.pastCut.kg, color: info, fill: info + "18" },
     ], { beginAtZero: false, min: 90, max: 110 });
