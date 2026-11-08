@@ -2150,3 +2150,51 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** Same cooking bar as 6 Nov. Eaten **2026-11-07 23:50** (Lisbon) — not 8 Nov.
 
 ---
+
+## 2026-11-08 — Snack
+
+**Dish:** Very small apple + very small keenu + espresso.
+
+**Portions:** apple **1** very small · keenu **1** very small · espresso **1**.
+
+**Macros:** **85 kcal · P 1 · C 22 · F 0**  
+(Apple ~45/0/12/0 · keenu ~35/1/9/0 · espresso ~5/0/1/0.)
+
+**Shortcut line:** `Food Log | Apple keenu espresso | 85 | 1 | 22 | 0`  
+**Confidence:** 88–92% sure · fruit size stated; espresso ~negligible.
+
+**Notes:** Fruit + black espresso.
+
+---
+
+## 2026-11-08 — Lunch/Dinner
+
+**Dish:** Takeout — **2** pizza slices (chicken/veg ref photo) + **½** crispy chicken sandwich (breaded chicken, fried egg, mayo, lettuce, thick toast).
+
+**Portions:** pizza **2** slices · sandwich **½** (photo cross-section).
+
+**Macros:** **1230 kcal · P 56 · C 104 · F 60**  
+(Pizza 2× ~340 → 680/28/70/30 · half sandwich ~550/28/34/30 — thick bread + fried chicken + egg + takeout mayo mid–high.)
+
+**Shortcut line:** `Food Log | 2 pizza + half crispy chicken sandwich | 1230 | 56 | 104 | 60`  
+**Confidence:** 68–76% sure · photo portions; takeout oil/mayo/crust density estimated — say if thin crust or light mayo.
+
+**Notes:** Both takeout. Sandwich includes visible fried egg + creamy sauce. Rare takeout day — protein light for the day.
+
+---
+
+## 2026-11-08 — Evening
+
+**Dish:** Small bowl dahi phulki + chai (**1 tsp** sucralose).
+
+**Portions:** dahi phulki **1** small bowl · chai **1** (meio-gordo milk assumed) · sucralose **1 tsp**.
+
+**Macros:** **344 kcal · P 19 · C 32 · F 15**  
+(Dahi phulki ~250/12/22/12 · chai ~94/7/10/3.)
+
+**Shortcut line:** `Food Log | Dahi phulki chai sucralose | 344 | 19 | 32 | 15`  
+**Confidence:** 70–78% sure · no bowl photo; phulki count/oil estimated — say grams or fritter count.
+
+**Notes:** Phulki oil mid–high for small bowl. Sucralose not sugar.
+
+---
