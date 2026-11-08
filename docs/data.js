@@ -3870,12 +3870,13 @@ window.HC = {
     {
       "date": "2026-11-07",
       "slot": "Evening snack",
+      "time": "23:50",
       "dish": "70% dark cooking chocolate 25 g",
       "kcal": 145,
       "p": 2,
       "c": 11,
       "f": 11,
-      "notes": "Same cooking bar as 6 Nov.",
+      "notes": "Same cooking bar as 6 Nov. Eaten 2026-11-07 23:50 (Lisbon) — not 8 Nov.",
       "portions": "chocolate **25 g** (same as 6 Nov weighed piece).",
       "confidence": "88–92% sure · same weighed portion as yesterday — say if different size.",
       "backfill": false

@@ -2135,7 +2135,7 @@ With sandwich → **~895 / 53 / 87 / 38**.
 
 ---
 
-## 2026-11-07 — Evening snack
+## 2026-11-07 — Evening snack · 23:50
 
 **Dish:** 70% dark cooking chocolate **25 g**.
 
@@ -2147,6 +2147,6 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Shortcut line:** `Food Log | 70pct dark chocolate 25g | 145 | 2 | 11 | 11`  
 **Confidence:** 88–92% sure · same weighed portion as yesterday — say if different size.
 
-**Notes:** Same cooking bar as 6 Nov.
+**Notes:** Same cooking bar as 6 Nov. Eaten **2026-11-07 23:50** (Lisbon) — not 8 Nov.
 
 ---
