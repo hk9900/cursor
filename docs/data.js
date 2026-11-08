@@ -3866,6 +3866,19 @@ window.HC = {
       "portions": "botiyan bone-in **172 g** (~**140 g** edible) · rice **221 g** · Mythos/GY **20 g**.",
       "confidence": "75–82% sure · weighed; bone % from prior plate — say if 172 g edible only. Rice slightly over 200 g cap.",
       "backfill": false
+    },
+    {
+      "date": "2026-11-07",
+      "slot": "Evening snack",
+      "dish": "70% dark cooking chocolate 25 g",
+      "kcal": 145,
+      "p": 2,
+      "c": 11,
+      "f": 11,
+      "notes": "Same cooking bar as 6 Nov.",
+      "portions": "chocolate **25 g** (same as 6 Nov weighed piece).",
+      "confidence": "88–92% sure · same weighed portion as yesterday — say if different size.",
+      "backfill": false
     }
   ],
   "daily": [
@@ -4191,11 +4204,11 @@ window.HC = {
     },
     {
       "date": "2026-11-07",
-      "kcal": 1626,
-      "p": 172,
-      "c": 166,
-      "f": 29,
-      "n": 4
+      "kcal": 1771,
+      "p": 174,
+      "c": 177,
+      "f": 40,
+      "n": 5
     }
   ],
   "recipes": [

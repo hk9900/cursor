@@ -2134,3 +2134,19 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** Same spray batch. Rice 221 g — note for next plate.
 
 ---
+
+## 2026-11-07 — Evening snack
+
+**Dish:** 70% dark cooking chocolate **25 g**.
+
+**Portions:** chocolate **25 g** (same as 6 Nov weighed piece).
+
+**Macros:** **145 kcal · P 2 · C 11 · F 11**  
+(~580 kcal/100 g for 70% dark cooking chocolate.)
+
+**Shortcut line:** `Food Log | 70pct dark chocolate 25g | 145 | 2 | 11 | 11`  
+**Confidence:** 88–92% sure · same weighed portion as yesterday — say if different size.
+
+**Notes:** Same cooking bar as 6 Nov.
+
+---
