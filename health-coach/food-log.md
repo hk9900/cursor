@@ -2246,3 +2246,19 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** Classic bread not Bimbo — more C, less P per slice.
 
 ---
+
+## 2026-11-09 — Snack
+
+**Dish:** Melon **290 g** (orange / meloa).
+
+**Portions:** melon **290 g**.
+
+**Macros:** **99 kcal · P 1 · C 24 · F 0**  
+(~34 kcal/100 g cantaloupe-style.)
+
+**Shortcut line:** `Food Log | Melon 290g | 99 | 1 | 24 | 0`  
+**Confidence:** 90–95% sure · weighed; same melon type as recent.
+
+**Notes:** Fruit snack.
+
+---
