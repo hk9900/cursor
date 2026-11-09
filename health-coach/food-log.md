@@ -2230,3 +2230,19 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** Same chaat mix as 8 Nov. Strong AM protein start.
 
 ---
+
+## 2026-11-09 — Brunch
+
+**Dish:** 1 whole egg + **100 g** egg whites fried (**1 spray**) + **2** Continente classic bread slices.
+
+**Portions:** whole egg **1** · whites **100 g** · spray **1** · classic bread **2**.
+
+**Macros:** **287 kcal · P 23 · C 30 · F 8**  
+(Egg ~72/6/1/5 · whites ~47/11/1/0 · 2 bread ~160/6/28/2 · spray ~8/0/0/1.)
+
+**Shortcut line:** `Food Log | Egg whites classic bread spray | 287 | 23 | 30 | 8`  
+**Confidence:** 90–94% sure · bread + whites labels; large-egg + spray.
+
+**Notes:** Classic bread not Bimbo — more C, less P per slice.
+
+---
