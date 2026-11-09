@@ -2262,3 +2262,19 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** Fruit snack.
 
 ---
+
+## 2026-11-09 — Dinner
+
+**Dish:** Chicken breast tenders **200 g** (**1 spray**) + kachri/khara qeema **150 g** (**1 spray**) + **2** medium roti.
+
+**Portions:** chicken breast tenders **200 g** · qeema **150 g** · roti **2** · cook fat **1 spray** each on chicken + qeema.
+
+**Macros:** **880 kcal · P 96 · C 51 · F 31**  
+(Chicken spray ~340/62/0/8 · beef-style qeema spray mid–high ~300/26/5/17 · 2 roti ~240/8/46/6.)
+
+**Shortcut line:** `Food Log | Chicken tenders qeema 2 roti | 880 | 96 | 51 | 31`  
+**Confidence:** 72–80% sure · weighed; qeema assumed beef khara-style + spray — say if chicken mince or veg-heavy kachri mix.
+
+**Notes:** Strong protein dinner. Starch = 2 roti only (no rice) ✓.
+
+---
