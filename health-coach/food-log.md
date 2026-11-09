@@ -2278,3 +2278,19 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** Strong protein dinner. Starch = 2 roti only (no rice) ✓.
 
 ---
+
+## 2026-11-09 — Evening snack
+
+**Dish:** 70% dark cooking chocolate **6.2 g**.
+
+**Portions:** chocolate **6.2 g** (weighed).
+
+**Macros:** **36 kcal · P 1 · C 3 · F 3**  
+(Scaled from 25 g @ 145/2/11/11 · ~580 kcal/100 g.)
+
+**Shortcut line:** `Food Log | 70pct dark chocolate 6.2g | 36 | 1 | 3 | 3`  
+**Confidence:** 92–95% sure · weighed; same cooking bar density.
+
+**Notes:** Small weighed piece — clean close.
+
+---
