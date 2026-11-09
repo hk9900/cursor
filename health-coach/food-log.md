@@ -2214,3 +2214,19 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** Closes the day on deficit priority. Protein still soft for Nov 8.
 
 ---
+
+## 2026-11-09 — Breakfast
+
+**Dish:** Fruit chaat **150 g** (same mix) + Mythos GY **200 g** + Philadelphia cottage **50 g** + Critical Whey Chocolate **1 scoop** + Origens granola **2 tbsp**.
+
+**Portions:** chaat **150 g** · Mythos **200 g** · cottage **50 g** · whey **1 scoop** Chocolate · granola **2 tbsp (~20 g)**.
+
+**Macros:** **455 kcal · P 46 · C 46 · F 10**  
+(Chaat ~94/2/22/1 · GY ~110/11/8/4 · cottage ~48/5/2/2 · whey ~122/24/4/1 · level granola ~81/4/10/2.)
+
+**Shortcut line:** `Food Log | GY cottage whey granola chaat | 455 | 46 | 46 | 10`  
+**Confidence:** 85–90% sure · weighed chaat + locked labels; level tbsp granola — say if heaped (~+30 kcal).
+
+**Notes:** Same chaat mix as 8 Nov. Strong AM protein start.
+
+---
