@@ -49,6 +49,7 @@ See also: Cursor skill `.cursor/skills/food-log/SKILL.md` for meal photo → est
 - Chai 1×/day — **keep** sugar or Canderel as logged; milk = meio-gordo 1.6%
 - Creep order now: **kcal / portions** > oil > chai sugar · protein protected second
 - **Bread (locked 5 Nov):** **Continente Shape / shelf Shape = haram** — do not buy. Default sliced bread = **Bimbo Proteína** (~81 kcal / 7 P / slice). Prefer house roti when possible.
+- **GY mix (locked 10 Nov):** Mythos **150 g** + Philly cottage **50 g** + whey **1 scoop** + Origens granola **2 level tbsp** + fruit **~7–8 berries** (fruit *type* may change; keep same qty). Base ~**341 / 41 / 24 / 8**.
 
 ## Shelf & recipes
 - Labels: `health-coach/labels.md`

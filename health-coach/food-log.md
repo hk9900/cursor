@@ -2294,3 +2294,19 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** Small weighed piece — clean close.
 
 ---
+
+## 2026-11-10 — Breakfast
+
+**Dish:** GY mix — Mythos **150 g** + Philadelphia cottage **50 g** + Critical Whey Chocolate **1 scoop** + Origens granola **2 tbsp** + **7–8** berries.
+
+**Portions:** Mythos **150 g** · cottage **50 g** · whey **1 scoop** · granola **2 level tbsp (~20 g)** · berries **7–8**.
+
+**Macros:** **341 kcal · P 41 · C 24 · F 8**  
+(GY ~83/8/6/3 · cottage ~48/5/2/2 · whey ~122/24/4/1 · level granola ~81/4/10/2 · berries ~7/0/2/0.)
+
+**Shortcut line:** `Food Log | GY mix cottage whey granola berries | 341 | 41 | 24 | 8`  
+**Confidence:** 88–92% sure · locked mix + labels; level tbsp granola — say if heaped.
+
+**Notes:** New locked GY mix base (10 Nov). Fruit type may swap; qty stays ~7–8 berries / equal small fruit.
+
+---
