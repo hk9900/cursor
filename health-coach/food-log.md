@@ -2358,3 +2358,19 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** One starch (roti) ✓. Light chocolate close.
 
 ---
+
+## 2026-11-10 — Evening
+
+**Dish:** Same chicken breast botiyan **150 g** (tikka-style) + aloo palak **120 g** (**1 spray** assumed) + **1** roti.
+
+**Portions:** botiyan **150 g** · aloo palak **120 g** · roti **1** · cook fat **spray** on sabzi (chicken same batch).
+
+**Macros:** **528 kcal · P 55 · C 45 · F 16**  
+(Chicken ~263/47/2/8 · aloo palak spray mid–high ~145/4/20/5 · roti ~120/4/23/3.)
+
+**Shortcut line:** `Food Log | Botiyan aloo palak 1 roti | 528 | 55 | 45 | 16`  
+**Confidence:** 75–82% sure · weighed; same tikka breast batch · spray on palak — say if pot oil or extra aloo-heavy.
+
+**Notes:** Second starch today (roti earlier + now) — still in band if day closes here.
+
+---
