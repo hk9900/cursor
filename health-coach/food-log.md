@@ -2342,3 +2342,19 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** Tiny crisp with soup.
 
 ---
+
+## 2026-11-10 — Dinner
+
+**Dish:** Chicken breast boti tikka **100 g** + kachri qeema **80 g** + **1** roti + arvi bhujia **2 tbsp** + **1** keenu + 70% dark chocolate **5 g**.
+
+**Portions:** chicken breast boti **100 g** (tikka-style / spray assumed) · qeema **80 g** (spray assumed) · roti **1** · arvi bhujia **~30 g** (2 tbsp) · keenu **1** · chocolate **5 g**.
+
+**Macros:** **565 kcal · P 51 · C 46 · F 20**  
+(Chicken ~175/31/1/5 · qeema spray mid–high ~160/14/3/9 · roti ~120/4/23/3 · arvi ~30/1/5/1 · keenu ~50/1/12/0 · chocolate ~29/0/2/2.)
+
+**Shortcut line:** `Food Log | Chicken qeema roti arvi keenu chocolate | 565 | 51 | 46 | 20`  
+**Confidence:** 72–80% sure · weighed meat; 2 tbsp arvi ≈30 g · spray assumed on chicken/qeema — say if pot oil or heaped tbsp.
+
+**Notes:** One starch (roti) ✓. Light chocolate close.
+
+---
