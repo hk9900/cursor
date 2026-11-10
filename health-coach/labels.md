@@ -155,6 +155,19 @@ Homemade pots stay in `recipes.md`. Packaged labels live **here**.
   - `100 g` → **96 / 10 / 3 / 5**
 - OK in GY mix for texture; mid fat for cottage — prefer leaner tubs if you find **magro / 1–2%**. Salty — start small in sweet bowls.
 
+## Knorr Gourmet — Sopa de Tomate com Queijo Mozarela (dehydrated)
+- Saved: **2026-11-10** · source: back-of-pack nutrition photo · locked by Hassan
+- Product: dehydrated prep for tomato soup with mozzarella · pack **64 g** → **2 × 250 ml** portions
+- Log unit: **1 portion (250 ml prepared)** · or whole pack / 100 ml prepared
+- Per **250 ml portion**: **122 kcal · P 3.7 · C 18 · F 3.9** (sugars 9.2, sat 2.5, fiber 1.7, salt **1.6**)
+- Per **100 ml prepared**: **49 kcal · P 1.5 · C 7.0 · F 1.6**
+- Per **100 g dry**: **382 kcal · P 12 · C 55 · F 12** (sugars 29, salt 5.0)
+- Whole pack (both portions): **244 / 7 / 36 / 8**
+- Quick log:
+  - `1 Knorr tomato mozarella soup` / `1 portion` → **122 / 4 / 18 / 4**
+  - `full pack` → **244 / 7 / 36 / 8**
+- Low protein · sugar + salt relatively high for a “light” soup — fine as a low-kcal warm bowl, not a protein meal.
+
 ## Continente — Morangos inteiros congelados (frozen whole strawberries)
 - Saved: 2026-10-15 · source: label photo
 - Log unit: **per 100 g** (pack portion 150 g ≈ 5 portions/bag)

@@ -4645,6 +4645,23 @@ window.HC = {
       }
     },
     {
+      "name": "Knorr Gourmet — Sopa de Tomate com Queijo Mozarela",
+      "bullets": [
+        "Saved: **2026-11-10** · source: back-of-pack nutrition photo · locked by Hassan",
+        "Product: dehydrated tomato + mozzarella soup · pack **64 g** → **2 × 250 ml**",
+        "Per **250 ml portion**: **122 kcal · P 3.7 · C 18 · F 3.9** (sugars 9.2, sat 2.5, fiber 1.7, salt **1.6**)",
+        "Per **100 ml prepared**: **49 / 1.5 / 7 / 1.6** · dry **100 g**: **382 / 12 / 55 / 12**",
+        "Quick log: `1 portion` → **122 / 4 / 18 / 4** · `full pack` → **244 / 7 / 36 / 8**",
+        "Low protein · sugar + salt high — warm low-kcal bowl, not a protein meal."
+      ],
+      "macros": {
+        "kcal": 122.0,
+        "p": 3.7,
+        "c": 18.0,
+        "f": 3.9
+      }
+    },
+    {
       "name": "Protein granola — flocos crocantes aveia/trigo + fruta (0.4 kg) · legacy",
       "bullets": [
         "Saved: 2026-10-15 · superseded **2026-11-05** by Origens Bio (use only if that pack is what he ate)",
@@ -5087,7 +5104,7 @@ window.HC = {
     "days": 44,
     "kcal": 77538,
     "protein": 5366,
-    "labels": 33,
+    "labels": 36,
     "recipes": 15
   },
   "topMeals": [
