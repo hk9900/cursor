@@ -2310,3 +2310,19 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** New locked GY mix base (10 Nov). Fruit type may swap; qty stays ~7–8 berries / equal small fruit.
 
 ---
+
+## 2026-11-10 — Snack
+
+**Dish:** Knorr Gourmet tomato + mozzarella soup — **1** of **2** pack bowls (250 ml portion).
+
+**Portions:** **1** bowl / **½** pack (full pack makes 2 × 250 ml).
+
+**Macros:** **122 kcal · P 4 · C 18 · F 4**  
+(Locked shelf label per 250 ml portion.)
+
+**Shortcut line:** `Food Log | Knorr tomato mozarella soup 1 bowl | 122 | 4 | 18 | 4`  
+**Confidence:** 95–98% sure · pack label; half of 2-bowl pack.
+
+**Notes:** Low-kcal warm bowl. Salt ~1.6 g this portion.
+
+---
