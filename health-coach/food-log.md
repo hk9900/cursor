@@ -2326,3 +2326,19 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** Low-kcal warm bowl. Salt ~1.6 g this portion.
 
 ---
+
+## 2026-11-10 — Snack 2
+
+**Dish:** Continente classic bread — **⅕** slice, air-fried (no spray stated).
+
+**Portions:** classic bread **0.2** slice.
+
+**Macros:** **16 kcal · P 1 · C 3 · F 0**  
+(1 slice 80/2.9/14.2/1.0 → ÷5; AF dry assumed.)
+
+**Shortcut line:** `Food Log | Classic bread 1 fifth AF | 16 | 1 | 3 | 0`  
+**Confidence:** 90–94% sure · label math; say if spray on the bread.
+
+**Notes:** Tiny crisp with soup.
+
+---
