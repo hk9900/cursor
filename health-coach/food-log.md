@@ -2438,3 +2438,19 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** One starch (rice) ✓. Day protein still a bit light unless whey later.
 
 ---
+
+## 2026-11-11 — Evening snack
+
+**Dish:** 70% dark cooking chocolate **10 g**.
+
+**Portions:** chocolate **10 g**.
+
+**Macros:** **58 kcal · P 1 · C 4 · F 4**  
+(Scaled from 25 g @ 145/2/11/11 · ~580 kcal/100 g.)
+
+**Shortcut line:** `Food Log | 70pct dark chocolate 10g | 58 | 1 | 4 | 4`  
+**Confidence:** 90–95% sure · same cooking bar density.
+
+**Notes:** Small evening piece.
+
+---
