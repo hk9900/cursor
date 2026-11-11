@@ -2422,3 +2422,19 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** Roti 75 g is bigger than unweighed “medium” (~120 kcal) — weighed wins.
 
 ---
+
+## 2026-11-11 — Dinner
+
+**Dish:** Chicken breast botiyan **100 g** (tikka-style) + matar chawal **150 g** + Bahu Rani **50 g** + chachumber **50 g**.
+
+**Portions:** chicken **100 g** · matar chawal **150 g** · Bahu Rani **50 g** (baingan + yogurt, spray assumed) · chachumber **50 g**.
+
+**Macros:** **454 kcal · P 40 · C 49 · F 11**  
+(Chicken ~175/31/1/5 · matar chawal ~240/7/42/5 @ ~160/100 g · Bahu Rani spray ~28/2/4/1 · chachumber ~10/0/2/0.)
+
+**Shortcut line:** `Food Log | Chicken matar chawal Bahu Rani salad | 454 | 40 | 49 | 11`  
+**Confidence:** 78–85% sure · weighed photo plate; matar oil from prior pot density · spray on Bahu Rani — say if pot oil rice.
+
+**Notes:** One starch (rice) ✓. Day protein still a bit light unless whey later.
+
+---
