@@ -2406,3 +2406,19 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** Tostas label refreshed from 225 g pack photo. Canderel/sucralose assumed in chai.
 
 ---
+
+## 2026-11-11 — Lunch
+
+**Dish:** Same chicken breast botiyan **107 g** (tikka-style) + aloo palak **150 g** + **1** roti **75 g** (weighed).
+
+**Portions:** botiyan **107 g** · aloo palak **150 g** · roti **75 g** · spray assumed on sabzi.
+
+**Macros:** **579 kcal · P 46 · C 66 · F 17**  
+(Chicken ~188/34/1/6 · aloo palak spray ~181/5/25/6 · roti 75 g ~210/7/40/5.)
+
+**Shortcut line:** `Food Log | Botiyan aloo palak roti 75g | 579 | 46 | 66 | 17`  
+**Confidence:** 78–85% sure · weighed chicken + roti; spray on palak — say if pot oil.
+
+**Notes:** Roti 75 g is bigger than unweighed “medium” (~120 kcal) — weighed wins.
+
+---
