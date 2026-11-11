@@ -1,14 +1,14 @@
 window.HC = {
   "meta": {
     "name": "Hassan Khan",
-    "through": "2026-11-10",
+    "through": "2026-11-11",
     "weight": 109.9,
     "waist": 45,
     "startWeight": 120,
     "heightCm": 180.3,
     "dob": "1991-08-08",
     "city": "Lisbon",
-    "siteUpdated": "2026-11-10"
+    "siteUpdated": "2026-11-11"
   },
   "weightCut": {
     "labels": [
@@ -4077,6 +4077,19 @@ window.HC = {
       "portions": "tosta **1** · PB **1 tsp (~5 g)**.",
       "confidence": "85–90% sure · tosta label; generic PB tsp (brand not shelved).",
       "backfill": false
+    },
+    {
+      "date": "2026-11-11",
+      "slot": "Breakfast",
+      "dish": "GY mix (locked) + 1 chai + 3 tostas lightly spread Mimosa light butter",
+      "kcal": 553,
+      "p": 51,
+      "c": 49,
+      "f": 16,
+      "notes": "Tostas label refreshed from 225 g pack photo. Canderel/sucralose assumed in chai.",
+      "portions": "Mythos **150 g** · cottage **50 g** · whey **1 scoop** · granola **2 level tbsp** · berries **7–8** · chai **1** · tostas **3** · butter ~**1 tsp** lightly across.",
+      "confidence": "85–90% sure · locked mix + tosta label; butter ~1 tsp lightly — say if thicker smear or sugar in chai.",
+      "backfill": false
     }
   ],
   "daily": [
@@ -4431,6 +4444,14 @@ window.HC = {
       "c": 142,
       "f": 52,
       "n": 6
+    },
+    {
+      "date": "2026-11-11",
+      "kcal": 553,
+      "p": 51,
+      "c": 49,
+      "f": 16,
+      "n": 1
     }
   ],
   "recipes": [
@@ -4543,15 +4564,12 @@ window.HC = {
       }
     },
     {
-      "name": "Tostas — crisp toast / rusk (750 g pack)",
+      "name": "Tostas — crisp toast / rusk",
       "bullets": [
-        "Saved: 2026-10 · source: pack label",
-        "Log unit: **1 tosta**",
+        "Saved: 2026-10 · refreshed **2026-11-11** · source: pack nutrition photo (225 g bag)",
         "Per tosta: **30 kcal · P 0.9 · C 5.0 · F 0.6**",
-        "Serving on pack: **15 g = 2 tostas → 60 kcal · P 1.8 · C 10.0 · F 1.2** (fiber 1.0, salt 0.14)",
-        "Per 100 g: **405 kcal · P 12 · C 67 · F 8.0**",
-        "Pack ≈ 50 servings (100 tostas)",
-        "Quick log: `N tostas` → N × 30 / 0.9 / 5.0 / 0.6"
+        "15 g = 2 tostas → **60 / 1.8 / 10 / 1.2** · per 100 g **403 / 12 / 67 / 8.1**",
+        "Pack shown: **225 g** ≈ 15 servings · Quick log: `N tostas` → N × 30 / 0.9 / 5 / 0.6"
       ],
       "macros": {
         "kcal": 30.0,
@@ -5165,10 +5183,10 @@ window.HC = {
   ],
   "profileMd": "# Health Coach — Hassan Khan profile\n\nSee also: Cursor skill `.cursor/skills/food-log/SKILL.md` for meal photo → estimate → shortcuts:// log.  \n**Public dashboard:** https://hk9900.github.io/cursor/ (source `docs/` — keep in sync; see `.cursor/rules/health-coach-site.mdc`).\n\n## Identity & body\n- Male, born Aug 1991 (~35) · Lisbon\n- Height **180.3 cm** (5′11″)\n- **Current (8 Nov 2026 / W5):** **109.9 kg** · waist **45″** · chest 46″ · bicep R 14.5″ · thigh R 22.5″ · WHtR ≈ **0.63**\n- Fitbit start **120 kg** (23 Sep) · W0 **115.9** (27 Sep) · W1 **113.5 / 48″** · W2 **112.9 / 46.5″** · W3 **111.5 / 45.5″** · W4 **111.2 / 45″**\n- Past low ~88–92 kg after crash cut; regained ~1 year\n- Phased targets: **105–108 → hold 92–95 → later 70–80** aspirational\n\n## Activity & lifestyle\n- Fitbit Air (+ Google Takeout) · Apple Health Food Log Shortcut\n- Sleep aim 6–8 h · lower back history · acidity (chai OK)\n- Smokes · family heart-attack history · Coke Zero · fruit for sweet tooth\n- Walks are the main NEAT lever (don’t eat Fitbit burn back) · W4 skipped · **W5 walks restored** (no miss)\n\n## Labs (Unilabs 28 Apr 2026)\n- Total 219 · LDL 149 · HDL 30 · TG 198 · Glucose 94\n\n## Energy (locked cut)\n- **Priority stack (locked 8 Nov):** **1) calorie deficit** → **2) optimal protein** → **3) fats & carbs under check**\n  - Never blow the deficit to “fix” macros. Prefer fruit / lean volume over more pizza-mayo when kcal is tight.\n  - After kcal is safe, push protein toward **150–170 g** (whey / Light Café / chicken / GY) before adding starch or fat.\n  - Fat **45–65 g** · carbs **120–190 g** are guardrails, not the main scoreboard.\n- Food band **1,550–1,800 kcal/day** (prefer ~**1,650** like W2–W3 Notes avg)\n- Protein **150–170 g** · Fat **45–65 g** · Carbs **120–190 g**\n- BMR Mifflin ~**2,056** at 109.9 kg · Fitbit TDEE trend ~**2,600–3,100** (walks swing it)\n- Notes weekly intake: W1 ~1,912 (5d) · W2 **1,648** · W3 **1,647** · W4 **1,714** · W5 **1,716**\n\n## Accuracy calibration (locked 1 Nov 2026)\n- **Accuracy > feel-good** on Food Logs — see `health-coach/calibration.md`\n- Fitbit Air burn: trust **direction**; absolute likely **~10–15% high** on walk weeks · never eat burn back\n- Food logs / Notes intake: trend good; absolute likely **~10–15% low** when oil/starch estimated\n- Notes deficit ≈ **1.4×** fat-loss deficit over W1→W4; **W5 ≈ 0.89×** (hold) — forecast fat with deficit × **~0.65–0.75** on multi-week windows\n- On every Sunday weekly paste: reconcile predicted vs actual kg and **nudge** logging defaults in `calibration.md`\n- Active nudge now: sabzi/gosht **spray** (not ladle) · unweighed roti **~120 kcal** · mayo default **moderate**\n\n## Diet defaults (locked Oct 2026)\n- ~90% Pakistani household food · Ashirwad chakki atta · Qilla white rice\n- **One starch per meal:** ≤**2 roti** **or** ≤**200 g** cooked rice — not both\n- **Daal / lobia** = good staples (keep)\n- **Tostas** rare OK · **Haleem** 1–2×/month\n- Oil (current cut, **locked 2 Nov**): household cook = **1 spray** by default (in use ~3 weeks / since ~mid-Oct)  \n  Pot oil **1–1.5 tbsp** only if he says pot/tarka/baghaar/oily. Older **2 dish spoons ≈ 5–7 tbsp** — never unless he reverts.\n- Pot often feeds him + wife + toddler; leftovers common\n- Chai 1×/day — **keep** sugar or Canderel as logged; milk = meio-gordo 1.6%\n- Creep order now: **kcal / portions** > oil > chai sugar · protein protected second\n- **Bread (locked 5 Nov):** **Continente Shape / shelf Shape = haram** — do not buy. Default sliced bread = **Bimbo Proteína** (~81 kcal / 7 P / slice). Prefer house roti when possible.\n- **GY mix (locked 10 Nov):** Mythos **150 g** + Philly cottage **50 g** + whey **1 scoop** + Origens granola **2 level tbsp** + fruit **~7–8 berries** (fruit *type* may change; keep same qty). Base ~**341 / 41 / 24 / 8**.\n\n## Shelf & recipes\n- Labels: `health-coach/labels.md`\n- Recipes: `health-coach/recipes.md`\n- **Shelf rule (locked 5 Nov):** do **not** add new products to `labels.md` / site shelf until Hassan says **shelf / lock / save this label**. Chat recommendations OK without shelving.\n- Meal mirror: `health-coach/food-log.md`\n- Weekly tape: `health-coach/weekly-metrics.md`\n- Calibration: `health-coach/calibration.md`\n\n## Food Log (locked)\nFormat:\n```\nFood Log | {dish name} | {kcal} | {protein} | {carbs} | {fat}\n{low}–{high}% sure\n```\nThen tappable `shortcuts://run-shortcut?name=Food%20Log&input=text&text=...`  \nSMS backup: +351926194305  \nLearned: Paltay salan = besan (chickpea flour) · chicken skinless by default\n",
   "totals": {
-    "meals": 179,
-    "days": 44,
-    "kcal": 78831,
-    "protein": 5479,
+    "meals": 180,
+    "days": 45,
+    "kcal": 79384,
+    "protein": 5530,
     "labels": 36,
     "recipes": 15
   },

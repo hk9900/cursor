@@ -41,13 +41,13 @@ Homemade pots stay in `recipes.md`. Packaged labels live **here**.
 - Saved: 2026-11-05 · front pack photo · **blocked** (Hassan: shelf/Shape is haram)
 - Kept for ID only — **do not recommend**. Macros if somehow logged: ~**99 / 6 / 8 / 4** per 40 g · **248 / 15 / 19 / 9** per 100 g.
 
-## Tostas — crisp toast / rusk (750 g pack)
-- Saved: 2026-10 · source: pack label
+## Tostas — crisp toast / rusk
+- Saved: 2026-10 · refreshed **2026-11-11** · source: pack nutrition photo (225 g bag)
 - Log unit: **1 tosta**
 - Per tosta: **30 kcal · P 0.9 · C 5.0 · F 0.6**
 - Serving on pack: **15 g = 2 tostas → 60 kcal · P 1.8 · C 10.0 · F 1.2** (fiber 1.0, salt 0.14)
-- Per 100 g: **405 kcal · P 12 · C 67 · F 8.0**
-- Pack ≈ 50 servings (100 tostas)
+- Per 100 g: **403 kcal · P 12 · C 67 · F 8.1** (sugars 5.6, fiber 6.8, sat 0.9, salt 0.92)
+- Pack shown: **225 g** ≈ 15 × 15 g servings (~30 tostas)
 - Quick log: `N tostas` → N × 30 / 0.9 / 5.0 / 0.6
 
 ## Crown — Tandoori roti (frozen flatbread, 460 g)

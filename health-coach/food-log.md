@@ -2390,3 +2390,19 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** Small evening smear.
 
 ---
+
+## 2026-11-11 — Breakfast
+
+**Dish:** GY mix (locked) + **1** chai + **3** tostas lightly spread Mimosa light butter.
+
+**Portions:** Mythos **150 g** · cottage **50 g** · whey **1 scoop** · granola **2 level tbsp** · berries **7–8** · chai **1** · tostas **3** · butter ~**1 tsp** lightly across.
+
+**Macros:** **553 kcal · P 51 · C 49 · F 16**  
+(GY mix ~341/41/24/8 · chai ~94/7/10/3 · 3 tostas ~90/3/15/2 · light butter ~28/0/0/3.)
+
+**Shortcut line:** `Food Log | GY mix chai 3 tostas butter | 553 | 51 | 49 | 16`  
+**Confidence:** 85–90% sure · locked mix + tosta label; butter ~1 tsp lightly — say if thicker smear or sugar in chai.
+
+**Notes:** Tostas label refreshed from 225 g pack photo. Canderel/sucralose assumed in chai.
+
+---
