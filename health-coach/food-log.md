@@ -2470,3 +2470,19 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** +50 g GY vs locked base (~+28 kcal / +3 P). Rest of mix unchanged.
 
 ---
+
+## 2026-11-12 — Dinner
+
+**Dish:** Same as 11 Nov dinner — chicken breast botiyan **100 g** (tikka-style) + matar chawal **150 g** + Bahu Rani **50 g** + chachumber **50 g**.
+
+**Portions:** chicken **100 g** · matar chawal **150 g** · Bahu Rani **50 g** · chachumber **50 g**.
+
+**Macros:** **454 kcal · P 40 · C 49 · F 11**  
+(Same plate density as 11 Nov dinner.)
+
+**Shortcut line:** `Food Log | Chicken matar chawal Bahu Rani salad | 454 | 40 | 49 | 11`  
+**Confidence:** 80–86% sure · same weighed template as yesterday — say if portions differed.
+
+**Notes:** Repeat of 11 Nov dinner plate.
+
+---
