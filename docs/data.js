@@ -4159,13 +4159,13 @@ window.HC = {
     {
       "date": "2026-11-12",
       "slot": "Evening",
-      "dish": "Homemade chicken macaroni 332 g (tomato/ketchup-style sauce)",
-      "kcal": 610,
-      "p": 44,
-      "c": 68,
-      "f": 19,
-      "notes": "After dinner plate. Starch-heavy add-on.",
-      "portions": "chicken macaroni **332 g** weighed.",
+      "dish": "Homemade chicken macaroni 432 g (tomato/ketchup-style sauce) — 332 g + 100 g more",
+      "kcal": 794,
+      "p": 57,
+      "c": 89,
+      "f": 25,
+      "notes": "After dinner plate. Starch-heavy — day near top of band.",
+      "portions": "chicken macaroni **432 g** weighed total.",
       "confidence": "70–78% sure · weighed; pot oil / ketchup amount estimated — say if spray-only or oily onion bhoon.",
       "backfill": false
     }
@@ -4533,10 +4533,10 @@ window.HC = {
     },
     {
       "date": "2026-11-12",
-      "kcal": 1526,
-      "p": 135,
-      "c": 153,
-      "f": 42,
+      "kcal": 1710,
+      "p": 148,
+      "c": 174,
+      "f": 48,
       "n": 3
     }
   ],
@@ -5271,8 +5271,8 @@ window.HC = {
   "totals": {
     "meals": 186,
     "days": 46,
-    "kcal": 82001,
-    "protein": 5752,
+    "kcal": 82185,
+    "protein": 5765,
     "labels": 36,
     "recipes": 15
   },
