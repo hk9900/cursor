@@ -2454,3 +2454,19 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** Small evening piece.
 
 ---
+
+## 2026-11-12 — Breakfast
+
+**Dish:** GY mix with Mythos **200 g** (vs locked 150 g) + Philadelphia cottage **50 g** + whey **1 scoop** + Origens granola **2 tbsp** + **7–8** berries + **1** chai.
+
+**Portions:** Mythos **200 g** · cottage **50 g** · whey **1 scoop** · granola **2 level tbsp** · berries **7–8** · chai **1**.
+
+**Macros:** **462 kcal · P 51 · C 36 · F 12**  
+(Mix @ 200 g GY ~368/44/26/9 · chai ~94/7/10/3.)
+
+**Shortcut line:** `Food Log | GY mix 200g chai | 462 | 51 | 36 | 12`  
+**Confidence:** 88–92% sure · locked mix scaled + chai; level granola · Canderel/sucralose assumed.
+
+**Notes:** +50 g GY vs locked base (~+28 kcal / +3 P). Rest of mix unchanged.
+
+---
