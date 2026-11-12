@@ -2486,3 +2486,19 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** Repeat of 11 Nov dinner plate.
 
 ---
+
+## 2026-11-12 — Evening
+
+**Dish:** Homemade chicken macaroni **332 g** (tomato/ketchup-style sauce).
+
+**Portions:** chicken macaroni **332 g** weighed.
+
+**Macros:** **610 kcal · P 44 · C 68 · F 19**  
+(~185 kcal/100 g mid–high sauced pasta; chicken leaner than prior beef macaroni plate @ 315 g / 583.)
+
+**Shortcut line:** `Food Log | Chicken macaroni 332g | 610 | 44 | 68 | 19`  
+**Confidence:** 70–78% sure · weighed; pot oil / ketchup amount estimated — say if spray-only or oily onion bhoon.
+
+**Notes:** After dinner plate. Starch-heavy add-on — day still in band if nothing else big.
+
+---
