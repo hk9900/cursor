@@ -2518,3 +2518,19 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** Logged separate from the 332 g bowl.
 
 ---
+
+## 2026-11-13 — Breakfast
+
+**Dish:** **2** whole eggs + **100 g** egg whites fried (**1 spray**) with **1** light processed cheese slice on top + **1** Continente Clássico bread + **1** Galão capsule.
+
+**Portions:** whole eggs **2** · whites **100 g** · spray **1** · cheese slice **1 (20 g)** · Classico bread **1** · Galão **1**.
+
+**Macros:** **342 kcal · P 31 · C 18 · F 16**  
+(Eggs ~144/12/1/10 · whites ~47/11/1/0 · spray ~8/0/0/1 · cheese ~38/4/1/2 · Classico ~60/2/11/1 · Galão ~45/2/4/2.)
+
+**Shortcut line:** `Food Log | Eggs whites cheese Classico Galao | 342 | 31 | 18 | 16`  
+**Confidence:** 90–94% sure · bread + Galão + whites labels; cheese from this morning’s pack photo (not shelved).
+
+**Notes:** Continente Clássico label refreshed (60 kcal/slice). Cheese = light processed slice @ 38 kcal.
+
+---

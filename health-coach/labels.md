@@ -21,12 +21,14 @@ Homemade pots stay in `recipes.md`. Packaged labels live **here**.
 
 ---
 
-## Continente — sliced white bread
-- Saved: 2026-09 · source: pack label
-- Log unit: **1 slice (31.5 g)**
-- Per slice: **80 kcal · P 2.9 · C 14.2 · F 1.0** (fiber 1.2, salt 0.30)
-- Per 100 g: 254 kcal · P 9.1 · C 45 · F 3.3
-- Quick log: `N Continente` → N × 80 / 2.9 / 14.2 / 1.0
+## Continente — Pão de Forma Clássico (sliced white / classic)
+- Saved: 2026-09 · refreshed **2026-11-13** · source: pack nutrition photo · locked by Hassan
+- Product: *pão especial com farinha de trigo* · fonte de fibra · pack **22** slices
+- Log unit: **1 slice (23.6 g)**
+- Per slice: **60 kcal · P 2.1 · C 10.6 · F 0.8** (sugars 0.8, fiber 0.9, sat 0.2, salt 0.23)
+- Per 100 g: **254 kcal · P 9.1 · C 45 · F 3.3** (sugars 3.5, fiber 3.9, sat 1.0, salt 0.96)
+- Quick log: `N Continente classic` / `N Classico` → N × **60 / 2 / 11 / 1**
+- Note: older logs used a **31.5 g / 80 kcal** slice assumption — use **60/slice** going forward for this Clássico pack.
 
 ## Bimbo — protein bread (pan semillas + pea protein)
 - Saved: 2026-10 · refreshed 2026-10-16 · source: pack label photo
