@@ -8,7 +8,7 @@ window.HC = {
     "heightCm": 180.3,
     "dob": "1991-08-08",
     "city": "Lisbon",
-    "siteUpdated": "2026-11-12"
+    "siteUpdated": "2026-11-13"
   },
   "weightCut": {
     "labels": [
@@ -4895,13 +4895,11 @@ window.HC = {
     {
       "name": "Galão Café au Lait — coffee pods (16 × 10 g)",
       "bullets": [
-        "Saved: 2026-10-19 · source: box nutrition table photo",
-        "Product: food prep from **milk powder (80.2%) + instant coffee (17.3%)** + stabilizers + anhydrous milk fat",
-        "Log unit: **1 capsule (10 g powder → ~190 ml drink)**",
-        "Per **1 capsule / 190 ml**: **45 kcal · P 2.2 · C 3.6 · F 2.2** (sugars 3.0, fiber 0.7, sat 1.3, salt 0.09)",
-        "Per **100 g powder**: 459 kcal · P 22.2 · C 36.3 · F 22.0",
-        "Quick log: `1 Galão pod` / `1 café au lait pod` → **45 / 2 / 4 / 2** (+ Canderel skip)",
-        "Not the same as Continente Light Café carton (that one is much higher protein)"
+        "Saved: 2026-10-19 · refreshed **2026-11-13** · source: box nutrition table photo (reconfirmed)",
+        "Pack: **16 × 10 g** · 1 capsule → **~190 ml**",
+        "Per capsule: **45 kcal · P 2.2 · C 3.6 · F 2.2** (sugars 3.0, sat 1.3, salt 0.09)",
+        "Per 100 g powder: **459 / 22.2 / 38.3 / 22.0** · Quick log: `1 Galão pod` → **45 / 2 / 4 / 2**",
+        "Not the same as Continente Light Café carton (higher protein)."
       ],
       "macros": {
         "kcal": 45.0,
