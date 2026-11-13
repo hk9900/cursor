@@ -2534,3 +2534,19 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** Continente Clássico label refreshed (60 kcal/slice). Cheese = light processed slice @ 38 kcal.
 
 ---
+
+## 2026-11-13 — Lunch
+
+**Dish:** Yesterday’s chicken macaroni **216 g** + **1** big orange (laranja).
+
+**Portions:** chicken macaroni **216 g** · orange **1** big.
+
+**Macros:** **495 kcal · P 30 · C 68 · F 12**  
+(Macaroni same pot ~400/29/44/12 @ ~185/100 g · big orange ~95/1/24/0.)
+
+**Shortcut line:** `Food Log | Chicken macaroni 216g big orange | 495 | 30 | 68 | 12`  
+**Confidence:** 75–82% sure · weighed macaroni same pot; orange size estimated big.
+
+**Notes:** Leftover from 12 Nov macaroni.
+
+---
