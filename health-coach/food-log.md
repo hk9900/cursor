@@ -2566,3 +2566,19 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** Small snack.
 
 ---
+
+## 2026-11-13 — Dinner
+
+**Dish:** **2** homemade desi burgers (cooked patties **55 g + 41 g**, AF spray, sesame buns, light cheese, butter caramelised onions, fusion sauce) + air-fried fries **60 g** (no oil / no spray).
+
+**Portions:** patties **55 g + 41 g** · buns **2** (55 g label) · cheese **2** light slices · sauce full share · fries **60 g**.
+
+**Macros:** **918 kcal · P 44 · C 94 · F 43**  
+(Both burgers ~834/42/75/42 · fries ~84/2/19/1 @ 140/100 g dry AF.)
+
+**Shortcut line:** `Food Log | 2 burgers 60g AF fries | 918 | 44 | 94 | 43`  
+**Confidence:** 72–80% sure · weighed patties + fries + bun label; sauce volume from recipe batch ÷4 ×2 · mayo mid–high from photo sheen.
+
+**Notes:** Photo shows generous sauce. Day a bit over band — rare OK; protein soft for the kcal.
+
+---
