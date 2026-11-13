@@ -2550,3 +2550,19 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** Leftover from 12 Nov macaroni.
 
 ---
+
+## 2026-11-13 — Snack
+
+**Dish:** **1** tosta + **1 tsp** peanut butter.
+
+**Portions:** tosta **1** · PB **1 tsp (~5 g)**.
+
+**Macros:** **62 kcal · P 2 · C 6 · F 4**  
+(Tosta ~30/1/5/1 · PB tsp ~32/1/1/3.)
+
+**Shortcut line:** `Food Log | Tosta 1 tsp PB | 62 | 2 | 6 | 4`  
+**Confidence:** 85–90% sure · tosta label; generic PB tsp.
+
+**Notes:** Small snack.
+
+---
