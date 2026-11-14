@@ -2614,3 +2614,19 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** Corrected — only half the salad eaten.
 
 ---
+
+## 2026-11-14 — Afternoon
+
+**Dish:** Remaining half salad from breakfast (**~130 g** dressed) + **2 tbsp** Mythos GY.
+
+**Portions:** salad leftover **~130 g** · GY **2 tbsp (~30 g)**.
+
+**Macros:** **112 kcal · P 4 · C 19 · F 4**  
+(Half dressed salad ~95/2/18/3 · GY 2 tbsp ~17/2/1/1.)
+
+**Shortcut line:** `Food Log | Leftover salad 2 tbsp GY | 112 | 4 | 19 | 4`  
+**Confidence:** 75–82% sure · remaining half of morning bowl + level tbsp GY.
+
+**Notes:** Closes the 260 g salad bowl.
+
+---
