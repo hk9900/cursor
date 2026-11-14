@@ -2582,3 +2582,19 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** Photo shows generous sauce. Day a bit over band — rare OK; protein soft for the kcal.
 
 ---
+
+## 2026-11-13 — Late snack · 01:10
+
+**Dish:** Continente Light Café Cacau **250 ml** (protein coffee).
+
+**Portions:** Light Café Cacau **1** carton (250 ml).
+
+**Macros:** **140 kcal · P 20 · C 12 · F 1**  
+(Label **56 / 8 / 4.6 / 0.4** per 100 ml × 250 ml.)
+
+**Shortcut line:** `Food Log | Light Cafe Cacau 250ml | 140 | 20 | 12 | 1`  
+**Confidence:** 95–98% sure · carton label photo.
+
+**Notes:** Logged on 13 Nov (after midnight). Helps day protein. Cacau not shelved unless you say lock.
+
+---
