@@ -2601,16 +2601,16 @@ With sandwich → **~895 / 53 / 87 / 38**.
 
 ## 2026-11-14 — Breakfast
 
-**Dish:** **2** whole eggs + **100 g** egg whites fried (**1 spray** assumed) + **1** light cheese · salad **260 g** (corn, carrot, cucumber, lettuce) + **1 tbsp** caramelised onion + **1 tsp** Singapore leftover sauce + **1 tbsp** Thai sweet chili sauce.
+**Dish:** **2** whole eggs + **100 g** egg whites fried (**1 spray** assumed) + **1** light cheese · **half** of dressed salad (**130 g** of 260 g bowl: corn, carrot, cucumber, lettuce + half onion/Singapore/sweet chili).
 
-**Portions:** eggs **2** · whites **100 g** · cheese **1** · salad **260 g** · onion **1 tbsp** · Singapore sauce **1 tsp** · sweet chili **1 tbsp (15 ml)**.
+**Portions:** eggs **2** · whites **100 g** · cheese **1** · salad eaten **~130 g** · onion **½ tbsp** · Singapore sauce **½ tsp** · sweet chili **½ tbsp**.
 
-**Macros:** **425 kcal · P 30 · C 37 · F 18**  
-(Eggs+whites+spray+cheese ~237/27/3/13 · salad ~104/3/20/1 · onion ~18/0/3/1 · Sing sauce ~25/0/1/3 · sweet chili ~41/0/10/0.)
+**Macros:** **332 kcal · P 29 · C 20 · F 16**  
+(Eggs+whites+spray+cheese ~237/27/3/13 · half salad ~52/2/10/1 · half onion ~9/0/2/0 · half Sing ~13/0/1/2 · half sweet chili ~21/0/5/0.)
 
-**Shortcut line:** `Food Log | Eggs salad onion sauces | 425 | 30 | 37 | 18`  
-**Confidence:** 75–82% sure · weighed salad; sweet chili from label · spray assumed · sauce tsp estimated.
+**Shortcut line:** `Food Log | Eggs half salad sauces | 332 | 29 | 20 | 16`  
+**Confidence:** 75–82% sure · half of weighed dressed bowl; spray assumed.
 
-**Notes:** Sweet chili dense sugar — 1 tbsp is fine. Extra romaine leaves on side assumed in 260 g or negligible.
+**Notes:** Corrected — only half the salad eaten.
 
 ---

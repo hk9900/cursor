@@ -4251,14 +4251,14 @@ window.HC = {
     {
       "date": "2026-11-14",
       "slot": "Breakfast",
-      "dish": "2 whole eggs + 100 g egg whites fried (1 spray assumed) + 1 light cheese · salad 260 g (corn/carrot/cucumber/lettuce) + 1 tbsp caramelised onion + 1 tsp Singapore sauce + 1 tbsp Thai sweet chili",
-      "kcal": 425,
-      "p": 30,
-      "c": 37,
-      "f": 18,
-      "notes": "Sweet chili dense sugar — 1 tbsp is fine. Extra romaine on side assumed in 260 g or negligible.",
-      "portions": "eggs **2** · whites **100 g** · cheese **1** · salad **260 g** · onion **1 tbsp** · Singapore sauce **1 tsp** · sweet chili **1 tbsp (15 ml)**.",
-      "confidence": "75–82% sure · weighed salad; sweet chili from label · spray assumed · sauce tsp estimated.",
+      "dish": "2 whole eggs + 100 g egg whites fried (1 spray assumed) + 1 light cheese · half dressed salad (~130 g of 260 g bowl + half sauces)",
+      "kcal": 332,
+      "p": 29,
+      "c": 20,
+      "f": 16,
+      "notes": "Corrected — only half the salad eaten.",
+      "portions": "eggs **2** · whites **100 g** · cheese **1** · salad eaten **~130 g** · onion **½ tbsp** · Singapore sauce **½ tsp** · sweet chili **½ tbsp**.",
+      "confidence": "75–82% sure · half of weighed dressed bowl; spray assumed.",
       "backfill": false
     }
   ],
@@ -4641,10 +4641,10 @@ window.HC = {
     },
     {
       "date": "2026-11-14",
-      "kcal": 425,
-      "p": 30,
-      "c": 37,
-      "f": 18,
+      "kcal": 332,
+      "p": 29,
+      "c": 20,
+      "f": 16,
       "n": 1
     }
   ],
@@ -5377,8 +5377,8 @@ window.HC = {
   "totals": {
     "meals": 193,
     "days": 48,
-    "kcal": 84567,
-    "protein": 5922,
+    "kcal": 84474,
+    "protein": 5921,
     "labels": 36,
     "recipes": 15
   },
