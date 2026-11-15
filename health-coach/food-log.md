@@ -2694,3 +2694,19 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** Corrected from 1 naan / flatter rice. W6 sauce nudge → butter chicken mid–high cream. Pulao fat = chicken only (no oil).
 
 ---
+
+## 2026-11-15 — Late snack
+
+**Dish:** Melon **756 g** (same density as prior galia / striped meloa logs).
+
+**Portions:** melon **756 g**.
+
+**Macros:** **258 kcal · P 4 · C 77 · F 0**  
+(Scaled from 176 g → 60/1/18/0 ≈ **34 kcal · 10.2 C / 100 g**.)
+
+**Shortcut line:** `Food Log | Melon 756g | 258 | 4 | 77 | 0`  
+**Confidence:** 90–94% sure · weighed; type assumed same as recent melon logs.
+
+**Notes:** Fruit close after heavy party lunch day.
+
+---

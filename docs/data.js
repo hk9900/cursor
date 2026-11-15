@@ -4328,6 +4328,19 @@ window.HC = {
       "portions": "butter chicken ~**225 g** · naan **2** · pulao ~**450 g** heap · chai **1**.",
       "confidence": "65–75% sure",
       "line": "Food Log | Party butter chicken 2 naan heaped pulao chai | 1910 | 102 | 206 | 71"
+    },
+    {
+      "date": "2026-11-15",
+      "slot": "Late snack",
+      "dish": "Melon 756 g",
+      "kcal": 258,
+      "p": 4,
+      "c": 77,
+      "f": 0,
+      "notes": "Scaled from prior melon density (~34 kcal/100 g).",
+      "portions": "melon **756 g**.",
+      "confidence": "90–94% sure",
+      "line": "Food Log | Melon 756g | 258 | 4 | 77 | 0"
     }
   ],
   "daily": [
@@ -4717,11 +4730,11 @@ window.HC = {
     },
     {
       "date": "2026-11-15",
-      "kcal": 2433,
-      "p": 162,
-      "c": 257,
+      "kcal": 2691,
+      "p": 166,
+      "c": 334,
       "f": 79,
-      "n": 2
+      "n": 3
     }
   ],
   "recipes": [
