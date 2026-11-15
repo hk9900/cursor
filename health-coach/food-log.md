@@ -2662,3 +2662,19 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** Fruit close after dinner. Logged on 14 Nov.
 
 ---
+
+## 2026-11-15 — Breakfast
+
+**Dish:** Mythos GY **200 g** + Origens granola **20 g** + Critical Whey Chocolate **1 scoop** + berries **40 g** + **1** keenu + Continente Light Café Cacau **250 ml** (~20 g protein).
+
+**Portions:** Mythos **200 g** · granola **20 g** · whey **1 scoop** · berries **40 g** · keenu **1** · Light Café Cacau **250 ml**.
+
+**Macros:** **523 kcal · P 60 · C 51 · F 8**  
+(GY ~110/11/8/4 · granola ~81/4/10/2 · whey ~122/24/4/1 · berries ~20/0/5/0 · keenu ~50/1/12/0 · Cacau ~140/20/12/1.)
+
+**Shortcut line:** `Food Log | GY granola whey berries keenu Cacau | 523 | 60 | 51 | 8`  
+**Confidence:** 88–92% sure · weighed GY/granola/berries + locked labels; medium keenu assumed.
+
+**Notes:** No cottage this bowl. Strong AM protein.
+
+---
