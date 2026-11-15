@@ -18,6 +18,18 @@ Height: **180.3 cm** · Week 0 weight **115.9 kg** (27 Sep 2026)
 | 3 | 25/Oct/2026 | 111.5 | 45.5 | 48.5 | 14.5 | 23.5 | 20007 | 11529 / 7d → **avg 1647** | 21037 / 7d → **avg 3005** | 9508 / 7d → **avg 1358** | 8 (good overall) |
 | 4 | 01/Nov/2026 | 111.2 | 45 | 47 | 14.5 | 22 | 17165 | 11996 / 7d → **avg 1714** | 18405 / 7d → **avg 2629** | 6409 / 7d → **avg 916** | 5 (skipped walk whole week) |
 | 5 | 08/Nov/2026 | 109.9 | 45 | 46 | 14.5 | 22.5 | 21520 | 12014 / 7d → **avg 1716** | 20935 / 7d → **avg 2991** | 8921 / 7d → **avg 1274** | 8 (very good, no walk miss, no cheat, good protein) |
+| 6 | 15/Nov/2026 | 109.5 | 45 | 46.5 | 14.5 | 22 | 13457 | 10804 / 7d → **avg 1543** | 19014 / 7d → **avg 2716** | 8210 / 7d → **avg 1173** | 6 (skipped walk weather; chores + grocery NEAT) |
+
+### Week 6 derived (15 Nov)
+- Weight vs W5: **−0.4 kg** · vs W0: **−6.4 kg** · vs start 120: **−10.5 kg**
+- Waist: **flat 45″** · total from W1: **48 → 45″ (−3.0″)**
+- Chest **46 → 46.5″** · Bicep **flat 14.5″** · Thigh **22.5 → 22″** (tape/water OK)
+- WHtR: 45 ÷ 70.9 ≈ **0.63**
+- Intake avg **~1,543** — low end of band / slightly under prefer-~1,650 ✓ for deficit priority
+- Burn avg **~2,716** · deficit avg **~1,173** — burn soft vs W5 (~2,991); matches **no walks** + weather
+- Steps TILSD **13,457** → ~**1,922**/day — soft week; chores/grocery helped but ≠ walk NEAT
+- Calibration: Notes deficit **8,210** → pred **~1.07 kg** · scale **−0.4 kg** · ratio **~2.7** · W5+W6 rolling ≈ **1.31** → **tighten** ambiguous sauce/pasta/burger fats (hold spray for home sabzi)
+- Note: motiv **6** / weather walk skip — don’t crash-cut further; resume walks when weather allows; burger/macaroni week may explain soft scale vs Notes
 
 ### Week 5 derived (8 Nov)
 - Weight vs W4: **−1.3 kg** · vs W0: **−6.0 kg** · vs start 120: **−10.1 kg**

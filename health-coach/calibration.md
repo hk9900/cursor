@@ -3,17 +3,18 @@
 Locked **1 Nov 2026 (W4)** after reconciling Notes deficit vs Sunday scale.  
 Hassan asked for **accuracy, not flattering lows**. Update this file on every Sunday weekly log.
 
-## Empirical finding (W1 → W5)
+## Empirical finding (W1 → W6)
 
 | Signal | Rating | Bias |
 |--------|--------|------|
 | Fitbit Air / Google Fit **total burn** | Direction strong · absolute soft | Likely **~10–15% high** on walk weeks |
 | Food Log / Notes **intake** | Trend strong · absolute soft | Likely **~10–15% low** (oil + starch + “light” assumptions) |
-| Notes **deficit** (burn − intake) | Soft as raw fat predictor | W1→W4 ≈ **1.4×**; **W5 alone ≈ 0.89×** (better match after spray + walks) |
+| Notes **deficit** (burn − intake) | Soft as raw fat predictor | W1→W4 ≈ **1.4×**; **W5 ≈ 0.89×**; **W6 ≈ 2.7×** (soft scale + no-walk week + saucy plates) |
 
 - W1→W4 scale: **−2.3 kg**. Notes deficit sum ≈ **25.6k kcal** → predicts **~3.3 kg** fat @ 7,700 kcal/kg.
-- **W5 (8 Nov):** deficit **8,921** → pred **~1.16 kg** · scale **−1.3 kg** · ratio **~0.89** → **hold** nudges.
-- W4 (no walks): burn dropped and loss slowed — Fitbit **direction** trusted; W5 walks restored burn ~2,991 — don’t eat burn back.
+- **W5 (8 Nov):** deficit **8,921** → pred **~1.16 kg** · scale **−1.3 kg** · ratio **~0.89** → hold.
+- **W6 (15 Nov):** deficit **8,210** → pred **~1.07 kg** · scale **−0.4 kg** · ratio **~2.7** · rolling W5+W6 ≈ **1.31** → **tighten** ambiguous sauces/pasta.
+- W4/W6 (no walks): burn dropped — Fitbit **direction** trusted; don’t eat burn back.
 
 **Planning rule:** treat Notes deficit × **~0.65–0.75** when forecasting fat loss (still useful on multi-week windows). Judge the cut by **scale + waist**, not deficit cosplay.
 
@@ -28,8 +29,8 @@ Bias **up** on ambiguous energy **except** where spray default applies — never
 
 1. **Sabzi / bhujia / gosht / qatliyan (spray era):** use **spray fat only** (~5–10 kcal on the plate). Do **not** add 9–12 g oil. If he says oily / pot oil / tarka → then use mid–high cut-pot share.
 2. **Unweighed medium house roti:** use **~120 kcal · P 4 · C 23 · F 3** (not 115). Big/2-ball still higher.
-3. **Mayo / fusion sauces** (e.g. Singaporean rice): if unspecified → **moderate** drizzle; if “heavy” keep heavy; never default to “light” for feel-good.
-4. **Photo-only plates:** honest fat range; spray default still applies for home sabzi unless sheen looks ladled.
+3. **Mayo / fusion / burger / pasta sauces** (**tightened W6**): if unspecified → **mid–high** drizzle (not light, not shy moderate); if “heavy” keep heavy; never default to “light” for feel-good.
+4. **Photo-only plates / takeout pasta–burger:** honest mid–high fat; spray default still applies for home sabzi unless sheen looks ladled.
 5. **Labels + weighed AF chicken / egg whites / whey / bread / tostas:** use label math — **no** +10% pad.
 
 ## Sunday weekly-log procedure (mandatory)
@@ -55,6 +56,7 @@ When Hassan pastes a weekly Notes row (date · weight · waist · tapes · steps
 | W4 review (1 Nov) | W1→W4 ≈ **1.4** | **Raise** oil/roti/sauce assumptions | Oil plate ~9–12 g · roti ~120 · mayo default moderate |
 | **2 Nov correction** | User: spray × ~3 weeks | **Override oil default → spray** | Sabzi/gosht = **spray** · roti ~120 · mayo moderate · pot oil only if stated |
 | **W5 (8 Nov)** | W5 ≈ **0.89** · W4+W5 rolling ≈ **1.24** | **Hold** | Sabzi/gosht = **spray** · roti ~120 · mayo moderate · pot oil only if stated |
+| **W6 (15 Nov)** | W6 ≈ **2.7** · W5+W6 rolling ≈ **1.31** | **Tighten** ambiguous sauces | Sabzi/gosht = **spray** · roti ~120 · mayo/fusion/pasta/burger sauce **mid–high** · pot oil only if stated |
 
 ## Fitbit / burn (locked interpretation)
 
