@@ -2646,3 +2646,19 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** Eaten **2026-11-14 23:30** (Lisbon). Lean high-protein plate.
 
 ---
+
+## 2026-11-14 — Late snack
+
+**Dish:** Melon **176 g** (galia / striped meloa).
+
+**Portions:** melon **176 g**.
+
+**Macros:** **60 kcal · P 1 · C 18 · F 0**  
+(~34 kcal/100 g cantaloupe-style.)
+
+**Shortcut line:** `Food Log | Melon 176g | 60 | 1 | 18 | 0`  
+**Confidence:** 90–95% sure · weighed; same melon density as recent.
+
+**Notes:** Fruit close after dinner. Logged on 14 Nov.
+
+---
