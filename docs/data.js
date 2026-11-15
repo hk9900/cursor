@@ -4315,6 +4315,19 @@ window.HC = {
       "portions": "Mythos **200 g** · granola **20 g** · whey **1 scoop** · berries **40 g** · keenu **1** · Light Café Cacau **250 ml**.",
       "confidence": "88–92% sure · weighed GY/granola/berries + locked labels; medium keenu assumed.",
       "backfill": false
+    },
+    {
+      "date": "2026-11-15",
+      "slot": "Lunch",
+      "dish": "Party butter chicken (others) + 1 naan + chicken pulao (no oil) + 1 chai — unmeasured, heavy",
+      "kcal": 1385,
+      "p": 76,
+      "c": 130,
+      "f": 58,
+      "notes": "One-dish party. Butter chicken mid–high cream (W6 nudge). Pulao no-oil honored; volume guessed. 65–75% sure.",
+      "portions": "butter chicken ~**225 g** · naan **1** · pulao ~**300 g** · chai **1**.",
+      "confidence": "65–75% sure",
+      "line": "Food Log | Party butter chicken naan chicken pulao chai | 1385 | 76 | 130 | 58"
     }
   ],
   "daily": [
@@ -4704,11 +4717,11 @@ window.HC = {
     },
     {
       "date": "2026-11-15",
-      "kcal": 523,
-      "p": 60,
-      "c": 51,
-      "f": 8,
-      "n": 1
+      "kcal": 1908,
+      "p": 136,
+      "c": 181,
+      "f": 66,
+      "n": 2
     }
   ],
   "recipes": [

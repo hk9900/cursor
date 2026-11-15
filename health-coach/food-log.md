@@ -2678,3 +2678,19 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** No cottage this bowl. Strong AM protein.
 
 ---
+
+## 2026-11-15 — Lunch (one-dish party)
+
+**Dish:** Butter chicken (others’ pot) + **1** naan + chicken pulao (our pot, **no oil**) + **1** chai. Unmeasured; called heavy.
+
+**Portions (assumed mid–high):** butter chicken ~**225 g** gravy+meat · naan **1** medium-large · chicken pulao ~**300 g** cooked · chai **1** cup milky+sugar.
+
+**Macros:** **1385 kcal · P 76 · C 130 · F 58**  
+(BC ~520/27/12/38 · naan ~300/9/48/9 · pulao ~450/33/56/8 · chai ~115/7/14/3.)
+
+**Shortcut line:** `Food Log | Party butter chicken naan chicken pulao chai | 1385 | 76 | 130 | 58`  
+**Confidence:** 65–75% sure · no weights/photo; others’ cream/butter unknown; naan count assumed 1; pulao no-oil honored but volume guessed.
+
+**Notes:** W6 sauce nudge → butter chicken mid–high cream. Pulao fat = chicken only (no oil). Correct if 2 naan or much more/less rice.
+
+---
