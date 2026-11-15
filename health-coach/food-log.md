@@ -2681,16 +2681,16 @@ With sandwich → **~895 / 53 / 87 / 38**.
 
 ## 2026-11-15 — Lunch (one-dish party)
 
-**Dish:** Butter chicken (others’ pot) + **1** naan + chicken pulao (our pot, **no oil**) + **1** chai. Unmeasured; called heavy.
+**Dish:** Butter chicken (others’ pot) + **2** naan + heaped chicken pulao (our pot, **no oil**) + **1** chai. Unmeasured; called heavy.
 
-**Portions (assumed mid–high):** butter chicken ~**225 g** gravy+meat · naan **1** medium-large · chicken pulao ~**300 g** cooked · chai **1** cup milky+sugar.
+**Portions (assumed mid–high):** butter chicken ~**225 g** gravy+meat · naan **2** medium-large · chicken pulao ~**450 g** cooked (rice heap) · chai **1** cup milky+sugar.
 
-**Macros:** **1385 kcal · P 76 · C 130 · F 58**  
-(BC ~520/27/12/38 · naan ~300/9/48/9 · pulao ~450/33/56/8 · chai ~115/7/14/3.)
+**Macros:** **1910 kcal · P 102 · C 206 · F 71**  
+(BC ~520/27/12/38 · naan ×2 ~600/18/96/18 · pulao ~675/50/84/12 · chai ~115/7/14/3.)
 
-**Shortcut line:** `Food Log | Party butter chicken naan chicken pulao chai | 1385 | 76 | 130 | 58`  
-**Confidence:** 65–75% sure · no weights/photo; others’ cream/butter unknown; naan count assumed 1; pulao no-oil honored but volume guessed.
+**Shortcut line:** `Food Log | Party butter chicken 2 naan heaped pulao chai | 1910 | 102 | 206 | 71`  
+**Confidence:** 65–75% sure · no weights/photo; others’ cream/butter unknown; naan ×2 confirmed; pulao heap volume still guessed (~450 g).
 
-**Notes:** W6 sauce nudge → butter chicken mid–high cream. Pulao fat = chicken only (no oil). Correct if 2 naan or much more/less rice.
+**Notes:** Corrected from 1 naan / flatter rice. W6 sauce nudge → butter chicken mid–high cream. Pulao fat = chicken only (no oil).
 
 ---

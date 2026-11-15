@@ -4319,15 +4319,15 @@ window.HC = {
     {
       "date": "2026-11-15",
       "slot": "Lunch",
-      "dish": "Party butter chicken (others) + 1 naan + chicken pulao (no oil) + 1 chai — unmeasured, heavy",
-      "kcal": 1385,
-      "p": 76,
-      "c": 130,
-      "f": 58,
-      "notes": "One-dish party. Butter chicken mid–high cream (W6 nudge). Pulao no-oil honored; volume guessed. 65–75% sure.",
-      "portions": "butter chicken ~**225 g** · naan **1** · pulao ~**300 g** · chai **1**.",
+      "dish": "Party butter chicken (others) + 2 naan + heaped chicken pulao (no oil) + 1 chai — unmeasured, heavy",
+      "kcal": 1910,
+      "p": 102,
+      "c": 206,
+      "f": 71,
+      "notes": "Corrected: 2 naan + rice heap (~450 g). Butter chicken mid–high cream. Pulao no-oil. 65–75% sure.",
+      "portions": "butter chicken ~**225 g** · naan **2** · pulao ~**450 g** heap · chai **1**.",
       "confidence": "65–75% sure",
-      "line": "Food Log | Party butter chicken naan chicken pulao chai | 1385 | 76 | 130 | 58"
+      "line": "Food Log | Party butter chicken 2 naan heaped pulao chai | 1910 | 102 | 206 | 71"
     }
   ],
   "daily": [
@@ -4717,10 +4717,10 @@ window.HC = {
     },
     {
       "date": "2026-11-15",
-      "kcal": 1908,
-      "p": 136,
-      "c": 181,
-      "f": 66,
+      "kcal": 2433,
+      "p": 162,
+      "c": 257,
+      "f": 79,
       "n": 2
     }
   ],
