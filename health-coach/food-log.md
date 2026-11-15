@@ -2631,7 +2631,7 @@ With sandwich → **~895 / 53 / 87 / 38**.
 
 ---
 
-## 2026-11-14 — Late dinner · 02:27
+## 2026-11-14 — Dinner · 23:30
 
 **Dish:** Chicken breast botiyan **100 g** + white rice **100 g** + daal khari masoor **150 g**.
 
@@ -2643,6 +2643,6 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Shortcut line:** `Food Log | Chicken rice khari masoor | 477 | 47 | 56 | 7`  
 **Confidence:** 78–85% sure · weighed; daal no baghaar assumed — say if lehsun tarka.
 
-**Notes:** Logged on 14 Nov (after midnight). Lean high-protein plate.
+**Notes:** Eaten **2026-11-14 23:30** (Lisbon). Lean high-protein plate.
 
 ---

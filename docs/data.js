@@ -4276,14 +4276,14 @@ window.HC = {
     },
     {
       "date": "2026-11-14",
-      "slot": "Late dinner",
-      "time": "02:27",
+      "slot": "Dinner",
+      "time": "23:30",
       "dish": "Chicken breast botiyan 100 g + white rice 100 g + daal khari masoor 150 g",
       "kcal": 477,
       "p": 47,
       "c": 56,
       "f": 7,
-      "notes": "Logged on 14 Nov (after midnight). Lean high-protein plate.",
+      "notes": "Eaten 2026-11-14 23:30 (Lisbon). Lean high-protein plate.",
       "portions": "chicken **100 g** · rice **100 g** · khari masoor **150 g** · no oil/tarka assumed (spray-era).",
       "confidence": "78–85% sure · weighed; daal no baghaar assumed — say if lehsun tarka.",
       "backfill": false
