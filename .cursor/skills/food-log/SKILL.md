@@ -26,6 +26,7 @@ User sends a **meal photo**, describes a plate, or asks to **log / estimate** fo
 6. After logging: mirror into `health-coach/food-log.md` **and** refresh `docs/data.js` for Pages (see `.cursor/rules/health-coach-site.mdc`).
 7. On **Sunday weekly Notes / weigh-in paste**: run the reconciliation procedure in `health-coach/calibration.md` (nudge logging from scale vs deficit — mandatory).
 8. **Portal deploy:** when logs/weigh-ins are in good shape, **merge + push `cursor/health-coach`** (no PR unless Hassan asks). Live site: https://hk9900.github.io/cursor/
+9. **Monthly Google Takeout slim:** when Hassan attaches a Takeout zip, run `health-coach/scripts/ingest_takeout_slim.py`, update `profile.md` / `fitbit-latest.json`, push Pages — see `health-coach/takeout.md`. Prefer Takeout steps/burn over Notes TILSD when they disagree; still never eat burn back.
 
 ## Workflow
 

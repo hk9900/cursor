@@ -319,15 +319,15 @@
           ${stat(`~${stepsAll.toLocaleString()}`, "Avg steps")}
           ${stat(`~${azmAvg}`, "Avg AZM min (V+F)")}
         </div>
-        ${chartCard("Total vs active burn", "Fitbit · Sep 23 – Oct 13", "c-burn")}
-        ${chartCard("Steps", "Fitbit Physical Activity", "c-steps", true)}
-        ${chartCard("Distance (km)", "Fitbit export · cm→km", "c-distance", true)}
+        ${chartCard("Total vs active burn", `Fitbit · Sep 23 – ${(HC.meta.fitbitThrough || HC.export?.through || "").slice(5) || "latest"}`, "c-burn")}
+        ${chartCard("Steps", "Fitbit + phone steps (Takeout)", "c-steps", true)}
+        ${chartCard("Distance (km)", "Fitbit Air distance (m→km)", "c-distance", true)}
         ${chartCard("Active zone minutes (very + fairly)", "Proxy AZM from activity minutes", "c-azm", true)}
         ${chartCard("Activity minutes stacked", "Very / fairly / lightly", "c-act-min")}
         ${chartCard("Heart-rate zone minutes", "Fitbit zones · export", "c-hr-zones")}
         ${chartCard("Intake vs burn", "Apple Dietary Energy days", "c-intake-burn")}
         ${chartCard("Apple protein (g)", "Target 150–170", "c-protein-apple", true)}
-        ${tableCard("Logged exercises", "Fitbit exercise-0 export", [
+        ${tableCard("Logged exercises", "Fitbit UserExercises (Takeout)", [
           { label: "Date" }, { label: "Activity" }, { label: "kcal", num: true },
           { label: "Min", num: true }, { label: "Steps", num: true }, { label: "AZM", num: true },
         ], exRows, [], true)}

@@ -12,10 +12,12 @@ See also: Cursor skill `.cursor/skills/food-log/SKILL.md` for meal photo → est
 - Phased targets: **105–108 → hold 92–95 → later 70–80** aspirational
 
 ## Activity & lifestyle
-- Fitbit Air (+ Google Takeout) · Apple Health Food Log Shortcut
+- Fitbit Air (+ **monthly Google Takeout slim**) · Apple Health Food Log Shortcut
+- Takeout ingest: `health-coach/takeout.md` + `scripts/ingest_takeout_slim.py` · last ingest **16 Nov 2026** · Fitbit series through **13 Nov 2026** (`meta.fitbitThrough`)
 - Sleep aim 6–8 h · lower back history · acidity (chai OK)
 - Smokes · family heart-attack history · Coke Zero · fruit for sweet tooth
 - Walks are the main NEAT lever (don’t eat Fitbit burn back) · W4 skipped · W5 restored · **W6 weather skip** (chores/grocery NEAT)
+- Takeout week avgs (Lisbon, max-per-minute burn): **W5** burn ~**3,109** · steps ~**7,200** · **W6** (through 13 Nov) burn ~**2,707** · steps ~**3,200** — confirms weather/NEAT drop
 
 ## Labs (Unilabs 28 Apr 2026)
 - Total 219 · LDL 149 · HDL 30 · TG 198 · Glucose 94

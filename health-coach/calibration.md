@@ -58,6 +58,10 @@ When Hassan pastes a weekly Notes row (date · weight · waist · tapes · steps
 | **W5 (8 Nov)** | W5 ≈ **0.89** · W4+W5 rolling ≈ **1.24** | **Hold** | Sabzi/gosht = **spray** · roti ~120 · mayo moderate · pot oil only if stated |
 | **W6 (15 Nov)** | W6 ≈ **2.7** · W5+W6 rolling ≈ **1.31** | **Tighten** ambiguous sauces | Sabzi/gosht = **spray** · roti ~120 · mayo/fusion/pasta/burger sauce **mid–high** · pot oil only if stated |
 
+## Takeout refresh (monthly)
+
+Hassan sends a **Takeout slim** zip ~monthly. Ingest with `scripts/ingest_takeout_slim.py` (see `takeout.md`). Latest: **16 Nov 2026** → Fitbit through **13 Nov**. Use export burn/steps for activity ranking vs Notes TILSD; still never eat burn back.
+
 ## Fitbit / burn (locked interpretation)
 
 - Quiet / no-walk day: plan ~**2,550–2,650** true TDEE more than raw ~2,629 print
