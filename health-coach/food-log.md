@@ -2758,3 +2758,18 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** Corrected from full 240 g bone-in assumption. Strong protein; rice under starch cap.
 
 ---
+
+## 2026-11-16 — Snack (protein cookie · half)
+
+**Dish:** Half single-serve protein cookie — flour **23 g** + whey **23 g** + cocoa **5 g** + dark chocolate **5 g** + PB **10 g** + milk **10 g** + pinch baking powder + sucralose **3 g** + water (batch); ate **½**.
+
+**Portions:** half of batch (full batch ~280 / 24 / 24 / 9).
+
+**Macros:** **140 kcal · P 12 · C 12 · F 5**
+
+**Shortcut line:** `Food Log | Half protein cookie | 140 | 12 | 12 | 5`  
+**Confidence:** 88–92% sure · shelved labels; half of weighed recipe.
+
+**Notes:** Cut dessert — leftover half not logged.
+
+---

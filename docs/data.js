@@ -5850,6 +5850,19 @@ window.HC = {
       "portions": "breast **70 g** · edible salan **100 g** · rice **70 g** · daal **144 g**.",
       "confidence": "85–90% sure",
       "line": "Food Log | Chicken botiyan rice kari masoor | 555 | 68 | 48 | 11"
+    },
+    {
+      "date": "2026-11-16",
+      "slot": "Snack",
+      "dish": "Half protein cookie (flour 23 g + whey 23 g + cocoa 5 g + dark choc 5 g + PB 10 g + milk 10 g batch)",
+      "kcal": 140,
+      "p": 12,
+      "c": 12,
+      "f": 5,
+      "notes": "Half of ~280 batch from shelved labels.",
+      "portions": "½ batch.",
+      "confidence": "88–92% sure",
+      "line": "Food Log | Half protein cookie | 140 | 12 | 12 | 5"
     }
   ],
   "daily": [
@@ -6247,11 +6260,11 @@ window.HC = {
     },
     {
       "date": "2026-11-16",
-      "kcal": 1213,
-      "p": 129,
-      "c": 134,
-      "f": 19,
-      "n": 3
+      "kcal": 1353,
+      "p": 141,
+      "c": 146,
+      "f": 24,
+      "n": 4
     }
   ],
   "recipes": [
