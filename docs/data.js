@@ -6878,6 +6878,23 @@ window.HC = {
         "c": 15,
         "f": 4
       }
+    },
+    {
+      "name": "Continente Equilíbrio — Cacau Magro em Pó (100% cacau)",
+      "bullets": [
+        "Saved: **2026-11-16** · source: front + back nutrition photos · locked by Hassan",
+        "Product: low-fat cocoa powder · **100% cacau** · pack **125 g** · ~**12 × 10 g**",
+        "Per **10 g**: **33 kcal · P 2.4 · C 1.6 · F 1.1** (sugars 0.2, fiber 3.4)",
+        "Per **100 g**: **327 kcal · P 24 · C 16 · F 11**",
+        "Quick log: `1 tsp (~5 g)` → **17 / 1 / 1 / 1** · `10 g` → **33 / 2 / 2 / 1**",
+        "Daily sweet tooth: 1–2 tsp in GY + whey — not the pack date/nut truffle recipe."
+      ],
+      "macros": {
+        "kcal": 33.0,
+        "p": 2.4,
+        "c": 1.6,
+        "f": 1.1
+      }
     }
   ],
   "weeks": [
@@ -6986,7 +7003,7 @@ window.HC = {
     "days": 49,
     "kcal": 85646,
     "protein": 6033,
-    "labels": 36,
+    "labels": 38,
     "recipes": 15
   },
   "topMeals": [

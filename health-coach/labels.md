@@ -288,8 +288,22 @@ Homemade pots stay in `recipes.md`. Packaged labels live **here**.
 - Quick log: usually **skip** (≈1 kcal); if logging: `Canderel erythritol ½ tsp` → **1 / 0 / 2 / 0**
 - Prefer this over agave / dextrose sticks · excess erythritol may loosen stool
 
+## Continente Equilíbrio — Cacau Magro em Pó (100% cacau)
+- Saved: **2026-11-16** · source: front + back nutrition photos · locked by Hassan
+- Product: low-fat cocoa powder · **100% cacau** · pack **125 g** · ~**12 × 10 g** servings · Rainforest Alliance
+- Ingredients: cacau magro em pó (≥**10%** cocoa butter) · may contain soja / leite
+- Log unit: **10 g** (pack serving) or weigh tsp (~**5 g**)
+- Per **10 g**: **33 kcal · P 2.4 · C 1.6 · F 1.1** (sugars 0.2, sat 0.7, fiber 3.4, salt 0.01)
+- Per **100 g**: **327 kcal · P 24 · C 16 · F 11** (sugars 2.0, sat 7.0, fiber 34, salt 0.05)
+- Quick log:
+  - `1 tsp cocoa (~5 g)` → **17 / 1.2 / 0.8 / 0.6**
+  - `10 g cocoa` / `1 serving cocoa` → **33 / 2 / 2 / 1**
+  - `1 tbsp cocoa (~7–8 g)` → **~25 / 2 / 1 / 1**
+- Cut use: **1–2 tsp in GY + whey** for chocolate flavour; prefer over squares of chocolate for daily sweet tooth.
+
 ## Pending (photo the label next time)
 Add when a clear label photo arrives:
+- **Dark chocolate bar** — Hassan said save; **nutrition photo not received yet** (send back-of-pack table)
 - ~~FUEL brand granola~~ — default now **Origens Bio Granola Proteica Chocolate** (locked 5 Nov)
 - Other Greek yogurts (Oikos 0% / Mimosa Estilo Grego) if he switches tubs — macros differ · Mimosa Batido Natural already saved (weaker than Mythos)
 - Buondi (or café sachet) + sugar separate
