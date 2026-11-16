@@ -6895,6 +6895,21 @@ window.HC = {
         "c": 1.6,
         "f": 1.1
       }
+    },
+    {
+      "name": "Dark chocolate / cooking chocolate (household bar)",
+      "bullets": [
+        "Saved: **2026-11-16** · source: back nutrition photo · locked by Hassan",
+        "Pack ~**8 × 25 g** · per **100 g**: **553 kcal · P 10 · C 35 · F 39** (sugars 30)",
+        "Per **25 g**: **138 / 2.5 / 8.8 / 9.8** · per **10 g**: **55 / 1 / 4 / 4**",
+        "Weigh grams. Daily sweet tooth → prefer Continente Cacau Magro powder."
+      ],
+      "macros": {
+        "kcal": 553.0,
+        "p": 10.0,
+        "c": 35.0,
+        "f": 39.0
+      }
     }
   ],
   "weeks": [
@@ -7003,7 +7018,7 @@ window.HC = {
     "days": 49,
     "kcal": 85646,
     "protein": 6033,
-    "labels": 38,
+    "labels": 39,
     "recipes": 15
   },
   "topMeals": [

@@ -301,9 +301,22 @@ Homemade pots stay in `recipes.md`. Packaged labels live **here**.
   - `1 tbsp cocoa (~7–8 g)` → **~25 / 2 / 1 / 1**
 - Cut use: **1–2 tsp in GY + whey** for chocolate flavour; prefer over squares of chocolate for daily sweet tooth.
 
+## Dark chocolate / cooking chocolate (household bar · label 16 Nov)
+- Saved: **2026-11-16** · source: back nutrition photo · locked by Hassan
+- Product: chocolate / cacao cooking bar (pack shows ~**8 × 25 g** portions ≈ **200 g**) · ingredients include cacau + may contain leite / girassol (not 100% sugar-free dark)
+- Log unit: **weigh grams** (best) or **25 g** pack portion
+- Per **100 g**: **553 kcal · P 10 · C 35 · F 39** (sugars 30, sat 24, fiber 11, salt 0.01)
+- Per **25 g** portion: **138 kcal · P 2.5 · C 8.8 · F 9.8** (sugars 7.5, sat 6.0, fiber 2.8)
+- Per **1 g**: **~5.5 / 0.1 / 0.35 / 0.39**
+- Quick log:
+  - `10 g dark chocolate` → **55 / 1 / 4 / 4**
+  - `20 g dark chocolate` → **111 / 2 / 7 / 8**
+  - `25 g` / `1 portion` → **138 / 3 / 9 / 10**
+- Cut note: dense — prefer **Cacau Magro powder** for daily sweet tooth; weigh squares, don’t eyeball.
+
 ## Pending (photo the label next time)
 Add when a clear label photo arrives:
-- **Dark chocolate bar** — Hassan said save; **nutrition photo not received yet** (send back-of-pack table)
+- ~~Dark chocolate bar~~ — saved **16 Nov** (brand name optional if he photos the front)
 - ~~FUEL brand granola~~ — default now **Origens Bio Granola Proteica Chocolate** (locked 5 Nov)
 - Other Greek yogurts (Oikos 0% / Mimosa Estilo Grego) if he switches tubs — macros differ · Mimosa Batido Natural already saved (weaker than Mythos)
 - Buondi (or café sachet) + sugar separate
