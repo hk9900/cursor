@@ -6671,12 +6671,10 @@ window.HC = {
     {
       "name": "Household milk — meio-gordo / semi-skimmed (1.6% fat)",
       "bullets": [
-        "Saved: 2026-10-18 · source: carton nutrition table photo (green pack; Too Good To Go sticker)",
-        "Product: cow’s milk · **1.6 g fat / 100 ml** (Portuguese meio-gordo class)",
-        "Log unit: **100 ml** (≈ 100 g)",
-        "Per **100 ml**: **47 kcal · P 3.3 · C 4.9 · F 1.6** (sugars 4.9, sat fat 0.9, salt 0.10, Ca 110 mg / 15% NRV)",
-        "Quick log:",
-        "**Chai default = 200 ml this milk + Canderel (no sugar):**"
+        "Saved: 2026-10-18 · refreshed **2026-11-16** · carton photo · locked by Hassan",
+        "Per **100 ml**: **47 kcal · P 3.3 · C 4.9 · F 1.6** (sugars 4.9, Ca 110 mg)",
+        "Quick log: `100 ml` → **47 / 3 / 5 / 2** · `200 ml` / chai default → **94 / 7 / 10 / 3**",
+        "Meio-gordo 1.6% — household chai milk."
       ],
       "macros": {
         "kcal": 47.0,

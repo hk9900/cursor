@@ -254,8 +254,8 @@ Homemade pots stay in `recipes.md`. Packaged labels live **here**.
 - Excellent lean protein add-on for sauces/omelettes/shakes
 
 ## Household milk — meio-gordo / semi-skimmed (1.6% fat)
-- Saved: 2026-10-18 · source: carton nutrition table photo (green pack; Too Good To Go sticker)
-- Product: cow’s milk · **1.6 g fat / 100 ml** (Portuguese meio-gordo class)
+- Saved: 2026-10-18 · refreshed **2026-11-16** · source: carton nutrition table photo (green pack; Too Good To Go sticker) · locked by Hassan
+- Product: cow’s milk · **1.6 g fat / 100 ml** (Portuguese meio-gordo class) · brand optional
 - Log unit: **100 ml** (≈ 100 g)
 - Per **100 ml**: **47 kcal · P 3.3 · C 4.9 · F 1.6** (sugars 4.9, sat fat 0.9, salt 0.10, Ca 110 mg / 15% NRV)
 - Quick log:
