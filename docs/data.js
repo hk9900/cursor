@@ -6910,6 +6910,21 @@ window.HC = {
         "c": 35.0,
         "f": 39.0
       }
+    },
+    {
+      "name": "Fábricas Lusitana — Self-raising wheat flour",
+      "bullets": [
+        "Saved: **2026-11-16** · locked by Hassan (called AP — pack is **auto-levedante**)",
+        "Per **100 g**: **353 kcal · P 9.6 · C 74 · F 1.5** (sugars 2.7, salt 0.82)",
+        "Quick log: `50 g` → **177 / 5 / 37 / 1** · `100 g` → **353 / 10 / 74 / 2**",
+        "Not Ashirwad roti flour — raising agents already in bag."
+      ],
+      "macros": {
+        "kcal": 353.0,
+        "p": 9.6,
+        "c": 74.0,
+        "f": 1.5
+      }
     }
   ],
   "weeks": [
@@ -7018,7 +7033,7 @@ window.HC = {
     "days": 49,
     "kcal": 85646,
     "protein": 6033,
-    "labels": 39,
+    "labels": 40,
     "recipes": 15
   },
   "topMeals": [

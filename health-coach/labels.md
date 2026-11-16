@@ -314,9 +314,22 @@ Homemade pots stay in `recipes.md`. Packaged labels live **here**.
   - `25 g` / `1 portion` → **138 / 3 / 9 / 10**
 - Cut note: dense — prefer **Cacau Magro powder** for daily sweet tooth; weigh squares, don’t eyeball.
 
+## Fábricas Lusitana — Self-raising wheat flour (farinha auto-levedante)
+- Saved: **2026-11-16** · source: back nutrition photo · locked by Hassan (said “all purpose” — pack is **self-raising**, not plain AP)
+- Product: *Farinha auto-levedante de trigo para usos culinários* · pack **1 kg** · Fábricas Lusitana S.A. (Lisboa)
+- Ingredients: wheat flour + raising agents (monocalcium phosphate, baking soda, rice flour) · may contain mustard / soy
+- Log unit: **100 g** dry (weigh for recipes)
+- Per **100 g**: **353 kcal · P 9.6 · C 74 · F 1.5** (sugars 2.7, sat 0.5, fiber 2.5, salt **0.82**)
+- Quick log:
+  - `50 g self-raising flour` → **177 / 5 / 37 / 1**
+  - `100 g` → **353 / 10 / 74 / 2**
+  - `1 cup (~120–125 g)` ≈ **425–440 / 12 / 90 / 2** (weigh if possible)
+- Note: salt/raising agents already in flour — don’t double-count baking powder when logging batter. For plain chapati/roti he still uses **Ashirwad chakki** (not this bag).
+
 ## Pending (photo the label next time)
 Add when a clear label photo arrives:
 - ~~Dark chocolate bar~~ — saved **16 Nov** (brand name optional if he photos the front)
+- ~~Self-raising / “AP” flour~~ — saved **16 Nov** as Lusitana auto-levedante
 - ~~FUEL brand granola~~ — default now **Origens Bio Granola Proteica Chocolate** (locked 5 Nov)
 - Other Greek yogurts (Oikos 0% / Mimosa Estilo Grego) if he switches tubs — macros differ · Mimosa Batido Natural already saved (weaker than Mythos)
 - Buondi (or café sachet) + sugar separate
