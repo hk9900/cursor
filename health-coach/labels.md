@@ -326,14 +326,26 @@ Homemade pots stay in `recipes.md`. Packaged labels live **here**.
   - `1 cup (~120–125 g)` ≈ **425–440 / 12 / 90 / 2** (weigh if possible)
 - Note: salt/raising agents already in flour — don’t double-count baking powder when logging batter. For plain chapati/roti he still uses **Ashirwad chakki** (not this bag).
 
+## Household peanut butter — crunchy 100% peanuts (500 g)
+- Saved: **2026-11-16** · source: jar nutrition photo · locked by Hassan
+- Product: crunchy peanut butter · ingredients **PEANUTS 100%** · pack **500 g** · oil may separate — stir
+- May contain milk, nuts, egg, sulphites
+- Log unit: **weigh** or **1 tsp (~5–6 g)** / **1 tbsp (~16 g)**
+- Per **100 g**: **629 kcal · P 26 · C 13 · F 51** (sugars 5.2, sat 5.5, fiber 6.8, salt 0.05)
+- Quick log:
+  - `1 tsp PB (~5 g)` → **31 / 1.3 / 0.7 / 2.6** ≈ **31 / 1 / 1 / 3**
+  - `1 tbsp PB (~16 g)` → **101 / 4 / 2 / 8**
+  - `20 g PB` → **126 / 5 / 3 / 10**
+- Cut note: dense fat — keep to **tsp** on tostas, not tbsp piles. No added sugar/salt on this jar (good).
+
 ## Pending (photo the label next time)
 Add when a clear label photo arrives:
 - ~~Dark chocolate bar~~ — saved **16 Nov** (brand name optional if he photos the front)
 - ~~Self-raising / “AP” flour~~ — saved **16 Nov** as Lusitana auto-levedante
+- ~~Peanut butter~~ — saved **16 Nov** (100% crunchy; brand optional)
 - ~~FUEL brand granola~~ — default now **Origens Bio Granola Proteica Chocolate** (locked 5 Nov)
 - Other Greek yogurts (Oikos 0% / Mimosa Estilo Grego) if he switches tubs — macros differ · Mimosa Batido Natural already saved (weaker than Mythos)
 - Buondi (or café sachet) + sugar separate
-- Peanut butter brand
 - Brand name on this milk carton if you want it titled by brand (macros already saved)
 - Pão de queijo **back** nutrition table (front already saved; P/C from matching Continente Seleção line)
 - Any new bread, crackers, protein bars, omega-3 gels (kcal usually 0–10; optional)

@@ -6923,6 +6923,21 @@ window.HC = {
         "c": 74.0,
         "f": 1.5
       }
+    },
+    {
+      "name": "Household peanut butter — crunchy 100% peanuts",
+      "bullets": [
+        "Saved: **2026-11-16** · jar photo · locked by Hassan · pack **500 g** · **100% peanuts**",
+        "Per **100 g**: **629 kcal · P 26 · C 13 · F 51** (sugars 5.2, salt 0.05)",
+        "Quick log: `1 tsp (~5 g)` → **31 / 1 / 1 / 3** · `1 tbsp (~16 g)` → **101 / 4 / 2 / 8**",
+        "Dense — prefer teaspoon portions on cut."
+      ],
+      "macros": {
+        "kcal": 629.0,
+        "p": 26.0,
+        "c": 13.0,
+        "f": 51.0
+      }
     }
   ],
   "weeks": [
@@ -7031,7 +7046,7 @@ window.HC = {
     "days": 49,
     "kcal": 85646,
     "protein": 6033,
-    "labels": 40,
+    "labels": 41,
     "recipes": 15
   },
   "topMeals": [
