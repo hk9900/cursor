@@ -5837,6 +5837,19 @@ window.HC = {
       "portions": "Cacau **250 ml** · keenu **2** small.",
       "confidence": "90–94% sure",
       "line": "Food Log | Light Cafe Cacau 2 small keenu | 220 | 21 | 32 | 1"
+    },
+    {
+      "date": "2026-11-16",
+      "slot": "Dinner",
+      "dish": "Chicken breast botiyan 70 g + bone-in salan botiyan 240 g (no gravy) + white rice 70 g + kari masoor 144 g (no oil)",
+      "kcal": 720,
+      "p": 98,
+      "c": 49,
+      "f": 15,
+      "notes": "Bone-in ~195 g edible @ prior 19% bone ratio. No salan/oil.",
+      "portions": "breast **70 g** · bone-in **240 g** · rice **70 g** · daal **144 g**.",
+      "confidence": "78–85% sure",
+      "line": "Food Log | Chicken botiyan rice kari masoor | 720 | 98 | 49 | 15"
     }
   ],
   "daily": [
@@ -6234,11 +6247,11 @@ window.HC = {
     },
     {
       "date": "2026-11-16",
-      "kcal": 658,
-      "p": 61,
-      "c": 86,
-      "f": 8,
-      "n": 2
+      "kcal": 1378,
+      "p": 159,
+      "c": 135,
+      "f": 23,
+      "n": 3
     }
   ],
   "recipes": [

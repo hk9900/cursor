@@ -2742,3 +2742,19 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** Cacau carton (not coffee Light Café). Not shelved — photo used for this log only.
 
 ---
+
+## 2026-11-16 — Dinner
+
+**Dish:** Chicken breast botiyan **70 g** + chicken salan botiyan bone-in **240 g** (**no salan**/gravy) + white rice **70 g** + kari masoor daal **144 g** (no oil).
+
+**Portions:** breast **70 g** · bone-in **240 g** (~**195 g** edible @ ~19% bone from prior plate) · rice **70 g** · daal **144 g** · no gravy/oil.
+
+**Macros:** **720 kcal · P 98 · C 49 · F 15**  
+(Breast ~122/22/1/4 · bone-in edible ~340/61/2/9 · rice ~91/2/20/0 · daal ~165/13/26/2.)
+
+**Shortcut line:** `Food Log | Chicken botiyan rice kari masoor | 720 | 98 | 49 | 15`  
+**Confidence:** 78–85% sure · weighed; bone % from prior AF botiyan plate; daal no baghaar as stated — say if edible-only weight or tarka.
+
+**Notes:** Strong protein plate. Rice under starch cap. Day running high-protein after GY + Cacau.
+
+---
