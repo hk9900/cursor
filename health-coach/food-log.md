@@ -2710,3 +2710,19 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** Fruit close after heavy party lunch day.
 
 ---
+
+## 2026-11-16 — Breakfast
+
+**Dish:** Mythos GY **200 g** + Origens granola **20 g** + Critical Whey Chocolate **1 scoop** + some berries (~7–8 / ~40 g) + **1** banana. **No cottage.**
+
+**Portions:** Mythos **200 g** · granola **20 g** · whey **1 scoop** · berries **~40 g** · banana **1** medium.
+
+**Macros:** **438 kcal · P 40 · C 54 · F 7**  
+(GY 110/11/8/4 · granola 81/4/10/2 · whey 122/24/4/1 · berries ~20/0/5/0 · banana ~105/1/27/0.)
+
+**Shortcut line:** `Food Log | GY granola whey berries banana | 438 | 40 | 54 | 7`  
+**Confidence:** 85–90% sure · weighed GY/granola + locked labels; berries “some” + medium banana assumed.
+
+**Notes:** No cottage. Banana replaces prior fruit/keenu extras.
+
+---

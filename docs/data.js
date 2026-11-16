@@ -1,14 +1,14 @@
 window.HC = {
   "meta": {
     "name": "Hassan Khan",
-    "through": "2026-11-15",
+    "through": "2026-11-16",
     "weight": 109.5,
     "waist": 45,
     "startWeight": 120,
     "heightCm": 180.3,
     "dob": "1991-08-08",
     "city": "Lisbon",
-    "siteUpdated": "2026-11-15"
+    "siteUpdated": "2026-11-16"
   },
   "weightCut": {
     "labels": [
@@ -4341,6 +4341,19 @@ window.HC = {
       "portions": "melon **756 g**.",
       "confidence": "90–94% sure",
       "line": "Food Log | Melon 756g | 258 | 4 | 77 | 0"
+    },
+    {
+      "date": "2026-11-16",
+      "slot": "Breakfast",
+      "dish": "Mythos GY 200 g + Origens granola 20 g + Critical Whey Chocolate 1 scoop + some berries + 1 banana (no cottage)",
+      "kcal": 438,
+      "p": 40,
+      "c": 54,
+      "f": 7,
+      "notes": "No cottage. Berries ~40 g / medium banana assumed.",
+      "portions": "Mythos **200 g** · granola **20 g** · whey **1 scoop** · berries **~40 g** · banana **1**.",
+      "confidence": "85–90% sure",
+      "line": "Food Log | GY granola whey berries banana | 438 | 40 | 54 | 7"
     }
   ],
   "daily": [
@@ -4735,6 +4748,14 @@ window.HC = {
       "c": 334,
       "f": 79,
       "n": 3
+    },
+    {
+      "date": "2026-11-16",
+      "kcal": 438,
+      "p": 40,
+      "c": 54,
+      "f": 7,
+      "n": 1
     }
   ],
   "recipes": [
