@@ -5652,6 +5652,19 @@ window.HC = {
       "portions": "Mythos **200 g** · granola **20 g** · whey **1 scoop** · berries **~40 g** · banana **1**.",
       "confidence": "85–90% sure",
       "line": "Food Log | GY granola whey berries banana | 438 | 40 | 54 | 7"
+    },
+    {
+      "date": "2026-11-16",
+      "slot": "Afternoon",
+      "dish": "Continente Light Café Cacau 250 ml + 2 small keenu",
+      "kcal": 220,
+      "p": 21,
+      "c": 32,
+      "f": 1,
+      "notes": "Label photo 56/8/4.6/0.4 per 100 ml × 250 ml. Not shelved.",
+      "portions": "Cacau **250 ml** · keenu **2** small.",
+      "confidence": "90–94% sure",
+      "line": "Food Log | Light Cafe Cacau 2 small keenu | 220 | 21 | 32 | 1"
     }
   ],
   "daily": [
@@ -6049,11 +6062,11 @@ window.HC = {
     },
     {
       "date": "2026-11-16",
-      "kcal": 438,
-      "p": 40,
-      "c": 54,
-      "f": 7,
-      "n": 1
+      "kcal": 658,
+      "p": 61,
+      "c": 86,
+      "f": 8,
+      "n": 2
     }
   ],
   "recipes": [

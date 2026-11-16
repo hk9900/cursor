@@ -2726,3 +2726,19 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** No cottage. Banana replaces prior fruit/keenu extras.
 
 ---
+
+## 2026-11-16 — Afternoon
+
+**Dish:** Continente protein milk **Cacau** (label photo) **250 ml** + **2** small keenu.
+
+**Portions:** carton **1 × 250 ml** · keenu **2** small.
+
+**Macros:** **220 kcal · P 21 · C 32 · F 1**  
+(Carton from label **56/8.0/4.6/0.4 per 100 ml** → **140/20/12/1** · 2 small keenu **80/1/20/0**.)
+
+**Shortcut line:** `Food Log | Light Cafe Cacau 2 small keenu | 220 | 21 | 32 | 1`  
+**Confidence:** 90–94% sure · full carton label math; small keenu from prior logs.
+
+**Notes:** Cacau carton (not coffee Light Café). Not shelved — photo used for this log only.
+
+---
