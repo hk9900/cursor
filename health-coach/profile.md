@@ -14,6 +14,7 @@ See also: Cursor skill `.cursor/skills/food-log/SKILL.md` for meal photo → est
 ## Activity & lifestyle
 - Fitbit Air (+ **monthly Google Takeout slim**) · Apple Health Food Log Shortcut
 - Takeout ingest: `health-coach/takeout.md` + `scripts/ingest_takeout_slim.py` · last ingest **16 Nov 2026** · Fitbit series through **13 Nov 2026** (`meta.fitbitThrough`)
+- Apple Health export: `health-coach/apple-export.md` + `scripts/ingest_apple_export.py` · last ingest **16 Nov 2026** · dietary through **16 Nov 2026** (`meta.appleThrough`) · avg intake ~**1,771** · avg protein ~**127 g** (Shortcuts Food Log)
 - Sleep aim 6–8 h · lower back history · acidity (chai OK)
 - Smokes · family heart-attack history · Coke Zero · fruit for sweet tooth
 - Walks are the main NEAT lever (don’t eat Fitbit burn back) · W4 skipped · W5 restored · **W6 weather skip** (chores/grocery NEAT)

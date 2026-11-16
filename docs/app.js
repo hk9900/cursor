@@ -294,8 +294,15 @@
       d, String(HC.burn[i]), String(HC.active[i]), HC.steps[i].toLocaleString(), String(HC.rhr[i]),
     ]);
     const energyRows = HC.energyDays.map((d, i) => [
-      d, String(HC.intake[i]), String(HC.proteinApple[i]), String(HC.burnOnIntake[i]), String(HC.deficit[i]),
+      d,
+      String(HC.intake[i]),
+      String(HC.proteinApple[i]),
+      HC.burnOnIntake[i] == null ? "—" : String(HC.burnOnIntake[i]),
+      HC.deficit[i] == null ? "—" : String(HC.deficit[i]),
     ]);
+    const appleAvg = avg(HC.intake);
+    const appleP = avg(HC.proteinApple);
+    const appleThru = (HC.meta.appleThrough || HC.apple?.through || "").slice(5) || "latest";
     const exportRows = (ex.days || []).map((d, i) => [
       d.slice(5),
       String(ex.calories?.[i] ?? "—"),
@@ -319,14 +326,20 @@
           ${stat(`~${stepsAll.toLocaleString()}`, "Avg steps")}
           ${stat(`~${azmAvg}`, "Avg AZM min (V+F)")}
         </div>
+        <div class="grid-4">
+          ${stat(`~${appleAvg}`, "Apple avg intake", "info")}
+          ${stat(`~${appleP} g`, "Apple avg protein", appleP >= 150 ? "good" : undefined)}
+          ${stat(String(HC.energyDays?.length || 0), "Apple intake days")}
+          ${stat(appleThru, "Apple through")}
+        </div>
         ${chartCard("Total vs active burn", `Fitbit · Sep 23 – ${(HC.meta.fitbitThrough || HC.export?.through || "").slice(5) || "latest"}`, "c-burn")}
         ${chartCard("Steps", "Fitbit + phone steps (Takeout)", "c-steps", true)}
         ${chartCard("Distance (km)", "Fitbit Air distance (m→km)", "c-distance", true)}
         ${chartCard("Active zone minutes (very + fairly)", "Proxy AZM from activity minutes", "c-azm", true)}
         ${chartCard("Activity minutes stacked", "Very / fairly / lightly", "c-act-min")}
         ${chartCard("Heart-rate zone minutes", "Fitbit zones · export", "c-hr-zones")}
-        ${chartCard("Intake vs burn", "Apple Dietary Energy days", "c-intake-burn")}
-        ${chartCard("Apple protein (g)", "Target 150–170", "c-protein-apple", true)}
+        ${chartCard("Intake vs burn", `Apple Dietary Energy · to ${appleThru}`, "c-intake-burn")}
+        ${chartCard("Apple protein (g)", "Target 150–170 · Food Log → Health", "c-protein-apple", true)}
         ${tableCard("Logged exercises", "Fitbit UserExercises (Takeout)", [
           { label: "Date" }, { label: "Activity" }, { label: "kcal", num: true },
           { label: "Min", num: true }, { label: "Steps", num: true }, { label: "AZM", num: true },
@@ -343,7 +356,7 @@
         ${tableCard("Every Apple intake day", "Intake · P · burn · deficit", [
           { label: "Date" }, { label: "Intake", num: true }, { label: "P", num: true },
           { label: "Burn", num: true }, { label: "Deficit", num: true },
-        ], energyRows, HC.deficit.map((d) => (d < 0 ? "bad" : d > 1200 ? "good" : undefined)), true)}
+        ], energyRows, HC.deficit.map((d) => (d == null ? undefined : d < 0 ? "bad" : d > 1200 ? "good" : undefined)), true)}
         ${tableCard("Oct 6–13 detail", "", [
           { label: "Date" }, { label: "kcal", num: true }, { label: "P", num: true },
           { label: "C", num: true }, { label: "F", num: true }, { label: "Burn", num: true },

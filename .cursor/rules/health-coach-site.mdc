@@ -20,7 +20,8 @@ Triggers include:
 - Pack nutrition label photo **only when he asks to save/shelf/lock it** (5 Nov: don’t shelf new products until he says so)
 - Recipe / household cook change (oil, spray, staples)
 - Sunday weigh-in / tape / weekly Notes table (**also run `calibration.md` nudge procedure**)
-- Fitbit / Google / Apple Health export (**monthly Takeout slim** — see `health-coach/takeout.md`; run `scripts/ingest_takeout_slim.py`, then sync profile + push)
+- Fitbit / Google Takeout slim (**monthly** — `health-coach/takeout.md` · `scripts/ingest_takeout_slim.py`)
+- Apple Health **export.zip** (`health-coach/apple-export.md` · `scripts/ingest_apple_export.py` → refresh intake/protein charts)
 - Labs, supplements, targets, profile facts
 - Coaching decisions that change locked rules (oil, roti/rice caps, kcal band, calibration nudges)
 
