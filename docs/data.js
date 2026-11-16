@@ -5841,15 +5841,15 @@ window.HC = {
     {
       "date": "2026-11-16",
       "slot": "Dinner",
-      "dish": "Chicken breast botiyan 70 g + bone-in salan botiyan 240 g (no gravy) + white rice 70 g + kari masoor 144 g (no oil)",
-      "kcal": 720,
-      "p": 98,
-      "c": 49,
-      "f": 15,
-      "notes": "Bone-in ~195 g edible @ prior 19% bone ratio. No salan/oil.",
-      "portions": "breast **70 g** · bone-in **240 g** · rice **70 g** · daal **144 g**.",
-      "confidence": "78–85% sure",
-      "line": "Food Log | Chicken botiyan rice kari masoor | 720 | 98 | 49 | 15"
+      "dish": "Chicken breast botiyan 70 g + salan botiyan edible 100 g (240 start − 112 left − 28 bones, no gravy) + white rice 70 g + kari masoor 144 g (no oil)",
+      "kcal": 555,
+      "p": 68,
+      "c": 48,
+      "f": 11,
+      "notes": "Corrected: edible salan botiyan 100 g from leftover+bones weigh-back.",
+      "portions": "breast **70 g** · edible salan **100 g** · rice **70 g** · daal **144 g**.",
+      "confidence": "85–90% sure",
+      "line": "Food Log | Chicken botiyan rice kari masoor | 555 | 68 | 48 | 11"
     }
   ],
   "daily": [
@@ -6247,10 +6247,10 @@ window.HC = {
     },
     {
       "date": "2026-11-16",
-      "kcal": 1378,
-      "p": 159,
-      "c": 135,
-      "f": 23,
+      "kcal": 1213,
+      "p": 129,
+      "c": 134,
+      "f": 19,
       "n": 3
     }
   ],
