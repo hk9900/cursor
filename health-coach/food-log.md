@@ -2853,3 +2853,19 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** Starch at **200 g** cap. Day running ~**1,506** logged so far (incl. late-night) · protein strong.
 
 ---
+
+## 2026-11-17 — Dinner
+
+**Dish:** White rice + masoor daal + omelet (2 whole eggs + **100 g** whites) + **1** light cheese slice + **2** Bimbo protein bread. **No whey** in this log.
+
+**Portions:** rice **100 g** · masoor **150 g** (no oil) · whole eggs **2** · egg whites **100 g** · light cheese **1** slice · Bimbo **2** · omelet cook **1 spray**.
+
+**Macros:** **690 kcal · P 58 · C 75 · F 18**  
+(Rice **130/3/28/0** · masoor **170/13/27/2** · eggs **144/13/1/10** · whites **47/11/1/0** · 2 Bimbo **162/14/17/4** · light cheese ~**33/4/1/2** · spray ~**5/0/0/1**.)
+
+**Shortcut line:** `Food Log | Rice dal omelet cheese 2 Bimbo | 690 | 58 | 75 | 18`  
+**Confidence:** 80–88% sure · rice/dal/omelet from weighed plan; light cheese typical ~30–35 kcal slice — photo pack for exact; say if whey drunk too.
+
+**Notes:** No-chicken dinner. Cheese not shelved.
+
+---
