@@ -2773,3 +2773,19 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** Cut dessert — leftover half not logged.
 
 ---
+
+## 2026-11-17 — Late night
+
+**Dish:** Air-fried chicken (bone-in) + homemade **no-oil** pilau chawal.
+
+**Portions:** chicken with bones **209 g** · bones discarded **54 g** → edible **155 g** · pilau rice **150 g** (no oil) · AF fat assumed **1 spray** (household default).
+
+**Macros:** **465 kcal · P 53 · C 43 · F 7**  
+(Edible chicken **155 g** @ 5 Nov AF tandoori density 600/108/2/16 per 344 g → **270/49/1/7** · no-oil cooked rice **150 g** → **195/4/42/0**.)
+
+**Shortcut line:** `Food Log | AF chicken 155g edible + pilau 150g | 465 | 53 | 43 | 7`  
+**Confidence:** 85–90% sure · bone subtract weighed; rice no-oil stated — say if AF used brush oil/butter or thighs/skin-heavy.
+
+**Notes:** Lean late plate · rice under 200 g cap · strong protein add for the day.
+
+---
