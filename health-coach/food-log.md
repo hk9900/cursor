@@ -2837,3 +2837,19 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** No cottage / no banana. Solid AM protein base.
 
 ---
+
+## 2026-11-17 — Lunch
+
+**Dish:** Air-fried chicken (bone-in) + homemade pilau chawal + dark chocolate **10 g**.
+
+**Portions:** chicken with bones **227 g** · bones discarded **60 g** → edible **167 g** · pilau rice **200 g** (assumed same **no-oil** pot as late night) · chocolate **10 g** · AF fat assumed **1 spray**.
+
+**Macros:** **606 kcal · P 58 · C 61 · F 12**  
+(Edible chicken **167 g** @ AF tandoori density → **291/52/1/8** · no-oil rice **200 g** → **260/5/56/0** · dark choc label → **55/1/4/4**.)
+
+**Shortcut line:** `Food Log | AF chicken 167g edible + pilau 200g + dark choc 10g | 606 | 58 | 61 | 12`  
+**Confidence:** 85–90% sure · bone subtract weighed; rice assumed no-oil — say if pot oil/tarka or AF brush oil.
+
+**Notes:** Starch at **200 g** cap. Day running ~**1,506** logged so far (incl. late-night) · protein strong.
+
+---
