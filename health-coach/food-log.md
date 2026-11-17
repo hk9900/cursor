@@ -2789,3 +2789,19 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** Lean late plate · rice under 200 g cap · strong protein add for the day.
 
 ---
+
+## 2026-11-17 — Late snack
+
+**Dish:** Melon **139 g** (same density as prior galia / striped meloa logs).
+
+**Portions:** melon **139 g**.
+
+**Macros:** **47 kcal · P 1 · C 14 · F 0**  
+(Scaled from 756 g → 258/4/77/0 ≈ **34 kcal · 10.2 C / 100 g**.)
+
+**Shortcut line:** `Food Log | Melon 139g | 47 | 1 | 14 | 0`  
+**Confidence:** 90–94% sure · weighed; type assumed same as recent melon logs.
+
+**Notes:** Fruit close after chicken + pilau.
+
+---
