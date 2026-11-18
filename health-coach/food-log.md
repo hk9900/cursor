@@ -2933,3 +2933,19 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** Protein top-up after light lunch.
 
 ---
+
+## 2026-11-18 — Dinner (add)
+
+**Dish:** Anday aloo salan (**2 eggs**, **no oil**) + **2** house roti.
+
+**Portions:** salan with **2** whole eggs + potato/onion-tomato gravy (**no oil**) · roti **2** medium (~120 kcal each). Potato volume unweighed — mid plate ~**180–200 g** cooked aloo assumed.
+
+**Macros:** **595 kcal · P 26 · C 92 · F 16**  
+(2 eggs **144/13/1/10** · aloo+gravy no oil ~**210/5/45/0** · 2 roti **240/8/46/6**.)
+
+**Shortcut line:** `Food Log | Anday aloo salan 2 eggs 2 roti | 595 | 26 | 92 | 16`  
+**Confidence:** 72–80% sure · eggs + no oil clear; aloo heap guessed mid — say if small/large potato share.
+
+**Notes:** Add-on to seekh. Starch = roti (no rice with this).
+
+---
