@@ -2949,3 +2949,19 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** Corrected down from prior 2 roti / 2 egg assumption.
 
 ---
+
+## 2026-11-18 — Evening snack
+
+**Dish:** Fruit chaat **167 g** — apple + keenu / orange segments + juice + chaat masala (photo).
+
+**Portions:** weighed bowl **167 g** · apple + keenu roughly even · juice in container · no sev/cream/sugar seen.
+
+**Macros:** **92 kcal · P 1 · C 22 · F 0**  
+(~**55 kcal/100 g** apple–keenu chaat with juice; lighter than prior corn chaat mix.)
+
+**Shortcut line:** `Food Log | Fruit chaat 167g | 92 | 1 | 22 | 0`  
+**Confidence:** 85–90% sure · weighed; photo matches apple+keenu only.
+
+**Notes:** Light fruit close.
+
+---
