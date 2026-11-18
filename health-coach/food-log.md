@@ -2917,3 +2917,19 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** Light lunch · protein soft without chicken/eggs. Morango bottle used for this log only (not shelved).
 
 ---
+
+## 2026-11-18 — Dinner
+
+**Dish:** Homemade beef seekh kebab (minced qeema) air-fried **no oil** **105 g**.
+
+**Portions:** cooked seekh **105 g** · beef mince · AF **no oil / no spray**.
+
+**Macros:** **231 kcal · P 23 · C 4 · F 13**  
+(Scaled from 3 Nov AF seekh **141 g → 310/31/5/18** ≈ **220 kcal/100 g**.)
+
+**Shortcut line:** `Food Log | AF beef seekh kebab 105g | 231 | 23 | 4 | 13`  
+**Confidence:** 78–85% sure · weighed + beef + no oil stated; mince fat % still soft — say if very lean or fatty pack.
+
+**Notes:** Protein top-up after light lunch.
+
+---
