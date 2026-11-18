@@ -2965,3 +2965,19 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** Light fruit close.
 
 ---
+
+## 2026-11-18 — Evening snack (dark chocolate)
+
+**Dish:** Dark / cooking chocolate **10 g** (household bar · shelved 16 Nov).
+
+**Portions:** **10 g**.
+
+**Macros:** **55 kcal · P 1 · C 4 · F 4**  
+(Label **553/10/35/39 per 100 g** → **55/1/4/4**.)
+
+**Shortcut line:** `Food Log | Dark chocolate 10g | 55 | 1 | 4 | 4`  
+**Confidence:** 92–96% sure · weighed + locked label.
+
+**Notes:** Sweet close.
+
+---
