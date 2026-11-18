@@ -2885,3 +2885,19 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** Evening sweet close.
 
 ---
+
+## 2026-11-18 — Breakfast
+
+**Dish:** Mythos GY **200 g** + Origens granola **20 g** + Critical Whey Chocolate **1 scoop** + berries (~7–8 / ~40 g). **No cottage.** Same as 17 Nov.
+
+**Portions:** Mythos **200 g** · granola **20 g** · whey **1 scoop** · berries **~40 g**.
+
+**Macros:** **333 kcal · P 39 · C 27 · F 7**  
+(GY **110/11/8/4** · granola **81/4/10/2** · whey **122/24/4/1** · berries **~20/0/5/0**.)
+
+**Shortcut line:** `Food Log | GY granola whey berries | 333 | 39 | 27 | 7`  
+**Confidence:** 88–92% sure · same as yesterday; berries qty assumed locked 7–8.
+
+**Notes:** Repeat AM bowl.
+
+---
