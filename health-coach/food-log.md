@@ -2981,3 +2981,19 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** Sweet close.
 
 ---
+
+## 2026-11-18 — Evening snack (yogurt cocoa bowl share)
+
+**Dish:** Ate **2 tbsp** of mix — natural yogurt **125 g** + cocoa **2 tbsp** + sucralose **2 tbsp** + Origens granola **1 tbsp** + PB **1 tbsp**.
+
+**Portions:** full batch ~**180 g** / ~**263 kcal** · eaten **2 tbsp** thick mix (~**40 g** estimated) · Mythos 2% assumed · rest of bowl not logged.
+
+**Macros:** **60 kcal · P 4 · C 3 · F 3**  
+(Batch: Mythos 125 **69/7/5/3** · cocoa ~16 g **52/4/3/2** · granola 10 g **41/2/5/1** · PB 16 g **101/4/2/8** · sucralose 0 → share ~**40/181**.)
+
+**Shortcut line:** `Food Log | 2 tbsp yogurt cocoa granola PB mix | 60 | 4 | 3 | 3`  
+**Confidence:** 65–75% sure · recipe clear; **2 tbsp** of thick mix unweighed (~35–45 g) — weigh next time; say if Mimosa not Mythos.
+
+**Notes:** Small taste of a denser bowl — leftover batch not eaten = not logged.
+
+---
