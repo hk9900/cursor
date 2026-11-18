@@ -5997,15 +5997,15 @@ window.HC = {
     {
       "date": "2026-11-18",
       "slot": "Dinner",
-      "dish": "Anday aloo salan (2 eggs, no oil) + 2 house roti",
-      "kcal": 595,
-      "p": 26,
-      "c": 92,
-      "f": 16,
-      "notes": "Unweighed aloo ~180–200 g cooked mid plate; roti ~120 each.",
-      "portions": "eggs **2** · salan no oil · roti **2**.",
-      "confidence": "72–80% sure",
-      "line": "Food Log | Anday aloo salan 2 eggs 2 roti | 595 | 26 | 92 | 16"
+      "dish": "1 roti + 1 anda + 1 aloo piece salan (no oil) — corrected from 2/2",
+      "kcal": 265,
+      "p": 13,
+      "c": 39,
+      "f": 8,
+      "notes": "Aloo piece ~50–70 g cooked guessed.",
+      "portions": "roti **1** · egg **1** · aloo **1** piece.",
+      "confidence": "75–82% sure",
+      "line": "Food Log | 1 roti 1 anda 1 aloo salan | 265 | 13 | 39 | 8"
     }
   ],
   "daily": [
@@ -6419,10 +6419,10 @@ window.HC = {
     },
     {
       "date": "2026-11-18",
-      "kcal": 1650,
-      "p": 108,
-      "c": 223,
-      "f": 38,
+      "kcal": 1320,
+      "p": 95,
+      "c": 170,
+      "f": 30,
       "n": 4
     }
   ],
