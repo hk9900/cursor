@@ -2901,3 +2901,19 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** Repeat AM bowl.
 
 ---
+
+## 2026-11-18 — Lunch
+
+**Dish:** White rice **100 g** + kali masoor **150 g** (no oil) + **1** small apple + **2** small keenu + Continente Morango drink yogurt **160 g** (label photo).
+
+**Portions:** rice **100 g** · kali masoor **150 g** · apple **1** small · keenu **2** small · drink yogurt **160 g**.
+
+**Macros:** **491 kcal · P 20 · C 100 · F 2**  
+(Rice **130/3/28/0** · kali masoor **170/13/27/2** · small apple **60/0/16/0** · 2 small keenu **80/1/20/0** · Morango bottle label **51/3.4/8.8/0** → **51/3/9/0**.)
+
+**Shortcut line:** `Food Log | Rice kali masoor apple 2 keenu Morango yogurt | 491 | 20 | 100 | 2`  
+**Confidence:** 88–92% sure · rice/dal weighed; drink from pack portion; fruit prior small sizes — say if dal had tarka/oil.
+
+**Notes:** Light lunch · protein soft without chicken/eggs. Morango bottle used for this log only (not shelved).
+
+---
