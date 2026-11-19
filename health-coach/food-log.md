@@ -3013,3 +3013,19 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** Brown patches on eggs → not logged as zero-fat cook.
 
 ---
+
+## 2026-11-19 — Dinner
+
+**Dish:** Air-fried chicken breast botiyan **138 g** + chicken salan (**no oil**) + **2** roti + dark chocolate **10 g**.
+
+**Portions:** breast botiyan **138 g** AF · chicken salan gravy/plate unweighed (no oil) · roti **2** · chocolate **10 g**.
+
+**Macros:** **655 kcal · P 58 · C 63 · F 20**  
+(Breast **138 g** @ ~175/31/1/5 per 100 g → **242/43/1/7** · 2 roti **240/8/46/6** · no-oil chicken salan mid plate ~**120/6/12/3** · dark choc **55/1/4/4**.)
+
+**Shortcut line:** `Food Log | AF breast 138g chicken salan 2 roti dark choc | 655 | 58 | 63 | 20`  
+**Confidence:** 72–80% sure · breast + choc weighed; salan volume guessed mid — say if mostly gravy or lots of boti.
+
+**Notes:** Late dinner. Salan is the soft estimate.
+
+---
