@@ -2997,3 +2997,19 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** Small taste of a denser bowl — leftover batch not eaten = not logged.
 
 ---
+
+## 2026-11-19 — Lunch
+
+**Dish:** Anday aloo salan (**2** eggs + **2** aloo pieces, photo) + **1** roti + **1** keenu + Continente Light Café **250 ml** (~20 g protein).
+
+**Portions:** eggs **2** (browned/seared on photo) · aloo **2** pieces (~**90 g** cooked total) · gravy cling · roti **1** · keenu **1** medium · Light Café **250 ml**. Sear fat logged ~**1 tsp** oil (brown crust) — say if spray-only.
+
+**Macros:** **600 kcal · P 41 · C 72 · F 19**  
+(2 eggs **144/13/1/10** · sear oil ~**40/0/0/5** · 2 aloo ~**78/2/18/0** · gravy ~**35/1/5/0** · roti **120/4/23/3** · keenu **50/1/12/0** · Light Café **135/20/13/1**.)
+
+**Shortcut line:** `Food Log | 2 anda 2 aloo roti keenu Light Cafe | 600 | 41 | 72 | 19`  
+**Confidence:** 75–82% sure · counts clear; aloo size + sear oil from photo; leite = Light Café assumed (not Cacau).
+
+**Notes:** Brown patches on eggs → not logged as zero-fat cook.
+
+---
