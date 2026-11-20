@@ -8,7 +8,7 @@ window.HC = {
     "heightCm": 180.3,
     "dob": "1991-08-08",
     "city": "Lisbon",
-    "siteUpdated": "2026-11-19",
+    "siteUpdated": "2026-11-20",
     "fitbitThrough": "2026-11-13",
     "takeoutIngested": "2026-11-16",
     "appleThrough": "2026-11-16",
@@ -7196,6 +7196,21 @@ window.HC = {
         "c": 13.0,
         "f": 51.0
       }
+    },
+    {
+      "name": "Nestlé Nesquik — choco ball cereal (cereal / choco balls)",
+      "bullets": [
+        "Saved: **2026-11-20** · box photo · locked by Hassan as **cereal** / **choco ball**",
+        "Per **100 g**: **375 kcal · P 8.6 · C 74.3 · F 2.9** (sugars 22.0, fiber 8.6)",
+        "Per **30 g**: **113 / 2.6 / 22.3 / 0.9** · quick: `30 g choco ball` → **113 / 3 / 22 / 1**",
+        "Sugar-forward — weigh pours; pair with GY/whey if used as a bowl."
+      ],
+      "macros": {
+        "kcal": 375.0,
+        "p": 8.6,
+        "c": 74.3,
+        "f": 2.9
+      }
     }
   ],
   "weeks": [
@@ -7304,7 +7319,7 @@ window.HC = {
     "days": 49,
     "kcal": 85646,
     "protein": 6033,
-    "labels": 41,
+    "labels": 42,
     "recipes": 15
   },
   "topMeals": [

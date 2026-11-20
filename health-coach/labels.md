@@ -338,11 +338,26 @@ Homemade pots stay in `recipes.md`. Packaged labels live **here**.
   - `20 g PB` → **126 / 5 / 3 / 10**
 - Cut note: dense fat — keep to **tsp** on tostas, not tbsp piles. No added sugar/salt on this jar (good).
 
+## Nestlé Nesquik — choco ball cereal (cereal / choco balls)
+- Saved: **2026-11-20** · source: box side nutrition photo · locked by Hassan as **cereal** / **choco ball**
+- Product: Nestlé **Nesquik** chocolate cereal balls · PT pack
+- Ingredients: whole **wheat** flour 53.1% · sugar · corn semolina 17.1% · glucose syrup · fat-reduced cocoa 4.8% · calcium carbonate · sunflower oil · malted **barley** flour 0.3% · salt · natural flavour · vitamins/minerals · may contain **milk** / **nuts**
+- Log unit: **weigh grams** (best) or pack serving **30 g**
+- Per **100 g**: **375 kcal · P 8.6 · C 74.3 · F 2.9** (sugars 22.0, fiber 8.6, sat 0.7, salt 0.20)
+- Per **30 g** serving: **113 kcal · P 2.6 · C 22.3 · F 0.9** (sugars 6.6, fiber 2.6)
+- Quick log:
+  - `30 g choco ball` / `1 serving Nesquik` / `cereal 30g` → **113 / 3 / 22 / 1**
+  - `40 g choco ball` → **150 / 3 / 30 / 1**
+  - `50 g choco ball` → **188 / 4 / 37 / 1**
+  - `100 g` → **375 / 9 / 74 / 3**
+- Cut note: sugar-forward cereal — prefer weighed small pours; not a protein staple (pair with GY/whey if used).
+
 ## Pending (photo the label next time)
 Add when a clear label photo arrives:
 - ~~Dark chocolate bar~~ — saved **16 Nov** (brand name optional if he photos the front)
 - ~~Self-raising / “AP” flour~~ — saved **16 Nov** as Lusitana auto-levedante
 - ~~Peanut butter~~ — saved **16 Nov** (100% crunchy; brand optional)
+- ~~Nesquik / choco ball cereal~~ — saved **20 Nov**
 - ~~FUEL brand granola~~ — default now **Origens Bio Granola Proteica Chocolate** (locked 5 Nov)
 - Other Greek yogurts (Oikos 0% / Mimosa Estilo Grego) if he switches tubs — macros differ · Mimosa Batido Natural already saved (weaker than Mythos)
 - Buondi (or café sachet) + sugar separate
