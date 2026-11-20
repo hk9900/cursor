@@ -3029,3 +3029,19 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** Late dinner. Salan is the soft estimate.
 
 ---
+
+## 2026-11-20 — Breakfast
+
+**Dish:** Mythos GY **150 g** + Philly cottage **50 g** + Critical Whey Chocolate **1 scoop** + Origens granola **20 g** + Cacau Magro **5 g** + sucralose **5 g** + Nesquik choco ball cereal **10 g** + fresh blueberries **20 g**.
+
+**Portions:** as weighed above · sucralose **0 kcal**.
+
+**Macros:** **400 kcal · P 43 · C 33 · F 9**  
+(GY **83/8/6/3** · cottage **48/5/2/2** · whey **122/24/4/1** · granola **81/4/10/2** · cocoa **17/1/1/1** · cereal **38/1/7/0** · blueberries **11/0/3/0**.)
+
+**Shortcut line:** `Food Log | GY cottage whey granola cocoa cereal berries | 400 | 43 | 33 | 9`  
+**Confidence:** 90–94% sure · weighed + locked labels (incl. new choco ball).
+
+**Notes:** Locked GY base + small cereal top. Strong AM protein.
+
+---
