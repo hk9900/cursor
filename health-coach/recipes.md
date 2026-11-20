@@ -97,15 +97,19 @@ Use midpoint **~3 tbsp per dish spoon** (6 tbsp/pot ≈ **720 kcal oil**) unless
 - **Cook (household):** air fryer preferred; oven OK. Ask spray vs brush oil/butter.
 - **Log notes:** Weigh **total cooked** then subtract **bones left** = edible (as 5 Nov: 424 g − 80 g bones). Marinade yoghurt/spice cling is light; fat swings on **brush oil/butter** and dark meat/skin. Prefer edible grams over “1 kg raw batch share” when he weighs.
 
-## GY mix (locked breakfast base · 10 Nov 2026)
-- **Fixed qty going forward** (fruit type may change; keep same fruit **amount**):
+## GY mix (locked breakfast base · **20 Nov 2026**)
+- **Fixed qty** (weigh; photo ref 20 Nov bowl):
   - Mythos GY 2% **150 g**
   - Philadelphia cottage **50 g**
-  - Critical Whey Chocolate **1 scoop** (serving = **122 / 24 / 4 / 1**)
-  - Origens granola **2 level tbsp (~20 g)** — ask if heaped (~28 g)
-  - Fruit: **7–8 berries** default · or swap equal small fruit (e.g. ~25–40 g apple/pineapple pieces) — don’t silently enlarge fruit
-- **Base macros (berries, level granola):** **~341 kcal · P 41 · C 24 · F 8**
-- **Log notes:** Prefer Mythos over Mimosa Batido. Say flavour if whey ≠ Chocolate. Heaped granola → +~30 kcal / +2 P / +4 C / +1 F. Extra fruit/chaat/café is **add-on**, not part of base mix.
+  - Critical Whey Chocolate **1 scoop** (**122 / 24 / 4 / 1**)
+  - Origens granola **20 g** (level)
+  - Continente Cacau Magro **5 g**
+  - Sucralose **5 g** (0 kcal)
+  - Nesquik **choco ball** cereal **10 g**
+  - Fresh blueberries **20 g** (or equal ~20 g berries)
+- **Base macros:** **~400 kcal · P 43 · C 33 · F 9**
+- **Quick log:** `GY mix` / `breakfast GY` → **400 / 43 / 33 / 9**
+- **Log notes:** Prefer Mythos over Mimosa. Heaped granola → +~30 kcal. Extra fruit/café = add-on. Prior **10 Nov** base without cocoa/cereal was ~**341 / 41 / 24 / 8** — superseded.
 
 ---
 
