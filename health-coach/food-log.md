@@ -3048,16 +3048,16 @@ With sandwich → **~895 / 53 / 87 / 38**.
 
 ## 2026-11-20 — Dinner (late)
 
-**Dish:** Chicken breast botiyan **130 g** + chicken salan + **2** roti + dark chocolate **10 g**.
+**Dish:** Air-fried chicken breast botiyan **100 g** + anday aloo salan (**1** egg + **1** aloo piece) + **1** roti + dark chocolate **10 g**. *(Corrected from 130 g boti / chicken salan / 2 roti.)*
 
-**Portions:** botiyan **130 g** (breast-style density) · chicken salan plate unweighed (oil not stated → mid) · roti **2** · chocolate **10 g**.
+**Portions:** AF breast **100 g** · egg **1** · aloo **1** piece (~**50–70 g**) · light salan gravy · roti **1** · chocolate **10 g**.
 
-**Macros:** **665 kcal · P 55 · C 63 · F 22**  
-(Breast **130 g** @ ~175/31/1/5 per 100 g → **228/40/1/6** · 2 roti **240/8/46/6** · chicken salan mid ~**140/6/12/5** · dark choc **55/1/4/4**.)
+**Macros:** **495 kcal · P 45 · C 44 · F 17**  
+(Breast **175/31/1/5** · egg **72/7/1/5** · aloo+gravy ~**75/2/15/0** · roti **120/4/23/3** · dark choc **55/1/4/4**.)
 
-**Shortcut line:** `Food Log | Chicken boti 130g salan 2 roti dark choc | 665 | 55 | 63 | 22`  
-**Confidence:** 72–80% sure · boti + choc weighed; salan mid — say if no oil / heavy boti / AF breast confirmed.
+**Shortcut line:** `Food Log | AF breast 100g 1 anda aloo 1 roti dark choc | 495 | 45 | 44 | 17`  
+**Confidence:** 78–85% sure · breast + choc weighed; aloo piece size guessed — say if seared oil on egg.
 
-**Notes:** Logged on 20 Nov day (just after midnight). Salan is the soft estimate.
+**Notes:** Corrected plate. Delete older **665** Health entry if logged.
 
 ---

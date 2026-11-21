@@ -6088,15 +6088,15 @@ window.HC = {
     {
       "date": "2026-11-20",
       "slot": "Dinner",
-      "dish": "Chicken breast botiyan 130 g + chicken salan + 2 roti + dark chocolate 10 g",
-      "kcal": 665,
-      "p": 55,
-      "c": 63,
-      "f": 22,
-      "notes": "Salan mid (oil unspecified); breast-style boti density.",
-      "portions": "botiyan **130 g** · salan mid · roti **2** · chocolate **10 g**.",
-      "confidence": "72–80% sure",
-      "line": "Food Log | Chicken boti 130g salan 2 roti dark choc | 665 | 55 | 63 | 22"
+      "dish": "AF breast botiyan 100 g + 1 anda + 1 aloo salan + 1 roti + dark chocolate 10 g (corrected)",
+      "kcal": 495,
+      "p": 45,
+      "c": 44,
+      "f": 17,
+      "notes": "Corrected from 130 g / chicken salan / 2 roti.",
+      "portions": "breast **100 g** · egg **1** · aloo **1** · roti **1** · chocolate **10 g**.",
+      "confidence": "78–85% sure",
+      "line": "Food Log | AF breast 100g 1 anda aloo 1 roti dark choc | 495 | 45 | 44 | 17"
     }
   ],
   "daily": [
@@ -6526,10 +6526,10 @@ window.HC = {
     },
     {
       "date": "2026-11-20",
-      "kcal": 1065,
-      "p": 98,
-      "c": 96,
-      "f": 31,
+      "kcal": 895,
+      "p": 88,
+      "c": 77,
+      "f": 26,
       "n": 2
     }
   ],
