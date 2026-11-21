@@ -3045,3 +3045,19 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** Locked GY base + small cereal top. Strong AM protein.
 
 ---
+
+## 2026-11-20 — Dinner (late)
+
+**Dish:** Chicken breast botiyan **130 g** + chicken salan + **2** roti + dark chocolate **10 g**.
+
+**Portions:** botiyan **130 g** (breast-style density) · chicken salan plate unweighed (oil not stated → mid) · roti **2** · chocolate **10 g**.
+
+**Macros:** **665 kcal · P 55 · C 63 · F 22**  
+(Breast **130 g** @ ~175/31/1/5 per 100 g → **228/40/1/6** · 2 roti **240/8/46/6** · chicken salan mid ~**140/6/12/5** · dark choc **55/1/4/4**.)
+
+**Shortcut line:** `Food Log | Chicken boti 130g salan 2 roti dark choc | 665 | 55 | 63 | 22`  
+**Confidence:** 72–80% sure · boti + choc weighed; salan mid — say if no oil / heavy boti / AF breast confirmed.
+
+**Notes:** Logged on 20 Nov day (just after midnight). Salan is the soft estimate.
+
+---
