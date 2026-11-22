@@ -3108,3 +3108,19 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** Heavy starch stack (bread + paratha). Protein solid.
 
 ---
+
+## 2026-11-22 — Dinner
+
+**Dish:** White rice + chicken boti + gravy (**no oil**).
+
+**Portions:** rice **200 g** · chicken boti (from gravy) **150 g** · gravy **60 g** · cook fat **none** (stated).
+
+**Macros:** **550 kcal · P 53 · C 62 · F 8**  
+(Rice **260/5/56/0** · chicken **255/47/1/7** · gravy **35/1/5/1**.)
+
+**Shortcut line:** `Food Log | Rice 200g chicken boti 150g gravy 60g no oil | 550 | 53 | 62 | 8`  
+**Confidence:** 85–90% sure · weighed; no-oil stated; gravy recipe unknown (thick tomato–pepper style).
+
+**Notes:** Clean plate vs starch rule (rice at cap). Day lunch already had bread + paratha.
+
+---
