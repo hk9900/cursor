@@ -8,7 +8,7 @@ window.HC = {
     "heightCm": 180.3,
     "dob": "1991-08-08",
     "city": "Lisbon",
-    "siteUpdated": "2026-11-21",
+    "siteUpdated": "2026-11-22",
     "fitbitThrough": "2026-11-13",
     "takeoutIngested": "2026-11-16",
     "appleThrough": "2026-11-16",
@@ -7279,6 +7279,21 @@ window.HC = {
         "c": 74.3,
         "f": 2.9
       }
+    },
+    {
+      "name": "Crown — Frozen paratha (plain, 1600 g)",
+      "bullets": [
+        "Saved: **2026-11-22** · back label photo · locked as **frozen paratha**",
+        "Per **100 g**: **320 kcal · P 8 · C 42.6 · F 13.1** (margarine 15% in dough)",
+        "Est. piece ~**80 g** → **256 / 6 / 34 / 10** — weigh once to lock",
+        "Cut: fat-heavy vs house roti · **1 piece** = meal starch · dry pan, no extra oil"
+      ],
+      "macros": {
+        "kcal": 320.0,
+        "p": 8.0,
+        "c": 42.6,
+        "f": 13.1
+      }
     }
   ],
   "weeks": [
@@ -7387,7 +7402,7 @@ window.HC = {
     "days": 49,
     "kcal": 85646,
     "protein": 6033,
-    "labels": 42,
+    "labels": 43,
     "recipes": 15
   },
   "topMeals": [

@@ -352,12 +352,27 @@ Homemade pots stay in `recipes.md`. Packaged labels live **here**.
   - `100 g` → **375 / 9 / 74 / 3**
 - Cut note: sugar-forward cereal — prefer weighed small pours; not a protein staple (pair with GY/whey if used).
 
+## Crown — Frozen paratha (plain, 1600 g)
+- Saved: **2026-11-22** · source: back nutrition photo · locked by Hassan as **frozen paratha**
+- Product: frozen plain paratha / flat bread · **Crown Frozen Foods GmbH** · Product of Pakistan · net **1600 g**
+- Ingredients: wheat flour **54%** · water **26%** · pastry/puff margarine **15%** · salt · sugar · yeast · baking powder · E-282 · E-202 · contains **gluten**
+- Log unit: **weigh 1 piece** (best) — pack piece count not on this panel (often ~**80 g**/piece if 20/pack)
+- Per **100 g**: **320 kcal · P 8.0 · C 42.6 · F 13.1** (sugars 3.5, sat 3.3, salt 0.80)
+- Quick log (scale from 100 g):
+  - `70 g frozen paratha` → **224 / 6 / 30 / 9**
+  - `80 g` / `1 paratha ~80 g` → **256 / 6 / 34 / 10**
+  - `90 g` → **288 / 7 / 38 / 12**
+  - `100 g` → **320 / 8 / 43 / 13**
+- Cook: dry non-stick pan **2–3 min**, no extra oil (label). Microwave ~1 min OK.
+- Cut note: **fat-forward** vs house roti (~120 kcal / ~3 F). **1 piece** = starch for the meal (don’t stack rice). Prefer house roti most days.
+
 ## Pending (photo the label next time)
 Add when a clear label photo arrives:
 - ~~Dark chocolate bar~~ — saved **16 Nov** (brand name optional if he photos the front)
 - ~~Self-raising / “AP” flour~~ — saved **16 Nov** as Lusitana auto-levedante
 - ~~Peanut butter~~ — saved **16 Nov** (100% crunchy; brand optional)
 - ~~Nesquik / choco ball cereal~~ — saved **20 Nov**
+- ~~Crown frozen paratha~~ — saved **22 Nov**
 - ~~FUEL brand granola~~ — default now **Origens Bio Granola Proteica Chocolate** (locked 5 Nov)
 - Other Greek yogurts (Oikos 0% / Mimosa Estilo Grego) if he switches tubs — macros differ · Mimosa Batido Natural already saved (weaker than Mythos)
 - Buondi (or café sachet) + sugar separate
