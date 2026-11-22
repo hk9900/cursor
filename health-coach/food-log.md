@@ -3124,3 +3124,19 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** Clean plate vs starch rule (rice at cap). Day lunch already had bread + paratha.
 
 ---
+
+## 2026-11-22 — Late snack
+
+**Dish:** Melon **400 g** (same density as prior galia / striped meloa logs).
+
+**Portions:** melon **400 g**.
+
+**Macros:** **136 kcal · P 2 · C 41 · F 0**  
+(~**34 kcal · 10.2 C / 100 g**.)
+
+**Shortcut line:** `Food Log | Melon 400g | 136 | 2 | 41 | 0`  
+**Confidence:** 90–94% sure · weighed; type assumed same as recent melon logs.
+
+**Notes:** Fruit after dinner.
+
+---
