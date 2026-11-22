@@ -3092,3 +3092,19 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** Standard AM bowl.
 
 ---
+
+## 2026-11-22 — Lunch
+
+**Dish:** Omelette (**2** whole eggs + **100 g** whites, **1 spray**) + **2** Bimbo protein bread + **1** frozen paratha (~**80 g**) + **1** cup chai (Canderel).
+
+**Portions:** eggs **2** · whites **100 g** · spray **1** · Bimbo **2** · Crown frozen paratha **1** (est. 80 g — weigh next time) · chai **200 ml** meio-gordo + Canderel.
+
+**Macros:** **708 kcal · P 51 · C 63 · F 28**  
+(Eggs **144/13/1/10** · whites **47/11/1/0** · spray **5/0/0/1** · 2 Bimbo **162/14/17/4** · paratha **256/6/34/10** · chai **94/7/10/3**.)
+
+**Shortcut line:** `Food Log | Eggs whites omelette 2 Bimbo paratha chai | 708 | 51 | 63 | 28`  
+**Confidence:** 85–90% sure · labels locked; paratha ~80 g assumed — say grams if weighed.
+
+**Notes:** Heavy starch stack (bread + paratha). Protein solid.
+
+---
