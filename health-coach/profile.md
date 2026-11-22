@@ -6,10 +6,10 @@ See also: Cursor skill `.cursor/skills/food-log/SKILL.md` for meal photo → est
 ## Identity & body
 - Male, born Aug 1991 (~35) · Lisbon
 - Height **180.3 cm** (5′11″)
-- **Current (15 Nov 2026 / W6):** **109.5 kg** · waist **45″** · chest 46.5″ · bicep R 14.5″ · thigh R 22″ · WHtR ≈ **0.63**
-- Fitbit start **120 kg** (23 Sep) · W0 **115.9** (27 Sep) · W1 **113.5 / 48″** · W2 **112.9 / 46.5″** · W3 **111.5 / 45.5″** · W4 **111.2 / 45″** · W5 **109.9 / 45″**
+- **Current (22 Nov 2026 / W7):** **108.7 kg** · waist **45″** · chest 46.5″ · bicep R 14.5″ · thigh R 22″ · WHtR ≈ **0.63**
+- Fitbit start **120 kg** (23 Sep) · W0 **115.9** (27 Sep) · W1 **113.5 / 48″** · W2 **112.9 / 46.5″** · W3 **111.5 / 45.5″** · W4 **111.2 / 45″** · W5 **109.9 / 45″** · W6 **109.5 / 45″**
 - Past low ~88–92 kg after crash cut; regained ~1 year
-- Phased targets: **105–108 → hold 92–95 → later 70–80** aspirational
+- Phased targets: **105–108 → hold 92–95 → later 70–80** aspirational · **entering first band edge**
 
 ## Activity & lifestyle
 - Fitbit Air (+ **monthly Google Takeout slim**) · Apple Health Food Log Shortcut
@@ -17,8 +17,8 @@ See also: Cursor skill `.cursor/skills/food-log/SKILL.md` for meal photo → est
 - Apple Health export: `health-coach/apple-export.md` + `scripts/ingest_apple_export.py` · last ingest **16 Nov 2026** · dietary through **16 Nov 2026** (`meta.appleThrough`) · avg intake ~**1,771** · avg protein ~**127 g** (Shortcuts Food Log)
 - Sleep aim 6–8 h · lower back history · acidity (chai OK)
 - Smokes · family heart-attack history · Coke Zero · fruit for sweet tooth
-- Walks are the main NEAT lever (don’t eat Fitbit burn back) · W4 skipped · W5 restored · **W6 weather skip** (chores/grocery NEAT)
-- Takeout week avgs (Lisbon, max-per-minute burn): **W5** burn ~**3,109** · steps ~**7,200** · **W6** (through 13 Nov) burn ~**2,707** · steps ~**3,200** — confirms weather/NEAT drop
+- Walks are the main NEAT lever (don’t eat Fitbit burn back) · W4 skipped · W5 restored · W6 weather skip · **W7 strong walks** (TILSD ~4.25k/day)
+- Takeout week avgs (Lisbon, max-per-minute burn): **W5** burn ~**3,109** · steps ~**7,200** · **W6** (through 13 Nov) burn ~**2,707** · steps ~**3,200** — W7 Notes burn avg ~**3,072**
 
 ## Labs (Unilabs 28 Apr 2026)
 - Total 219 · LDL 149 · HDL 30 · TG 198 · Glucose 94
@@ -30,16 +30,16 @@ See also: Cursor skill `.cursor/skills/food-log/SKILL.md` for meal photo → est
   - Fat **45–65 g** · carbs **120–190 g** are guardrails, not the main scoreboard.
 - Food band **1,550–1,800 kcal/day** (prefer ~**1,650** like W2–W3 Notes avg)
 - Protein **150–170 g** · Fat **45–65 g** · Carbs **120–190 g**
-- BMR Mifflin ~**2,052** at 109.5 kg · Fitbit TDEE trend ~**2,600–3,100** (walks swing it)
-- Notes weekly intake: W1 ~1,912 (5d) · W2 **1,648** · W3 **1,647** · W4 **1,714** · W5 **1,716** · W6 **1,543**
+- BMR Mifflin ~**2,045** at 108.7 kg · Fitbit TDEE trend ~**2,600–3,100** (walks swing it)
+- Notes weekly intake: W1 ~1,912 (5d) · W2 **1,648** · W3 **1,647** · W4 **1,714** · W5 **1,716** · W6 **1,543** · W7 **~1,522** (−1 meal)
 
 ## Accuracy calibration (locked 1 Nov 2026)
 - **Accuracy > feel-good** on Food Logs — see `health-coach/calibration.md`
 - Fitbit Air burn: trust **direction**; absolute likely **~10–15% high** on walk weeks · never eat burn back
 - Food logs / Notes intake: trend good; absolute likely **~10–15% low** when oil/starch estimated
-- Notes deficit ≈ **1.4×** over W1→W4; **W5 ≈ 0.89×**; **W6 ≈ 2.7×** (tighten sauces) — forecast fat with deficit × **~0.65–0.75** on multi-week windows
+- Notes deficit ≈ **1.4×** over W1→W4; **W5 ≈ 0.89×**; **W6 ≈ 2.7×**; **W7 ≈ 1.76×** — forecast fat with deficit × **~0.65–0.75** on multi-week windows
 - On every Sunday weekly paste: reconcile predicted vs actual kg and **nudge** logging defaults in `calibration.md`
-- Active nudge now: sabzi/gosht **spray** · unweighed roti **~120 kcal** · mayo/fusion/pasta/burger sauce **mid–high** (tightened 15 Nov)
+- Active nudge now: sabzi/gosht **spray** · unweighed roti **~120 kcal** · mayo/fusion/pasta/burger sauce **mid–high** · unweighed salan/gravy **mid–high** (tightened 22 Nov)
 
 ## Diet defaults (locked Oct 2026)
 - ~90% Pakistani household food · Ashirwad chakki atta · Qilla white rice

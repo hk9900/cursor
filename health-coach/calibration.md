@@ -9,11 +9,12 @@ Hassan asked for **accuracy, not flattering lows**. Update this file on every Su
 |--------|--------|------|
 | Fitbit Air / Google Fit **total burn** | Direction strong · absolute soft | Likely **~10–15% high** on walk weeks |
 | Food Log / Notes **intake** | Trend strong · absolute soft | Likely **~10–15% low** (oil + starch + “light” assumptions) |
-| Notes **deficit** (burn − intake) | Soft as raw fat predictor | W1→W4 ≈ **1.4×**; **W5 ≈ 0.89×**; **W6 ≈ 2.7×** (soft scale + no-walk week + saucy plates) |
+| Notes **deficit** (burn − intake) | Soft as raw fat predictor | W1→W4 ≈ **1.4×**; **W5 ≈ 0.89×**; **W6 ≈ 2.7×**; **W7 ≈ 1.76×** (walk week; still over-predicts) |
 
 - W1→W4 scale: **−2.3 kg**. Notes deficit sum ≈ **25.6k kcal** → predicts **~3.3 kg** fat @ 7,700 kcal/kg.
 - **W5 (8 Nov):** deficit **8,921** → pred **~1.16 kg** · scale **−1.3 kg** · ratio **~0.89** → hold.
 - **W6 (15 Nov):** deficit **8,210** → pred **~1.07 kg** · scale **−0.4 kg** · ratio **~2.7** · rolling W5+W6 ≈ **1.31** → **tighten** ambiguous sauces/pasta.
+- **W7 (22 Nov):** deficit **10,883** → pred **~1.41 kg** · scale **−0.8 kg** · ratio **~1.76** · rolling W6+W7 ≈ **2.07** → **tighten** unweighed salan/gravy (Notes also −1 meal).
 - W4/W6 (no walks): burn dropped — Fitbit **direction** trusted; don’t eat burn back.
 
 **Planning rule:** treat Notes deficit × **~0.65–0.75** when forecasting fat loss (still useful on multi-week windows). Judge the cut by **scale + waist**, not deficit cosplay.
@@ -32,6 +33,7 @@ Bias **up** on ambiguous energy **except** where spray default applies — never
 3. **Mayo / fusion / burger / pasta sauces** (**tightened W6**): if unspecified → **mid–high** drizzle (not light, not shy moderate); if “heavy” keep heavy; never default to “light” for feel-good.
 4. **Photo-only plates / takeout pasta–burger:** honest mid–high fat; spray default still applies for home sabzi unless sheen looks ladled.
 5. **Labels + weighed AF chicken / egg whites / whey / bread / tostas:** use label math — **no** +10% pad.
+6. **Unweighed chicken/anda salan gravy** (**tightened W7**): mid–high plate share (not light gravy); browned/seared eggs → include cook fat unless he says spray-only.
 
 ## Sunday weekly-log procedure (mandatory)
 
@@ -57,6 +59,7 @@ When Hassan pastes a weekly Notes row (date · weight · waist · tapes · steps
 | **2 Nov correction** | User: spray × ~3 weeks | **Override oil default → spray** | Sabzi/gosht = **spray** · roti ~120 · mayo moderate · pot oil only if stated |
 | **W5 (8 Nov)** | W5 ≈ **0.89** · W4+W5 rolling ≈ **1.24** | **Hold** | Sabzi/gosht = **spray** · roti ~120 · mayo moderate · pot oil only if stated |
 | **W6 (15 Nov)** | W6 ≈ **2.7** · W5+W6 rolling ≈ **1.31** | **Tighten** ambiguous sauces | Sabzi/gosht = **spray** · roti ~120 · mayo/fusion/pasta/burger sauce **mid–high** · pot oil only if stated |
+| **W7 (22 Nov)** | W7 ≈ **1.76** · W6+W7 rolling ≈ **2.07** | **Tighten** unweighed salan | Sabzi/gosht = **spray** · roti ~120 · sauces **mid–high** · unweighed salan/gravy **mid–high** · pot oil only if stated |
 
 ## Takeout refresh (monthly)
 

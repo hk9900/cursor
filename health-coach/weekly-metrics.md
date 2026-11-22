@@ -19,6 +19,18 @@ Height: **180.3 cm** · Week 0 weight **115.9 kg** (27 Sep 2026)
 | 4 | 01/Nov/2026 | 111.2 | 45 | 47 | 14.5 | 22 | 17165 | 11996 / 7d → **avg 1714** | 18405 / 7d → **avg 2629** | 6409 / 7d → **avg 916** | 5 (skipped walk whole week) |
 | 5 | 08/Nov/2026 | 109.9 | 45 | 46 | 14.5 | 22.5 | 21520 | 12014 / 7d → **avg 1716** | 20935 / 7d → **avg 2991** | 8921 / 7d → **avg 1274** | 8 (very good, no walk miss, no cheat, good protein) |
 | 6 | 15/Nov/2026 | 109.5 | 45 | 46.5 | 14.5 | 22 | 13457 | 10804 / 7d → **avg 1543** | 19014 / 7d → **avg 2716** | 8210 / 7d → **avg 1173** | 6 (skipped walk weather; chores + grocery NEAT) |
+| 7 | 22/Nov/2026 | 108.7 | 45 | 46.5 | 14.5 | 22 | 29750 | 10654 (−1 meal) / 7d → **avg 1522** | 21507 / 7d → **avg 3072** | 10883 / 7d → **avg 1555** | 7 (felt good overall) |
+
+### Week 7 derived (22 Nov)
+- Weight vs W6: **−0.8 kg** · vs W0: **−7.2 kg** · vs start 120: **−11.3 kg**
+- Waist: **flat 45″** · total from W1: **48 → 45″ (−3.0″)**
+- Chest **flat 46.5″** · Bicep **flat 14.5″** · Thigh **flat 22″**
+- WHtR: 45 ÷ 70.9 ≈ **0.63**
+- Intake avg **~1,522** (−1 meal missing in Notes) — under prefer-~1,650; don’t crash lower
+- Burn avg **~3,072** · deficit avg **~1,555** — burn back to W2–W3 walk weeks
+- Steps TILSD **29,750** → ~**4,250**/day — strongest walk week of the cut
+- Calibration: Notes deficit **10,883** → pred **~1.41 kg** · scale **−0.8 kg** · ratio **~1.76** · W6+W7 rolling ≈ **2.07** → **tighten** unweighed salan/gravy + keep sauce mid–high (hold spray)
+- Note: motiv **7** / felt good · approaching phase band **105–108** · keep walks + food band; missing meal means true intake slightly higher than 1,522
 
 ### Week 6 derived (15 Nov)
 - Weight vs W5: **−0.4 kg** · vs W0: **−6.4 kg** · vs start 120: **−10.5 kg**
