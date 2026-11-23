@@ -3155,3 +3155,19 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** Standard AM bowl.
 
 ---
+
+## 2026-11-23 — Lunch
+
+**Dish:** White rice + chicken boti + gravy (**no oil**).
+
+**Portions:** rice **150 g** · chicken boti **100 g** · gravy **55 g** (mid of 50–60) · cook fat **none** (stated).
+
+**Macros:** **397 kcal · P 36 · C 48 · F 6**  
+(Rice **195/4/42/0** · chicken **170/31/1/5** · gravy **32/1/5/1**.)
+
+**Shortcut line:** `Food Log | Rice 150g chicken boti 100g gravy 55g no oil | 397 | 36 | 48 | 6`  
+**Confidence:** 85–90% sure · rice/chicken weighed; gravy mid of stated 50–60 g; no-oil stated.
+
+**Notes:** Same no-oil pot style as 22 Nov dinner; lighter starch.
+
+---
