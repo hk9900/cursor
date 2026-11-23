@@ -3187,3 +3187,19 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** Light fruit + chocolate after lunch.
 
 ---
+
+## 2026-11-23 — Dinner
+
+**Dish:** Air-fried chicken breast botiyan **120 g** + palak gosht (**no oil**) + **2** roti.
+
+**Portions:** AF breast botiyan **120 g** · palak gosht plate unweighed (no oil stated) · roti **2** medium.
+
+**Macros:** **640 kcal · P 71 · C 57 · F 18**  
+(Breast **120 g** @ ~175/31/1/5 per 100 g → **210/37/1/6** · 2 roti **240/8/46/6** · no-oil palak gosht mid–high plate ~**190/26/10/6**.)
+
+**Shortcut line:** `Food Log | AF breast 120g palak gosht 2 roti no oil | 640 | 71 | 57 | 18`  
+**Confidence:** 70–78% sure · breast weighed; roti count clear; palak gosht volume/meat share unweighed — say grams or mostly spinach if lighter.
+
+**Notes:** Late dinner. Soft estimate is the gosht plate.
+
+---
