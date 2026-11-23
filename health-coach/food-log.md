@@ -3171,3 +3171,19 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** Same no-oil pot style as 22 Nov dinner; lighter starch.
 
 ---
+
+## 2026-11-23 — Afternoon snack
+
+**Dish:** Melon **150 g** + dark chocolate **15 g** (70% cooking bar density).
+
+**Portions:** melon **150 g** · dark chocolate **15 g**.
+
+**Macros:** **138 kcal · P 2 · C 22 · F 7**  
+(Melon **51/1/15/0** · chocolate **87/1/7/7** @ ~580 kcal/100 g.)
+
+**Shortcut line:** `Food Log | Melon 150g dark chocolate 15g | 138 | 2 | 22 | 7`  
+**Confidence:** 88–92% sure · weighed; chocolate assumed same 70% bar as recent.
+
+**Notes:** Light fruit + chocolate after lunch.
+
+---
