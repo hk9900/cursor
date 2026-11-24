@@ -3218,3 +3218,19 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** Standard AM bowl.
 
 ---
+
+## 2026-11-24 — Dinner
+
+**Dish:** Air-fried chicken botiyan **130 g** + white rice **100 g** + red beans / lobia **150 g** (**no oil**).
+
+**Portions:** AF chicken botiyan **130 g** · rice **100 g** · lobia **150 g** · cook fat **none** on beans (stated).
+
+**Macros:** **549 kcal · P 57 · C 63 · F 7**  
+(Chicken **228/40/1/6** @ ~175/31/1/5 per 100 g · rice **130/3/28/0** · lobia **191/14/34/1** from prior no-oil density.)
+
+**Shortcut line:** `Food Log | AF chicken 130g rice 100g lobia 150g no oil | 549 | 57 | 63 | 7`  
+**Confidence:** 85–90% sure · all weighed; lobia density from prior no-oil pot; AF breast-lean assumed.
+
+**Notes:** Clean plate; rice under starch cap.
+
+---
