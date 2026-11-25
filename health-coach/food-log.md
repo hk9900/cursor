@@ -3234,3 +3234,18 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** Clean plate; rice under starch cap.
 
 ---
+
+## 2026-11-25 — Breakfast
+
+**Dish:** Locked GY mix (same as 20 Nov) — Mythos **150 g** + cottage **50 g** + whey Chocolate **1 scoop** + granola **20 g** + cocoa **5 g** + sucralose **5 g** + choco ball **10 g** + blueberries **20 g**.
+
+**Portions:** locked 20 Nov base.
+
+**Macros:** **400 kcal · P 43 · C 33 · F 9**
+
+**Shortcut line:** `Food Log | GY mix | 400 | 43 | 33 | 9`  
+**Confidence:** 90–94% sure · locked recipe repeat.
+
+**Notes:** Standard AM bowl.
+
+---
