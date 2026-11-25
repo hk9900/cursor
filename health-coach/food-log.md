@@ -3265,3 +3265,19 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** Solid protein lunch; starch light.
 
 ---
+
+## 2026-11-25 — Dinner
+
+**Dish:** Chicken breast botiyan **120 g** + aloo matar gajar sabzi + **1** roti.
+
+**Portions:** breast botiyan **120 g** · aloo matar gajar plate unweighed (~**170 g** mid) · roti **1** medium · sabzi cook fat **1 spray** assumed.
+
+**Macros:** **505 kcal · P 47 · C 54 · F 13**  
+(Breast **210/37/1/6** @ ~175/31/1/5 per 100 g · sabzi ~**175/6/30/4** spray-era · roti **120/4/23/3**.)
+
+**Shortcut line:** `Food Log | Breast 120g aloo matar gajar 1 roti | 505 | 47 | 54 | 13`  
+**Confidence:** 72–80% sure · breast weighed; sabzi volume guessed mid; spray assumed — say grams or pot oil.
+
+**Notes:** Late dinner. Soft estimate is the sabzi plate.
+
+---
