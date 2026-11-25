@@ -3297,3 +3297,19 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** Photo is the protein cacao milk, not 20 g dark chocolate bars.
 
 ---
+
+## 2026-11-25 — Late snack 2
+
+**Dish:** Dark chocolate **20 g** (70% cooking bar density).
+
+**Portions:** dark chocolate **20 g**.
+
+**Macros:** **116 kcal · P 2 · C 9 · F 9**  
+(~**580 kcal/100 g** → **116/2/9/9**.)
+
+**Shortcut line:** `Food Log | Dark chocolate 20g | 116 | 2 | 9 | 9`  
+**Confidence:** 88–92% sure · grams from prior message; same 70% bar as recent.
+
+**Notes:** Separate from Leite Cacau carton.
+
+---
