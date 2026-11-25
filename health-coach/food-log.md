@@ -3281,3 +3281,19 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** Late dinner. Soft estimate is the sabzi plate.
 
 ---
+
+## 2026-11-25 — Late snack
+
+**Dish:** Continente protein milk **Cacau** / Leite Cacau **250 ml** (carton photo — **20 g** protein badge; not solid chocolate).
+
+**Portions:** carton **1 × 250 ml**.
+
+**Macros:** **140 kcal · P 20 · C 12 · F 1**  
+(Same label math as 16 Nov: **56/8.0/4.6/0.4 per 100 ml** → **140/20/12/1**.)
+
+**Shortcut line:** `Food Log | Continente Leite Cacau 250ml | 140 | 20 | 12 | 1`  
+**Confidence:** 90–94% sure · carton photo + prior Cacau label density.
+
+**Notes:** Photo is the protein cacao milk, not 20 g dark chocolate bars.
+
+---
