@@ -3249,3 +3249,19 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** Standard AM bowl.
 
 ---
+
+## 2026-11-25 — Lunch
+
+**Dish:** White rice / chawal **100 g** + daal (masoor, no oil/tarka assumed) **150 g** + chicken **123 g**.
+
+**Portions:** chawal **100 g** · daal **150 g** · chicken **123 g**.
+
+**Macros:** **517 kcal · P 54 · C 56 · F 8**  
+(Rice **130/3/28/0** · daal **172/13/27/2** · chicken **215/38/1/6** @ ~175/31/1/5 per 100 g.)
+
+**Shortcut line:** `Food Log | Chawal 100g daal 150g chicken 123g | 517 | 54 | 56 | 8`  
+**Confidence:** 82–88% sure · all weighed; daal = household masoor no-oil density; chicken breast-lean assumed — say if oily tarka or dark meat.
+
+**Notes:** Solid protein lunch; starch light.
+
+---
