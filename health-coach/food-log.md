@@ -3328,3 +3328,19 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** Standard AM bowl.
 
 ---
+
+## 2026-11-26 — Lunch
+
+**Dish:** Chicken **100 g** + aloo matar gajar + **1** roti + Continente **Creme Stracciatella** drink **160 g** (label photo).
+
+**Portions:** chicken **100 g** · aloo matar gajar plate unweighed (~**170 g** mid) · roti **1** · drink **1 × 160 g** · sabzi **1 spray** assumed.
+
+**Macros:** **577 kcal · P 47 · C 71 · F 14**  
+(Chicken **175/31/1/5** · sabzi ~**175/6/30/4** · roti **120/4/23/3** · drink label **107 kcal · F 1.6 · sugars 16.9** → **107/6/17/2**, P inferred from kcal balance.)
+
+**Shortcut line:** `Food Log | Chicken 100g aloo matar gajar 1 roti Stracciatella | 577 | 47 | 71 | 14`  
+**Confidence:** 75–82% sure · chicken + drink label solid; sabzi volume mid; drink protein inferred (RI panel omitted P).
+
+**Notes:** Drink not shelved — photo used for this log only.
+
+---
