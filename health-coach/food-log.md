@@ -3344,3 +3344,19 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** Drink not shelved — photo used for this log only.
 
 ---
+
+## 2026-11-26 — Dinner
+
+**Dish:** Chicken botiyan **100 g** + piyaz gosht + **1** roti + dark chocolate **26 g** + Continente Leite Cacau **250 ml**.
+
+**Portions:** chicken botiyan **100 g** · piyaz gosht plate unweighed · roti **1** · dark chocolate **26 g** · Cacau carton **1 × 250 ml** · gosht cook fat **1 spray** assumed.
+
+**Macros:** **771 kcal · P 81 · C 59 · F 27**  
+(Chicken **175/31/1/5** · piyaz gosht mid–high spray ~**185/24/12/7** · roti **120/4/23/3** · chocolate **151/2/11/11** @ ~580/100 g · Cacau **140/20/12/1**.)
+
+**Shortcut line:** `Food Log | Chicken 100g piyaz gosht 1 roti choc 26g Cacau | 771 | 81 | 59 | 27`  
+**Confidence:** 72–80% sure · chicken, choc, drink solid; piyaz gosht volume/meat share unweighed — say grams or pot oil.
+
+**Notes:** Late dinner. Soft estimate is the gosht plate.
+
+---
