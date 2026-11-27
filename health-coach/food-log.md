@@ -3379,16 +3379,16 @@ With sandwich → **~895 / 53 / 87 / 38**.
 
 ## 2026-11-27 — Late snack
 
-**Dish:** Lettuce wraps — **½** of recipe (2 servings) + cheese on wraps (photo).
+**Dish:** Lettuce wraps — **½** of recipe (2 servings) + **1** light cheese slice.
 
-**Portions:** recipe pot = lean beef qeema **250 g** + onion + tomato + **1 tsp** oil + spices + lettuce · eaten **1/2** · cheese ~**2** slices cut over **6** wraps (not in recipe card).
+**Portions:** recipe pot = lean beef qeema **250 g** + onion + tomato + **1 tsp** oil + spices + lettuce · eaten **1/2** · light cheese **1** slice (corrected).
 
-**Macros:** **400 kcal · P 35 · C 9 · F 24**  
-(Half pot ~**260/26/6/14** · lettuce ~**10/1/2/0** · cheese ~**130/8/1/10**.)
+**Macros:** **303 kcal · P 31 · C 9 · F 16**  
+(Half pot ~**260/26/6/14** · lettuce ~**10/1/2/0** · light cheese ~**33/4/1/2**.)
 
-**Shortcut line:** `Food Log | Beef qeema lettuce wraps half recipe cheese | 400 | 35 | 9 | 24`  
-**Confidence:** 70–78% sure · recipe weights clear; half pot assumed; cheese from photo (~2 slices); say if chicken mince not beef.
+**Shortcut line:** `Food Log | Beef qeema lettuce wraps half recipe light cheese | 303 | 31 | 9 | 16`  
+**Confidence:** 75–82% sure · recipe weights clear; half pot assumed; light cheese = household ~33 kcal slice.
 
-**Notes:** App card said beef qeema; cheese adds most of the extra fat vs the 200–260 kcal app range.
+**Notes:** Corrected from ~2 full cheese slices → **1 light** slice.
 
 ---
