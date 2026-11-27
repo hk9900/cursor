@@ -3360,3 +3360,19 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** Late dinner. Soft estimate is the gosht plate.
 
 ---
+
+## 2026-11-27 — Dinner
+
+**Dish:** Chicken **100 g** + piyaz gosht + **1.5** roti + dark chocolate **10 g**.
+
+**Portions:** chicken **100 g** · piyaz gosht plate unweighed · roti **1.5** medium · dark chocolate **10 g** · gosht cook fat **1 spray** assumed.
+
+**Macros:** **595 kcal · P 62 · C 52 · F 21**  
+(Chicken **175/31/1/5** · piyaz gosht mid–high spray ~**185/24/12/7** · 1.5 roti **180/6/35/5** · chocolate **55/1/4/4**.)
+
+**Shortcut line:** `Food Log | Chicken 100g piyaz gosht 1.5 roti choc 10g | 595 | 62 | 52 | 21`  
+**Confidence:** 72–80% sure · chicken + choc weighed; gosht volume unweighed — say grams or pot oil.
+
+**Notes:** Soft estimate is the gosht plate. No AM GY logged yet today.
+
+---
