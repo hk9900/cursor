@@ -3392,3 +3392,19 @@ With sandwich → **~895 / 53 / 87 / 38**.
 **Notes:** Corrected oil → **spray**; cheese = **1 light** slice.
 
 ---
+
+## 2026-11-27 — Late dinner
+
+**Dish:** Homemade beef qorma (**oil spray**) + **2** roti.
+
+**Portions:** beef qorma plate unweighed · roti **2** medium · cook fat **spray** (stated).
+
+**Macros:** **470 kcal · P 36 · C 58 · F 17**  
+(Qorma mid–high spray plate ~**230/28/12/11** · 2 roti **240/8/46/6**.)
+
+**Shortcut line:** `Food Log | Beef qorma spray 2 roti | 470 | 36 | 58 | 17`  
+**Confidence:** 68–75% sure · roti count clear; qorma volume/meat share unweighed — say grams or mostly gravy.
+
+**Notes:** Soft estimate is the qorma plate.
+
+---
