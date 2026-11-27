@@ -3381,14 +3381,14 @@ With sandwich → **~895 / 53 / 87 / 38**.
 
 **Dish:** Lettuce wraps — **½** of recipe (2 servings) + **1** light cheese slice.
 
-**Portions:** recipe pot = lean beef qeema **250 g** + onion + tomato + **1 tsp** oil + spices + lettuce · eaten **1/2** · light cheese **1** slice (corrected).
+**Portions:** recipe pot = lean beef qeema **250 g** + onion + tomato + spices + lettuce · cook fat **1 spray** (not 1 tsp oil) · eaten **1/2** · light cheese **1** slice.
 
-**Macros:** **303 kcal · P 31 · C 9 · F 16**  
-(Half pot ~**260/26/6/14** · lettuce ~**10/1/2/0** · light cheese ~**33/4/1/2**.)
+**Macros:** **288 kcal · P 32 · C 9 · F 15**  
+(Half pot spray ~**245/27/6/13** · lettuce ~**10/1/2/0** · light cheese ~**33/4/1/2**.)
 
-**Shortcut line:** `Food Log | Beef qeema lettuce wraps half recipe light cheese | 303 | 31 | 9 | 16`  
-**Confidence:** 75–82% sure · recipe weights clear; half pot assumed; light cheese = household ~33 kcal slice.
+**Shortcut line:** `Food Log | Beef qeema lettuce wraps half recipe light cheese | 288 | 32 | 9 | 15`  
+**Confidence:** 78–85% sure · recipe weights clear; spray confirmed; half pot assumed; light cheese household ~33 kcal.
 
-**Notes:** Corrected from ~2 full cheese slices → **1 light** slice.
+**Notes:** Corrected oil → **spray**; cheese = **1 light** slice.
 
 ---

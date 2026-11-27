@@ -6364,14 +6364,14 @@ window.HC = {
       "date": "2026-11-27",
       "slot": "Late snack",
       "dish": "Beef qeema lettuce wraps (1/2 of 2-serving recipe) + 1 light cheese slice",
-      "kcal": 303,
-      "p": 31,
+      "kcal": 288,
+      "p": 32,
       "c": 9,
-      "f": 16,
-      "notes": "Corrected: 1 light cheese slice (~33 kcal), not 2 full slices.",
-      "portions": "half pot · 6 lettuce wraps · light cheese **1**.",
-      "confidence": "75–82% sure",
-      "line": "Food Log | Beef qeema lettuce wraps half recipe light cheese | 303 | 31 | 9 | 16"
+      "f": 15,
+      "notes": "Corrected: spray not 1 tsp oil; 1 light cheese slice.",
+      "portions": "half pot · spray · 6 lettuce wraps · light cheese **1**.",
+      "confidence": "78–85% sure",
+      "line": "Food Log | Beef qeema lettuce wraps half recipe light cheese | 288 | 32 | 9 | 15"
     }
   ],
   "daily": [
@@ -6857,10 +6857,10 @@ window.HC = {
     },
     {
       "date": "2026-11-27",
-      "kcal": 898,
-      "p": 93,
+      "kcal": 883,
+      "p": 94,
       "c": 61,
-      "f": 37,
+      "f": 36,
       "n": 2
     }
   ],
